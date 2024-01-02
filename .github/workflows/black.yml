@@ -1,0 +1,44 @@
+name: Update Readme
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Get latest anime data
+        run: |
+          curl -o data.json https://feeds.feedburner.com/crunchyroll/rss/anime
+
+      - name: Update Readme
+        run: node update-readme.js
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "Julius-Ulee"
+          git config --global user.email "fidzlieazriel@gmail.com"
+
+      - name: Commit and Push changes
+        run: |
+          git add .
+          git commit -m "Update Readme.md"
+          git remote set-url origin https://github.com/${{ github.repository }}.git
+          git push
+
+env:
+  GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}

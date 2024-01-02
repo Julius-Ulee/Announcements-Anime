@@ -1,0 +1,14 @@
+{
+  "name": "update-anime-readme",
+  "version": "1.0.0",
+  "description": "Script to update README.md with latest anime information",
+  "main": "update_readme.js",
+  "scripts": {
+    "start": "node update_readme.js"
+  },
+  "author": "Ulee",
+  "license": "MIT",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
