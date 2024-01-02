@@ -36,10 +36,10 @@ async function updateReadmeWithAnimeData() {
   try {
     const animeData = await getLatestAnimeData();
     const currentDate = new Date().toLocaleDateString('en-US', {
-      timeZone: 'UTC'
+      timeZone: 'Asia/Jakarta'
     });
     const currentDateTime = new Date().toLocaleString('en-US', {
-      timeZone: 'UTC',
+      timeZone: 'Asia/Jakarta',
       dateStyle: 'medium',
       timeStyle: 'medium'
     });
