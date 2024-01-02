@@ -1,8 +1,1064 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 3, 2024, 1:30:38 AM</em></p>
+<p align="center"><em>Updated on: Jan 3, 2024, 6:35:28 AM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><table align="center">
+<tr>
+<th><h3 align="center">The Saint's Magic Power is Omnipotent Season2 (Portuguese Dub) - Episode 11 - Theatergoing</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c94d9fcdd2d56863f9eda0dd939f566b1702374753_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-saints-magic-power-is-omnipotent/episode-11-theatergoing-917936">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Saint's Magic Power is Omnipotent Season2 (Spanish Dub) - Episode 11 - Theatergoing</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c94d9fcdd2d56863f9eda0dd939f566b1702374753_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-saints-magic-power-is-omnipotent/episode-11-theatergoing-917938">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 182</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a5da8ab16cec736fd63fa7be2324e6081704223215_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-182-917932">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 181</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a903d0fbe26037556dea1b09dc28f9e51704222786_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-181-917931">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 180</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/55e2fb59d5ca086001e0e42cb4924c991704222667_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-180-917928">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 179</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/43bfc2b41637a20ac317ef095897db691704222605_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-179-917927">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 178</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5003f7a85b9c30bcfd0334610eb7cf3f1704222486_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-178-917925">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 177</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a6f2b7a5b44c62f5a1e979ff3e290ae31704222425_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-177-917923">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 176</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c35eb794d151cf5755e89a55ef46872a1704222305_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-176-917921">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 175</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0c06be83e5a793b44b01775e761800541704222185_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-175-917919">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 174</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a3acb9dfbd074edc2d01a31f8838b21e1704222087_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-174-917918">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Unknown</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/05e9ac969058052a1c9913415cfa8acc1704222066_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/detektiv-conan-1-102-hd-unknown-917915">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 171</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b82b79969fe77f5856efe5d8aaad624b1704221827_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-171-917913">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 170</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a24cfe0f4fc87f7789e05bd8d90065841704221766_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-170-917909">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 169</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/38687d14b25b4e3e6e9db0e4d04a7f571704221651_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-169-917908">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 168</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3babc975ca7c4a6fe537142ce4f571941704221516_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-168-917906">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 167</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c629a299a1b6cfceae6c6cd276fa0f541704221490_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-167-917904">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 166</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/481e6319bd481674d8b39b831ec5b6751704221779_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-166-917903">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 165</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3469b9f001b05c8f190495a89674b2e21704221285_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-165-917901">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 164</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/64236f1f314102b461b77e35bf8148b41704221166_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-164-917899">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 163</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/19597296a91b94e3548d7e4d3edbe3ca1704221110_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-163-917897">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 162</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/02bd49f26a15ad1899db5058098bceb71704220939_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-162-917894">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 161</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2fc054022e59849007ddb138c02e70641704220866_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-161-917893">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 160</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b810a32fadccc7fd7a4c4051c8fdd7c11704220807_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-160-917891">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 159</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/71b4cc24e50ed8feb4da2bdbab8122e51704220692_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-159-917889">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 158</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f4be4550d36d2c47c994ffceaa1ccd1a1704220626_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-158-917887">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 157</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5d1bc0ccbb2a5ebb9baf79a7c49afb931704220511_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-157-917883">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 156</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/89e52dd1dbfe2e2cf3d89ed11c36ee601704220390_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-156-917882">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 155</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/97d3b0f88c65528ad67b3245a0f4c8a51704220290_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-155-917880">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 154</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/494f107ed3e53afdafee51a51c837d271704220282_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-154-917878">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 153</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/93a7a62664e91cc56857083b55edf0111704220264_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-153-917877">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 152</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6e08700f583fc8a5cba097cb81cbad671704220091_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-152-917876">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Detektiv Conan 1-102 (HD) - Episode 151</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3d419730e6c0f9ed805c031af35692d21704219926_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/detektiv-conan/episode-151-917875">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Log Horizon (Hindi Dub) - Episode 8 - Villain in Glasses</h3></th>
 </tr>
@@ -22,7 +1078,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/log-horizon/episode-8-villain-in-glasses-917469">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/log-horizon/episode-8-villain-in-glasses-917469">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -54,7 +1110,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/tomo-chan-is-a-girl/episode-8-the-night-of-the-summer-festival-the-distance-between-them-917368">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tomo-chan-is-a-girl/episode-8-the-night-of-the-summer-festival-the-distance-between-them-917368">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -86,7 +1142,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/ranking-of-kings/episode-8-the-sacrifice-of-dreams-917468">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/ranking-of-kings/episode-8-the-sacrifice-of-dreams-917468">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -118,7 +1174,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/dead-mount-death-play/episode-22-the-karma-917871">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/dead-mount-death-play/episode-22-the-karma-917871">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -150,7 +1206,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/dead-mount-death-play/episode-22-the-karma-917872">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/dead-mount-death-play/episode-22-the-karma-917872">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -182,7 +1238,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/migidali/episode-11-upside-down-woman-917869">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/migidali/episode-11-upside-down-woman-917869">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -214,7 +1270,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/shy/episode-11-what-is-conveyed-and-that-which-remains-917865">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/shy/episode-11-what-is-conveyed-and-that-which-remains-917865">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -246,7 +1302,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/shy/episode-11-what-is-conveyed-and-that-which-remains-917866">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/shy/episode-11-what-is-conveyed-and-that-which-remains-917866">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -278,7 +1334,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/vinland-saga/episode-22-the-king-of-rebellion-917371">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/vinland-saga/episode-22-the-king-of-rebellion-917371">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -310,7 +1366,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far/episode-4-debut-in-the-royal-capital-917863">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far/episode-4-debut-in-the-royal-capital-917863">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -342,7 +1398,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/demon-slayer-kimetsu-no-yaiba/episode-7-transformation-917366">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-7-transformation-917366">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -374,7 +1430,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/fluffy-paradise/episode-1-nobody-told-me-this-would-happen-917848">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fluffy-paradise/episode-1-nobody-told-me-this-would-happen-917848">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -406,7 +1462,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/rurouni-kenshin/episode-12-okashira-aoshi-shinomori-917860">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/rurouni-kenshin/episode-12-okashira-aoshi-shinomori-917860">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -438,7 +1494,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/mf-ghost/episode-12-inherited-perception-917857">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/mf-ghost/episode-12-inherited-perception-917857">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -470,7 +1526,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-100-girlfriends-who-really-really-really-really-really-love-you/episode-10-love-mission-impossible-917856">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-100-girlfriends-who-really-really-really-really-really-love-you/episode-10-love-mission-impossible-917856">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -502,7 +1558,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/captain-tsubasa-junior-youth-arc/episode-9-913752">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-9-913752">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -534,7 +1590,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/captain-tsubasa-junior-youth-arc/episode-9-913765">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-9-913765">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -566,7 +1622,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/captain-tsubasa-junior-youth-arc/episode-9-a-great-journey-913778">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-9-a-great-journey-913778">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -598,7 +1654,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/a-couple-of-cuckoos/episode-10-dont-treat-me-like-your-kid-sister-917849">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-couple-of-cuckoos/episode-10-dont-treat-me-like-your-kid-sister-917849">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -630,7 +1686,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/a-couple-of-cuckoos/episode-10-dont-treat-me-like-your-kid-sister-917850">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-couple-of-cuckoos/episode-10-dont-treat-me-like-your-kid-sister-917850">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -662,7 +1718,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-daily-life-of-the-immortal-king/episode-4-917167">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-4-917167">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -694,7 +1750,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/i-shall-survive-using-potions/episode-10-going-back-to-my-original-goal-in-a-new-country-917846">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/i-shall-survive-using-potions/episode-10-going-back-to-my-original-goal-in-a-new-country-917846">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -726,7 +1782,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-apothecary-diaries/episode-9-suicide-or-murder-917844">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-9-suicide-or-murder-917844">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -758,7 +1814,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917836">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917836">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -790,7 +1846,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917837">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917837">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -822,7 +1878,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917838">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917838">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -854,7 +1910,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917839">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917839">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -886,7 +1942,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917820">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917820">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -918,7 +1974,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917821">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917821">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -950,7 +2006,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917822">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917822">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -982,7 +2038,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917823">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917823">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1014,7 +2070,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917824">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917824">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1046,7 +2102,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917825">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917825">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1078,7 +2134,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917828">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917828">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1110,7 +2166,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917829">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917829">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1142,7 +2198,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-angel-next-door-spoils-me-rotten/episode-7-a-promise-with-the-angel-917463">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-angel-next-door-spoils-me-rotten/episode-7-a-promise-with-the-angel-917463">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1174,7 +2230,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/my-love-story-with-yamada-kun-at-lv999/episode-7-you-want-to-feel-at-ease-917461">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/my-love-story-with-yamada-kun-at-lv999/episode-7-you-want-to-feel-at-ease-917461">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1206,43 +2262,11 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/buddy-daddies/episode-7-after-rain-comes-fair-weather-917480">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/buddy-daddies/episode-7-after-rain-comes-fair-weather-917480">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
 <p align="center">A change in season dredges up bad memories for Kazuki,<br>who's already feeling overworked and unappreciated at home.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Girlfriend, Girlfriend Season 2 (Spanish Dub) - Episode 10 - Her Resolve</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/73e30318e9c86d21b674ed96584191611702060448_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/girlfriend-girlfriend/episode-10-her-resolve-917817">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p align="center">Mirika has kidnapped Naoya and locked him in a room<br>while Saki and the others try to find the key.<br>Shino is taken aback by Mirika's resolve, and begins to<br>question the way she's been hiding her own feelings.</p>
 </td>
 </tr>
 </table>
@@ -1270,7 +2294,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/girlfriend-girlfriend/episode-10-her-resolve-917816">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/girlfriend-girlfriend/episode-10-her-resolve-917816">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1284,12 +2308,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">GOBLIN SLAYER II (Spanish Dub) - Episode 10 - City Adventure</h3></th>
+<th><h3 align="center">Girlfriend, Girlfriend Season 2 (Spanish Dub) - Episode 10 - Her Resolve</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3a6ebd14f2c499d3f759dd9d44bd7f331702040429_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/73e30318e9c86d21b674ed96584191611702060448_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -1302,11 +2326,11 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/goblin-slayer/episode-10-city-adventure-917814">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/girlfriend-girlfriend/episode-10-her-resolve-917817">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
-<p align="center">The party arrives at the capital and splits ways. The<br>girls go to a public bath and as they're about<br>to leave, they find that Priestess's belongings have been stolen.</p>
+<p align="center">Mirika has kidnapped Naoya and locked him in a room<br>while Saki and the others try to find the key.<br>Shino is taken aback by Mirika's resolve, and begins to<br>question the way she's been hiding her own feelings.</p>
 </td>
 </tr>
 </table>
@@ -1334,7 +2358,39 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/goblin-slayer/episode-10-city-adventure-917811">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/goblin-slayer/episode-10-city-adventure-917811">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">The party arrives at the capital and splits ways. The<br>girls go to a public bath and as they're about<br>to leave, they find that Priestess's belongings have been stolen.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">GOBLIN SLAYER II (Spanish Dub) - Episode 10 - City Adventure</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3a6ebd14f2c499d3f759dd9d44bd7f331702040429_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/29/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/goblin-slayer/episode-10-city-adventure-917814">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1366,7 +2422,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917801">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917801">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1398,7 +2454,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917806">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917806">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1430,7 +2486,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917807">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917807">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1462,7 +2518,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-9-emperor-dragon-917805">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-9-emperor-dragon-917805">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1494,7 +2550,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-8-dragons-den-917802">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-8-dragons-den-917802">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1526,7 +2582,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/frieren-beyond-journeys-end/episode-13-aversion-to-ones-own-kind-917799">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-13-aversion-to-ones-own-kind-917799">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1558,7 +2614,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/hypnosismic-division-rap-battle-rhyme-anima/episode-13-where-theres-hope-theres-life-it-fills-us-with-fresh-courage-and-makes-us-strong-again-911661">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/hypnosismic-division-rap-battle-rhyme-anima/episode-13-where-theres-hope-theres-life-it-fills-us-with-fresh-courage-and-makes-us-strong-again-911661">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1590,11 +2646,555 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/burn-the-witch/burn-the-witch-08-dont-judge-a-book-by-its-cover-917782">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/burn-the-witch/burn-the-witch-08-dont-judge-a-book-by-its-cover-917782">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
 <p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Ranking of Kings (Tamil Dub) - Episode 17 - The Curse of Immortality</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e4e7838d1c9baf16db29c5dfb0674cbc1644507303_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/29/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/ranking-of-kings/episode-17-the-curse-of-immortality-917447">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Bojji and Kage run into Apeas, who tells them about<br>Miranjo's dream. Domas and Hokuro finally reach the entrance to<br>the underworld they were ordered to destroy. The Magic Mirror<br>calls out to Ouken, who escapes Despa's custody to come<br>to her aid.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">JUJUTSU KAISEN (Telugu Dub) - Episode 24 - Accomplices</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5113c68f804c011158c81464998830d41616743285_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/29/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-24-accomplices-917445">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">The Cursed Wombs: Death Paintings, Eso and Kechizu, face off<br>against Itadori and Kugisaki, but the two begin to rot<br>after they're bathed in the blood of Eso and Kechizu.<br>Driven into a corner, Kugisaki hammers a nail into herself<br>to activate Resonance and start a game of chicken with<br>the brothers. Itadori refuses to stop and continues to attack<br>Kechizu, but-- This whole mission began with one of Ryomen<br>Sukuna's Fingers, so will Itadori, Kugisaki, and Fushiguro ultimately make<br>it home to Jujutsu Tech safely?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">JUJUTSU KAISEN (Telugu Dub) - Episode 23 - The Origin of Blind Obedience - 2 -</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d38842a34b6c976f756c321716d66eea1616144707_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/29/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-23-the-origin-of-blind-obedience-2-917444">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">In addition to the curse of Yasohachi Bridge, Itadori, Fushiguro,<br>and Kugisaki face off against Kechizu, one of the special<br>grade cursed objects: Cursed Wombs: Death Paintings. The three start<br>fighting within the barrier of Yasohachi Bridge's curse, but something<br>suddenly seizes Kugisaki's arm and drags her outside the barrier.<br>Itadori and Kechizu chase after her, leaving the barrier. Left<br>behind, Fushiguro quickly takes of the Yasohachi Bridge curse--until he<br>witnesses a shocking sight. Meanwhile, Kugisaki faces off against Eso,<br>another one of the Cursed Wombs: Death Paintings. Then Kechizu<br>and Itadori catch up and join her--</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Rurouni Kenshin (Portuguese Dub) - Episode 23 - The Wolf's Fangs</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dc4e80856829a13904a44c4a994a0f0c1701971121_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/28/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/rurouni-kenshin/episode-23-the-wolfs-fangs-917776">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">After defeating Arundo Akamatsu, Kenshin returns to the Kamiya Dojo<br>and sees Hajime Saito. Hajime had introduced himself to Kaoru<br>and Yahiko as Goro Fujita, the police officer, and they<br>had invited him into the Dojo without any suspicion. Hajime<br>criticizes Kenshin and the others for their naivety. Over the<br>past ten years that Kenshin had washed his hands of<br>manslaying, Hajime had honed his killing intent and skills as<br>a hitman, and now Hajime's ferocity was aimed at them.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Rurouni Kenshin (Spanish Dub) - Episode 23 - The Wolf's Fangs</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dc4e80856829a13904a44c4a994a0f0c1701971121_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/28/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/rurouni-kenshin/episode-23-the-wolfs-fangs-917777">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">After defeating Arundo Akamatsu, Kenshin returns to the Kamiya Dojo<br>and sees Hajime Saito. Hajime had introduced himself to Kaoru<br>and Yahiko as Goro Fujita, the police officer, and they<br>had invited him into the Dojo without any suspicion. Hajime<br>criticizes Kenshin and the others for their naivety. Over the<br>past ten years that Kenshin had washed his hands of<br>manslaying, Hajime had honed his killing intent and skills as<br>a hitman, and now Hajime's ferocity was aimed at them.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Rurouni Kenshin (Hindi Dub) - Episode 22 - Resurrection of the Wolf</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a8ddef79139220fe812587804919d3001701366227_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/28/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/rurouni-kenshin/episode-22-resurrection-of-the-wolf-917778">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Kenshin sees a dream recalling the Shinsengumi, who he faced<br>off against back when he was a Revolutionary warrior. The<br>Shinsengumi was a group of highly skilled swordsmen who he<br>fought on equal footing back when he was the Hitokiri<br>Battosai. He feels unsettled and ponders why he is suddenly<br>remembering them. As the tension persists, a mysterious man with<br>very unique-looking eyes pays a visit to the Kamiya Dojo<br>while Kenshin, Kaoru, and Yahiko are not home. When he<br>meets Sanosuke, who just happened to be at the Dojo,<br>he claims that he is Goro Fujita, a medicine seller,<br>but...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Portuguese Dub) - Episode 44 - Right and Wrong, Part 3</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/30e1532a790bd18ed8df1a6a350de3b31701968643_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/28/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-44-right-and-wrong-part-3-917760">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Itadori stands in a daze at the disaster before his<br>eyes, his mind already well past its limit. As a<br>curse, Mahito is elated at seeing his ideal sequence of<br>events play out before him, and he prepares to further<br>finish off Itadori.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (French Dub) - Episode 44 - Right and Wrong, Part 3</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/30e1532a790bd18ed8df1a6a350de3b31701968643_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/28/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-44-right-and-wrong-part-3-917762">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Itadori stands in a daze at the disaster before his<br>eyes, his mind already well past its limit. As a<br>curse, Mahito is elated at seeing his ideal sequence of<br>events play out before him, and he prepares to further<br>finish off Itadori.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Spanish Dub) - Episode 44 - Right and Wrong, Part 3</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/30e1532a790bd18ed8df1a6a350de3b31701968643_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/28/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-44-right-and-wrong-part-3-917763">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Itadori stands in a daze at the disaster before his<br>eyes, his mind already well past its limit. As a<br>curse, Mahito is elated at seeing his ideal sequence of<br>events play out before him, and he prepares to further<br>finish off Itadori.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Russian Dub) - Episode 44 - Right and Wrong, Part 3</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/30e1532a790bd18ed8df1a6a350de3b31701968643_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/28/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-44-right-and-wrong-part-3-917764">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Itadori stands in a daze at the disaster before his<br>eyes, his mind already well past its limit. As a<br>curse, Mahito is elated at seeing his ideal sequence of<br>events play out before him, and he prepares to further<br>finish off Itadori.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Italian Dub) - Episode 44 - Right and Wrong, Part 3</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/30e1532a790bd18ed8df1a6a350de3b31701968643_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/28/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-44-right-and-wrong-part-3-917767">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Itadori stands in a daze at the disaster before his<br>eyes, his mind already well past its limit. As a<br>curse, Mahito is elated at seeing his ideal sequence of<br>events play out before him, and he prepares to further<br>finish off Itadori.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Castilian Dub) - Episode 44 - Right and Wrong, Part 3</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/30e1532a790bd18ed8df1a6a350de3b31701968643_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/28/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-44-right-and-wrong-part-3-917768">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Itadori stands in a daze at the disaster before his<br>eyes, his mind already well past its limit. As a<br>curse, Mahito is elated at seeing his ideal sequence of<br>events play out before him, and he prepares to further<br>finish off Itadori.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (German Dub) - Episode 41 - Thunderclap, Part 2</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3cedb62a8676fe87febd3bedf60e120d1700153155_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/28/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-41-thunderclap-part-2-917761">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">After being severely injured in his fight against Toji, Fushiguro<br>suffers a surprise attack from Shigemo. On the verge of<br>death, Fushiguro desperately heads toward Dougenzaka crossing and summons a<br>certain Shikigami with his Ten Shadows Technique.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Tamil Dub) - Episode 39 - Fluctuations, Part 2</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/41a97c85c2ac3cbde3a6e8ee7214031d1698941393_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/28/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-39-fluctuations-part-2-917758">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Nanami, Maki, and Naobito are driven to the edge after<br>the Special-Grade Cursed Spirit, Dagon, activates his Domain Expansion, Horizon<br>of the Captivating Skandha. Fushiguro gives them a glimpse of<br>a way to escape death, then Toji intrudes upon the<br>fight.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Hindi Dub) - Episode 39 - Fluctuations, Part 2</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/41a97c85c2ac3cbde3a6e8ee7214031d1698941393_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/28/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-39-fluctuations-part-2-917759">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">Nanami, Maki, and Naobito are driven to the edge after<br>the Special-Grade Cursed Spirit, Dagon, activates his Domain Expansion, Horizon<br>of the Captivating Skandha. Fushiguro gives them a glimpse of<br>a way to escape death, then Toji intrudes upon the<br>fight.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Ancient Magus' Bride Season 2 (Portuguese Dub) - Episode 22 - Give a thief enough rope and he'll hang himself.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/61d12cc2fa888ecb1d53ed0a29cd20541701957107_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/28/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-ancient-magus-bride/episode-22-give-a-thief-enough-rope-and-hell-hang-himself-917746">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">As Lizbeth's plans near fruition, Philomela thinks about what it<br>is she really wants.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Ancient Magus' Bride Season 2 (German Dub) - Episode 22 - Give a thief enough rope and he'll hang himself.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/61d12cc2fa888ecb1d53ed0a29cd20541701957107_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/28/2023</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-ancient-magus-bride/episode-22-give-a-thief-enough-rope-and-hell-hang-himself-917747">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="center">As Lizbeth's plans near fruition, Philomela thinks about what it<br>is she really wants.</p>
 </td>
 </tr>
 </table>
