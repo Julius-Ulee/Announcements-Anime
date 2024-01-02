@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 2, 2024, 4:06:12 PM</em></p>
+<p align="center"><em>Updated on: Jan 2, 2024, 4:09:26 PM</em></p>
 
 <table align="center">
 <tr>
