@@ -30,7 +30,7 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "Julius-Ulee"
+          git config --global user.name "${{ github.repository_owner }}"
           git config --global user.email "fidzlieazriel@gmail.com"
 
       - name: Commit and Push changes
