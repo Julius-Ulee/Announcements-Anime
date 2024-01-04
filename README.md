@@ -1,8 +1,212 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 4, 2024, 7:43:50 AM</em></p>
+<p align="center"><em>Updated on: Jan 4, 2024, 8:26:44 PM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><table align="center">
+<tr>
+<th><h3 align="center">I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too (Hindi Dub) - Episode 8 - Off-Campus Study Trip</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b815368a01e4b7b56930fb08af578f2c1684771596_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too/episode-8-off-campus-study-trip-917997">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The study trip isn’t at all what Yuuya and the<br>others had imagined. They’re faced with a series of unexpected<br>challenges. Later, Yuuya meets with Lexia and her guards so<br>they can escort him to his audience with the king,<br>but Night begins acting strangely.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">VINLAND SAGA Season 2 (Telugu Dub) - Episode 14 - Freedom</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fa95304ab325e00a4fe1ba775a6d1b9c1681131748_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/vinland-saga/episode-14-freedom-917994">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The escaped slave arrives at Ketil's farm, prompting Arnheid to<br>open up about her past.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Reincarnation Of The Strongest Exorcist In Another World (Hindi Dub) - Episode 5 - Mabel Crane</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/11cad243ff3fce21106bf4a68e7ace111675525475_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-reincarnation-of-the-strongest-exorcist-in-another-world/episode-5-mabel-crane-917999">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Seika meets a powerful girl named Mabel and heads to<br>a combat tournament in the capital.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">My Dress-Up Darling (Telugu Dub) - Episode 9 - A Lot Happened After I Saw That Photo</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a45dec8e99738cd911e9fe6c9f655fa11646492850_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/my-dress-up-darling/episode-9-a-lot-happened-after-i-saw-that-photo-917998">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Gojo is able to complete the Black Lobelia and Black<br>Lily cosplays thanks to Marin's help. Both Marin and Sajuna<br>try on their cosplays and they're both excited about how<br>nicely they turned out, and Marin is even more excited<br>about their upcoming group cosplay. When the day finally arrives,<br>Marin and Sajuna get an unexpected visitor.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Code Geass: Lelouch of the Rebellion (Hindi Dub) - Episode 18 - Stage 18 - I Order you, Suzaku Kururugi</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/35c910b888bcefc1e0680c1da283e7db1498596629_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/code-geass/episode-18-stage-18-i-order-you-suzaku-kururugi-917993">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Suzaku is appointed to be the princess’ royal knight, leaving<br>Lelouch to struggle with the decision of what to do<br>about him. He wants Suzaku on his side, but will<br>using the Geass on another loved one be the choice<br>he has to make?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">More than a Married Couple, but Not Lovers. (Hindi Dub) - Episode 8 - An Entreaty, but No Reassurance.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/770b1d64bb7adde187f1e9d7f470347e1669541023_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/more-than-a-married-couple-but-not-lovers/episode-8-an-entreaty-but-no-reassurance-917992">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Jiro is in the bath wondering what had made Akari<br>cry like that. Suddenly, a frightened Akari bursts in and<br>makes a huge fuss. To help her feel better, Jiro<br>does lots of things for her and the two grow<br>closer. Then Akari asks, “Should we try dating, too?”</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Classroom of the Elite Season 3 - Episode 1 - The strongest principle of growth lies in the human choice.</h3></th>
 </tr>
@@ -3197,210 +3401,6 @@ Ainsworth, to discuss certain<br>matters..."</p>
 <tr>
 <td colspan="2">
 <p align="center">Mirika has kidnapped Naoya and locked him in a room<br>while Saki and the others try to find the key.<br>Shino is taken aback by Mirika's resolve, and begins to<br>question the way she's been hiding her own feelings.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">GOBLIN SLAYER II (Portuguese Dub) - Episode 10 - City Adventure</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3a6ebd14f2c499d3f759dd9d44bd7f331702040429_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/goblin-slayer/episode-10-city-adventure-917811">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The party arrives at the capital and splits ways. The<br>girls go to a public bath and as they're about<br>to leave, they find that Priestess's belongings have been stolen.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">GOBLIN SLAYER II (Spanish Dub) - Episode 10 - City Adventure</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3a6ebd14f2c499d3f759dd9d44bd7f331702040429_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/goblin-slayer/episode-10-city-adventure-917814">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The party arrives at the capital and splits ways. The<br>girls go to a public bath and as they're about<br>to leave, they find that Priestess's belongings have been stolen.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (Portuguese Dub) - Episode 10 - Perfect Hidden Justice</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a575404833514b84eb2531bce8bb2f771702040361_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917801">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Filo has recovered, but needs to gain experience to replace<br>her lost levels. S'yne returns from the underground arena bearing<br>a tale of a suspiciously familiar new fighter who uses<br>a bow and goes by the alias Perfect Hidden Justice.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (Spanish Dub) - Episode 10 - Perfect Hidden Justice</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a575404833514b84eb2531bce8bb2f771702040361_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917806">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Filo has recovered, but needs to gain experience to replace<br>her lost levels. S'yne returns from the underground arena bearing<br>a tale of a suspiciously familiar new fighter who uses<br>a bow and goes by the alias Perfect Hidden Justice.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (Russian Dub) - Episode 10 - Perfect Hidden Justice</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a575404833514b84eb2531bce8bb2f771702040361_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917807">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Filo has recovered, but needs to gain experience to replace<br>her lost levels. S'yne returns from the underground arena bearing<br>a tale of a suspiciously familiar new fighter who uses<br>a bow and goes by the alias Perfect Hidden Justice.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (French Dub) - Episode 9 - Emperor Dragon</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/920309663a8ef0c24d6d8a4b8721ebdd1701401720_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-9-emperor-dragon-917805">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Naofumi's party regroups and plans another assault on the Emperor<br>Dragon. While their plan of attack comes together, Wyndia explains<br>her connection to the dragon. This causes Wyndia to remember<br>something very significant...</p>
 </td>
 </tr>
 </table>
