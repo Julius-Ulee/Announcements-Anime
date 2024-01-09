@@ -1,8 +1,110 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 9, 2024, 7:53:32 AM</em></p>
+<p align="center"><em>Updated on: Jan 9, 2024, 7:21:04 PM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
+<tr>
+<th><h3 align="center">Log Horizon (Hindi Dub) - Episode 9 - Round Table Conference</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a3d35716b7a6bd398cd8746bc965cc071385576413_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/log-horizon/episode-9-round-table-conference-918555">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">To make the city of Akihabara safe, Shiroe calls all<br>the major guild masters to the guild building.  His<br>goal is to create a Round Table Conference, which will<br>rule the city.  But everyone there wants something different,<br>and his plan is about to go bad.  What<br>amazing trick does Shiroe have?  Meanwhile, behind the scenes<br>of the conference, the plan to free the younger players<br>from the evil guild Hamelin continues.  The strategist SHiroe's<br>quiet battle in Akihabara continues!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Tomo-chan Is a Girl! (Hindi Dub) - Episode 9 - The Angel's True Face</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0aaf7a254d6d3dd7e79aa53efa7bd8241677687187_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tomo-chan-is-a-girl/episode-9-the-angels-true-face-918518">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Misuzu sees that Misaki and Carol need help expressing their<br>feelings for each other, so she comes up with a<br>plan to get them together... but the results are far<br>beyond what she expected.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Ranking of Kings (Telugu Dub) - Episode 9 - The Queen and the Shield</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/caa7bac3f2c65a8627126786b1d4c64b1641093192_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/ranking-of-kings/episode-9-the-queen-and-the-shield-918556">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Years ago, Bosse pulled Dorshe from his position and made<br>him the bodyguard for a reluctant Hiling, who was trying<br>to win over a wary Bojji. Now, Dorshe is all<br>that stands between Hiling and monsters which have been sent<br>to assassinate her.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Dead Mount Death Play (German Dub) - Episode 23 - The Declaration</h3></th>
 </tr>
@@ -3293,108 +3395,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Now that Sein finally has a lead on the whereabouts<br>of his long-lost friend, is it time for him and<br>Frieren's party to part ways?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Unwanted Undead Adventurer - Episode 1 - Unwanted Undead</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b76ad0cfa5898c3eb9410158753395db1704458488_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-unwanted-undead-adventurer/episode-1-unwanted-undead-918058">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">While hunting weak monsters in a labyrinth, perennial bronze-class adventurer<br>Rennt discovers an unexplored passageway. He excitedly begins searching it,<br>hoping to earn wealth and renown, but instead he encounters<br>a dragon, the strongest of all monsters.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Sasaki and Peeps - Episode 1 - Real Life and Fantasy</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/12b3400c56893ea97af93f1b9595754b1704446890_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/sasaki-and-peeps/episode-1-real-life-and-fantasy-918045">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sasaki, a lonely office worker pushing forty, adopts an adorable<br>bird to brighten up his life a bit... Little does<br>he know that the Java sparrow he picks, Peeps, is<br>a powerful mage who's going to bring him a whole<br>lot more than he bargained for.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Ranking of Kings (Tamil Dub) - Episode 18 - Battle with the Gods</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3a2420cbe32926f20cf5ae7dd4cf02741645081513_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/ranking-of-kings/episode-18-battle-with-the-gods-918101">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">From his cell, Bosse relates to Bebin the story of<br>how he first met Miranjo when she was a little<br>girl. Domas and Hokuro make their apologies to Hiling, then<br>head off to assist Bojji. Bojji has his hands full<br>with Ouken, but receives help from Despa.</p>
 </td>
 </tr>
 </table>
