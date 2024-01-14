@@ -1,8 +1,348 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 14, 2024, 7:57:32 AM</em></p>
+<p align="center"><em>Updated on: Jan 14, 2024, 7:19:18 PM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier - Episode 14.5 - Get Yourselves Caught up With This Light-Speed Recap!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/59d1109359af3934a8c2c53519c32c041705195110_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-145-get-yourselves-caught-up-with-this-light-speed-recap-917784">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sunraku and the others gather to take a look back<br>at past events to get viewers refreshed and up to<br>date before their battle with Wethermon the Tombguard.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Spanish Dub) - Episode 11</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/466618a1bc0a84577dc4a9e1421484561705219409_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-11-913754">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Portuguese Dub) - Episode 11</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/466618a1bc0a84577dc4a9e1421484561705219441_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-11-913767">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (English Dub) - Episode 11</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/466618a1bc0a84577dc4a9e1421484561705219369_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-11-913780">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Captain Tsubasa: Junior Youth Arc - Episode 15 - Japan Junior Youth Strikes Back</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7b16623fc08705e20ccb0f92289b444e1705194832_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-15-japan-junior-youth-strikes-back-918572">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">While Japan reels from Diaz’s latest soccer feat, Tsubasa and<br>Hyuga join forces for a special attack. Tsubasa has got<br>his groove back. Taking the opportunity, the Tachibana Twins and<br>Jito dash toward the goal. The time to strike back<br>is now!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Couple of Cuckoos (Tamil Dub) - Episode 12 - It's not that I like you, yet.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3810cf46a0de359007affc4646ea7d641657380350_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/a-couple-of-cuckoos/episode-12-its-not-that-i-like-you-yet-919351">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Nagi tries to redeem himself after embarrassing himself in front<br>of Hiro on their amusement park date.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Couple of Cuckoos (Telugu Dub) - Episode 12 - It's not that I like you, yet.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3810cf46a0de359007affc4646ea7d641657380350_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/a-couple-of-cuckoos/episode-12-its-not-that-i-like-you-yet-919352">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Nagi tries to redeem himself after embarrassing himself in front<br>of Hiro on their amusement park date.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 4) - Episode 6 - It's All Your Fault</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e86f82ae4b269f08e151a6e321d3b4ba1705194720_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-6-its-all-your-fault-917169">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) - Episode 1090 - A New Island! Future Island Egghead</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/180d118637dcd333e296a93d3072639c1705195452_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/one-piece/episode-1090-a-new-island-future-island-egghead-914250">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Luffy and Chopper fall into the rough cold sea along<br>with the mysterious girl. Jimbei tries to help them but<br>another attack comes from the unknown creature. Meanwhile, the Sunny<br>is hit by torpedoes and the rest of the Straw<br>Hats are thrown into the sea, too.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Soaring Sky! Precure - Episode 48 - Heroes, Protect It! Everyone's City!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8eeca91de4c1566c2583b13803c5fb5b1705193644_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/soaring-sky-precure/episode-48-heroes-protect-it-everyones-city-914745">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With the loss of Skearhead, the Empress burns with anger,<br>and goes on a self-destructive mission. While the barrier is<br>being destroyed, Cure Sky and the gang step up to<br>protect the city.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">I Shall Survive Using Potions!  (Hindi Dub) - Episode 12 - I Shall Survive Using Potions!</h3></th>
 </tr>
@@ -335,346 +675,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Just when it seems Will's fate is sealed, Stagnate appears<br>and resurrects the former residents of the Iron Country. Gracefeel<br>transfers their souls into Will, giving him the courage to<br>face Valacirca again. Will's epic battle reaches its climax...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (Spanish Dub) - Episode 12 - Calldawn</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2c783928eec8185ec042d9cb6b3daea21703330436_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-faraway-paladin/episode-12-calldawn-919319">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Just when it seems Will's fate is sealed, Stagnate appears<br>and resurrects the former residents of the Iron Country. Gracefeel<br>transfers their souls into Will, giving him the courage to<br>face Valacirca again. Will's epic battle reaches its climax...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (German Dub) - Episode 12 - Calldawn</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2c783928eec8185ec042d9cb6b3daea21703330436_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-faraway-paladin/episode-12-calldawn-919321">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Just when it seems Will's fate is sealed, Stagnate appears<br>and resurrects the former residents of the Iron Country. Gracefeel<br>transfers their souls into Will, giving him the courage to<br>face Valacirca again. Will's epic battle reaches its climax...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (French Dub) - Episode 12 - Calldawn</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2c783928eec8185ec042d9cb6b3daea21703330436_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-faraway-paladin/episode-12-calldawn-919322">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Just when it seems Will's fate is sealed, Stagnate appears<br>and resurrects the former residents of the Iron Country. Gracefeel<br>transfers their souls into Will, giving him the courage to<br>face Valacirca again. Will's epic battle reaches its climax...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (English Dub) - Episode 12 - Calldawn</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2c783928eec8185ec042d9cb6b3daea21703330436_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-faraway-paladin/episode-12-calldawn-919325">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Just when it seems Will's fate is sealed, Stagnate appears<br>and resurrects the former residents of the Iron Country. Gracefeel<br>transfers their souls into Will, giving him the courage to<br>face Valacirca again. Will's epic battle reaches its climax...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (German Dub) - Episode 11 - The Evil Dragon and the Goddess</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c00c2d6f0b865243b6dea76e3e57b24c1702708914_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-faraway-paladin/episode-11-the-evil-dragon-and-the-goddess-919320">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The battle between Will and Valacirca rages on. Will has<br>exhausted his strength and depleted his mana, his companions have<br>fallen, and his beloved weapon, Pale Moon, is broken. Then,<br>just when the situation is looking dire...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Portuguese Dub) - Episode 37 - Part of the Family</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c9d1a27d524276afeadd69fd51c7f2011703331171_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-37-part-of-the-family-919296">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As Bond is on a walk with Loid, he has<br>a premonition of an accident, so he tries to stop<br>it, but is scolded by Loid. He then sees a<br>vision of a building going up in flames and a<br>sobbing girl standing in front of it.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Spanish Dub) - Episode 37 - Part of the Family</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c9d1a27d524276afeadd69fd51c7f2011703331171_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-37-part-of-the-family-919299">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As Bond is on a walk with Loid, he has<br>a premonition of an accident, so he tries to stop<br>it, but is scolded by Loid. He then sees a<br>vision of a building going up in flames and a<br>sobbing girl standing in front of it.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Russian Dub) - Episode 37 - Part of the Family</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c9d1a27d524276afeadd69fd51c7f2011703331171_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-37-part-of-the-family-919300">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As Bond is on a walk with Loid, he has<br>a premonition of an accident, so he tries to stop<br>it, but is scolded by Loid. He then sees a<br>vision of a building going up in flames and a<br>sobbing girl standing in front of it.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Arabic Dub) - Episode 37 - Part of the Family</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c9d1a27d524276afeadd69fd51c7f2011703331171_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-37-part-of-the-family-919302">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As Bond is on a walk with Loid, he has<br>a premonition of an accident, so he tries to stop<br>it, but is scolded by Loid. He then sees a<br>vision of a building going up in flames and a<br>sobbing girl standing in front of it.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Italian Dub) - Episode 37 - Part of the Family</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c9d1a27d524276afeadd69fd51c7f2011703331171_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-37-part-of-the-family-919303">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As Bond is on a walk with Loid, he has<br>a premonition of an accident, so he tries to stop<br>it, but is scolded by Loid. He then sees a<br>vision of a building going up in flames and a<br>sobbing girl standing in front of it.</p>
 </td>
 </tr>
 </table>
