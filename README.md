@@ -1,15 +1,15 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 14, 2024, 7:19:18 PM</em></p>
+<p align="center"><em>Updated on: Jan 15, 2024, 7:55:25 AM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier - Episode 14.5 - Get Yourselves Caught up With This Light-Speed Recap!</h3></th>
+<th><h3 align="center">Rurouni Kenshin (English Dub) - Episode 14 - Yahiko's Battle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/59d1109359af3934a8c2c53519c32c041705195110_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0ebc4062deb47141b696c1c937f9d3d81696521850_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -22,13 +22,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-145-get-yourselves-caught-up-with-this-light-speed-recap-917784">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/rurouni-kenshin/episode-14-yahikos-battle-919416">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku and the others gather to take a look back<br>at past events to get viewers refreshed and up to<br>date before their battle with Wethermon the Tombguard.</p>
+<p align="center">Yahiko, the sole student of the Kamiya Dojo, has started<br>to step away from his training from time to time.<br>He says he's merely going on a walk, but it<br>is clear that he takes his swordsmanship training very seriously,<br>and it doesn’t look like he's ditching to slack off.<br>Curious about what he's doing, Kenshin, Kaoru, and Sanosuke decide<br>to follow him. What exactly is Yahiko's reason for ditching?</p>
 </td>
 </tr>
 </table>
@@ -38,12 +38,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Spanish Dub) - Episode 11</h3></th>
+<th><h3 align="center">MF GHOST (English Dub) - Episode 12 - Inherited Perception</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/466618a1bc0a84577dc4a9e1421484561705219409_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3721a880fc574968f5db6d38c283afd31702810507_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -56,7 +56,41 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-11-913754">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/mf-ghost/episode-12-inherited-perception-919414">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Ren's mother discovers the secret to Kanata's prodigious talent and<br>the two reminisce about his much-missed mother, Katherine. Meanwhile, Sawatari's<br>monster lap has unsettled the drivers who are still yet<br>to set a time.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 12 - Episode 1 - Just Don't Open It</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d797db98047cadaaba115156227266991705235236_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/theatre-of-darkness-yamishibai/episode-1-just-dont-open-it-919357">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -72,12 +106,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Portuguese Dub) - Episode 11</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (German Dub) - Episode 11 - Even If It Kills Me</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/466618a1bc0a84577dc4a9e1421484561705219441_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3b9e8e9e3fdb127096e51b2c775795ed1702800033_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -90,13 +124,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-11-913767">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-100-girlfriends-who-really-really-really-really-really-love-you/episode-11-even-if-it-kills-me-919408">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Hahari may have been blinded by love, but Hakari's happiness<br>remains her number one priority. How can Rentaro convince her<br>that his love is real?</p>
 </td>
 </tr>
 </table>
@@ -106,12 +140,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (English Dub) - Episode 11</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (English Dub) - Episode 11 - Even If It Kills Me</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/466618a1bc0a84577dc4a9e1421484561705219369_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/04faaed2b1e87df3ba6824edbc4b41291705261504_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -124,13 +158,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-11-913780">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-100-girlfriends-who-really-really-really-really-really-love-you/episode-11-even-if-it-kills-me-919410">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Hahari may have been blinded by love, but Hakari's happiness<br>remains her number one priority. How can Rentaro convince her<br>that his love is real?</p>
 </td>
 </tr>
 </table>
@@ -140,12 +174,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc - Episode 15 - Japan Junior Youth Strikes Back</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (English Dub) - Episode 10 - Love Mission: Impossible</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7b16623fc08705e20ccb0f92289b444e1705194832_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1a9111893cfe3657aa70b8b9159c28531705261384_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -158,13 +192,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-15-japan-junior-youth-strikes-back-918572">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-100-girlfriends-who-really-really-really-really-really-love-you/episode-10-love-mission-impossible-919409">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Japan reels from Diaz’s latest soccer feat, Tsubasa and<br>Hyuga join forces for a special attack. Tsubasa has got<br>his groove back. Taking the opportunity, the Tachibana Twins and<br>Jito dash toward the goal. The time to strike back<br>is now!</p>
+<p align="center">The Rentaro Family gears up to raid the Hanazono mansion<br>to get Hakari out.</p>
 </td>
 </tr>
 </table>
@@ -174,12 +208,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Couple of Cuckoos (Tamil Dub) - Episode 12 - It's not that I like you, yet.</h3></th>
+<th><h3 align="center">Shangri-La Frontier (English Dub) - Episode 13 - Only Resentments About the End of Life Remain</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3810cf46a0de359007affc4646ea7d641657380350_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1eed6f965cabee07e0b14d98d53dad801705260053_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -192,13 +226,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-couple-of-cuckoos/episode-12-its-not-that-i-like-you-yet-919351">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-13-only-resentments-about-the-end-of-life-remain-919405">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nagi tries to redeem himself after embarrassing himself in front<br>of Hiro on their amusement park date.</p>
+<p align="center">Pencilgon, Sunraku, and Oikatzo make their way to find the<br>NPC Setsuna of Bygone Days, Wethermon's former lover. She presents<br>to them the Unique Scenario "From the Living World, With<br>Love" which they accept.</p>
 </td>
 </tr>
 </table>
@@ -208,12 +242,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Couple of Cuckoos (Telugu Dub) - Episode 12 - It's not that I like you, yet.</h3></th>
+<th><h3 align="center">Shangri-La Frontier (German Dub) - Episode 12 - Regrets Always Lie in the Past</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3810cf46a0de359007affc4646ea7d641657380350_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f62a15938b4a17a1fc3b1d26088bbf381702797922_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -226,13 +260,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-couple-of-cuckoos/episode-12-its-not-that-i-like-you-yet-919352">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-12-regrets-always-lie-in-the-past-919392">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nagi tries to redeem himself after embarrassing himself in front<br>of Hiro on their amusement park date.</p>
+<p align="center">Pencilgon sends Sunraku and Oikatzo to the Iron Ruins of<br>the Divinity to grind their levels to at least level<br>50. While there they encounter the Lifestide Lake Serpent monster.</p>
 </td>
 </tr>
 </table>
@@ -242,12 +276,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Daily Life of the Immortal King (Season 4) - Episode 6 - It's All Your Fault</h3></th>
+<th><h3 align="center">Shangri-La Frontier (Spanish Dub) - Episode 12 - Regrets Always Lie in the Past</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e86f82ae4b269f08e151a6e321d3b4ba1705194720_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f62a15938b4a17a1fc3b1d26088bbf381702797922_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -260,13 +294,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-6-its-all-your-fault-917169">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-12-regrets-always-lie-in-the-past-919393">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Pencilgon sends Sunraku and Oikatzo to the Iron Ruins of<br>the Divinity to grind their levels to at least level<br>50. While there they encounter the Lifestide Lake Serpent monster.</p>
 </td>
 </tr>
 </table>
@@ -276,12 +310,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1089-Current) - Episode 1090 - A New Island! Future Island Egghead</h3></th>
+<th><h3 align="center">Shangri-La Frontier (Italian Dub) - Episode 12 - Regrets Always Lie in the Past</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/180d118637dcd333e296a93d3072639c1705195452_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f62a15938b4a17a1fc3b1d26088bbf381702797922_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -294,13 +328,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/one-piece/episode-1090-a-new-island-future-island-egghead-914250">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-12-regrets-always-lie-in-the-past-919394">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Luffy and Chopper fall into the rough cold sea along<br>with the mysterious girl. Jimbei tries to help them but<br>another attack comes from the unknown creature. Meanwhile, the Sunny<br>is hit by torpedoes and the rest of the Straw<br>Hats are thrown into the sea, too.</p>
+<p align="center">Pencilgon sends Sunraku and Oikatzo to the Iron Ruins of<br>the Divinity to grind their levels to at least level<br>50. While there they encounter the Lifestide Lake Serpent monster.</p>
 </td>
 </tr>
 </table>
@@ -310,12 +344,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Soaring Sky! Precure - Episode 48 - Heroes, Protect It! Everyone's City!</h3></th>
+<th><h3 align="center">Shangri-La Frontier (Tamil Dub) - Episode 12 - Regrets Always Lie in the Past</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8eeca91de4c1566c2583b13803c5fb5b1705193644_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f62a15938b4a17a1fc3b1d26088bbf381702797922_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -328,13 +362,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/soaring-sky-precure/episode-48-heroes-protect-it-everyones-city-914745">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-12-regrets-always-lie-in-the-past-919396">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the loss of Skearhead, the Empress burns with anger,<br>and goes on a self-destructive mission. While the barrier is<br>being destroyed, Cure Sky and the gang step up to<br>protect the city.</p>
+<p align="center">Pencilgon sends Sunraku and Oikatzo to the Iron Ruins of<br>the Divinity to grind their levels to at least level<br>50. While there they encounter the Lifestide Lake Serpent monster.</p>
 </td>
 </tr>
 </table>
@@ -344,12 +378,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Shall Survive Using Potions!  (Hindi Dub) - Episode 12 - I Shall Survive Using Potions!</h3></th>
+<th><h3 align="center">Shangri-La Frontier (Hindi Dub) - Episode 12 - Regrets Always Lie in the Past</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8f41305a7bc56339cd135418765727701703356845_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f62a15938b4a17a1fc3b1d26088bbf381702797922_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -358,17 +392,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
+<td align="center">1/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/i-shall-survive-using-potions/episode-12-i-shall-survive-using-potions-919344">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-12-regrets-always-lie-in-the-past-919397">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">An epidemic spreads like wildfire throughout the capital of the<br>Kingdom of Jusral, and Kaoru is the only one who<br>can stop it... but that would mean exposing her true<br>identity yet again. Will she ever have the peaceful life<br>she dreamed of?</p>
+<p align="center">Pencilgon sends Sunraku and Oikatzo to the Iron Ruins of<br>the Divinity to grind their levels to at least level<br>50. While there they encounter the Lifestide Lake Serpent monster.</p>
 </td>
 </tr>
 </table>
@@ -378,12 +412,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Shall Survive Using Potions! (English Dub) - Episode 11 - I'll Find a Husband with a Treasure Hunt!</h3></th>
+<th><h3 align="center">Shangri-La Frontier (English Dub) - Episode 12 - Regrets Always Lie in the Past</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1eda8c230e7d56e0e8e0b4549bc4c2f41702739558_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cc7ed8b71dc15bc5816737542b066fba1705260008_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -392,17 +426,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
+<td align="center">1/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/i-shall-survive-using-potions/episode-11-ill-find-a-husband-with-a-treasure-hunt-919345">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-12-regrets-always-lie-in-the-past-919403">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While delivering potions to the army, Kaoru accidentally deciphers a<br>coded message from a crime ring that the army had<br>been pursuing. An army officer takes notice and asks Kaoru<br>to decipher another message regarding a hidden treasure.</p>
+<p align="center">Pencilgon sends Sunraku and Oikatzo to the Iron Ruins of<br>the Divinity to grind their levels to at least level<br>50. While there they encounter the Lifestide Lake Serpent monster.</p>
 </td>
 </tr>
 </table>
@@ -412,12 +446,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Returner's Magic Should Be Special (English Dub) - Episode 12 - Anti-Mage</h3></th>
+<th><h3 align="center">Shangri-La Frontier (French Dub) - Episode 11 - The Glimmer of Truth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7c15930a3bf6d5246ee678d1ed179c5b1703331473_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5bb26f9371fc6a701147fba5da4f96011702192647_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -426,17 +460,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
+<td align="center">1/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-returners-magic-should-be-special/episode-12-anti-mage-919341">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-11-the-glimmer-of-truth-919398">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Desir and Kraiken are now fighting one-on-one over the magic<br>gem. Can Desir protect Tear of Regernel? And what does<br>Desir hope to achieve by protecting it?</p>
+<p align="center">Sunraku speaks with Vysache about their plans to defeat Wethermon<br>the Tombguard. After their discussion Vysache decides to help Sunraku<br>in his endeavor by ascending his weapons.</p>
 </td>
 </tr>
 </table>
@@ -446,12 +480,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Returner's Magic Should Be Special (English Dub) - Episode 11 - A Raid</h3></th>
+<th><h3 align="center">Mr. Villain's Day Off - Episode 2 - Earth Is Formidable Indeed</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/017c481ccf7f470ccc74cf6681516add1702728611_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d839184dadd1905607bfae428708a3b71705232849_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -460,17 +494,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
+<td align="center">1/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-returners-magic-should-be-special/episode-11-a-raid-919340">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/mr-villains-day-off/episode-2-earth-is-formidable-indeed-918300">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Desir, knowing that Tear of Regernel will be stolen by<br>the Outers, takes the initiative to stop them. As expected,<br>Kraiken and the others show up at the Magical Tower.<br>Can Desir protect the magical gem?</p>
+<p align="center">A new recruit learns that working for Mr. Villain can<br>involve many surprises. Mr. Villain encounters a boy at the<br>zoo whose interest in furry animals might rival even his<br>own.</p>
 </td>
 </tr>
 </table>
@@ -480,12 +514,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries (English Dub) - Episode 12 - The Eunuch and the Courtesan</h3></th>
+<th><h3 align="center">The Fire Hunter - Episode 11 - Lunar Sickles</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/837750649af014ae2ca0f72c5f823f5b1705177884_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/62fe6daa8cd704e80e8264d4fce5ce6a1705247181_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -494,17 +528,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
+<td align="center">1/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-12-the-eunuch-and-the-courtesan-919336">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-fire-hunter/episode-11-lunar-sickles-890148">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Discovering that Maomao's kidnappers were connected to Fengming's family, Jinshi<br>is faced with a choice between keeping Maomao in the<br>rear palace where he can be near her or releasing<br>her from her service.</p>
+<p align="center">Fiends flood into the factory district ahead of the spider<br>invasion. Despite Akira urging her to run, Touko stands her<br>ground and joins the fight. But what toll will a<br>real battle take on her? And can anyone stem the<br>tide now?</p>
 </td>
 </tr>
 </table>
@@ -514,12 +548,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries (German Dub) - Episode 11 - Reducing Two to One</h3></th>
+<th><h3 align="center">Meiji Gekken: 1874 - Episode 1 - Tokyo</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d4713e5570dca1746610b30c678f84811702739912_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b047fb859d6935e8082ff672ed4681d51705234899_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -528,17 +562,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
+<td align="center">1/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-11-reducing-two-to-one-919330">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/meiji-gekken-1874/episode-1-tokyo-919370">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maomao confronts Fengming about the dark secret she's been hiding<br>from her noble Lady Ah-Duo.</p>
+<p align="center">Shizuma, a former warrior from the Aizu Domain, is now<br>a humble rickshaw driver in Tokyo, but the spirit of<br>the samurai lives on within him. He searches for his<br>fiancée, Sumie, who vanished during the Boshin War.</p>
 </td>
 </tr>
 </table>
@@ -548,12 +582,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries (Hindi Dub) - Episode 11 - Reducing Two to One</h3></th>
+<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 - Episode 2 - The Gem Beast</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d4713e5570dca1746610b30c678f84811702739912_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f64ef062db7887a826dd13c69cd919b61705232765_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -562,17 +596,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
+<td align="center">1/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-11-reducing-two-to-one-919331">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-2-the-gem-beast-918313">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maomao confronts Fengming about the dark secret she's been hiding<br>from her noble Lady Ah-Duo.</p>
+<p align="center">Red and Rit reunite with Yarandrala and she suggests they<br>move to the Kiramin Kingdom. Yarandrala's persistence on the subject<br>leaves them a bit confused. Afterward, everyone takes a dip<br>in the hot spring at Tisse's recommendation.</p>
 </td>
 </tr>
 </table>
@@ -582,12 +616,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries (English Dub) - Episode 11 - Reducing Two to One</h3></th>
+<th><h3 align="center">7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! - Episode 2 - The Golden Imperial Capital</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3e92c7dba4add6b21bd5c5bd5b1969801705177828_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c9e956aff7e7665ed8f1f774a1a1d2901705232692_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -596,17 +630,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
+<td align="center">1/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-11-reducing-two-to-one-919335">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy/episode-2-the-golden-imperial-capital-918328">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maomao confronts Fengming about the dark secret she's been hiding<br>from her noble Lady Ah-Duo.</p>
+<p align="center">Arnold proposes marriage to Rishe. She replies with certain conditions<br>which must be met. Arnold gives his promise, and he<br>and Rishe head to Galkhein. Rishe is excited to visit<br>a country she's ever been to, but wonders—what is Arnold<br>truly after?</p>
 </td>
 </tr>
 </table>
@@ -616,12 +650,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries (French Dub) - Episode 10 - Honey</h3></th>
+<th><h3 align="center">Fluffy Paradise - Episode 3 - A Lovely Gift</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/66c8466a5ea10d5597682277db96db311702146297_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/00bf0deec147fa5af92b7ea1947bc5af1705219484_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -630,51 +664,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
+<td align="center">1/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-10-honey-919334">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fluffy-paradise/episode-3-a-lovely-gift-918192">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A tea party hosted by Lady Gyokuyou puts the politics<br>of the rear palace at the forefront, and Maomao learns<br>something new about Lady Lishu. His true intentions unclear, Jinshi<br>sends Maomao to work for Lady Ah-Duo.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (Portuguese Dub) - Episode 12 - Calldawn</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2c783928eec8185ec042d9cb6b3daea21703330436_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-faraway-paladin/episode-12-calldawn-919318">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Just when it seems Will's fate is sealed, Stagnate appears<br>and resurrects the former residents of the Iron Country. Gracefeel<br>transfers their souls into Will, giving him the courage to<br>face Valacirca again. Will's epic battle reaches its climax...</p>
+<p align="center">Neema is enjoying the chance to see and experience the<br>wide variety of animals kept in service of the palace,<br>and next, she's off for a birthday excursion into the<br>city! What surprises will await?</p>
 </td>
 </tr>
 </table>
