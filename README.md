@@ -1,15 +1,15 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 16, 2024, 7:21:31 PM</em></p>
+<p align="center"><em>Updated on: Jan 17, 2024, 7:53:42 AM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
 <tr>
-<th><h3 align="center">Log Horizon (Hindi Dub) - Episode 10 - Grab It in Your Hand</h3></th>
+<th><h3 align="center">Manyu Scroll - Episode 12 - Breast Flowing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8814115b637b48a606e19f29bff464e31386120327_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7d346e17e32df9b5b4330a9a1a155e141705413488_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -22,13 +22,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/log-horizon/episode-10-grab-it-in-your-hand-919207">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/manyu-scroll/episode-12-breast-flowing-919518">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shiroe confronts the 10 guild masters who represent Akihabara with<br>the need to revitalize the town and bring peace and<br>order.  His calm and forceful manner brings them over,<br>and the government of Akihabara, the "Round Table", is founded.<br> After this work is done, his guild, "Log Horizon",<br>joyously moves to their new location.  That night, Nyanta<br>fixes them his special curry.</p>
+<p align="center">Chifusa, Kaede, and allies face Manyu assassins. Chifusa unlocks the<br>Breast Flow by forming a maternal bond and escapes with<br>Hazuki. They regroup with their allies, and Chifusa promises to<br>continue her journey and restore what's been taken.</p>
 </td>
 </tr>
 </table>
@@ -38,12 +38,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomo-chan Is a Girl! (Hindi Dub) - Episode 10 - How the Contest Ends / To Stay Best Friends...</h3></th>
+<th><h3 align="center">Manyu Scroll - Episode 11 - The Munamori Village</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd96de119b7cb1d40f5df215d48c7bd01678294955_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bbbdb141f4cf6abd290b149c6edaa4081705413185_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -56,13 +56,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tomo-chan-is-a-girl/episode-10-how-the-contest-ends-to-stay-best-friends-919259">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/manyu-scroll/episode-11-the-munamori-village-919516">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tomo and Junichiro are fired up for the school marathon.<br>They start out neck-and-neck at the head of the pack,<br>but when they reach the girls' turn-around point...</p>
+<p align="center">In Chifusa's ancestral village, she learns her mother's sacrifice to<br>protect the Breast Flow technique. She begins training to master<br>it, only to face an attack by Manyu warriors led<br>by Muneyuki and Ouka.</p>
 </td>
 </tr>
 </table>
@@ -72,12 +72,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ranking of Kings (Telugu Dub) - Episode 10 - The Prince's Sword</h3></th>
+<th><h3 align="center">Manyu Scroll - Episode 10 - The Breast Severing of the Beginning</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/befab8680810065e9f4490a1a7f96d861641093318_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0dc5d54e5504323e0836a582e13599071705412832_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -90,13 +90,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/ranking-of-kings/episode-10-the-princes-sword-919206">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/manyu-scroll/episode-10-the-breast-severing-of-the-beginning-919514">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Bojji, Kage and Despa go out to dinner to celebrate<br>the conclusion of Bojji's training. Kage has misgivings about Bojji's<br>sword until a fight breaks out at dinner, and Bojji<br>has to defend himself. Bojji and Kage must consider what<br>their next step will be.</p>
+<p align="center">Chifusa recalls using Breast Flow in a childhood duel with<br>Ouka. As she and Kaede continue their journey, they realize<br>Chifusa must return breasts to others she's affected.</p>
 </td>
 </tr>
 </table>
@@ -106,12 +106,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dead Mount Death Play (German Dub) - Episode 24 - The Shinjuku War</h3></th>
+<th><h3 align="center">Manyu Scroll - Episode 9 - The Love of a Flower Bud</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b27b4ddb99c23125395302b357cfda9a1703513554_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b5f8e511ecb30c4e0a374139fb54d4791705412466_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -120,17 +120,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dead-mount-death-play/episode-24-the-shinjuku-war-919435">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/manyu-scroll/episode-9-the-love-of-a-flower-bud-919512">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Corpse God prepares to sacrifice himself to stop Civil,<br>but his new friends have other ideas. Rescuing Polka's soul<br>and regaining any shot at a peace will take two<br>lifetimes worth of connections.</p>
+<p align="center">Chifusa and Kaede rescue painter Sakuji from Manyu guards. Misunderstandings<br>arise between Chifusa and Kaede over modeling for Sakuji. After<br>a confrontation with guards, Sakuji paints Kaede, deepening her bond<br>with Chifusa.</p>
 </td>
 </tr>
 </table>
@@ -140,12 +140,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dead Mount Death Play (French Dub) - Episode 24 - The Shinjuku War</h3></th>
+<th><h3 align="center">Manyu Scroll - Episode 8 - Chifusa is Captured</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b27b4ddb99c23125395302b357cfda9a1703513554_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0aca36294a8ca5158a756975fd976b551705412106_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -154,17 +154,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dead-mount-death-play/episode-24-the-shinjuku-war-919436">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/manyu-scroll/episode-8-chifusa-is-captured-919510">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Corpse God prepares to sacrifice himself to stop Civil,<br>but his new friends have other ideas. Rescuing Polka's soul<br>and regaining any shot at a peace will take two<br>lifetimes worth of connections.</p>
+<p align="center">Chifusa and Kaede meet Lord Mie, now a commoner. They're<br>attacked by a Manyu swordsman who kidnaps Chifusa. Rescued by<br>Mie and Kaede, Chifusa defeats the swordsman. Mie refuses her<br>gratitude gesture.</p>
 </td>
 </tr>
 </table>
@@ -174,12 +174,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dead Mount Death Play (English Dub) - Episode 24 - The Shinjuku War</h3></th>
+<th><h3 align="center">Manyu Scroll - Episode 7 - The Boob Thief</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b27b4ddb99c23125395302b357cfda9a1703513554_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/db1110ba82529412953638d55c6a2d231705411686_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -188,17 +188,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dead-mount-death-play/episode-24-the-shinjuku-war-919438">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/manyu-scroll/episode-7-the-boob-thief-919508">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Corpse God prepares to sacrifice himself to stop Civil,<br>but his new friends have other ideas. Rescuing Polka's soul<br>and regaining any shot at a peace will take two<br>lifetimes worth of connections.</p>
+<p align="center">In a village, Chifusa gets a massage for her painful<br>breasts. She becomes a bodyguard to catch "The Boobie Kid,"<br>a thief. The thief, revealed as masseuse Momoha, imparts her<br>breast technique to Chifusa before dying.</p>
 </td>
 </tr>
 </table>
@@ -208,12 +208,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dead Mount Death Play (English Dub) - Episode 23 - The Declaration</h3></th>
+<th><h3 align="center">Manyu Scroll - Episode 6 - Kagefusa, Once More</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/44cda63aa4940e97a53bd7b4411ec4df1702893739_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/18b8fc97ebb7a36f2b70afc749f5351a1705411339_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -222,17 +222,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dead-mount-death-play/episode-23-the-declaration-919437">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/manyu-scroll/episode-6-kagefusa-once-more-919505">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The day of the showdown arrives. The Corpse God and<br>friends prepare to rescue the real Polka while other forces<br>maneuver in the shadows. But a surprise visit from the<br>kidnapper himself takes events in a direction no one expected.</p>
+<p align="center">Chifusa's enlarged breasts hinder her. At a temple, a nun<br>links her powers to maternal longing. Kagefusa steals the Manyu<br>scroll but can't use it. Moved by Chifusa's kindness, she<br>returns it, promising to learn the Breast Flow technique.</p>
 </td>
 </tr>
 </table>
@@ -242,12 +242,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Migi&Dali (English Dub) - Episode 13 - Migi and Dali</h3></th>
+<th><h3 align="center">Manyu Scroll - Episode 5 - The Bum and the Boobs</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/06e97850fb4d9d9d3da55796c95b84341703482926_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fdf41e28a750fc13688fe0b54cdbf9b41705410966_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -256,17 +256,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/migidali/episode-13-migi-and-dali-919433">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/manyu-scroll/episode-5-the-bum-and-the-boobs-919504">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Ichijo house was burned down, and the incident was<br>resolved, gradually bringing life back to normal. Migi and Dali<br>were supposed to return to their usual lives as well,<br>but there was one difference.</p>
+<p align="center">Chifusa and Kaede save Osuzu from assault and help her<br>win over Yasuke, a widower. They also deal with Yasuke's<br>children, who miss their mother's breasts, promising them not to<br>harass women after a unique deal.</p>
 </td>
 </tr>
 </table>
@@ -276,12 +276,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY (German Dub) - Episode 12 - When I Cough, It's the Two of Us</h3></th>
+<th><h3 align="center">Manyu Scroll - Episode 4 - The Lady Diver and Her Breasts</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ddeff491e5056bd824c4052182d532491702910246_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/23c38b8dae332959a451c00e1b28ceba1705410627_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -290,17 +290,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shy/episode-12-when-i-cough-its-the-two-of-us-919429">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/manyu-scroll/episode-4-the-lady-diver-and-her-breasts-919502">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Reinforcements sent by Unilord arrive and assist in cleaning up<br>the aftermath of the battle with Tzveta and Kufufu. Afterward,<br>Teru ends up with an intense cold that leads Iko<br>to look after her and realize just how normal heroes<br>are.</p>
+<p align="center">Chifusa and Kaede turn divers to pay a food bill.<br>Chifusa rescues Oiso from an octopus using her Breast Flow<br>technique, which alters Oiso's breast size. Oiso then kills the<br>octopus, thanking Chifusa.</p>
 </td>
 </tr>
 </table>
@@ -310,12 +310,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY (English Dub) - Episode 12 - When I Cough, It's the Two of Us</h3></th>
+<th><h3 align="center">Manyu Scroll - Episode 3 - Spirited Aboob</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5da9a6f929d0a112cd1d1e0273a0960d1705346583_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/61bc0b712d5d2801016824a4711c1cd01705410605_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -324,17 +324,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shy/episode-12-when-i-cough-its-the-two-of-us-919430">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/manyu-scroll/episode-3-spirited-aboob-919500">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Reinforcements sent by Unilord arrive and assist in cleaning up<br>the aftermath of the battle with Tzveta and Kufufu. Afterward,<br>Teru ends up with an intense cold that leads Iko<br>to look after her and realize just how normal heroes<br>are.</p>
+<p align="center">Starving, Chifusa and Kaede work at a maid bar, get<br>fired, and help a man in a contest to appease<br>a landlord. Chifusa wins despite Manyu attacks and impresses the<br>landlord, who becomes infatuated with her.</p>
 </td>
 </tr>
 </table>
@@ -344,12 +344,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">VINLAND SAGA Season 2 (Tamil Dub) - Episode 24 - Home</h3></th>
+<th><h3 align="center">Manyu Scroll - Episode 2 - Assassins! The Path of Boobalicious Dreams!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/400444fbca03053125500bd0f3b59c831687191900_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/91bc45232709da3d64323bb54c614acc1705409885_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -358,17 +358,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/vinland-saga/episode-24-home-919260">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/manyu-scroll/episode-2-assassins-the-path-of-boobalicious-dreams-919499">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Leif's ship returns to Iceland. Thorfinn discovers what has become<br>of his family after his father's death all those many<br>years ago.</p>
+<p align="center">Chifusa and Kaede, needing funds, encounter a landlady/Manyu assassin who<br>tries to enslave them. Chifusa uses her Breast Flow technique<br>to defeat her, gaining insights into this power and vowing<br>to restore Kaede's breasts.</p>
 </td>
 </tr>
 </table>
@@ -378,12 +378,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far (French Dub) - Episode 6 - A Date with the Strongest Captain of the Knights</h3></th>
+<th><h3 align="center">Manyu Scroll - Episode 1 - Chifusa Betrays Her Clan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/af94110a57968bbf698d4759082e7e3c1683423448_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/45574a46007d62d39d98ad0b241858541705409466_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -392,17 +392,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far/episode-6-a-date-with-the-strongest-captain-of-the-knights-919427">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/manyu-scroll/episode-1-chifusa-betrays-her-clan-919498">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Cain impresses Daim, vice captain of the Chivalric Order, with<br>the monsters he hunted alone. Daim then asks Cain to<br>train with the rest of the Order. As Cain anxiously<br>faces thirty knights alone, a lovely elf woman leaps to<br>his rescue...</p>
+<p align="center">In a world where large breasts are crucial, Chifusa Manyu,<br>heir of the Manyu family, flees with their secret enlargement<br>techniques. Attacked by her sister Kagefusa, Chifusa discovers her ability<br>to transfer breast size and embarks on a journey with<br>comrade Kaede.</p>
 </td>
 </tr>
 </table>
@@ -412,12 +412,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Foolish Angel Dances with the Devil - Episode 2 - The Even More Foolish Angel and Demon</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1048 - For the Future! Yamato and the Great Swordsmen’s Pledge</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2c8ba73626374f01453ea77cb53c38ed1705340533_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3fdd4d8493dd9b1a5b7bdd2c559c85561674352182_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -426,17 +426,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-foolish-angel-dances-with-the-devil/episode-2-the-even-more-foolish-angel-and-demon-918499">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/one-piece/episode-1048-for-the-future-yamato-and-the-great-swordsmens-pledge-919468">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lily and Akutsu both have everything to prove as they<br>embark upon their new, fraught relationship dynamic. Who will come<br>out on top in the battle for dominance?!</p>
+<p align="center">The battle between Kaido and Yamato gets intense. Backed into<br>a corner, Yamato remembers three great swordsmen who he met<br>when he was a child. Their stunning choice for the<br>future of the Land of Wano encourages Yamato.</p>
 </td>
 </tr>
 </table>
@@ -446,12 +446,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Entertainment District Arc (Telugu Dub) - Episode 9 - Defeating an Upper Rank Demon</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1047 - Ascend to the Dawn! A Pink Dragon Gets Agitated</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b06c24fdecd752499d9506c00e992a181643531726_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7b0db909de74defad88911d08ab0af741673746839_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -460,17 +460,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-9-defeating-an-upper-rank-demon-919258">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/one-piece/episode-1047-ascend-to-the-dawn-a-pink-dragon-gets-agitated-919466">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hinatsuru's use of wisteria poison leaves Gyutaro momentarily vulnerable, but<br>Tanjiro and Uzui's attacks fall just short. Using his Blood<br>Demon Art, Gyutaro vanishes from Uzui's sight only to reappear<br>assaulting Hinatsuru. Tanjiro and Uzui attempt to save her, but<br>they are thwarted by Daki's Belt.</p>
+<p align="center">Dogstorm confronts his sworn enemy who destroyed his country. Meanwhile,<br>Cat Viper faces Perospero who is responsible for Pedro’s death.<br>At Tokage Port, Momonosuke roars with his determined eyes.</p>
 </td>
 </tr>
 </table>
@@ -480,12 +480,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! - Episode 2 - It's Super Warm Inside the Snow Fort</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1046 - Taking a Chance! The Two Arms Go into Battle!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/067f4fc054e12758b3d2757d34dfc7af1705338563_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ede6257ae13a307b21c4155e58866df71673141348_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -494,17 +494,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-2-its-super-warm-inside-the-snow-fort-918486">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/one-piece/episode-1046-taking-a-chance-the-two-arms-go-into-battle-919465">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsubasa decides to attend the Kitami Winter Festival with Minami.<br>Tsubasa is nervous and wonders if it classifies as a<br>date. Some days later, during lunch, Minami asks if she<br>can go to Tsubasa's house. On their way there the<br>two come upon a snow mound.</p>
+<p align="center">Zoro gets back on his feet and along with Sanji,<br>confronts King and Queen, the Lead Performers of the Animal<br>Kingdom Pirates. Watching Zoro fight, Hyogoro and Kawamatsu remember someone<br>from way back.</p>
 </td>
 </tr>
 </table>
@@ -514,12 +514,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">'Tis Time for "Torture," Princess - Episode 2 - Untitled</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Recapping Fierce Fights! Straw Hats vs. Tobi Roppo</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/417e885155f6bb5977e3f2bc8b47ad991705332957_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b56315e7bfbcf8678a2312d852d2d6021671932463_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -528,17 +528,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tis-time-for-torture-princess/episode-2-untitled-918473">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/one-piece/one-piece-wano-kuni-892-current-english-dub-recapping-fierce-fights-straw-hats-vs-tobi-roppo-919472">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Our noble princess is faced with a number of new<br>faces out to torment her, including a demonic duo of<br>oni, a tamer commanding barbaric beasts, and a towering titan<br>of terror.</p>
+<p align="center">Zoro and Sanji look back on their friends’ battles against<br>the Tobi Roppo, the top officers of the Animal Kingdom<br>Pirates. They describe how hard Nami, Robin, and the others<br>fought to defeat the formidable enemies.</p>
 </td>
 </tr>
 </table>
@@ -548,12 +548,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 - Episode 2 - The Heroes Are a Couple of Beauties</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1045 - A Spell! Kid and Zoro Facing Threats!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/733ca18ad414b8b72f32b5af5990eb311705332555_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d3e36a463a0fef0dbe6667bc50c8f0f21671327059_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -562,17 +562,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-2-the-heroes-are-a-couple-of-beauties-918459">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/one-piece/episode-1045-a-spell-kid-and-zoro-facing-threats-919463">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">We meet one of Misumi Makoto's classmates back on earth,<br>who also has a curious encounter with a certain goddess<br>who presides over a certain isekai. She and one other<br>are sent there as heroes to help the hyumans defeat<br>the demons.</p>
+<p align="center">Killer is shocked to find out who Hawkins’ straw doll<br>he slashed represents. Meanwhile, Sanji who is in a hard<br>battle against Queen and King sees enemy brutes going after<br>the injured Zoro, and no one else is there to<br>save him.</p>
 </td>
 </tr>
 </table>
@@ -582,12 +582,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KAWAGOE BOYS SING -Now or Never- - Episode 12 - Now or Never</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1044 - Clutch! A Demon Incarnate, Robin!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ca8c6684c19bf255fe1e902ebb7cd6a81705321117_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d858ead659e07114995caf95c78afb571670722396_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -596,17 +596,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/kawagoe-boys-sing-now-or-never-/episode-12-now-or-never-912005">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/one-piece/episode-1044-clutch-a-demon-incarnate-robin-919461">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Cardbocchi has vanished. The rest of the choir tries to<br>find him so they can help with whatever he's going<br>through. Tomorrow is the final day of the competition and<br>the choir's last chance to show what they can do.<br>Will they make it there together?</p>
+<p align="center">Black Maria torments Robin both physically and spiritually. As she<br>burns in hellfire, Robin remembers the people who gave her<br>a hard time and the people who supported her, and<br>she as Demon Child shows what she is really capable<br>of.</p>
 </td>
 </tr>
 </table>
@@ -616,12 +616,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HIGH CARD - Episode 14 - TRUTH OF THE HERO</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1043 - Slash the Nightmare - Brook Draws His Freezing Sword!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b4436e9f876845107a1240f79ccfb2791705320974_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a02383f4d3b629039e2b7d02307ca48e1670118412_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -630,17 +630,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/high-card/episode-14-truth-of-the-hero-918534">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/one-piece/episode-1043-slash-the-nightmare-brook-draws-his-freezing-sword-919458">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">In the dense mist, Brook is surprised to see his<br>old friends, the Rumbar Pirates and Laboon. They reminisce about<br>the old days and play music together, however, they suddenly<br>attack Brook.</p>
 </td>
 </tr>
 </table>
@@ -650,12 +650,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">CHIBI MARUKO-CHAN - Episode 1419 - Hiroshi Longs to Live in the Countryside \ The Sakura Family Enters a Marathon? \ </h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1042 - The Predator’s Trap - Black Maria’s Temptation</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c3269683b970088dc30a0500a97882911705313515_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/337c8feb0fd673fda42e7954222bc6941669512810_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -664,17 +664,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/15/2024</td>
+<td align="center">1/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/chibi-maruko-chan/episode-1419-hiroshi-longs-to-live-in-the-countryside-the-sakura-family-enters-a-marathon-919388">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/one-piece/episode-1042-the-predators-trap-black-marias-temptation-919454">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Kaido tries to convince Yamato to become the Shogun of<br>the Land of Wano and rule the country with the<br>special power he obtained by accident. Meanwhile, Saul, Professor Clover,<br>and Robin’s mother Olvia suddenly appear in front of her.</p>
 </td>
 </tr>
 </table>
