@@ -1,8 +1,42 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 19, 2024, 7:53:48 AM</em></p>
+<p align="center"><em>Updated on: Jan 19, 2024, 7:21:00 PM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
+<tr>
+<th><h3 align="center">Ranking of Kings (Tamil Dub) - Episode 20 - Immortal vs. Invincible</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5c287a47ad4460e5a829330c4995c1711646302455_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/ranking-of-kings/episode-20-immortal-vs-invincible-919622">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Miranjo finds herself answering to Shiina and her own mother<br>for her actions. Bojji is faced with the prospect of<br>passing judgment on Miranjo. The situation with Ouken grows even<br>more dire until a new warrior arrives, but is this<br>newcomer really an ally?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">JUJUTSU KAISEN Season 2 (Portuguese Dub) - Episode 47 - Shibuya Incident - Gate, Close</h3></th>
 </tr>
@@ -641,40 +675,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Liz is a succubus who appears in one of Marin's<br>favorite slice of life series, "SuccIDK." Marin had some interest<br>in cosplaying Liz-kyun but didn't think she could pull it<br>off until Wakana gave her a little push. With the<br>cosplay ready, they head to a studio for a photoshoot,<br>but the studio happened to be a rather unexpected location.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Code Geass: Lelouch of the Rebellion (Hindi Dub) - Episode 20 - Stage 20 - The Battle for Kyushu</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/34a9610c7d25f7679dd74cf4929aac9a1498597280_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/code-geass/episode-20-stage-20-the-battle-for-kyushu-919564">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Chinese Federation makes their move, claiming to support the<br>J.L.F. The Black Knights refuse to be tied to them<br>while the Britannian Empire plans to push back the attack.<br>When given little choice, Suzaku must decide to work with<br>Zero or give up.</p>
 </td>
 </tr>
 </table>
