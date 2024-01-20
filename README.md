@@ -1,8 +1,144 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 20, 2024, 7:52:45 AM</em></p>
+<p align="center"><em>Updated on: Jan 20, 2024, 7:19:22 PM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
+<tr>
+<th><h3 align="center">Firefighter Daigo: Rescuer in Orange - Episode 15 - Special Order Dispatch</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/29be497a2d1e5581c17646e65462e9b81705726056_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/20/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/firefighter-daigo-rescuer-in-orange/episode-15-special-order-dispatch-918031">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Fuwa Rescue and Shougadani Rescue have come to train for<br>the Tokyo Fire Department’s internal selection tournament. While all of<br>them are focused on their training, a fire breaks out<br>in a high rise building. Both squads receive a special<br>order dispatch.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Angel Next Door Spoils Me Rotten (Hindi Dub) - Episode 10 - The Angel in the Dream</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ccdd5eace19b5999c484e15b69cd85ad1678537209_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/20/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-angel-next-door-spoils-me-rotten/episode-10-the-angel-in-the-dream-919681">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Amane explains the reason he left home in middle school<br>and began living alone. Mahiru empathizes with his sorrow and<br>embraces him. "At least let me spoil you a little."<br>The next day, Mahiru's classmates ask her about the boy<br>she was seen walking with. Mahiru nonchalantly admits that it<br>was a date, surprising Amane. Mahiru then confesses, "there's no<br>one more dear to me in life than him."</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">My Love Story with Yamada-kun at Lv999 (Hindi Dub) - Episode 10 - I'll Definitely Be Hurt Someday</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fb60a6c36413dcce1a0daba939a492201685809232_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/20/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/my-love-story-with-yamada-kun-at-lv999/episode-10-ill-definitely-be-hurt-someday-919680">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Akane was about to collapse while going through a horrible<br>cold, but then Yamada appears before her. Yamada picks her<br>up and carries her to a nearby hospital. Meanwhile, noticing<br>that he had missed his cram school lesson, his classmate<br>Tsubaki, who recently joined their guild, starts to worry about<br>him. Tsubaki had become acquainted with Yamada after playing against<br>him in another online game and also knows why he<br>avoids associating too closely with women. In her heart, she<br>knew, “it would be horrible to fall for someone this<br>cruel,” but she couldn’t help but feel Yamada was starting<br>to mean more and more to her…</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Buddy Daddies (Hindi Dub) - Episode 10 - LOST AT SEA</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9050c09e2c91ab894f9d54f36b57b6fc1679070229_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/20/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/buddy-daddies/episode-10-lost-at-sea-919693">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">An unexpected encounter at the daycare leads Kazuki and Rei<br>to seriously reconsider their guardianship of Miri.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">CARDFIGHT!! VANGUARD Divinez - Episode 2 - Fated Clash</h3></th>
 </tr>
@@ -539,142 +675,6 @@
 <tr>
 <td colspan="2">
 <p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (English Dub) - Episode 1 - Dragged into Another World!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/55d0181c744b55f6bb406fd8156afc5b1705692544_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-1-dragged-into-another-world-919661">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ordinary high school student Usato is mistakenly suddenly summoned to<br>another world along with his classmates and student council members<br>Suzune and Kazuki.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Snack Basue - Episode 2 - Come Rain or Come Shine / Sweet Baby / Still Waiting</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dce5c81cdc1705d82f67916a29a3efee1705686024_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/snack-basue/episode-2-come-rain-or-come-shine-sweet-baby-still-waiting-919063">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The ladies at the snack bar planned on interviewing two<br>new hires—a girl named Kosame and a robber?! With trouble<br>at hand, will they be able to handle this one?<br>With passionate talks of princes on white horses, etc., it's<br>another fun night at Snack Basue.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Demon Prince of Momochi House - Episode 3 - A Fourth Friend</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7019ffb308d44b5437e451790d48d6731705668367_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-3-a-fourth-friend-918073">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Himari brings a group of her new classmates home with<br>her only to discover that something is very, very wrong<br>with one of them.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic - Episode 3 - Brutal! The Darkness of Llinger!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a3ceea72f902a0c64bfc8142ebeccd1705668258_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-3-brutal-the-darkness-of-llinger-918086">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Usato is quite literally thrown into his next training assignment:<br>surviving the wild woods known as the Darkness of Llinger<br>until he can slay its most fearsome inhabitant.</p>
 </td>
 </tr>
 </table>
