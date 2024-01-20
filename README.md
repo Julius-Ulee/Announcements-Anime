@@ -1,15 +1,15 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 19, 2024, 7:21:00 PM</em></p>
+<p align="center"><em>Updated on: Jan 20, 2024, 7:52:45 AM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
 <tr>
-<th><h3 align="center">Ranking of Kings (Tamil Dub) - Episode 20 - Immortal vs. Invincible</h3></th>
+<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez - Episode 2 - Fated Clash</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5c287a47ad4460e5a829330c4995c1711646302455_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/009455901158796912b8131c9a4aedc51705698193_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -22,13 +22,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/ranking-of-kings/episode-20-immortal-vs-invincible-919622">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/cardfight-vanguard-overdress/episode-2-fated-clash-919233">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Miranjo finds herself answering to Shiina and her own mother<br>for her actions. Bojji is faced with the prospect of<br>passing judgment on Miranjo. The situation with Ouken grows even<br>more dire until a new warrior arrives, but is this<br>newcomer really an ally?</p>
+<p align="center">With the knowledge that Hikari's illness may be cured if<br>he is the last one standing in the "Fated Clash",<br>Akina gains a sense for Vanguard under the tutelage of<br>Nao, his senior from his part-time job. However, as if<br>his line of thinking was foreseen, Gabwelius appears before Akina<br>once more.</p>
 </td>
 </tr>
 </table>
@@ -38,12 +38,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Portuguese Dub) - Episode 47 - Shibuya Incident - Gate, Close</h3></th>
+<th><h3 align="center">Girlfriend, Girlfriend Season 2 (English Dub) - Episode 12 - Her Resolve, and...</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/572d83082e10c4c28b1dd73d6cf0855b1703786007_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a104e111f0db82afd13c6607e905001f1703265295_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -52,17 +52,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-47-shibuya-incident-gate-close-919625">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/girlfriend-girlfriend/episode-12-her-resolve-and-919697">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Choso begins to realize the identity of the mastermind parasitizing<br>Geto's corpse as sorcerers gather for the final moments of<br>the Shibuya Incident. The special-grade sorcerer, Yuki Tsukumo, comes to<br>the rescue when they're on the verge of death.</p>
+<p align="center">Shino confesses what happened on the island to Rika, who<br>is less than sympathetic. In fact, she predicts that Shino<br>is simply going to be rejected, and texts Naoya to<br>come over so she can see it play out for<br>herself.</p>
 </td>
 </tr>
 </table>
@@ -72,12 +72,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Spanish Dub) - Episode 47 - Shibuya Incident - Gate, Close</h3></th>
+<th><h3 align="center">The Kingdoms of Ruin (English Dub) - Episode 12 - Love and Revenge</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/572d83082e10c4c28b1dd73d6cf0855b1703786007_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d25575def52abfc051f564d1e3afc0831703265137_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -86,17 +86,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-47-shibuya-incident-gate-close-919630">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-kingdoms-of-ruin/episode-12-love-and-revenge-919695">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Choso begins to realize the identity of the mastermind parasitizing<br>Geto's corpse as sorcerers gather for the final moments of<br>the Shibuya Incident. The special-grade sorcerer, Yuki Tsukumo, comes to<br>the rescue when they're on the verge of death.</p>
+<p align="center">Empowered by Doroka's Love Spell, Adonis reaches new heights of<br>physical and magical power. He unleashes his magic in a<br>way that fulfils a promise he made to Chloe long<br>ago.</p>
 </td>
 </tr>
 </table>
@@ -106,12 +106,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Russian Dub) - Episode 47 - Shibuya Incident - Gate, Close</h3></th>
+<th><h3 align="center">GOBLIN SLAYER II (English Dub) - Episode 12 - O Prayers, Have You Reached Heaven?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/572d83082e10c4c28b1dd73d6cf0855b1703786007_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bd931310c47deb9548d156c83a4a26c21703251540_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -120,17 +120,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-47-shibuya-incident-gate-close-919631">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/goblin-slayer/episode-12-o-prayers-have-you-reached-heaven-919691">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Choso begins to realize the identity of the mastermind parasitizing<br>Geto's corpse as sorcerers gather for the final moments of<br>the Shibuya Incident. The special-grade sorcerer, Yuki Tsukumo, comes to<br>the rescue when they're on the verge of death.</p>
+<p align="center">Goblin Slayer and party manage to save the Princess but<br>end up having to face a rather unexpected, terrifying foe.</p>
 </td>
 </tr>
 </table>
@@ -140,12 +140,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Italian Dub) - Episode 47 - Shibuya Incident - Gate, Close</h3></th>
+<th><h3 align="center">The Rising of the Shield Hero Season 3 (French Dub) - Episode 12 - The Ones We Must Protect</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/572d83082e10c4c28b1dd73d6cf0855b1703786007_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6373b5c86f79ed622253f0987ddad0021703251378_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -154,17 +154,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-47-shibuya-incident-gate-close-919633">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-12-the-ones-we-must-protect-919687">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Choso begins to realize the identity of the mastermind parasitizing<br>Geto's corpse as sorcerers gather for the final moments of<br>the Shibuya Incident. The special-grade sorcerer, Yuki Tsukumo, comes to<br>the rescue when they're on the verge of death.</p>
+<p align="center">Naofumi begins training in the Way of the Dragon Vein<br>with Sadeena and Gaelion. Back at the village, the blacksmith<br>visits, bringing new equipment for Raphtalia. When she tries it<br>on, it reveals a shocking secret about her past...</p>
 </td>
 </tr>
 </table>
@@ -174,12 +174,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Castilian Dub) - Episode 47 - Shibuya Incident - Gate, Close</h3></th>
+<th><h3 align="center">The Rising of the Shield Hero Season 3 (German Dub) - Episode 11 - Justice VS Justice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/572d83082e10c4c28b1dd73d6cf0855b1703786007_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/86b46d7e42a0316e1127dfa9fb7adaa31702648662_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -188,17 +188,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-47-shibuya-incident-gate-close-919635">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-11-justice-vs-justice-919684">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Choso begins to realize the identity of the mastermind parasitizing<br>Geto's corpse as sorcerers gather for the final moments of<br>the Shibuya Incident. The special-grade sorcerer, Yuki Tsukumo, comes to<br>the rescue when they're on the verge of death.</p>
+<p align="center">Rishia faces Itsuki in the underground arena. As Itsuki rants<br>and raves, it's clear that he's also come under the<br>mental influence of Myne and unlocked a Curse series. Naofumi<br>evacuates the children as Rishia enters her most dangerous fight<br>yet.</p>
 </td>
 </tr>
 </table>
@@ -208,12 +208,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (French Dub) - Episode 46 - Metamorphosis, Part 2</h3></th>
+<th><h3 align="center">The Rising of the Shield Hero Season 3 (French Dub) - Episode 11 - Justice VS Justice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6e3b66a9c91cdd3cab916735380757a91703179175_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/86b46d7e42a0316e1127dfa9fb7adaa31702648662_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -222,17 +222,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-46-metamorphosis-part-2-919629">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-11-justice-vs-justice-919686">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the<br>death was resolved, the being wearing Geto's body asked, "Shall<br>I save you, Mahito?" Itadori immediately recognizes the man before<br>him as the very same one who sealed away Gojo<br>and leaps to attack.</p>
+<p align="center">Rishia faces Itsuki in the underground arena. As Itsuki rants<br>and raves, it's clear that he's also come under the<br>mental influence of Myne and unlocked a Curse series. Naofumi<br>evacuates the children as Rishia enters her most dangerous fight<br>yet.</p>
 </td>
 </tr>
 </table>
@@ -242,12 +242,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (German Dub) - Episode 44 - Right and Wrong, Part 3</h3></th>
+<th><h3 align="center">The Demon Prince of Momochi House (English Dub) - Episode 1 - Strangers of Momochi House</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/30e1532a790bd18ed8df1a6a350de3b31701968643_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/299304eea8af599f3d35edf694d5a01d1705696395_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -256,17 +256,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-44-right-and-wrong-part-3-919627">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-1-strangers-of-momochi-house-919679">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Itadori stands in a daze at the disaster before his<br>eyes, his mind already well past its limit. As a<br>curse, Mahito is elated at seeing his ideal sequence of<br>events play out before him, and he prepares to further<br>finish off Itadori.</p>
+<p align="center">On her 16th birthday, Momochi Himari the orphan receives a<br>will from her deceased parents and inherits Momochi House.</p>
 </td>
 </tr>
 </table>
@@ -276,12 +276,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Hindi Dub) - Episode 42 - Right and Wrong</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (English Dub) - Episode 17 - Take Care</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/60409b15ede3df68d0781d1f3f0775601700711508_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1d6de6caa7dad7c08b4a57c18be14d991705693447_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -290,17 +290,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-42-right-and-wrong-919642">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-17-take-care-919675">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Itadori reawakens with grievous resolve as he bears witness to<br>the aftermath Sukuna has wrought upon Shibuya. Meanwhile, Nanami continues<br>to fight through packs of transfigured humans in an exhausted<br>haze until Mahito appears before him.</p>
+<p align="center">Now that Sein finally has a lead on the whereabouts<br>of his long-lost friend, is it time for him and<br>Frieren's party to part ways?</p>
 </td>
 </tr>
 </table>
@@ -310,12 +310,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Tamil Dub) - Episode 42 - Right and Wrong</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Portuguese Dub) - Episode 15 - Smells Like Trouble</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/60409b15ede3df68d0781d1f3f0775601700711508_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -324,17 +324,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-42-right-and-wrong-919643">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-15-smells-like-trouble-919662">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Itadori reawakens with grievous resolve as he bears witness to<br>the aftermath Sukuna has wrought upon Shibuya. Meanwhile, Nanami continues<br>to fight through packs of transfigured humans in an exhausted<br>haze until Mahito appears before him.</p>
+<p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
 </td>
 </tr>
 </table>
@@ -344,12 +344,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Telugu Dub) - Episode 27 - Hidden Inventory 3</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (German Dub) - Episode 15 - Smells Like Trouble</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3b6d2ad3fd5dd6f9366f1317bec903651689869516_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -358,17 +358,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-27-hidden-inventory-3-919641">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-15-smells-like-trouble-919663">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gojo and Geto beat back the curse users after the<br>bounty placed on Amanai's head when her cell phone rings.<br>A captured Kuroi is displayed on her phone. Gojo tries<br>to bring Amanai back to Jujutsu High, but she insists<br>on going to the negotiations herself.</p>
+<p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
 </td>
 </tr>
 </table>
@@ -378,12 +378,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride Season 2 (English Dub) - Episode 24 - The show must go on. I</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Spanish Dub) - Episode 15 - Smells Like Trouble</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d9edb3ccd4859e6ce29a5d2949a5c2f11703159442_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -392,17 +392,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-ancient-magus-bride/episode-24-the-show-must-go-on-i-919624">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-15-smells-like-trouble-919664">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills.</p>
+<p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
 </td>
 </tr>
 </table>
@@ -412,12 +412,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Witch and the Beast - Episode 2 - The Witch's Pastime: Opening Act</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Italian Dub) - Episode 15 - Smells Like Trouble</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d37cc0eceb636d123e237098765954b91705589042_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -426,17 +426,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-witch-and-the-beast/episode-2-the-witchs-pastime-opening-act-918997">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-15-smells-like-trouble-919666">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Guideau's frustration mounts as witch-related cases prove hard to come<br>by, but a string of horrific serial murders may prove<br>the answer to her prayers. Meanwhile, the city police force's<br>only mage has her own ideas about the case.</p>
+<p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
 </td>
 </tr>
 </table>
@@ -446,12 +446,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Brave Bang Bravern! - Episode 1 - Wait's Over, Isami!</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Castilian Dub) - Episode 15 - Smells Like Trouble</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/132f953538a2c5959b8473d8fc8a31491705587060_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -460,17 +460,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/brave-bang-bravern/episode-1-waits-over-isami-919603">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-15-smells-like-trouble-919667">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The nations of the world are taking part in joint<br>military exercises when a devastating attack is suddenly unleashed on<br>the world from outer space.</p>
+<p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
 </td>
 </tr>
 </table>
@@ -480,12 +480,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Brave Bang Bravern! - Episode 2 - Isami?! You'll Be Here Soon, Won't You, Isami?!</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Tamil Dub) - Episode 15 - Smells Like Trouble</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5e4baeec52e20da51c13401f0816139d1705587089_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -494,17 +494,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/brave-bang-bravern/episode-2-isami-youll-be-here-soon-wont-you-isami-919604">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-15-smells-like-trouble-919670">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After saving the day, Isami is interrogated about this strange<br>new mech suit that can not only talk, but seemingly<br>has sentience and desperately wants to be reunited with Isami.</p>
+<p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
 </td>
 </tr>
 </table>
@@ -514,12 +514,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Delusional Monthly Magazine - Episode 2 - Issue 2: Hold on a Moment, Why Are You Working Here?!</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Hindi Dub) - Episode 15 - Smells Like Trouble</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/14b89e8f3237eefe1ac7501c155580521705583170_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -528,17 +528,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/delusional-monthly-magazine/episode-2-issue-2-hold-on-a-moment-why-are-you-working-here-918981">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-15-smells-like-trouble-919672">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Continuing his search for information on the mysterious Mo Continent,<br>Goro Sato joins the staff at Monthly Moso Science to<br>investigate strange rumors of an unusual glowing well.</p>
+<p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
 </td>
 </tr>
 </table>
@@ -548,12 +548,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too (Hindi Dub) - Episode 10 - Master and Apprentice</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (English Dub) - Episode 1 - Dragged into Another World!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/49a6827cc8ad37ac65415fdf2ce422e91685981897_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/55d0181c744b55f6bb406fd8156afc5b1705692544_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -562,17 +562,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too/episode-10-master-and-apprentice-919556">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-1-dragged-into-another-world-919661">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuuya gets an offer to join the entertainment industry. His<br>friends are stunned to learn that he’s already had a<br>brush with that life. In the other world, Yuuya’s leveling<br>up plateaus and he wonders if he’ll be able to<br>get any stronger on his own.</p>
+<p align="center">Ordinary high school student Usato is mistakenly suddenly summoned to<br>another world along with his classmates and student council members<br>Suzune and Kazuki.</p>
 </td>
 </tr>
 </table>
@@ -582,12 +582,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">VINLAND SAGA Season 2 (Telugu Dub) - Episode 16 - Great Purpose</h3></th>
+<th><h3 align="center">Snack Basue - Episode 2 - Come Rain or Come Shine / Sweet Baby / Still Waiting</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5871248a66ff9c713f937f9f30d904ff1682351365_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dce5c81cdc1705d82f67916a29a3efee1705686024_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -596,17 +596,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/vinland-saga/episode-16-great-purpose-919562">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/snack-basue/episode-2-come-rain-or-come-shine-sweet-baby-still-waiting-919063">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Snake and his men continue looking for Gardar while Thorfinn<br>and Einar attempt to help him escape.</p>
+<p align="center">The ladies at the snack bar planned on interviewing two<br>new hires—a girl named Kosame and a robber?! With trouble<br>at hand, will they be able to handle this one?<br>With passionate talks of princes on white horses, etc., it's<br>another fun night at Snack Basue.</p>
 </td>
 </tr>
 </table>
@@ -616,12 +616,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Reincarnation Of The Strongest Exorcist In Another World (Hindi Dub) - Episode 7 - Brother and Sister</h3></th>
+<th><h3 align="center">The Demon Prince of Momochi House - Episode 3 - A Fourth Friend</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f1254f7f17ad7dacc9d656778bbe67cc1676732981_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7019ffb308d44b5437e451790d48d6731705668367_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -630,17 +630,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-reincarnation-of-the-strongest-exorcist-in-another-world/episode-7-brother-and-sister-919555">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-3-a-fourth-friend-918073">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The truth about Kyle and Mabel is revealed.</p>
+<p align="center">Himari brings a group of her new classmates home with<br>her only to discover that something is very, very wrong<br>with one of them.</p>
 </td>
 </tr>
 </table>
@@ -650,12 +650,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling (Telugu Dub) - Episode 11 - I Am Currently at a Love Hotel</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic - Episode 3 - Brutal! The Darkness of Llinger!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/32c92065e43fd3f839c4869514965bd41647702472_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a3ceea72f902a0c64bfc8142ebeccd1705668258_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -664,17 +664,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2024</td>
+<td align="center">1/19/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/my-dress-up-darling/episode-11-i-am-currently-at-a-love-hotel-919557">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-3-brutal-the-darkness-of-llinger-918086">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Liz is a succubus who appears in one of Marin's<br>favorite slice of life series, "SuccIDK." Marin had some interest<br>in cosplaying Liz-kyun but didn't think she could pull it<br>off until Wakana gave her a little push. With the<br>cosplay ready, they head to a studio for a photoshoot,<br>but the studio happened to be a rather unexpected location.</p>
+<p align="center">Usato is quite literally thrown into his next training assignment:<br>surviving the wild woods known as the Darkness of Llinger<br>until he can slay its most fearsome inhabitant.</p>
 </td>
 </tr>
 </table>
