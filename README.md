@@ -1,15 +1,15 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 20, 2024, 7:19:22 PM</em></p>
+<p align="center"><em>Updated on: Jan 21, 2024, 7:57:45 AM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
 <tr>
-<th><h3 align="center">Firefighter Daigo: Rescuer in Orange - Episode 15 - Special Order Dispatch</h3></th>
+<th><h3 align="center">Tales of Wedding Rings (English Dub) - Episode 1 - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/29be497a2d1e5581c17646e65462e9b81705726056_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e4361b7d4b379762219517d581f9ccd51704532004_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -22,13 +22,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/firefighter-daigo-rescuer-in-orange/episode-15-special-order-dispatch-918031">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-1-episode-1-919751">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fuwa Rescue and Shougadani Rescue have come to train for<br>the Tokyo Fire Department’s internal selection tournament. While all of<br>them are focused on their training, a fire breaks out<br>in a high rise building. Both squads receive a special<br>order dispatch.</p>
+<p align="center">Satou, an ordinary male student, was unable to confess his<br>love to his childhood friend, Hime, but one day she<br>suddenly announces she's moving far away. Satou chases after Hime<br>and follows her through a gate of light into another<br>world known as Arnulus!</p>
 </td>
 </tr>
 </table>
@@ -38,12 +38,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Angel Next Door Spoils Me Rotten (Hindi Dub) - Episode 10 - The Angel in the Dream</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions! (English Dub) - Episode 12 - I Shall Survive Using Potions!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ccdd5eace19b5999c484e15b69cd85ad1678537209_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8c02742d6f055e635ebcd9560fc3694f1705787527_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -56,13 +56,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-angel-next-door-spoils-me-rotten/episode-10-the-angel-in-the-dream-919681">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/i-shall-survive-using-potions/episode-12-i-shall-survive-using-potions-919740">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Amane explains the reason he left home in middle school<br>and began living alone. Mahiru empathizes with his sorrow and<br>embraces him. "At least let me spoil you a little."<br>The next day, Mahiru's classmates ask her about the boy<br>she was seen walking with. Mahiru nonchalantly admits that it<br>was a date, surprising Amane. Mahiru then confesses, "there's no<br>one more dear to me in life than him."</p>
+<p align="center">An epidemic spreads like wildfire throughout the capital of the<br>Kingdom of Jusral, and Kaoru is the only one who<br>can stop it... but that would mean exposing her true<br>identity yet again. Will she ever have the peaceful life<br>she dreamed of?</p>
 </td>
 </tr>
 </table>
@@ -72,12 +72,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Love Story with Yamada-kun at Lv999 (Hindi Dub) - Episode 10 - I'll Definitely Be Hurt Someday</h3></th>
+<th><h3 align="center">A Sign of Affection (English Dub) - Episode 1 - Yuki's World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fb60a6c36413dcce1a0daba939a492201685809232_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/535afbaf735c23b7a7a1a03adaf272fd1704532565_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -90,13 +90,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/my-love-story-with-yamada-kun-at-lv999/episode-10-ill-definitely-be-hurt-someday-919680">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-1-yukis-world-919739">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akane was about to collapse while going through a horrible<br>cold, but then Yamada appears before her. Yamada picks her<br>up and carries her to a nearby hospital. Meanwhile, noticing<br>that he had missed his cram school lesson, his classmate<br>Tsubaki, who recently joined their guild, starts to worry about<br>him. Tsubaki had become acquainted with Yamada after playing against<br>him in another online game and also knows why he<br>avoids associating too closely with women. In her heart, she<br>knew, “it would be horrible to fall for someone this<br>cruel,” but she couldn’t help but feel Yamada was starting<br>to mean more and more to her…</p>
+<p align="center">Yuki, who was born in a world where sounds don't<br>sound like anything, runs into the enigmatic Itsuomi and immediately<br>takes an interest in him.</p>
 </td>
 </tr>
 </table>
@@ -106,12 +106,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Buddy Daddies (Hindi Dub) - Episode 10 - LOST AT SEA</h3></th>
+<th><h3 align="center">The Apothecary Diaries (English Dub) - Episode 13 - Serving in the Outer Court</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9050c09e2c91ab894f9d54f36b57b6fc1679070229_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5be31464347e6bde3ccabe2c32a9abc01705783511_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -124,13 +124,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/buddy-daddies/episode-10-lost-at-sea-919693">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-13-serving-in-the-outer-court-919736">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">An unexpected encounter at the daycare leads Kazuki and Rei<br>to seriously reconsider their guardianship of Miri.</p>
+<p align="center">To Maomao's surprise, Jinshi brings her directly to his house<br>instead of taking her back to the rear palace, and<br>tells her she's to work in the outer court. Not<br>only is there much to learn, it seems there's many<br>eyes on her as the new hire.</p>
 </td>
 </tr>
 </table>
@@ -140,12 +140,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez - Episode 2 - Fated Clash</h3></th>
+<th><h3 align="center">The Apothecary Diaries (German Dub) - Episode 12 - The Eunuch and the Courtesan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/009455901158796912b8131c9a4aedc51705698193_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/00e267bac969412241f8a8b7cdd6d8071703356790_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -154,17 +154,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/cardfight-vanguard-overdress/episode-2-fated-clash-919233">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-12-the-eunuch-and-the-courtesan-919729">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the knowledge that Hikari's illness may be cured if<br>he is the last one standing in the "Fated Clash",<br>Akina gains a sense for Vanguard under the tutelage of<br>Nao, his senior from his part-time job. However, as if<br>his line of thinking was foreseen, Gabwelius appears before Akina<br>once more.</p>
+<p align="center">Discovering that Maomao's kidnappers were connected to Fengming's family, Jinshi<br>is faced with a choice between keeping Maomao in the<br>rear palace where he can be near her or releasing<br>her from her service.</p>
 </td>
 </tr>
 </table>
@@ -174,12 +174,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Girlfriend, Girlfriend Season 2 (English Dub) - Episode 12 - Her Resolve, and...</h3></th>
+<th><h3 align="center">The Apothecary Diaries (Hindi Dub) - Episode 12 - The Eunuch and the Courtesan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a104e111f0db82afd13c6607e905001f1703265295_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/00e267bac969412241f8a8b7cdd6d8071703356790_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -188,17 +188,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/girlfriend-girlfriend/episode-12-her-resolve-and-919697">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-12-the-eunuch-and-the-courtesan-919730">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shino confesses what happened on the island to Rika, who<br>is less than sympathetic. In fact, she predicts that Shino<br>is simply going to be rejected, and texts Naoya to<br>come over so she can see it play out for<br>herself.</p>
+<p align="center">Discovering that Maomao's kidnappers were connected to Fengming's family, Jinshi<br>is faced with a choice between keeping Maomao in the<br>rear palace where he can be near her or releasing<br>her from her service.</p>
 </td>
 </tr>
 </table>
@@ -208,12 +208,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Kingdoms of Ruin (English Dub) - Episode 12 - Love and Revenge</h3></th>
+<th><h3 align="center">The Apothecary Diaries (French Dub) - Episode 12 - The Eunuch and the Courtesan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d25575def52abfc051f564d1e3afc0831703265137_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/00e267bac969412241f8a8b7cdd6d8071703356790_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -222,17 +222,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-kingdoms-of-ruin/episode-12-love-and-revenge-919695">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-12-the-eunuch-and-the-courtesan-919734">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Empowered by Doroka's Love Spell, Adonis reaches new heights of<br>physical and magical power. He unleashes his magic in a<br>way that fulfils a promise he made to Chloe long<br>ago.</p>
+<p align="center">Discovering that Maomao's kidnappers were connected to Fengming's family, Jinshi<br>is faced with a choice between keeping Maomao in the<br>rear palace where he can be near her or releasing<br>her from her service.</p>
 </td>
 </tr>
 </table>
@@ -242,12 +242,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">GOBLIN SLAYER II (English Dub) - Episode 12 - O Prayers, Have You Reached Heaven?</h3></th>
+<th><h3 align="center">The Apothecary Diaries (French Dub) - Episode 11 - Reducing Two to One</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bd931310c47deb9548d156c83a4a26c21703251540_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d4713e5570dca1746610b30c678f84811702739912_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -256,17 +256,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/goblin-slayer/episode-12-o-prayers-have-you-reached-heaven-919691">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-11-reducing-two-to-one-919731">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goblin Slayer and party manage to save the Princess but<br>end up having to face a rather unexpected, terrifying foe.</p>
+<p align="center">Maomao confronts Fengming about the dark secret she's been hiding<br>from her noble Lady Ah-Duo.</p>
 </td>
 </tr>
 </table>
@@ -276,12 +276,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (French Dub) - Episode 12 - The Ones We Must Protect</h3></th>
+<th><h3 align="center">Solo Leveling (Spanish Dub) - Episode 1 - I'm Used to It</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6373b5c86f79ed622253f0987ddad0021703251378_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9685e02cab2b3d22296e7c7e46d78aa81704534974_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -290,17 +290,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-12-the-ones-we-must-protect-919687">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/solo-leveling/episode-1-im-used-to-it-919711">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Naofumi begins training in the Way of the Dragon Vein<br>with Sadeena and Gaelion. Back at the village, the blacksmith<br>visits, bringing new equipment for Raphtalia. When she tries it<br>on, it reveals a shocking secret about her past...</p>
+<p align="center">Around ten years ago, gates that connected our world to<br>another dimension began to appear, leading to the rise of<br>hunters who would traverse these gates to fight the magic<br>beasts within. Sung Jinwoo, E-Rank hunter, is the weakest of<br>them all.</p>
 </td>
 </tr>
 </table>
@@ -310,12 +310,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (German Dub) - Episode 11 - Justice VS Justice</h3></th>
+<th><h3 align="center">Solo Leveling (Portuguese Dub) - Episode 1 - I'm Used to It</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/86b46d7e42a0316e1127dfa9fb7adaa31702648662_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9685e02cab2b3d22296e7c7e46d78aa81704534974_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -324,17 +324,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-11-justice-vs-justice-919684">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/solo-leveling/episode-1-im-used-to-it-919712">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rishia faces Itsuki in the underground arena. As Itsuki rants<br>and raves, it's clear that he's also come under the<br>mental influence of Myne and unlocked a Curse series. Naofumi<br>evacuates the children as Rishia enters her most dangerous fight<br>yet.</p>
+<p align="center">Around ten years ago, gates that connected our world to<br>another dimension began to appear, leading to the rise of<br>hunters who would traverse these gates to fight the magic<br>beasts within. Sung Jinwoo, E-Rank hunter, is the weakest of<br>them all.</p>
 </td>
 </tr>
 </table>
@@ -344,12 +344,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (French Dub) - Episode 11 - Justice VS Justice</h3></th>
+<th><h3 align="center">Solo Leveling (German Dub) - Episode 1 - I'm Used to It</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/86b46d7e42a0316e1127dfa9fb7adaa31702648662_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9685e02cab2b3d22296e7c7e46d78aa81704534974_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -358,17 +358,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-11-justice-vs-justice-919686">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/solo-leveling/episode-1-im-used-to-it-919715">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rishia faces Itsuki in the underground arena. As Itsuki rants<br>and raves, it's clear that he's also come under the<br>mental influence of Myne and unlocked a Curse series. Naofumi<br>evacuates the children as Rishia enters her most dangerous fight<br>yet.</p>
+<p align="center">Around ten years ago, gates that connected our world to<br>another dimension began to appear, leading to the rise of<br>hunters who would traverse these gates to fight the magic<br>beasts within. Sung Jinwoo, E-Rank hunter, is the weakest of<br>them all.</p>
 </td>
 </tr>
 </table>
@@ -378,12 +378,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Demon Prince of Momochi House (English Dub) - Episode 1 - Strangers of Momochi House</h3></th>
+<th><h3 align="center">Solo Leveling (French Dub) - Episode 1 - I'm Used to It</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/299304eea8af599f3d35edf694d5a01d1705696395_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9685e02cab2b3d22296e7c7e46d78aa81704534974_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -392,17 +392,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-1-strangers-of-momochi-house-919679">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/solo-leveling/episode-1-im-used-to-it-919716">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On her 16th birthday, Momochi Himari the orphan receives a<br>will from her deceased parents and inherits Momochi House.</p>
+<p align="center">Around ten years ago, gates that connected our world to<br>another dimension began to appear, leading to the rise of<br>hunters who would traverse these gates to fight the magic<br>beasts within. Sung Jinwoo, E-Rank hunter, is the weakest of<br>them all.</p>
 </td>
 </tr>
 </table>
@@ -412,12 +412,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (English Dub) - Episode 17 - Take Care</h3></th>
+<th><h3 align="center">Solo Leveling (Italian Dub) - Episode 1 - I'm Used to It</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1d6de6caa7dad7c08b4a57c18be14d991705693447_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9685e02cab2b3d22296e7c7e46d78aa81704534974_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -426,17 +426,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-17-take-care-919675">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/solo-leveling/episode-1-im-used-to-it-919719">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Now that Sein finally has a lead on the whereabouts<br>of his long-lost friend, is it time for him and<br>Frieren's party to part ways?</p>
+<p align="center">Around ten years ago, gates that connected our world to<br>another dimension began to appear, leading to the rise of<br>hunters who would traverse these gates to fight the magic<br>beasts within. Sung Jinwoo, E-Rank hunter, is the weakest of<br>them all.</p>
 </td>
 </tr>
 </table>
@@ -446,12 +446,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Portuguese Dub) - Episode 15 - Smells Like Trouble</h3></th>
+<th><h3 align="center">Solo Leveling (Castilian Dub) - Episode 1 - I'm Used to It</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9685e02cab2b3d22296e7c7e46d78aa81704534974_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -460,17 +460,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-15-smells-like-trouble-919662">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/solo-leveling/episode-1-im-used-to-it-919720">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
+<p align="center">Around ten years ago, gates that connected our world to<br>another dimension began to appear, leading to the rise of<br>hunters who would traverse these gates to fight the magic<br>beasts within. Sung Jinwoo, E-Rank hunter, is the weakest of<br>them all.</p>
 </td>
 </tr>
 </table>
@@ -480,12 +480,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (German Dub) - Episode 15 - Smells Like Trouble</h3></th>
+<th><h3 align="center">Solo Leveling (Tamil Dub) - Episode 1 - I'm Used to It</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9685e02cab2b3d22296e7c7e46d78aa81704534974_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -494,17 +494,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-15-smells-like-trouble-919663">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/solo-leveling/episode-1-im-used-to-it-919722">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
+<p align="center">Around ten years ago, gates that connected our world to<br>another dimension began to appear, leading to the rise of<br>hunters who would traverse these gates to fight the magic<br>beasts within. Sung Jinwoo, E-Rank hunter, is the weakest of<br>them all.</p>
 </td>
 </tr>
 </table>
@@ -514,12 +514,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Spanish Dub) - Episode 15 - Smells Like Trouble</h3></th>
+<th><h3 align="center">Solo Leveling (Telugu Dub) - Episode 1 - I'm Used to It</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9685e02cab2b3d22296e7c7e46d78aa81704534974_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -528,17 +528,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-15-smells-like-trouble-919664">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/solo-leveling/episode-1-im-used-to-it-919725">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
+<p align="center">Around ten years ago, gates that connected our world to<br>another dimension began to appear, leading to the rise of<br>hunters who would traverse these gates to fight the magic<br>beasts within. Sung Jinwoo, E-Rank hunter, is the weakest of<br>them all.</p>
 </td>
 </tr>
 </table>
@@ -548,12 +548,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Italian Dub) - Episode 15 - Smells Like Trouble</h3></th>
+<th><h3 align="center">Solo Leveling (English Dub) - Episode 1 - I'm Used to It</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9685e02cab2b3d22296e7c7e46d78aa81704534974_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -562,17 +562,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-15-smells-like-trouble-919666">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/solo-leveling/episode-1-im-used-to-it-919727">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
+<p align="center">Around ten years ago, gates that connected our world to<br>another dimension began to appear, leading to the rise of<br>hunters who would traverse these gates to fight the magic<br>beasts within. Sung Jinwoo, E-Rank hunter, is the weakest of<br>them all.</p>
 </td>
 </tr>
 </table>
@@ -582,12 +582,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Castilian Dub) - Episode 15 - Smells Like Trouble</h3></th>
+<th><h3 align="center">SPY x FAMILY (Eps 26+) (German Dub) - Episode 37 - Part of the Family</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c9d1a27d524276afeadd69fd51c7f2011703331171_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -596,17 +596,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-15-smells-like-trouble-919667">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-37-part-of-the-family-919707">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
+<p align="center">As Bond is on a walk with Loid, he has<br>a premonition of an accident, so he tries to stop<br>it, but is scolded by Loid. He then sees a<br>vision of a building going up in flames and a<br>sobbing girl standing in front of it.</p>
 </td>
 </tr>
 </table>
@@ -616,12 +616,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Tamil Dub) - Episode 15 - Smells Like Trouble</h3></th>
+<th><h3 align="center">My Hero Academia Season 6 (Italian Dub) - Episode 119 - Encounter, Part 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/21b578dd7c1afead0fbda4eda9c7d7c91667609390_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -630,17 +630,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-15-smells-like-trouble-919670">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/my-hero-academia/episode-119-encounter-part-2-919706">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
+<p align="center">As Endeavor tells his team that he's fighting Shigaraki, Midoriya<br>realizes that Shigaraki is after One For All and uses<br>himself as bait to try to lure Shigaraki away from<br>the civilians.</p>
 </td>
 </tr>
 </table>
@@ -650,12 +650,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Hindi Dub) - Episode 15 - Smells Like Trouble</h3></th>
+<th><h3 align="center">My Hero Academia Season 6 (Italian Dub) - Episode 118 - The Thrill of Destruction</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a259f83d58cb540bab7929f5f94f8f691667031055_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -664,17 +664,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2024</td>
+<td align="center">1/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-15-smells-like-trouble-919672">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/my-hero-academia/episode-118-the-thrill-of-destruction-919705">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When the party happens upon a town whose inhabitants are<br>all mysteriously asleep, it's time for their newest traveling companion<br>to prove his mettle.</p>
+<p align="center">After reinforcements finally arrive, the tide is just starting to<br>turn in the heroes' favor when Shigaraki wakes up.</p>
 </td>
 </tr>
 </table>
