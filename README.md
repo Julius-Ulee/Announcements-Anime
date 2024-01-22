@@ -1,8 +1,76 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 22, 2024, 7:55:59 AM</em></p>
+<p align="center"><em>Updated on: Jan 22, 2024, 7:22:24 PM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Telugu Dub) - Episode 1 - Someone's Dream</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a48ee0d2c6a0ab747d2548aaf83ff5d61681059511_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-1-someones-dream-919808">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">An Upper Rank Demon has been defeated for the first<br>time in a hundred years by Uzui, Tanjiro and his<br>comrades' effort. This news causes a ripple effect not only<br>among the members of the Demon Slayer Corps, but also<br>the Upper Rank Demons, who have been summoned by Muzan<br>Kibutsuji. Meanwhile, Tanjiro is recovering at the Butterfly Mansion when<br>he discovers that he has upset his swordsmith Haganezuka after<br>chipping his sword and decides to head to the village<br>where the swordsmiths live to talk to him in person.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Tamil Dub) - Episode 1 - Someone's Dream</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a48ee0d2c6a0ab747d2548aaf83ff5d61681059511_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-1-someones-dream-919807">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">An Upper Rank Demon has been defeated for the first<br>time in a hundred years by Uzui, Tanjiro and his<br>comrades' effort. This news causes a ripple effect not only<br>among the members of the Demon Slayer Corps, but also<br>the Upper Rank Demons, who have been summoned by Muzan<br>Kibutsuji. Meanwhile, Tanjiro is recovering at the Butterfly Mansion when<br>he discovers that he has upset his swordsmith Haganezuka after<br>chipping his sword and decides to head to the village<br>where the swordsmiths live to talk to him in person.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Rurouni Kenshin (English Dub) - Episode 15 - That Man - Raijuta</h3></th>
 </tr>
@@ -199,6 +267,40 @@
 <tr>
 <td colspan="2">
 <p align="center">Sunraku has encountered a new player named Dragonfly in "BERP".<br>The two engage in a series of matches with bug<br>exploits allowed. Afterwards Sunrakru heads to Rabituza to link his<br>skills at the Skill Garden.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (German Dub) - Episode 13 - Only Resentments About the End of Life Remain</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/684cf599bd6bb60a2309b66b7c29741a1703390619_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-13-only-resentments-about-the-end-of-life-remain-919768">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Pencilgon, Sunraku, and Oikatzo make their way to find the<br>NPC Setsuna of Bygone Days, Wethermon's former lover. She presents<br>to them the Unique Scenario "From the Living World, With<br>Love" which they accept.</p>
 </td>
 </tr>
 </table>
@@ -573,108 +675,6 @@
 <tr>
 <td colspan="2">
 <p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Heaven Official's Blessing 2 (Japanese Dub) - Episode 3 - An Invitation to Paradise</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c5037d18821f0a2f41ae3ca4baae94f01705837715_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/heaven-officials-blessing/episode-3-an-invitation-to-paradise-918389">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After separating, Xie encounters a child ghost with his face<br>wrapped in bandages, but the child runs from Xie. Then<br>Sanlang invites Xie to Paradise Manor.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">CHIBI MARUKO-CHAN - Episode 1420 - The Sakura Family Spends 3 Days Without a TV / Tama-chan Wants to Focus On Her Reading</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/74ab6089a0b7c59adc382da7af69423e1705837668_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/chibi-maruko-chan/episode-1420-the-sakura-family-spends-3-days-without-a-tv-tama-chan-wants-to-focus-on-her-reading-919589">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier - Episode 15 - Putting Feelings Into a Moment, Part 1</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/445657f760552b27dc294819a4c4c3c01705801476_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-15-putting-feelings-into-a-moment-part-1-917785">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">On the night of the new moon, the members of<br>Ashura Kai are ambushed by a group of allied clans<br>including Psyger-0. Meanwhile, Sunraku, Oikatzo, and Pencilgon confront Wethermon the<br>Tombguard at the Hidden Garden.</p>
 </td>
 </tr>
 </table>
