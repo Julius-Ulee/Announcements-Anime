@@ -21,10 +21,6 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Get latest anime data
-        run: |
-          curl -o data.json https://feeds.feedburner.com/crunchyroll/rss/anime
-
       - name: Update Readme
         run: node update-readme.js
 
