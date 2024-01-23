@@ -1,8 +1,314 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 22, 2024, 7:22:24 PM</em></p>
+<p align="center"><em>Updated on: Jan 23, 2024, 7:54:44 AM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
+<tr>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (English Dub) - Episode 1 - Hokkaido Gals Are Super Adorable!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ff5cc0887cb5168630465acd323d5cbb1705955705_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-1-hokkaido-gals-are-super-adorable-919824">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Shiki Tsubasa has just moved from Tokyo to the city<br>of Kitami in Hokkaido. When he gets lost, a flirty<br>gal named Fuyuki Minami points him in the right direction.<br>After the two meet again at school, Minami invites Tsubasa<br>to hang out with her at home.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Foolish Angel Dances with the Devil (English Dub) - Episode 1 - The Foolish Angel and the Demon</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e43baccc38503616605d1bff372eca191704727500_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-foolish-angel-dances-with-the-devil/episode-1-the-foolish-angel-and-the-demon-919822">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Akutsu Masatora transfers to a new school, where he falls<br>for the beautiful and kind Amane Lily on sight. But<br>Akutsu has a dark secret, and a mission... and Lily<br>might be more than meets the eye, as well!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (English Dub) - Episode 1 - What? Moon over the Ruined Castle?</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0053ec07d9cce53d3ad8a866d28b3e5e1705951810_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-1-what-moon-over-the-ruined-castle-919820">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mikoto and Shiki are making their way to Rotsgard Academy<br>in hopes of opening a new store. Meanwhile, back in<br>the demiplane, everyone is helping Mio practice her cooking skills<br>by taste testing her dishes.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Foolish Angel Dances with the Devil - Episode 3 - The Still Foolish Angel and Demon</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e396cb238ce7fea68b15d6ec252aee431705945592_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-foolish-angel-dances-with-the-devil/episode-3-the-still-foolish-angel-and-demon-918500">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The first demon-hunting expedition by Lily and Akutsu turns up<br>nothing... except for Yuka, a childhood friend of Hirota's who<br>sees Lily as a rival for his affections!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Entertainment District Arc (Telugu Dub) - Episode 10 - Never Give Up</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/814629ce53da0ff976edc1ae12c4d9cc1644139968_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-10-never-give-up-919814">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Amid the wreckage from the buildings destroyed by the destructive<br>attacks of Daki's Belt, Tanjiro awakens. Zenitsu is trapped under<br>the rubble and Inosuke has been impaled by Gyutaro's scythe,<br>while Uzui has lost an arm and his heart has<br>stopped. As Gyutaro taunts Tanjiro by calling him a disgrace,<br>all seems hopeless until...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! - Episode 3 - Akino-san Is Super Unfriendly</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/68f150875a37a06c05587ab2dc5cd5481705931757_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-3-akino-san-is-super-unfriendly-918487">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Tsubasa starts learning to ski on a class trip to<br>the slopes. He's told to partner with Akino Sayuri, a<br>pretty loner that Minami is fascinated with. When he runs<br>to the bus to grab his chopsticks for lunch, he<br>finds Akino half-naked and covered in sweat.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">'Tis Time for "Torture," Princess - Episode 3 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b30c784bc006cf128871dee1762af7431705931507_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tis-time-for-torture-princess/episode-3-untitled-918474">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The princess endures cruel torture in the form of an<br>amusement park trip, bubble wrap, and soup dumplings. Fortunately, a<br>white knight in shining armor shows up to rescue her.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 - Episode 3 - Stellar Wars</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eb11a57c3f7572ae76b5aad148f92f8b1705907571_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-3-stellar-wars-918460">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Hibiki and Tomoki's parties prepare for the attack on Fort<br>Stella (the one Makoto ended up being somewhat involved in<br>against his will). The two human heroes couldn't be more<br>different, posing challenges beyond the simple difficulty of facing the<br>demons.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">HIGH CARD - Episode 15 - ANSWER THE DOOR</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/88aaf1e962f66d31774e5290535e73ed1705907532_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/high-card/episode-15-answer-the-door-918535">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Telugu Dub) - Episode 1 - Someone's Dream</h3></th>
 </tr>
@@ -140,7 +446,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Theatre of Darkness: Yamishibai 12 - Episode 2 -  Playing House</h3></th>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 12 - Episode 2 - Playing House</h3></th>
 </tr>
 <tr>
 <td>
@@ -164,7 +470,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">This is the story of a student who's visiting a<br>friend's house on his way home from school...</p>
 </td>
 </tr>
 </table>
@@ -369,312 +675,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Pencilgon, Sunraku, and Oikatzo make their way to find the<br>NPC Setsuna of Bygone Days, Wethermon's former lover. She presents<br>to them the Unique Scenario "From the Living World, With<br>Love" which they accept.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Tamil Dub) - Episode 13 - Only Resentments About the End of Life Remain</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/684cf599bd6bb60a2309b66b7c29741a1703390619_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-13-only-resentments-about-the-end-of-life-remain-919772">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Pencilgon, Sunraku, and Oikatzo make their way to find the<br>NPC Setsuna of Bygone Days, Wethermon's former lover. She presents<br>to them the Unique Scenario "From the Living World, With<br>Love" which they accept.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Hindi Dub) - Episode 13 - Only Resentments About the End of Life Remain</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/684cf599bd6bb60a2309b66b7c29741a1703390619_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-13-only-resentments-about-the-end-of-life-remain-919773">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Pencilgon, Sunraku, and Oikatzo make their way to find the<br>NPC Setsuna of Bygone Days, Wethermon's former lover. She presents<br>to them the Unique Scenario "From the Living World, With<br>Love" which they accept.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (French Dub) - Episode 12 - Regrets Always Lie in the Past</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f62a15938b4a17a1fc3b1d26088bbf381702797922_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-12-regrets-always-lie-in-the-past-919776">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Pencilgon sends Sunraku and Oikatzo to the Iron Ruins of<br>the Divinity to grind their levels to at least level<br>50. While there they encounter the Lifestide Lake Serpent monster.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Mr. Villain's Day Off - Episode 3 - The Fiends of Winter</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9b20ce3abe4e46522c60333a229e60721705850468_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/mr-villains-day-off/episode-3-the-fiends-of-winter-918301">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Mr. Villain continues his gradual exploration of Earth culture, as<br>he makes his way through a winter wonderland. They say<br>monsters lurk in the cold depths of Earth's winter, unless<br>of course it's all a matter of perspective.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Fire Hunter - Episode 12 - Roaring Thunder</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/820c2fd6d41d371857ae43f5d5dc2e4b1705850236_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-fire-hunter/episode-12-roaring-thunder-890149">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Koushi struggles to load and operate the Lightning Cannon, but<br>both the gods and the spiders have other ideas. Meanwhile,<br>a chance encounter leads Touko to witness a startling scene.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Meiji Gekken: 1874 - Episode 2 - Way of the Streets</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/feb0b982b838a1626fd64fe717a99eb21705837903_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/meiji-gekken-1874/episode-2-way-of-the-streets-919371">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Impressed by Shizuma’s contributions while helping the police with a<br>case, Chief Superintendent Kawaji insists that he joins the force,<br>and Shizuma soon finds himself working alongside Osanai as a<br>police officer on patrol.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 - Episode 3 - Zoltan's Solstice Festival</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/41061a3f6a3c0d519f4bf444c796f5121705837849_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-3-zoltans-solstice-festival-918314">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Cardinal Ljubo takes an interest in Zoltan's airship. Meanwhile, Zoltan<br>is celebrating the Solstice Festival and it is bustling with<br>activity. Red and his friends are enjoying the festival, but<br>they come across a fight between some young people.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! - Episode 3 - A Thinly Veiled Sword Dance (Rondo)</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c829460cd9285a1de7e4bbdd19fb89841705837813_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy/episode-3-a-thinly-veiled-sword-dance-rondo-918329">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Rishe's new life in Galkhein begins with cleaning the villa<br>that's her new home. She attends a party where she's<br>presented as the prince's fiancée. Dancing with Arnold brings up<br>memories of her past life, spurring her to test him<br>just a little.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Fluffy Paradise - Episode 4 - I Hate Studying!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9603dc85c3f63b15b1a2e4118cf1bbf71705837767_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fluffy-paradise/episode-4-i-hate-studying-918193">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
 </td>
 </tr>
 </table>
