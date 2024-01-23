@@ -1,8 +1,110 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 23, 2024, 7:54:44 AM</em></p>
+<p align="center"><em>Updated on: Jan 23, 2024, 7:21:26 PM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
+<tr>
+<th><h3 align="center">Log Horizon (Hindi Dub) - Episode 11 - An Invitation from Eastal</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/162f8de55bcdc388b3c6908b256d46521386716012_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/log-horizon/episode-11-an-invitation-from-eastal-919830">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Free Cities of Eastel are the first to notice<br>the founding of the Round Table.  They send a<br>messenger to Akihabara and invite Shiroe and Crusty to their<br>conference.  What are the nobles planning at their ice-covered<br>palace?  Meanwhile, Minori and Touya and the other new<br>playesr are going on a camping trip at the beach<br>to learn to fight. Marielle forgets her role as leader<br>(?) and enjoys the salt air fun.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Tomo-chan Is a Girl! (Hindi Dub) - Episode 11 - My First Part-Time Job / The Abandoned Cinderella</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5af1eb516de619d054116c5d9b4c85471678895213_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tomo-chan-is-a-girl/episode-11-my-first-part-time-job-the-abandoned-cinderella-919815">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Tomo wants to earn money for a birthday present for<br>Junichiro, so she works part-time at the ramen restaurant owned<br>by Tanabe's family. Later, their class prepares for its presentation<br>of "Cinderella" at the cultural festival.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Ranking of Kings (Telugu Dub) - Episode 11 - Older and Younger Brothers</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d8874e1c1a7696a79aecdfda7a8b0d6c1641093310_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/ranking-of-kings/episode-11-older-and-younger-brothers-919829">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Daida reflects on a lesson once taught to him by<br>Sorii and Bebin about the value of life, and finds<br>out that he is not alone in his dark exile.<br>When six criminals are broken out of their cells in<br>the underworld, Desha sends his knights to go after them.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Hokkaido Gals Are Super Adorable! (English Dub) - Episode 1 - Hokkaido Gals Are Super Adorable!</h3></th>
 </tr>
@@ -573,108 +675,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Sunraku has encountered a new player named Dragonfly in "BERP".<br>The two engage in a series of matches with bug<br>exploits allowed. Afterwards Sunrakru heads to Rabituza to link his<br>skills at the Skill Garden.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (German Dub) - Episode 13 - Only Resentments About the End of Life Remain</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/684cf599bd6bb60a2309b66b7c29741a1703390619_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-13-only-resentments-about-the-end-of-life-remain-919768">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Pencilgon, Sunraku, and Oikatzo make their way to find the<br>NPC Setsuna of Bygone Days, Wethermon's former lover. She presents<br>to them the Unique Scenario "From the Living World, With<br>Love" which they accept.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Spanish Dub) - Episode 13 - Only Resentments About the End of Life Remain</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/684cf599bd6bb60a2309b66b7c29741a1703390619_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-13-only-resentments-about-the-end-of-life-remain-919769">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Pencilgon, Sunraku, and Oikatzo make their way to find the<br>NPC Setsuna of Bygone Days, Wethermon's former lover. She presents<br>to them the Unique Scenario "From the Living World, With<br>Love" which they accept.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Italian Dub) - Episode 13 - Only Resentments About the End of Life Remain</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/684cf599bd6bb60a2309b66b7c29741a1703390619_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-13-only-resentments-about-the-end-of-life-remain-919771">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Pencilgon, Sunraku, and Oikatzo make their way to find the<br>NPC Setsuna of Bygone Days, Wethermon's former lover. She presents<br>to them the Unique Scenario "From the Living World, With<br>Love" which they accept.</p>
 </td>
 </tr>
 </table>
