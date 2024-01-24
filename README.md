@@ -1,8 +1,518 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 24, 2024, 7:54:32 AM</em></p>
+<p align="center"><em>Updated on: Jan 24, 2024, 7:21:54 PM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
+<tr>
+<th><h3 align="center">Fire Force (Telugu Dub) - Episode 22 - A Brother's Determination</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/28c1e593104e066519399d0b312216421576836473_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fire-force/episode-22-a-brothers-determination-919840">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As Shinra and Sho continue to share their Adolla Link,<br>Shinra learns a startling truth about the origin of his<br>Adolla Burst flame. Shinra comes to understand the Link's nature<br>further, developing his skills even more in his effort to<br>reach Sho.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Fire Force (Telugu Dub) - Episode 21 - Those Connected</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1ae9aa87e3bdc018e81bba807f1f68d71576214283_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fire-force/episode-21-those-connected-919839">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Obi and Vulcan face off against Dr. Giovanni and Lisa,<br>during which Giovanni tells Obi more about the nature of<br>Adolla Bursts. Shinra has an unusual experience that leads him<br>to find Sho, but their reunion proves more volatile than<br>hoped for.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Fire Force (Tamil Dub) - Episode 22 - A Brother's Determination</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/28c1e593104e066519399d0b312216421576836473_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fire-force/episode-22-a-brothers-determination-919838">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As Shinra and Sho continue to share their Adolla Link,<br>Shinra learns a startling truth about the origin of his<br>Adolla Burst flame. Shinra comes to understand the Link's nature<br>further, developing his skills even more in his effort to<br>reach Sho.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Fire Force (Tamil Dub) - Episode 21 - Those Connected</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1ae9aa87e3bdc018e81bba807f1f68d71576214283_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fire-force/episode-21-those-connected-919837">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Obi and Vulcan face off against Dr. Giovanni and Lisa,<br>during which Giovanni tells Obi more about the nature of<br>Adolla Bursts. Shinra has an unusual experience that leads him<br>to find Sho, but their reunion proves more volatile than<br>hoped for.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Tamil Dub) - Episode 7 - We Both Hate Hot Guys</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/667f3f54e35a3944863f638be3d7b6f91652580665_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs/episode-7-we-both-hate-hot-guys-919861">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Jilk appears in the bike race held on the final<br>day of the academy festival. However, he is obstructed by<br>the followers of his ex-fiancee and is badly injured. The<br>situation develops further, and Leon finds himself dragged into it...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Telugu Dub) - Episode 7 - We Both Hate Hot Guys</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/667f3f54e35a3944863f638be3d7b6f91652580665_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs/episode-7-we-both-hate-hot-guys-919862">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Jilk appears in the bike race held on the final<br>day of the academy festival. However, he is obstructed by<br>the followers of his ex-fiancee and is badly injured. The<br>situation develops further, and Leon finds himself dragged into it...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">DARLING in the FRANXX (Tamil Dub) - Episode 18 - When the Sakura Blooms</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/76fafc1ca9fc72457cc493dbc222dade1526711583_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/darling-in-the-franxx/episode-18-when-the-sakura-blooms-919848">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Squad 13 is told they will be abandoning Mistilteinn soon,<br>and they decide to go out with a bang by<br>making one last memory of their lives there.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">DARLING in the FRANXX (Telugu Dub) - Episode 18 - When the Sakura Blooms</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/76fafc1ca9fc72457cc493dbc222dade1526711583_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/darling-in-the-franxx/episode-18-when-the-sakura-blooms-919852">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Squad 13 is told they will be abandoning Mistilteinn soon,<br>and they decide to go out with a bang by<br>making one last memory of their lives there.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">DARLING in the FRANXX (Tamil Dub) - Episode 17 - Eden</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5d7937a156756c011b6e9263ff8fb1451526106861_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/darling-in-the-franxx/episode-17-eden-919847">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Having seized Gran Crevasse, emissaries are sent out to demand<br>the surrender of the klaxosaurs' leader. Meanwhile, the Nines visit<br>Squad 13, and there a shocking discovery is made.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">DARLING in the FRANXX (Telugu Dub) - Episode 17 - Eden</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5d7937a156756c011b6e9263ff8fb1451526106861_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/darling-in-the-franxx/episode-17-eden-919851">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Having seized Gran Crevasse, emissaries are sent out to demand<br>the surrender of the klaxosaurs' leader. Meanwhile, the Nines visit<br>Squad 13, and there a shocking discovery is made.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">RADIANT (Tamil Dub) - Episode 14 - The Bell Tolls the Sound of Destruction -Catastrophe-</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/249dac292c414fb00bc2c0d45e4fc09c1546687627_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/radiant/episode-14-the-bell-tolls-the-sound-of-destruction-catastrophe-919855">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Seth tries to rescue Doc, who's been taken hostage, and<br>ends up captured himself. Konrad denounces him to the people<br>as a criminal who colluded with the immigrants to do<br>evil, and then kicks off a bombardment of cannon fire<br>on the part of the town where the immigrants had<br>settled. Seth is rescued with Grimm's help, but at the<br>same time, the Nemesis appears and creates further chaos. They<br>learn that the Nemesis is being controlled by a female<br>sorcerer named Hameline, who despises Rumble Town. Just what is<br>Hameline's objective?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">RADIANT (Telugu Dub) - Episode 14 - The Bell Tolls the Sound of Destruction -Catastrophe-</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/249dac292c414fb00bc2c0d45e4fc09c1546687627_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/radiant/episode-14-the-bell-tolls-the-sound-of-destruction-catastrophe-919857">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Seth tries to rescue Doc, who's been taken hostage, and<br>ends up captured himself. Konrad denounces him to the people<br>as a criminal who colluded with the immigrants to do<br>evil, and then kicks off a bombardment of cannon fire<br>on the part of the town where the immigrants had<br>settled. Seth is rescued with Grimm's help, but at the<br>same time, the Nemesis appears and creates further chaos. They<br>learn that the Nemesis is being controlled by a female<br>sorcerer named Hameline, who despises Rumble Town. Just what is<br>Hameline's objective?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Iceblade Sorcerer Shall Rule the World (Hindi Dub) - Episode 6 - The Boy Who Became the World's Strongest Sorcerer Dons a Mask</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7eb22b204d9771c4f99765c451dfffa41675963587_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-iceblade-sorcerer-shall-rule-the-world/episode-6-the-boy-who-became-the-worlds-strongest-sorcerer-dons-a-mask-919860">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After the battle with Gray, Ray returns to his peaceful<br>academy life. But then, they meet their new homeroom teacher,<br>who is none other than Carol Caroline. Being uneasy with<br>her from his past experiences, Ray even asks Abbie to<br>fire her... Meanwhile, Amelia makes it through the qualifiers in<br>first place and secures her spot for the Magic Chevalier<br>tournament. However, she quickly loses confidence after she compares herself<br>to her rival from Diom Academy, Ariane Algren. Seeing her<br>like this, Ray goes ahead and says...!?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Akebi's Sailor Uniform (Tamil Dub) - Episode 11 - Sharing This Time... With Everyone...</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/018bd324e883024f1d38e4ca197ddbfe1647702512_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/akebis-sailor-uniform/episode-11-sharing-this-time-with-everyone-919858">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">One day, in the midst of practices for the athletic<br>festival, Erika finds out that Komichi is going to dance<br>at the festival's after-party. She starts to imagine what would<br>happen if she played the piano accompaniment for Komichi's dance,<br>but she keeps it to herself. Meanwhile, Komichi is practicing<br>hard at volleyball, but depite the fact that it's a<br>major team event, their teamwork is somewhat lacking. When Touko<br>comments that it'd be nice if they could find a<br>place where everyone could practice together, Komichi remembers her previous<br>school, Futaba Elementary.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Akebi's Sailor Uniform (Telugu Dub) - Episode 11 - Sharing This Time... With Everyone...</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/018bd324e883024f1d38e4ca197ddbfe1647702512_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/akebis-sailor-uniform/episode-11-sharing-this-time-with-everyone-919859">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">One day, in the midst of practices for the athletic<br>festival, Erika finds out that Komichi is going to dance<br>at the festival's after-party. She starts to imagine what would<br>happen if she played the piano accompaniment for Komichi's dance,<br>but she keeps it to herself. Meanwhile, Komichi is practicing<br>hard at volleyball, but depite the fact that it's a<br>major team event, their teamwork is somewhat lacking. When Touko<br>comments that it'd be nice if they could find a<br>place where everyone could practice together, Komichi remembers her previous<br>school, Futaba Elementary.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far (French Dub) - Episode 7 - Cain, the Rookie Adventurer</h3></th>
 </tr>
@@ -165,516 +675,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Daida reflects on a lesson once taught to him by<br>Sorii and Bebin about the value of life, and finds<br>out that he is not alone in his dark exile.<br>When six criminals are broken out of their cells in<br>the underworld, Desha sends his knights to go after them.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (English Dub) - Episode 1 - Hokkaido Gals Are Super Adorable!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ff5cc0887cb5168630465acd323d5cbb1705955705_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-1-hokkaido-gals-are-super-adorable-919824">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Shiki Tsubasa has just moved from Tokyo to the city<br>of Kitami in Hokkaido. When he gets lost, a flirty<br>gal named Fuyuki Minami points him in the right direction.<br>After the two meet again at school, Minami invites Tsubasa<br>to hang out with her at home.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Foolish Angel Dances with the Devil (English Dub) - Episode 1 - The Foolish Angel and the Demon</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e43baccc38503616605d1bff372eca191704727500_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-foolish-angel-dances-with-the-devil/episode-1-the-foolish-angel-and-the-demon-919822">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Akutsu Masatora transfers to a new school, where he falls<br>for the beautiful and kind Amane Lily on sight. But<br>Akutsu has a dark secret, and a mission... and Lily<br>might be more than meets the eye, as well!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (English Dub) - Episode 1 - What? Moon over the Ruined Castle?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0053ec07d9cce53d3ad8a866d28b3e5e1705951810_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-1-what-moon-over-the-ruined-castle-919820">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Mikoto and Shiki are making their way to Rotsgard Academy<br>in hopes of opening a new store. Meanwhile, back in<br>the demiplane, everyone is helping Mio practice her cooking skills<br>by taste testing her dishes.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Foolish Angel Dances with the Devil - Episode 3 - The Still Foolish Angel and Demon</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e396cb238ce7fea68b15d6ec252aee431705945592_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-foolish-angel-dances-with-the-devil/episode-3-the-still-foolish-angel-and-demon-918500">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The first demon-hunting expedition by Lily and Akutsu turns up<br>nothing... except for Yuka, a childhood friend of Hirota's who<br>sees Lily as a rival for his affections!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Entertainment District Arc (Telugu Dub) - Episode 10 - Never Give Up</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/814629ce53da0ff976edc1ae12c4d9cc1644139968_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-10-never-give-up-919814">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Amid the wreckage from the buildings destroyed by the destructive<br>attacks of Daki's Belt, Tanjiro awakens. Zenitsu is trapped under<br>the rubble and Inosuke has been impaled by Gyutaro's scythe,<br>while Uzui has lost an arm and his heart has<br>stopped. As Gyutaro taunts Tanjiro by calling him a disgrace,<br>all seems hopeless until...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! - Episode 3 - Akino-san Is Super Unfriendly</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/68f150875a37a06c05587ab2dc5cd5481705931757_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-3-akino-san-is-super-unfriendly-918487">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Tsubasa starts learning to ski on a class trip to<br>the slopes. He's told to partner with Akino Sayuri, a<br>pretty loner that Minami is fascinated with. When he runs<br>to the bus to grab his chopsticks for lunch, he<br>finds Akino half-naked and covered in sweat.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">'Tis Time for "Torture," Princess - Episode 3 - Untitled</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b30c784bc006cf128871dee1762af7431705931507_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tis-time-for-torture-princess/episode-3-untitled-918474">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The princess endures cruel torture in the form of an<br>amusement park trip, bubble wrap, and soup dumplings. Fortunately, a<br>white knight in shining armor shows up to rescue her.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 - Episode 3 - Stellar Wars</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eb11a57c3f7572ae76b5aad148f92f8b1705907571_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-3-stellar-wars-918460">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Hibiki and Tomoki's parties prepare for the attack on Fort<br>Stella (the one Makoto ended up being somewhat involved in<br>against his will). The two human heroes couldn't be more<br>different, posing challenges beyond the simple difficulty of facing the<br>demons.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">HIGH CARD - Episode 15 - ANSWER THE DOOR</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/88aaf1e962f66d31774e5290535e73ed1705907532_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/high-card/episode-15-answer-the-door-918535">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Telugu Dub) - Episode 1 - Someone's Dream</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a48ee0d2c6a0ab747d2548aaf83ff5d61681059511_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-1-someones-dream-919808">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">An Upper Rank Demon has been defeated for the first<br>time in a hundred years by Uzui, Tanjiro and his<br>comrades' effort. This news causes a ripple effect not only<br>among the members of the Demon Slayer Corps, but also<br>the Upper Rank Demons, who have been summoned by Muzan<br>Kibutsuji. Meanwhile, Tanjiro is recovering at the Butterfly Mansion when<br>he discovers that he has upset his swordsmith Haganezuka after<br>chipping his sword and decides to head to the village<br>where the swordsmiths live to talk to him in person.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Tamil Dub) - Episode 1 - Someone's Dream</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a48ee0d2c6a0ab747d2548aaf83ff5d61681059511_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-1-someones-dream-919807">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">An Upper Rank Demon has been defeated for the first<br>time in a hundred years by Uzui, Tanjiro and his<br>comrades' effort. This news causes a ripple effect not only<br>among the members of the Demon Slayer Corps, but also<br>the Upper Rank Demons, who have been summoned by Muzan<br>Kibutsuji. Meanwhile, Tanjiro is recovering at the Butterfly Mansion when<br>he discovers that he has upset his swordsmith Haganezuka after<br>chipping his sword and decides to head to the village<br>where the swordsmiths live to talk to him in person.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin (English Dub) - Episode 15 - That Man - Raijuta</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3281a3e12db23c8f3ff8eb86bc3eaf7d1697131129_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/rurouni-kenshin/episode-15-that-man-raijuta-919788">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Kaoru, Kenshin, and Yahiko visit Maekawa Dojo for a training<br>session. The dojo is very lively, and Kaoru's training is<br>well-received by the students of other sword styles. Then a<br>swordsman named Isurugi Raijuta breaks in. He says he is<br>concerned about the future of sword art, and the man,<br>carrying only an actual sword, dismisses the idea of a<br>bamboo sword match. In order to defeat the challenger, Maekawa,<br>the master of Maekawa Dojo, takes on Raijuta, but...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 (English Dub) - Episode 1 - Let's Go On a Quiet Little Journey</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fa044076387b77c0255f7835f7c1fd681704636806_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-1-lets-go-on-a-quiet-little-journey-919786">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Red heads for a mountain range called the Wall at<br>the World's End with his lover Rit and sister Ruti.<br>It was supposed to be an easy trip to get<br>materials for an engagement ring to give to Rit, but...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Theatre of Darkness: Yamishibai 12 - Episode 2 - Playing House</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b87f838cea67a5ba9ef2a140d29962f81705866811_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/theatre-of-darkness-yamishibai/episode-2-playing-house-919358">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">This is the story of a student who's visiting a<br>friend's house on his way home from school...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (German Dub) - Episode 12 - The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (94 To Go)</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f7f693e34e51a735566cff78e7e8b94f1703406580_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-100-girlfriends-who-really-really-really-really-really-love-you/episode-12-the-100-girlfriends-who-really-really-really-really-really-love-you-94-to-go-919782">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">How will the gang adjust to the newest girlfriend, and<br>what shenanigans will she bring into play during this sleepover?</p>
 </td>
 </tr>
 </table>
