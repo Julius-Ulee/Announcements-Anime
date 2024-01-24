@@ -1,8 +1,76 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 23, 2024, 8:17:13 PM</em></p>
+<p align="center"><em>Updated on: Jan 24, 2024, 7:54:32 AM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
+<tr>
+<th><h3 align="center">The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far (French Dub) - Episode 7 - Cain, the Rookie Adventurer</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f942747dbf253887927d3d7b821d18061684051078_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far/episode-7-cain-the-rookie-adventurer-919818">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Cain finally reaches his twelfth birthday, the day he can<br>register as an adventurer. He heads straight to the guild<br>to sign up, but some older adventurers pick a fight<br>with him, and he's saved by a red-haired man who<br>looks very familiar...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord - Episode 3 - The Hidden Boss Is Summoned to the Castle</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b2a98c68f5185e3327bad9c40cf3f8fc1706023841_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/villainess-level-99-i-may-be-the-hidden-boss-but-im-not-the-demon-lord/episode-3-the-hidden-boss-is-summoned-to-the-castle-918559">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The king summons Yumiella to the castle and has her<br>face off against the knight captain, Adolf, to prove that<br>she's level 99. Yumiella then has a private meeting with<br>the queen, who makes an unexpected request...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Log Horizon (Hindi Dub) - Episode 11 - An Invitation from Eastal</h3></th>
 </tr>
@@ -607,74 +675,6 @@
 <tr>
 <td colspan="2">
 <p align="center">How will the gang adjust to the newest girlfriend, and<br>what shenanigans will she bring into play during this sleepover?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (English Dub) - Episode 12 - The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (94 To Go)</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f7f693e34e51a735566cff78e7e8b94f1703406580_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-100-girlfriends-who-really-really-really-really-really-love-you/episode-12-the-100-girlfriends-who-really-really-really-really-really-love-you-94-to-go-919783">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">How will the gang adjust to the newest girlfriend, and<br>what shenanigans will she bring into play during this sleepover?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (English Dub) - Episode 14 - Squish</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/276acebceff03b9dc18012b8016ea7f71705864879_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-14-squish-919777">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sunraku has encountered a new player named Dragonfly in "BERP".<br>The two engage in a series of matches with bug<br>exploits allowed. Afterwards Sunrakru heads to Rabituza to link his<br>skills at the Skill Garden.</p>
 </td>
 </tr>
 </table>
