@@ -32,7 +32,7 @@ jobs:
       - name: Commit and Push changes
         run: |
           git add .
-          git commit -m ":octocat: Announcements Anime `date +"%D %T"`"
+          git commit -m "📝 Update content in README `date +"%D %T"`"
           git remote set-url origin https://github.com/${{ github.repository }}.git
           git push
 
