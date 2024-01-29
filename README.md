@@ -1,17 +1,85 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 29, 2024, 1:28:40 PM</em></p>
+<p align="center"><em>Updated on: Jan 29, 2024, 6:00:14 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
-    <img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"> 
-    <img align="center" src="https://img.shields.io/github/issues/Julius-Ulee/Announcements-Anime"> 
-    <img align="center" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields"> 
-    <img align="center" src="https://img.shields.io/github/issues-pr/Julius-Ulee/Announcements-Anime"> 
+    <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
+    <a href="https://github.com/Julius-Ulee/Announcements-Anime/issues"><img align="center" src="https://img.shields.io/github/issues/Julius-Ulee/Announcements-Anime"></a> 
+    <a href="https://github.com/Julius-Ulee/Announcements-Anime/pulls"><img align="center" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields"></a> 
+    <a href="https://github.com/Julius-Ulee/Announcements-Anime/pulls"><img align="center" src="https://img.shields.io/github/issues-pr/Julius-Ulee/Announcements-Anime"></a> 
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img align="center" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
-    <img align="center" src="https://img.shields.io/github/commit-activity/m/Julius-Ulee/Announcements-Anime"> 
+    <a href="https://github.com/Julius-Ulee/Announcements-Anime/commits/master/"><img align="center" src="https://img.shields.io/github/commit-activity/m/Julius-Ulee/Announcements-Anime"></a> 
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
-    <img align="center" src="https://img.shields.io/maintenance/yes/2024"></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+    <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Tamil Dub) - Episode 2 - Yoriichi Type Zero</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2cc41b4404ffa51d7b041c936d5d5a441681662172_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-2-yoriichi-type-zero-920126">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Tanjiro encounters Mist Hashira Muichiro Tokito and Kotetsu, a boy<br>from the village, arguing. Muichiro is demanding that a "certain<br>key" be handed over to him from Kotetsu. Being unable<br>to look on in silence, Tanjiro intervenes to speak on<br>behalf of Kotetsu, however Muichiro refuses to listen. According to<br>Kotetsu, the key is used to operate a battle-type Mechanical<br>Doll, Yoriichi Type Zero, that mimics the movement of a<br>certain real-life swordsman...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Telugu Dub) - Episode 2 - Yoriichi Type Zero</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2cc41b4404ffa51d7b041c936d5d5a441681662172_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-2-yoriichi-type-zero-920127">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Tanjiro encounters Mist Hashira Muichiro Tokito and Kotetsu, a boy<br>from the village, arguing. Muichiro is demanding that a "certain<br>key" be handed over to him from Kotetsu. Being unable<br>to look on in silence, Tanjiro intervenes to speak on<br>behalf of Kotetsu, however Muichiro refuses to listen. According to<br>Kotetsu, the key is used to operate a battle-type Mechanical<br>Doll, Yoriichi Type Zero, that mimics the movement of a<br>certain real-life swordsman...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Rurouni Kenshin (English Dub) - Episode 16 - The Ideal Man</h3></th>
 </tr>
@@ -616,74 +684,6 @@
 <tr>
 <td colspan="2">
 <p align="center">When Xie investigates the secret hidden corridor he found before,<br>what he finds is unexpected. Is his bad luck to<br>blame?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">CHIBI MARUKO-CHAN - Episode 1421 - Maruko Wants to Bring Good Fortune \ Maruko Wants to Remove Lint Balls</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/93473f58d1fbc906f107cd3ee64786551706429530_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/chibi-maruko-chan/episode-1421-maruko-wants-to-bring-good-fortune-maruko-wants-to-remove-lint-balls-919590">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier - Episode 16 - Putting Feelings Into a Moment, Part 2</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8c314cd552392412f3a6ae5c54a0ab671706429465_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-16-putting-feelings-into-a-moment-part-2-917786">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sunraku and the others are engaged in a battle against<br>Wethermon the Tombguard, and making full use of resurrection items.<br>Ten minutes have passed since the battle began and Wethermon<br>summons his tactical mount "Kirin".</p>
 </td>
 </tr>
 </table>
