@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 29, 2024, 7:19:28 PM</em></p>
+<p align="center"><em>Updated on: Jan 30, 2024, 7:49:46 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -13,12 +13,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Tamil Dub) - Episode 2 - Yoriichi Type Zero</h3></th>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (English Dub) - Episode 2 - It's Super Warm Inside the Snow Fort</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2cc41b4404ffa51d7b041c936d5d5a441681662172_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/067f4fc054e12758b3d2757d34dfc7af1705338563_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -31,13 +31,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-2-yoriichi-type-zero-920126">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-2-its-super-warm-inside-the-snow-fort-920179">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tanjiro encounters Mist Hashira Muichiro Tokito and Kotetsu, a boy<br>from the village, arguing. Muichiro is demanding that a "certain<br>key" be handed over to him from Kotetsu. Being unable<br>to look on in silence, Tanjiro intervenes to speak on<br>behalf of Kotetsu, however Muichiro refuses to listen. According to<br>Kotetsu, the key is used to operate a battle-type Mechanical<br>Doll, Yoriichi Type Zero, that mimics the movement of a<br>certain real-life swordsman...</p>
+<p align="center">Tsubasa decides to attend the Kitami Winter Festival with Minami.<br>Tsubasa is nervous and wonders if it classifies as a<br>date. Some days later, during lunch, Minami asks if she<br>can go to Tsubasa's house. On their way there the<br>two come upon a snow mound.</p>
 </td>
 </tr>
 </table>
@@ -47,12 +47,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Telugu Dub) - Episode 2 - Yoriichi Type Zero</h3></th>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Portuguese Dub) - Episode 1 - Hokkaido Gals Are Super Adorable!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2cc41b4404ffa51d7b041c936d5d5a441681662172_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4841be1cd9d8ec4f999ba2a81cf5492d1704725605_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -65,13 +65,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-2-yoriichi-type-zero-920127">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-1-hokkaido-gals-are-super-adorable-920176">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tanjiro encounters Mist Hashira Muichiro Tokito and Kotetsu, a boy<br>from the village, arguing. Muichiro is demanding that a "certain<br>key" be handed over to him from Kotetsu. Being unable<br>to look on in silence, Tanjiro intervenes to speak on<br>behalf of Kotetsu, however Muichiro refuses to listen. According to<br>Kotetsu, the key is used to operate a battle-type Mechanical<br>Doll, Yoriichi Type Zero, that mimics the movement of a<br>certain real-life swordsman...</p>
+<p align="center">Shiki Tsubasa has just moved from Tokyo to the city<br>of Kitami in Hokkaido. When he gets lost, a flirty<br>gal named Fuyuki Minami points him in the right direction.<br>After the two meet again at school, Minami invites Tsubasa<br>to hang out with her at home.</p>
 </td>
 </tr>
 </table>
@@ -81,12 +81,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin (English Dub) - Episode 16 - The Ideal Man</h3></th>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Spanish Dub) - Episode 1 - Hokkaido Gals Are Super Adorable!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c015ba804b23ba9d43f048c5d0d6ee5e1697737198_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4841be1cd9d8ec4f999ba2a81cf5492d1704725605_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -95,17 +95,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
+<td align="center">1/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/rurouni-kenshin/episode-16-the-ideal-man-920119">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-1-hokkaido-gals-are-super-adorable-920177">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Raijuta, who wants to revive the murderous sword, considers Kenshin,<br>who denies his idea, as an enemy. Raijuta initiates a<br>fight using his actual sword, but Kenshin lands a blow<br>that breaks Raijuta's sword and stops the situation from escalating<br>further. After some time has passed, Yutaro, a boy who<br>claims to be Raijuta's apprentice, arrives at the Kamiya Dojo.<br>He claims he has come to challenge Yahiko, with whom<br>he doesn't get along, to a match, but the way<br>Yutaro holds his bamboo sword is no good...</p>
+<p align="center">Shiki Tsubasa has just moved from Tokyo to the city<br>of Kitami in Hokkaido. When he gets lost, a flirty<br>gal named Fuyuki Minami points him in the right direction.<br>After the two meet again at school, Minami invites Tsubasa<br>to hang out with her at home.</p>
 </td>
 </tr>
 </table>
@@ -115,12 +115,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 (English Dub) - Episode 2 - The Gem Beast</h3></th>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Hindi Dub) - Episode 1 - Hokkaido Gals Are Super Adorable!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f64ef062db7887a826dd13c69cd919b61705232765_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4841be1cd9d8ec4f999ba2a81cf5492d1704725605_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -129,17 +129,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
+<td align="center">1/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-2-the-gem-beast-920116">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-1-hokkaido-gals-are-super-adorable-920178">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Red and Rit reunite with Yarandrala and she suggests they<br>move to the Kiramin Kingdom. Yarandrala's persistence on the subject<br>leaves them a bit confused. Afterward, everyone takes a dip<br>in the hot spring at Tisse's recommendation.</p>
+<p align="center">Shiki Tsubasa has just moved from Tokyo to the city<br>of Kitami in Hokkaido. When he gets lost, a flirty<br>gal named Fuyuki Minami points him in the right direction.<br>After the two meet again at school, Minami invites Tsubasa<br>to hang out with her at home.</p>
 </td>
 </tr>
 </table>
@@ -149,12 +149,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! (Portuguese Dub) - Episode 1 - The Fiancé Who Killed Me</h3></th>
+<th><h3 align="center">The Foolish Angel Dances with the Devil (English Dub) - Episode 2 - The Even More Foolish Angel and Demon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6d19c123aebb9b596b193f64554f37b41704636626_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2c8ba73626374f01453ea77cb53c38ed1705340533_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -163,17 +163,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
+<td align="center">1/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy/episode-1-the-fianc-who-killed-me-920115">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-foolish-angel-dances-with-the-devil/episode-2-the-even-more-foolish-angel-and-demon-920174">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Riesche Irmgard Wertzner, daughter of a duke, has a secret—she<br>dies at age twenty and loops back to a moment<br>five years prior. As her seventh loop begins, she swears<br>to live a long, relaxed life. Then, the man who<br>killed her in her sixth life appears!</p>
+<p align="center">Lily and Akutsu both have everything to prove as they<br>embark upon their new, fraught relationship dynamic. Who will come<br>out on top in the battle for dominance?!</p>
 </td>
 </tr>
 </table>
@@ -183,12 +183,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Theatre of Darkness: Yamishibai 12 - Episode 3 - Blackbean</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (English Dub) - Episode 2 - The Heroes Are a Couple of Beauties</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4a9bb3a606f075408647c30117f1d0831706464757_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/aba6d04b0ff317f60d541dc7324228e31706556667_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -197,11 +197,283 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
+<td align="center">1/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/theatre-of-darkness-yamishibai/episode-3-blackbean-919359">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-2-the-heroes-are-a-couple-of-beauties-920168">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">We meet one of Misumi Makoto's classmates back on earth,<br>who also has a curious encounter with a certain goddess<br>who presides over a certain isekai. She and one other<br>are sent there as heroes to help the hyumans defeat<br>the demons.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Portuguese Dub) - Episode 1 - What? Moon over the Ruined Castle?</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/649714528f073aae04862a3b2bffae1e1704720854_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-1-what-moon-over-the-ruined-castle-920169">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mikoto and Shiki are making their way to Rotsgard Academy<br>in hopes of opening a new store. Meanwhile, back in<br>the demiplane, everyone is helping Mio practice her cooking skills<br>by taste testing her dishes.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Spanish Dub) - Episode 1 - What? Moon over the Ruined Castle?</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/649714528f073aae04862a3b2bffae1e1704720854_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-1-what-moon-over-the-ruined-castle-920170">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mikoto and Shiki are making their way to Rotsgard Academy<br>in hopes of opening a new store. Meanwhile, back in<br>the demiplane, everyone is helping Mio practice her cooking skills<br>by taste testing her dishes.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far (French Dub) - Episode 8 - The Royal Academy</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8ed1d0f7b3170d1bb4ddb14c3713a57c1684633566_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far/episode-8-the-royal-academy-920166">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">It's the day of the Royal Academy entrance exams. Cain<br>whizzes through the written exam, then heads outside for the<br>magic and swordsmanship exams, but they don't go quite as<br>smoothly...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Foolish Angel Dances with the Devil - Episode 4 - The Equally Foolish Angel and Demon</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7fed342bf6cfbee1b0ef96ecc2414afa1706550973_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-foolish-angel-dances-with-the-devil/episode-4-the-equally-foolish-angel-and-demon-918501">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">When Lily tracks down a spats-obsessed demon, Akutsu does everything<br>within his power to distract her from the battle. Later,<br>Akutsu's boss visits and demands he work on his game<br>to better recruit a new leader for Hell.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Entertainment District Arc (Telugu Dub) - Episode 11 - No Matter How Many Lives</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4ad7006be1e71909f942ef870410db581644738682_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-11-no-matter-how-many-lives-920162">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As the fierce battle draws to an end, Tanjiro and<br>Uzui behead Gyutaro just as Zenitsu and Inosuke behead Daki.<br>But then, Gyutaro unleashes a devastating Blood Demon Art, burying<br>the city in rubble. When Tanjiro awakens, he joins Nezuko<br>and Zenitsu, only to find Inosuke and Uzui on the<br>brink of death from Gyutaro's poison...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! - Episode 4 - Nighttime Calls Are Super Ticklish</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f9fe074bcbb64329189efb90ac035ef61706549310_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-4-nighttime-calls-are-super-ticklish-918488">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Tsubasa tries walking to school in a blizzard, but Minami<br>and her flirty mother pick him up. After class, Tsubasa,<br>Minami, and Sayuri hang out at a big shopping center.<br>Later that night, Minami shocks Tsubasa with a steaming hot<br>video call from the bath.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">'Tis Time for "Torture," Princess - Episode 4 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/078b67cc011a5633753cc6ffd51692181706544644_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tis-time-for-torture-princess/episode-4-untitled-918475">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Torture Tortura is tested on her torture techniques, as she<br>attempts to tantalize the terrifying Hell-Lord. Elsewhere, Ex experiences the<br>excruciating ecstasy usually executed upon the princess.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Spanish Dub) - Episode 12</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/793adc98e7c8bd29631fb605334071b61706544481_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/zom-100-bucket-list-of-the-dead/episode-12-920137">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -217,12 +489,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (English Dub) - Episode 14.5 - Get Yourselves Caught up With This Light-Speed Recap!</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Portuguese Dub) - Episode 12</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/59d1109359af3934a8c2c53519c32c041705195110_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/793adc98e7c8bd29631fb605334071b61706544535_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -231,17 +503,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
+<td align="center">1/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-145-get-yourselves-caught-up-with-this-light-speed-recap-920111">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/zom-100-bucket-list-of-the-dead/episode-12-920138">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku and the others gather to take a look back<br>at past events to get viewers refreshed and up to<br>date before their battle with Wethermon the Tombguard.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -251,12 +523,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (German Dub) - Episode 14 - Squish</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (English Dub) - Episode 12</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9924c3cd821de1d9943ecd1f2db59d121704589374_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/793adc98e7c8bd29631fb605334071b61706544434_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -265,17 +537,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
+<td align="center">1/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-14-squish-920101">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/zom-100-bucket-list-of-the-dead/episode-12-920139">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku has encountered a new player named Dragonfly in "BERP".<br>The two engage in a series of matches with bug<br>exploits allowed. Afterwards Sunrakru heads to Rabituza to link his<br>skills at the Skill Garden.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -285,12 +557,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (Spanish Dub) - Episode 14 - Squish</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (French Dub) - Episode 12 - Hometown of the Dead III</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9924c3cd821de1d9943ecd1f2db59d121704589374_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/302c77203089922a2924a088d7bdee2b1703520565_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -299,17 +571,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
+<td align="center">1/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-14-squish-920102">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/zom-100-bucket-list-of-the-dead/episode-12-hometown-of-the-dead-iii-920151">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku has encountered a new player named Dragonfly in "BERP".<br>The two engage in a series of matches with bug<br>exploits allowed. Afterwards Sunrakru heads to Rabituza to link his<br>skills at the Skill Garden.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -319,12 +591,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (Italian Dub) - Episode 14 - Squish</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (German Dub) - Episode 12 - Hometown of the Dead III</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9924c3cd821de1d9943ecd1f2db59d121704589374_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/302c77203089922a2924a088d7bdee2b1703520565_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -333,17 +605,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
+<td align="center">1/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-14-squish-920103">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/zom-100-bucket-list-of-the-dead/episode-12-hometown-of-the-dead-iii-920154">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku has encountered a new player named Dragonfly in "BERP".<br>The two engage in a series of matches with bug<br>exploits allowed. Afterwards Sunrakru heads to Rabituza to link his<br>skills at the Skill Garden.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -353,12 +625,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (Tamil Dub) - Episode 14 - Squish</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Portuguese Dub) - Episode 11</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9924c3cd821de1d9943ecd1f2db59d121704589374_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d8f6a9a828dc9acd9e5c0aa67599bc4d1706539734_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -367,17 +639,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
+<td align="center">1/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-14-squish-920106">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/zom-100-bucket-list-of-the-dead/episode-11-920135">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku has encountered a new player named Dragonfly in "BERP".<br>The two engage in a series of matches with bug<br>exploits allowed. Afterwards Sunrakru heads to Rabituza to link his<br>skills at the Skill Garden.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -387,12 +659,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (Hindi Dub) - Episode 14 - Squish</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Spanish Dub) - Episode 11</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9924c3cd821de1d9943ecd1f2db59d121704589374_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d8f6a9a828dc9acd9e5c0aa67599bc4d1706539769_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -401,289 +673,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
+<td align="center">1/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-14-squish-920107">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/zom-100-bucket-list-of-the-dead/episode-11-920136">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku has encountered a new player named Dragonfly in "BERP".<br>The two engage in a series of matches with bug<br>exploits allowed. Afterwards Sunrakru heads to Rabituza to link his<br>skills at the Skill Garden.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (French Dub) - Episode 13 - Only Resentments About the End of Life Remain</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/684cf599bd6bb60a2309b66b7c29741a1703390619_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-13-only-resentments-about-the-end-of-life-remain-920109">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Pencilgon, Sunraku, and Oikatzo make their way to find the<br>NPC Setsuna of Bygone Days, Wethermon's former lover. She presents<br>to them the Unique Scenario "From the Living World, With<br>Love" which they accept.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Mr. Villain's Day Off - Episode 4 - When Spring Comes to Town</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f361edee875851c14267c6eb14f0aae71706464491_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/mr-villains-day-off/episode-4-when-spring-comes-to-town-918302">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Spring has come, and that's the season for cherry blossoms<br>and new additions to the workforce. But what little surprises<br>can one discover that offer an escape from everyday drudgeries?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Fire Hunter - Episode 13 - The Great Tree</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3c45d18c8b65cb13146b4670e09b9aa51706454001_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-fire-hunter/episode-13-the-great-tree-919792">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With the fighting continuing unabated, the treefolk from the forbidden<br>quarter are drawn to the surface, where they encounter a<br>familiar face.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Meiji Gekken: 1874 - Episode 3 - Hunters</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b139ba955f4a69fdb44fa000b52f91821706453923_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/meiji-gekken-1874/episode-3-hunters-919372">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">In the course of their investigations, Osanai and Shizuma hear<br>of something called the "hunting club," a group that abducts<br>people and hunts them for sport.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 - Episode 4 - The Daily Life of the Former Hero and the Assassin</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6dd6b0d5a960dbe544c160b3ce836c4d1706453871_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-4-the-daily-life-of-the-former-hero-and-the-assassin-918315">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">It's morning as usual. Ruti reconsiders her ordinary daily life<br>that she had abandoned as a hero. That morning, Tisse<br>seemed to be acting strangely. Ruti tries to ask her<br>about the previous night, but...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! - Episode 4 - Turning the Knave into a Secret Spice</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/74bd41dc31762cffe213497884df7e7a1706453783_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy/episode-4-turning-the-knave-into-a-secret-spice-918330">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Kaine Tully has arrived to meet with Rishe. When she<br>tells him that she wants the his company to procure<br>her wedding goods, he does something unexpected. Rishe knows that<br>his trade routes could help stop the war. Will she<br>succeed in making him an ally?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Fluffy Paradise - Episode 5 - Surprised by the Monsters in the Forest!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4cc0d72b6291550c744195ea0065886b1706446798_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fluffy-paradise/episode-5-surprised-by-the-monsters-in-the-forest-918194">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Neema's father takes her on a tour of their northern<br>lands, where unusual monsters have been appearing in the forest<br>and causing problems for the locals lately.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Heaven Official's Blessing 2 (Japanese Dub) - Episode 4 - Secret Underground Corridor</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/00492a4c6f6643ddd13ec22f3602e38f1706430927_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/heaven-officials-blessing/episode-4-secret-underground-corridor-918390">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">When Xie investigates the secret hidden corridor he found before,<br>what he finds is unexpected. Is his bad luck to<br>blame?</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
