@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 3, 2024, 7:49:01 AM</em></p>
+<p align="center"><em>Updated on: Feb 3, 2024, 7:18:02 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,6 +12,176 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Firefighter Daigo: Rescuer in Orange - Episode 17 - Asahina Daigo</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/98215ba5bfed636ae352a117fd7419301706915172_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/3/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/firefighter-daigo-rescuer-in-orange/episode-17-asahina-daigo-918033">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With the additional help of<br>Yuki and Toyomu, Daigo and<br>Shun manage to rescue every<br>single person. A few days<br>later, the two of them<br>get summoned to the district<br>headquarters for a debriefing, where<br>they get subjected to a<br>behavioral audit, but then...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Angel Next Door Spoils Me Rotten (Hindi Dub) - Episode 12 - Say Goodbye to My Cowardice</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f0ef59a3437821a866228fea6b26f93e1679754246_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/3/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-angel-next-door-spoils-me-rotten/episode-12-say-goodbye-to-my-cowardice-920389">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">While Amane realized that Mahiru<br>had feelings for him, his<br>past experiences left him without<br>the confidence to move forward<br>with her. On school sports<br>day, the two end up<br>participating in the scavenger race<br>event together. When Mahiru finds<br>out the item she has<br>to search for, she grabs<br>Amane's hand and heads for<br>the goal, surprising Amane. Then,<br>in front of their stunned<br>classmates, Mahiru courageously announces that<br>Amane is dear to her.<br>In that moment, Amane makes<br>up his mind to confess<br>his feelings.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">My Love Story with Yamada-kun at Lv999 (Hindi Dub) - Episode 12 - I Like You</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0836aec98dd6626485018697ba52a60e1687018831_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/3/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/my-love-story-with-yamada-kun-at-lv999/episode-12-i-like-you-920380">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Akane, who was now determined<br>to confess her feelings to<br>Yamada, reaches out to ask<br>for advice from Momoko, the<br>friend who consoled her after<br>her most recent break up,<br>and Rurihime, or rather Eita.<br>As to not lose the<br>momentum she got from that,<br>Akane heads to Yamada’s apartment<br>without any forewarning, but she<br>had arrived just when he<br>is rushing out of his<br>home to get to cram<br>school and can’t get herself<br>to tell him how she<br>feels. They decide to meet<br>again after he finishes his<br>lessons but are then met<br>with a sudden rainstorm. Along<br>with the rainstorm, Tsubaki also<br>makes a sudden and impulsive<br>action, which ended up leading<br>to Akane and Yamada’s plans<br>to meet up being cancelled…</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Buddy Daddies (Hindi Dub) - Episode 12 - Daughter Daddies</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/98240c4cc6044aa4dde07af1125917041680269512_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/3/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/buddy-daddies/episode-12-daughter-daddies-920377">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Miri sings at the Christmas<br>party, while Kazuki and Rei<br>decide to settle matters with<br>the organization.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez - Episode 4 - An Idol's Afternoon</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e6b62efe52f474704eacc9a8a171df1f1706908157_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/cardfight-vanguard-overdress/episode-4-an-idols-afternoon-919235">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The perfect idol Mikoto is<br>currently on hiatus and hooked<br>on Net Vanguard. Joining an<br>offline meeting, Akina witnesses the<br>fight between Megumi and Mikoto.<br>Meanwhile, the masked person comes<br>into contact with Suo Yobitsugi.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">The Demon Prince of Momochi House (English Dub) - Episode 3 - A Fourth Friend</h3></th>
 </tr>
@@ -514,176 +684,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Following the discovery of his<br>unique power, Usato has been<br>recruited/abducted into the kingdom's Rescue<br>Team. And he has no<br>idea the hellacious training he's<br>in for!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Snack Basue - Episode 4 - There Is Love / If I Should Die Tonight / Soul Shadows</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/aa9846e0497cb4dfda0f1c0877ac83161706887525_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/snack-basue/episode-4-there-is-love-if-i-should-die-tonight-soul-shadows-919065">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Demon Prince of Momochi House - Episode 5 - Inari Sunset</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2349b89dd9c7557e7552b4c57a17390a1706869576_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-5-inari-sunset-918075">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Himari meets a new classmate<br>who everyone says is cursed.<br>Surely that can't be true,<br>right? So what's that dark<br>mist shrouding him?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic - Episode 5 - Usato, Back in the Forest!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dd3951da1bcbca1aac952db25ecb66181706868297_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-5-usato-back-in-the-forest-918088">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Usato gets drafted to help<br>Inukami on a training expedition<br>outside the castle to get<br>some real combat experience. He's<br>only supposed to be there<br>in case things go wrong,<br>but things definitely go wrong!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Frieren: Beyond Journey's End - Episode 21 - The World of Magic</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1bff419f590742822f733d968b2bfece1706866862_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-21-the-world-of-magic-918290">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Frieren, Kanne, and Lawine struggle<br>with the 13th party over<br>possession of the Stille, but<br>there'll be more surprises in<br>store before their battle, and<br>the first test, reach their<br>conclusion.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Weakest Tamer Began a Journey to Pick Up Trash (Telugu Dub) - Episode 4</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4fb4d6a183e9db5e863cda31c2b6c40a1706887390_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-weakest-tamer-began-a-journey-to-pick-up-trash/episode-4-919184">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
 </td>
 </tr>
 </table>
