@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 4, 2024, 7:53:31 AM</em></p>
+<p align="center"><em>Updated on: Feb 4, 2024, 7:17:37 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -13,12 +13,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Hindi Dub) - Episode 2 - Return to Avancia</h3></th>
+<th><h3 align="center">Shangri-La Frontier - Episode 17 - Putting Feelings Into a Moment, Part 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/836e73d8a3a2415a963ab6269990560d1705165828_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/036f55d51f0aaa24f3c65a80a68fcd321707016791_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -31,13 +31,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-strongest-tanks-labyrinth-raids-a-tank-with-a-rare-9999-resistance-skill-got-kicked-from-the-heros-party-/episode-2-return-to-avancia-920499">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-17-putting-feelings-into-a-moment-part-3-917787">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rud returns to his hometown<br>of Avancia with Luna in<br>tow and reunites with his<br>sister, who quickly takes to<br>the new addition to the<br>household.</p>
+<p align="center">The battle with Wethermon the<br>Tombguard moves to its next<br>phase. Pencilgon and Oikatzo, exploiting<br>rare items, focus on Kirin<br>who has transformed into a<br>suit of armor. Meanwhile Sunraku<br>goes on the offensive to<br>defeat Wethermon before he crumbles<br>away.</p>
 </td>
 </tr>
 </table>
@@ -47,12 +47,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (English Dub) - Episode 3 - Episode 3</h3></th>
+<th><h3 align="center">Captain Tsubasa: Junior Youth Arc - Episode 18 - The Top Four Assemble!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/76446498559c043f4a9682d47bc93fc11705726570_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9b5b301f2414b9a865beeebe27f721001707011876_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -61,17 +61,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-3-episode-3-920498">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-18-the-top-four-assemble-918575">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Satou and the others have<br>arrived in the elven homeland<br>of Romca, the Land of<br>Wind where he plans to<br>marry Nefritis, princess of the<br>Ring of Wind. Due to<br>her shy nature, Nefritis vehemently<br>refuses her marriage to Satou.</p>
+<p align="center">Thanks to Misugi’s overhead, Team<br>Japan manages to take the<br>lead, a first for this<br>match. But the self-declared genius<br>is ready and launches his<br>infamous Banana Shot over everyone’s<br>heads, etching a giant arc<br>in the sky. Who will<br>make it to the top<br>four?</p>
 </td>
 </tr>
 </table>
@@ -81,12 +81,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (Portuguese Dub) - Episode 2 - Episode 2</h3></th>
+<th><h3 align="center">A Couple of Cuckoos (Telugu Dub) - Episode 15 - We have to tell her... about our secret!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/49eed8e2bfbaa3edac765b5608e9ed131705146124_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d0ab170d6de7c7ec1330e126bdfe6f311659803553_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -95,17 +95,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-2-episode-2-920492">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-couple-of-cuckoos/episode-15-we-have-to-tell-her-about-our-secret-920542">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Satou has married Hime and<br>become the legendary Ring King<br>who will save Arnulus from<br>the threat of the Abyss<br>King. They struggle to advance<br>their relationship, but there's no<br>time to enjoy their newlywed<br>life as the Abyss King's<br>pursuers close in.</p>
+<p align="center">Erika and Nagi walk around<br>the festival together, and she<br>shocks him with how out-of-touch<br>she is.</p>
 </td>
 </tr>
 </table>
@@ -115,12 +115,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (German Dub) - Episode 2 - Episode 2</h3></th>
+<th><h3 align="center">A Couple of Cuckoos (Tamil Dub) - Episode 15 - We have to tell her... about our secret!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/49eed8e2bfbaa3edac765b5608e9ed131705146124_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d0ab170d6de7c7ec1330e126bdfe6f311659803553_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -129,17 +129,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-2-episode-2-920493">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-couple-of-cuckoos/episode-15-we-have-to-tell-her-about-our-secret-920543">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Satou has married Hime and<br>become the legendary Ring King<br>who will save Arnulus from<br>the threat of the Abyss<br>King. They struggle to advance<br>their relationship, but there's no<br>time to enjoy their newlywed<br>life as the Abyss King's<br>pursuers close in.</p>
+<p align="center">Erika and Nagi walk around<br>the festival together, and she<br>shocks him with how out-of-touch<br>she is.</p>
 </td>
 </tr>
 </table>
@@ -149,12 +149,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (Spanish Dub) - Episode 2 - Episode 2</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 4) - Episode 9 - Rong Is in Dander</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/49eed8e2bfbaa3edac765b5608e9ed131705146124_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d60e2cb61b279ee1ccd732b1b5f2d00a1706996129_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -163,17 +163,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-2-episode-2-920494">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-9-rong-is-in-dander-917172">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Satou has married Hime and<br>become the legendary Ring King<br>who will save Arnulus from<br>the threat of the Abyss<br>King. They struggle to advance<br>their relationship, but there's no<br>time to enjoy their newlywed<br>life as the Abyss King's<br>pursuers close in.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -183,12 +183,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (German Dub) - Episode 1 - The World's Astir</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) - A Project to Fully Enjoy! ‘Surgeon of Death’ Trafalgar Law</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2866d7184ae1d368934a74ac40e778ef1704561368_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8c9a017a96cf5a74fe9b3130b203433a1707010098_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -197,17 +197,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/blue-exorcist/episode-1-the-worlds-astir-920488">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/one-piece/one-piece-egghead-island-1089-current-a-project-to-fully-enjoy-surgeon-of-death-trafalgar-law-919745">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rin Okumura, a boy aiming<br>to become an exorcist yet<br>born the illegitimate son of<br>the demon god Satan, advises<br>his classmate Sei Godaiin, who<br>begins to see demons. Despite<br>Rin asking Ryuji Suguro and<br>the other Exwires attending the<br>Exorcism Cram School for a<br>way to make demons invisible,<br>he is unable to find<br>a solution. Meanwhile, Rin is<br>invited to dinner by Mephisto<br>Pheles, the Preceptor of the<br>Japan Branch of the Knights<br>of the True Cross and<br>director of the True Cross<br>Academy. However...</p>
+<p align="center">Chopper and Bepo look back<br>on Trafalgar Law’s life. They<br>explain how he met Luffy,<br>formed an alliance, and traveled<br>to Punk Hazard, Dressrosa, and<br>the Land of Wano to<br>take down the Emperors of<br>the Sea.</p>
 </td>
 </tr>
 </table>
@@ -217,12 +217,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (French Dub) - Episode 1 - The World's Astir</h3></th>
+<th><h3 align="center">Wonderful Precure! - Episode 1 - It Starts With "Wonderful!"</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2866d7184ae1d368934a74ac40e778ef1704561368_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9cb20c2552cef1c0645034d3baaffd871707007748_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -231,17 +231,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/blue-exorcist/episode-1-the-worlds-astir-920489">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/wonderful-precure/episode-1-it-starts-with-wonderful-914748">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rin Okumura, a boy aiming<br>to become an exorcist yet<br>born the illegitimate son of<br>the demon god Satan, advises<br>his classmate Sei Godaiin, who<br>begins to see demons. Despite<br>Rin asking Ryuji Suguro and<br>the other Exwires attending the<br>Exorcism Cram School for a<br>way to make demons invisible,<br>he is unable to find<br>a solution. Meanwhile, Rin is<br>invited to dinner by Mephisto<br>Pheles, the Preceptor of the<br>Japan Branch of the Knights<br>of the True Cross and<br>director of the True Cross<br>Academy. However...</p>
+<p align="center">Iroha Inukai lives in Animal<br>Town with her beloved pet<br>dog, Komugi. At Kaihin Park,<br>she is attacked by a<br>strange creature, a Garugaru. At<br>that moment, a stone Komugi<br>found begins to sparkle…</p>
 </td>
 </tr>
 </table>
@@ -251,12 +251,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Sign of Affection (English Dub) - Episode 3 - Someone is thinking of someone</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 3) (Hindi Dub) - Episode 12 - Reconciled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bd90f556d6cc5977c8b99e60a76870621705732019_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/757d31bd0f59f8709174b3c0d24513601670718798_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -265,17 +265,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-3-someone-is-thinking-of-someone-920486">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-12-reconciled-920510">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having come to terms with<br>her feelings for Itsuomi, Yuki<br>prepares to make her move,<br>but she encounters a sight<br>that throws her into confusion<br>and doubt.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -285,12 +285,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Sign of Affection (Portuguese Dub) - Episode 2 - To Affection</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 3) (English Dub) - Episode 12 - Reconciled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b44a220dc9a984c4a8a55dee542bcc0f1705147844_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/757d31bd0f59f8709174b3c0d24513601670718798_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -299,17 +299,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-2-to-affection-920478">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-12-reconciled-920534">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuki tries to come to<br>terms with her newfound feelings<br>for Itsuomi, while Oushi offers<br>a glimpse into what he's<br>been trying to come to<br>terms with for a long<br>time.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -319,12 +319,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Sign of Affection (German Dub) - Episode 2 - To Affection</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 3) (Hindi Dub) - Episode 11 - A Daring Journey to Sunland</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b44a220dc9a984c4a8a55dee542bcc0f1705147844_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8a131ec7513d6e9a17c1f7336e7386b51670119365_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -333,17 +333,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-2-to-affection-920479">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-11-a-daring-journey-to-sunland-920509">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuki tries to come to<br>terms with her newfound feelings<br>for Itsuomi, while Oushi offers<br>a glimpse into what he's<br>been trying to come to<br>terms with for a long<br>time.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -353,12 +353,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Sign of Affection (French Dub) - Episode 2 - To Affection</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 3) (English Dub) - Episode 11 - A Daring Journey to Sunland</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b44a220dc9a984c4a8a55dee542bcc0f1705147844_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8a131ec7513d6e9a17c1f7336e7386b51670119365_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -367,17 +367,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-2-to-affection-920480">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-11-a-daring-journey-to-sunland-920532">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuki tries to come to<br>terms with her newfound feelings<br>for Itsuomi, while Oushi offers<br>a glimpse into what he's<br>been trying to come to<br>terms with for a long<br>time.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -387,12 +387,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Sign of Affection (Spanish Dub) - Episode 2 - To Affection</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 3) (Hindi Dub) - Episode 10 - The Sun Family's Sacred Cudgel Is Lost (Mission Accomplished Version)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b44a220dc9a984c4a8a55dee542bcc0f1705147844_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/036db5caba8d308d2cc7f72959e2c17d1669518122_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -401,17 +401,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-2-to-affection-920482">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-10-the-sun-familys-sacred-cudgel-is-lost-mission-accomplished-version-920508">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuki tries to come to<br>terms with her newfound feelings<br>for Itsuomi, while Oushi offers<br>a glimpse into what he's<br>been trying to come to<br>terms with for a long<br>time.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -421,12 +421,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BUCCHIGIRI?! (English Dub) - Episode 2 - Wanna Take You On! The Chu Chu Chinese Pepper Steak Train!</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 3) (English Dub) - Episode 10 - The Sun Family's Sacred Cudgel Is Lost (Mission Accomplished Version)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ebc8144c265452218f9a8701dc0c43761706994667_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/036db5caba8d308d2cc7f72959e2c17d1669518122_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -435,17 +435,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-2-wanna-take-you-on-the-chu-chu-chinese-pepper-steak-train-920475">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-10-the-sun-familys-sacred-cudgel-is-lost-mission-accomplished-version-920530">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Arajin surprises everyone when he<br>uses Senya's power to land<br>a punch on Marito. Marito<br>falls in love with that<br>fist and tries to convince<br>Arajin to join Siguma Squad,<br>but Matakara asks Arajin to<br>join Minato Kai to continue<br>their Honki training together.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -455,12 +455,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BUCCHIGIRI?! (Portuguese Dub) - Episode 1 - Merge?! Fall in Love with Fortune Bang Bang Chicken!</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 3) (Hindi Dub) - Episode 9 - Oaths On High Saint's Day</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/886bb8f5e20fe236eecf53828ace140b1705159443_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bf14b826e4bcbd6fe69a21251b45229f1668906759_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -469,17 +469,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-1-merge-fall-in-love-with-fortune-bang-bang-chicken-920461">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-9-oaths-on-high-saints-day-920504">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Arajin dreams of a sweet<br>high school life at a<br>new school, where the Minato<br>Kai and Siguma Squad gangs<br>fight to be on "top."<br>Arajin meets the charming Mahoro,<br>his childhood friend Matakara, and<br>then a legendary djinn Senya,<br>and his fate begins to<br>change.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -489,12 +489,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BUCCHIGIRI?! (German Dub) - Episode 1 - Merge?! Fall in Love with Fortune Bang Bang Chicken!</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 3) (English Dub) - Episode 9 - Oaths On High Saint's Day</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/886bb8f5e20fe236eecf53828ace140b1705159443_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bf14b826e4bcbd6fe69a21251b45229f1668906759_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -503,17 +503,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-1-merge-fall-in-love-with-fortune-bang-bang-chicken-920462">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-9-oaths-on-high-saints-day-920528">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Arajin dreams of a sweet<br>high school life at a<br>new school, where the Minato<br>Kai and Siguma Squad gangs<br>fight to be on "top."<br>Arajin meets the charming Mahoro,<br>his childhood friend Matakara, and<br>then a legendary djinn Senya,<br>and his fate begins to<br>change.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -523,12 +523,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BUCCHIGIRI?! (French Dub) - Episode 1 - Merge?! Fall in Love with Fortune Bang Bang Chicken!</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 3) (Hindi Dub) - Episode 8 - A False Hero</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/886bb8f5e20fe236eecf53828ace140b1705159443_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a01468544d8a0da64d73ddc68fef0ae61668299569_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -537,17 +537,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-1-merge-fall-in-love-with-fortune-bang-bang-chicken-920463">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-8-a-false-hero-920502">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Arajin dreams of a sweet<br>high school life at a<br>new school, where the Minato<br>Kai and Siguma Squad gangs<br>fight to be on "top."<br>Arajin meets the charming Mahoro,<br>his childhood friend Matakara, and<br>then a legendary djinn Senya,<br>and his fate begins to<br>change.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -557,12 +557,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BUCCHIGIRI?! (Spanish Dub) - Episode 1 - Merge?! Fall in Love with Fortune Bang Bang Chicken!</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 3) (English Dub) - Episode 8 - A False Hero</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/886bb8f5e20fe236eecf53828ace140b1705159443_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a01468544d8a0da64d73ddc68fef0ae61668299569_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -571,17 +571,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-1-merge-fall-in-love-with-fortune-bang-bang-chicken-920464">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-8-a-false-hero-920526">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Arajin dreams of a sweet<br>high school life at a<br>new school, where the Minato<br>Kai and Siguma Squad gangs<br>fight to be on "top."<br>Arajin meets the charming Mahoro,<br>his childhood friend Matakara, and<br>then a legendary djinn Senya,<br>and his fate begins to<br>change.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -591,12 +591,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BUCCHIGIRI?! (Hindi Dub) - Episode 1 - Merge?! Fall in Love with Fortune Bang Bang Chicken!</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 3) (Hindi Dub) - Episode 7 - Welcome To Join The Exorcist Team!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/886bb8f5e20fe236eecf53828ace140b1705159443_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/473e1b0f444ec81f1de37493a00c570a1667696045_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -605,17 +605,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-1-merge-fall-in-love-with-fortune-bang-bang-chicken-920473">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-7-welcome-to-join-the-exorcist-team-920501">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Arajin dreams of a sweet<br>high school life at a<br>new school, where the Minato<br>Kai and Siguma Squad gangs<br>fight to be on "top."<br>Arajin meets the charming Mahoro,<br>his childhood friend Matakara, and<br>then a legendary djinn Senya,<br>and his fate begins to<br>change.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -625,12 +625,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries (English Dub) - Episode 15 - Raw Fish</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 3) (English Dub) - Episode 7 - Welcome To Join The Exorcist Team!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bfa8dfdbcc39f5fb28285082109ba0201705768593_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/473e1b0f444ec81f1de37493a00c570a1667696045_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -639,17 +639,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-15-raw-fish-920460">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-7-welcome-to-join-the-exorcist-team-920524">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gaoshun requests Maomao's help in<br>solving an apparent poisoning case.<br>Meanwhile, Jinshi deals with an<br>unwelcome visitor who's taken to<br>lingering in his office.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -659,12 +659,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries (French Dub) - Episode 14 - The New Pure Consort</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 3) (English Dub) - Episode 6 - It's My Round</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a2f8634d10b03bc262b72391a401f4301705160105_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/109f8def6adfcc7f3835e6ccade584d31667103023_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -673,17 +673,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/3/2024</td>
+<td align="center">2/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-14-the-new-pure-consort-920459">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-6-its-my-round-920522">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ah-Duo's replacement has arrived in<br>the rear palace, and Maomao<br>is assigned to give a<br>certain lecture to all four<br>high concubines. Later, Maomao helps<br>Lihaku investigate a warehouse explosion.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
