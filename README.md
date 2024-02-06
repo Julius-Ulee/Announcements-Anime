@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 5, 2024, 7:19:26 PM</em></p>
+<p align="center"><em>Updated on: Feb 6, 2024, 7:49:03 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -13,12 +13,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Telugu Dub) - Episode 3 - A Sword from Over 300 Years Ago</h3></th>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (English Dub) - Episode 3 - Akino-san Is Super Unfriendly</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/52f5d3062a611549da0d4160933fd6321682270002_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0adf9b6d33dcd15ff26a99c48d3e4b091707165007_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -31,13 +31,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-3-a-sword-from-over-300-years-ago-920562">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-3-akino-san-is-super-unfriendly-920600">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yoriichi Type Zero is destroyed<br>at the end of Tanjiro's<br>training, but a sword from<br>over 300 years ago appears<br>from inside. Kotetsu gives Tanjiro<br>the sword, however it is<br>badly rusted. At that moment,<br>Haganezuka appears and takes the<br>sword with him to perform<br>a grueling whetting process handed<br>down within his family line.<br>Meanwhile the presence of demons<br>are inching closer to the<br>village...</p>
+<p align="center">Tsubasa starts learning to ski<br>on a class trip to<br>the slopes. He's told to<br>partner with Akino Sayuri, a<br>pretty loner that Minami is<br>fascinated with. When he runs<br>to the bus to grab<br>his chopsticks for lunch, he<br>finds Akino half-naked and covered<br>in sweat.</p>
 </td>
 </tr>
 </table>
@@ -47,12 +47,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Tamil Dub) - Episode 3 - A Sword from Over 300 Years Ago</h3></th>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Portuguese Dub) - Episode 2 - It's Super Warm Inside the Snow Fort</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/52f5d3062a611549da0d4160933fd6321682270002_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/067f4fc054e12758b3d2757d34dfc7af1705338563_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -65,13 +65,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-3-a-sword-from-over-300-years-ago-920563">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-2-its-super-warm-inside-the-snow-fort-920593">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yoriichi Type Zero is destroyed<br>at the end of Tanjiro's<br>training, but a sword from<br>over 300 years ago appears<br>from inside. Kotetsu gives Tanjiro<br>the sword, however it is<br>badly rusted. At that moment,<br>Haganezuka appears and takes the<br>sword with him to perform<br>a grueling whetting process handed<br>down within his family line.<br>Meanwhile the presence of demons<br>are inching closer to the<br>village...</p>
+<p align="center">Tsubasa decides to attend the<br>Kitami Winter Festival with Minami.<br>Tsubasa is nervous and wonders<br>if it classifies as a<br>date. Some days later, during<br>lunch, Minami asks if she<br>can go to Tsubasa's house.<br>On their way there the<br>two come upon a snow<br>mound.</p>
 </td>
 </tr>
 </table>
@@ -81,12 +81,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin (English Dub) - Episode 17 - Settling the Score</h3></th>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Spanish Dub) - Episode 2 - It's Super Warm Inside the Snow Fort</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/240eaad2f8bbf83764d6718ebde94ac71698337173_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/067f4fc054e12758b3d2757d34dfc7af1705338563_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -95,18 +95,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/rurouni-kenshin/episode-17-settling-the-score-920556">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-2-its-super-warm-inside-the-snow-fort-920594">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yutaro sustains a heavy injury<br>from Raijuta's sword, and it<br>is so severe that he<br>will never be able to<br>swing a sword with that<br>arm ever again. Although Yahiko<br>was constantly disagreeing with Yutaro<br>until now, he understood very<br>well what swordsmanship meant to<br>him. He takes Yutaro's hand<br>and leads him out of<br>the medical room, so they<br>could witness the final battle<br>between Kenshin and Raijuta.
-Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins.</p>
+<p align="center">Tsubasa decides to attend the<br>Kitami Winter Festival with Minami.<br>Tsubasa is nervous and wonders<br>if it classifies as a<br>date. Some days later, during<br>lunch, Minami asks if she<br>can go to Tsubasa's house.<br>On their way there the<br>two come upon a snow<br>mound.</p>
 </td>
 </tr>
 </table>
@@ -116,12 +115,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 (English Dub) - Episode 3 - Zoltan's Solstice Festival</h3></th>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Hindi Dub) - Episode 2 - It's Super Warm Inside the Snow Fort</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/41061a3f6a3c0d519f4bf444c796f5121705837849_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/067f4fc054e12758b3d2757d34dfc7af1705338563_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -130,17 +129,17 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-3-zoltans-solstice-festival-920554">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-2-its-super-warm-inside-the-snow-fort-920595">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Cardinal Ljubo takes an interest<br>in Zoltan's airship. Meanwhile, Zoltan<br>is celebrating the Solstice Festival<br>and it is bustling with<br>activity. Red and his friends<br>are enjoying the festival, but<br>they come across a fight<br>between some young people.</p>
+<p align="center">Tsubasa decides to attend the<br>Kitami Winter Festival with Minami.<br>Tsubasa is nervous and wonders<br>if it classifies as a<br>date. Some days later, during<br>lunch, Minami asks if she<br>can go to Tsubasa's house.<br>On their way there the<br>two come upon a snow<br>mound.</p>
 </td>
 </tr>
 </table>
@@ -150,12 +149,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! (Portuguese Dub) - Episode 2 - The Golden Imperial Capital</h3></th>
+<th><h3 align="center">The Foolish Angel Dances with the Devil (English Dub) - Episode 3 - The Still Foolish Angel and Demon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c9e956aff7e7665ed8f1f774a1a1d2901705232692_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e396cb238ce7fea68b15d6ec252aee431705945592_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -164,17 +163,17 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy/episode-2-the-golden-imperial-capital-920552">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-foolish-angel-dances-with-the-devil/episode-3-the-still-foolish-angel-and-demon-920592">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Arnold proposes marriage to Rishe.<br>She replies with certain conditions<br>which must be met. Arnold<br>gives his promise, and he<br>and Rishe head to Galkhein.<br>Rishe is excited to visit<br>a country she's ever been<br>to, but wonders—what is Arnold<br>truly after?</p>
+<p align="center">The first demon-hunting expedition by<br>Lily and Akutsu turns up<br>nothing... except for Yuka, a<br>childhood friend of Hirota's who<br>sees Lily as a rival<br>for his affections!</p>
 </td>
 </tr>
 </table>
@@ -184,12 +183,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">Theatre of Darkness: Yamishibai 12 - Episode 4 - Mirror</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (English Dub) - Episode 3 - Stellar Wars</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0b1d7b4532e5e44479848f3783af48c21707076537_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eb11a57c3f7572ae76b5aad148f92f8b1705907571_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -198,17 +197,17 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/theatre-of-darkness-yamishibai/episode-4-mirror-919360">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-3-stellar-wars-920588">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">This is the story of<br>a woman who's living as<br>a shut-in...</p>
+<p align="center">Hibiki and Tomoki's parties prepare<br>for the attack on Fort<br>Stella (the one Makoto ended<br>up being somewhat involved in<br>against his will). The two<br>human heroes couldn't be more<br>different, posing challenges beyond the<br>simple difficulty of facing the<br>demons.</p>
 </td>
 </tr>
 </table>
@@ -218,12 +217,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (English Dub) - Episode 15 - Putting Feelings Into a Moment, Part 1</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Portuguese Dub) - Episode 2 - The Heroes Are a Couple of Beauties</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/445657f760552b27dc294819a4c4c3c01705801476_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/733ca18ad414b8b72f32b5af5990eb311705332555_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -232,17 +231,17 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-15-putting-feelings-into-a-moment-part-1-920549">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-2-the-heroes-are-a-couple-of-beauties-920586">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On the night of the<br>new moon, the members of<br>Ashura Kai are ambushed by<br>a group of allied clans<br>including Psyger-0. Meanwhile, Sunraku, Oikatzo,<br>and Pencilgon confront Wethermon the<br>Tombguard at the Hidden Garden.</p>
+<p align="center">We meet one of Misumi<br>Makoto's classmates back on earth,<br>who also has a curious<br>encounter with a certain goddess<br>who presides over a certain<br>isekai. She and one other<br>are sent there as heroes<br>to help the hyumans defeat<br>the demons.</p>
 </td>
 </tr>
 </table>
@@ -252,12 +251,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (French Dub) - Episode 14 - Squish</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Spanish Dub) - Episode 2 - The Heroes Are a Couple of Beauties</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9924c3cd821de1d9943ecd1f2db59d121704589374_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/733ca18ad414b8b72f32b5af5990eb311705332555_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -266,17 +265,17 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-14-squish-920548">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-2-the-heroes-are-a-couple-of-beauties-920587">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku has encountered a new<br>player named Dragonfly in "BERP".<br>The two engage in a<br>series of matches with bug<br>exploits allowed. Afterwards Sunrakru heads<br>to Rabituza to link his<br>skills at the Skill Garden.</p>
+<p align="center">We meet one of Misumi<br>Makoto's classmates back on earth,<br>who also has a curious<br>encounter with a certain goddess<br>who presides over a certain<br>isekai. She and one other<br>are sent there as heroes<br>to help the hyumans defeat<br>the demons.</p>
 </td>
 </tr>
 </table>
@@ -286,12 +285,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mr. Villain's Day Off - Episode 5 - Magical Girl in Distress.</h3></th>
+<th><h3 align="center">The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far (French Dub) - Episode 9 - Training</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dfa110465b9acb08ccf0d033d9e162241707068565_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3a5e102eb1a922c71d77d2323f3cff021685278166_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -300,17 +299,17 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/mr-villains-day-off/episode-5-magical-girl-in-distress-918303">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far/episode-9-training-920584">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Pink Ranger goes on<br>a quest for a missing<br>item, only to find help<br>from an unlikely source. Mr.<br>Villain cleans house and earns<br>bonus points, then contemplates recruiting<br>new allies in his struggle<br>against humanity.</p>
+<p align="center">Cain finds himself before Hirasawa<br>Yuuya, the first king of<br>Esfort. Yuuya tells Cain that<br>the seal on the evil<br>god Aaron is weakening, and<br>Cain must fight him. Cain<br>is hesitant, but then Yuuya<br>tells him that Aaron is<br>linked to Shiina Kazuya...</p>
 </td>
 </tr>
 </table>
@@ -320,12 +319,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Fire Hunter - Episode 14 - Banked Fire</h3></th>
+<th><h3 align="center">Butareba -The Story of a Man Turned into a Pig- - Episode 12 - Heat the Pig Liver</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/165cf5d45afda4d62556845df1b14ed41707046085_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e50da4da362bfe5c28675147e83217851707153992_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -334,17 +333,17 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-fire-hunter/episode-14-banked-fire-919793">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/butareba-the-story-of-a-man-turned-into-a-pig-/episode-12-heat-the-pig-liver-911792">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While each divine clan pursues<br>a separate goal, visions of<br>the Flickering Flame lead Touko<br>and Koushi toward the palace.<br>But who is she really,<br>and can they trust her<br>guidance?</p>
+<p align="center">After hearing the truth from<br>the king, Jess and I<br>were spending the remaining time<br>we had together. At this<br>time, she opened up to<br>me the "true reason" why<br>I was brought here to<br>this isekai (Mesteria).  My<br>fellows, please watch through to<br>the end. To the end<br>of a pig and a<br>beautiful girl's lovey-dovey fantasy adventure,<br>that could not be retold<br>without shedding tears.</p>
 </td>
 </tr>
 </table>
@@ -354,12 +353,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">Meiji Gekken: 1874 - Episode 4 - Gekken</h3></th>
+<th><h3 align="center">The Foolish Angel Dances with the Devil - Episode 5 - The Excited Foolish Angel and Demon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8010591eb42d67b3c6ce177f303ef6901707038832_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c67ce2652e6d80d02b34c2114ba780041707152678_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -368,17 +367,17 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/meiji-gekken-1874/episode-4-gekken-919373">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-foolish-angel-dances-with-the-devil/episode-5-the-excited-foolish-angel-and-demon-918502">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kyoushirou is tasked with spearheading<br>the Japan Gekkenkai fencing tournament.<br>Shizuma is assigned to participate<br>in the tournament to investigate<br>a seemingly random attack.</p>
+<p align="center">Lily uses her adorableness to<br>the fullest as she tries<br>to manipulate Akutsu into falling<br>for her. She finds her<br>efforts matched by Akutsu, and<br>it quickly turns into a<br>flirtatious battle for the ages.</p>
 </td>
 </tr>
 </table>
@@ -388,12 +387,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 - Episode 5 - The Man Who Doesn't Get Chill Living</h3></th>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! - Episode 5 - Super Bitter, Super Sweet</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3d164e9b4303f5c11c9dc29b2c431d521707038783_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/122fc0b4b1c40c11d6d654e7a29e27f11707147950_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -402,17 +401,17 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-5-the-man-who-doesnt-get-chill-living-918316">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-5-super-bitter-super-sweet-918489">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Danan, who's been undergoing medical<br>treatment, is on the mend.<br>Before leaving town, Danan asks<br>to arrange a deal with<br>Red. Red readily accepts and<br>a special training camp with<br>the former hero party commences.</p>
+<p align="center">Tsubasa's classmates at karaoke are<br>excited for Valentine's Day. Sayuri<br>says she isn't interested but<br>later bumps into Minami while<br>gazing at the Valentine's display<br>from afar. She then decides<br>to ask Minami a question.</p>
 </td>
 </tr>
 </table>
@@ -422,12 +421,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! - Episode 5 - Another Kind of Trade</h3></th>
+<th><h3 align="center">'Tis Time for "Torture," Princess - Episode 5 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b1a861e54ec8fa9ff859c69ae9dd3e2e1707038746_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1572a181f09da309655ca634d454f3ca1707147813_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -436,17 +435,17 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy/episode-5-another-kind-of-trade-918331">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tis-time-for-torture-princess/episode-5-untitled-918476">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rishe arrives at the chapel<br>to find Theodore waiting for<br>her with a warning. Arnold<br>appears and his icy treatment<br>of his brother leaves Rishe<br>with more questions. But she<br>doesn't have time for that.<br>She still has to convince<br>Tully to become an ally!</p>
+<p align="center">The fearless princess must contend<br>with the horror of roasted<br>marshmallows, sweltering saunas, and haunted<br>school buildings. Meanwhile, an old<br>foe lies in wait to<br>exact his revenge...</p>
 </td>
 </tr>
 </table>
@@ -456,12 +455,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fluffy Paradise - Episode 6 - The Desire to Become Stronger</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Hindi Dub) - Episode 12 - Hometown of the Dead III</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b662fbe7fc376f8caf577df582e534e61707038690_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/302c77203089922a2924a088d7bdee2b1703520565_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -470,79 +469,11 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fluffy-paradise/episode-6-the-desire-to-become-stronger-918195">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Neema is now deep in<br>the forest and deep in<br>trouble. Her father has arrived<br>to rescue her from the<br>terrible clutches... of the goblins<br>she's just made friends with!<br>Can she smooth things over,<br>especially with real danger lurking<br>around the corner?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Heaven Official's Blessing 2 (Japanese Dub) - Episode 5 - The Second Coming of Fang Xin</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2f883741687981448c4e7f7f616c9af61707038715_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/heaven-officials-blessing/episode-5-the-second-coming-of-fang-xin-918391">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Heavenly officers face off<br>against Sanglang and Xie, true<br>to his luck, is faced<br>with only losing choices. If<br>they escape with the Earth<br>Master, what will happen to<br>Xie next?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">CHIBI MARUKO-CHAN - Episode 1422 - The Suitcase is Filled With Dreams \ Maruko Looks for a Lost Item</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ffc7be1b0f89b44e0e24757ae8a7f76c1707016990_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/chibi-maruko-chan/episode-1422-the-suitcase-is-filled-with-dreams-maruko-looks-for-a-lost-item-919591">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/zom-100-bucket-list-of-the-dead/episode-12-hometown-of-the-dead-iii-920572">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -558,12 +489,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier - Episode 17 - Putting Feelings Into a Moment, Part 3</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Italian Dub) - Episode 12 - Hometown of the Dead III</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/036f55d51f0aaa24f3c65a80a68fcd321707016791_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/302c77203089922a2924a088d7bdee2b1703520565_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -572,17 +503,17 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-17-putting-feelings-into-a-moment-part-3-917787">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/zom-100-bucket-list-of-the-dead/episode-12-hometown-of-the-dead-iii-920575">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The battle with Wethermon the<br>Tombguard moves to its next<br>phase. Pencilgon and Oikatzo, exploiting<br>rare items, focus on Kirin<br>who has transformed into a<br>suit of armor. Meanwhile Sunraku<br>goes on the offensive to<br>defeat Wethermon before he crumbles<br>away.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -592,12 +523,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc - Episode 18 - The Top Four Assemble!</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 - Episode 5 - The Lesson Will Now Begin</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9b5b301f2414b9a865beeebe27f721001707011876_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/46dda8b71fd9bddb34f660a9d98fab5b1707147665_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -606,17 +537,17 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-18-the-top-four-assemble-918575">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-5-the-lesson-will-now-begin-918462">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Thanks to Misugi’s overhead, Team<br>Japan manages to take the<br>lead, a first for this<br>match. But the self-declared genius<br>is ready and launches his<br>infamous Banana Shot over everyone’s<br>heads, etching a giant arc<br>in the sky. Who will<br>make it to the top<br>four?</p>
+<p align="center">Makoto starts planning his curriculum<br>and class size now that<br>he's employed at Rotsgard Academy.<br>He wants to teach students<br>to expand their use of<br>elemental magic, but his first<br>class seems to think that's<br>simply impossible.</p>
 </td>
 </tr>
 </table>
@@ -626,12 +557,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Couple of Cuckoos (Telugu Dub) - Episode 15 - We have to tell her... about our secret!</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Hindi Dub) - Episode 11 - Hometown of the Dead II</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d0ab170d6de7c7ec1330e126bdfe6f311659803553_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d7819feceffbcda1f1af42033ac461881703513284_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -640,17 +571,17 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-couple-of-cuckoos/episode-15-we-have-to-tell-her-about-our-secret-920542">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/zom-100-bucket-list-of-the-dead/episode-11-hometown-of-the-dead-ii-920571">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Erika and Nagi walk around<br>the festival together, and she<br>shocks him with how out-of-touch<br>she is.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -660,12 +591,12 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Couple of Cuckoos (Tamil Dub) - Episode 15 - We have to tell her... about our secret!</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Italian Dub) - Episode 11 - Hometown of the Dead II</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d0ab170d6de7c7ec1330e126bdfe6f311659803553_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d7819feceffbcda1f1af42033ac461881703513284_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -674,17 +605,85 @@ Deep in<br>the night on a woodland<br>path, Kenshin and Raijuta's duel<br>begins
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/4/2024</td>
+<td align="center">2/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-couple-of-cuckoos/episode-15-we-have-to-tell-her-about-our-secret-920543">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/zom-100-bucket-list-of-the-dead/episode-11-hometown-of-the-dead-ii-920574">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Erika and Nagi walk around<br>the festival together, and she<br>shocks him with how out-of-touch<br>she is.</p>
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Hindi Dub) - Episode 10 - Hometown of the Dead I</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4cfa44b7945ea122085c7547b87abbeb1703513032_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/zom-100-bucket-list-of-the-dead/episode-10-hometown-of-the-dead-i-920570">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Italian Dub) - Episode 10 - Hometown of the Dead I</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4cfa44b7945ea122085c7547b87abbeb1703513032_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/zom-100-bucket-list-of-the-dead/episode-10-hometown-of-the-dead-i-920573">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
 </td>
 </tr>
 </table>
