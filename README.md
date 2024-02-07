@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 7, 2024, 7:47:38 AM</em></p>
+<p align="center"><em>Updated on: Feb 7, 2024, 7:18:55 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,6 +12,380 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Fire Force Season 2 (Telugu Dub) - Episode 1 - A Fire Soldier's Fight</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/08eda542efddcd413ef83593967da7ac1593757168_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fire-force/episode-1-a-fire-soldiers-fight-920612">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Company 8's junior crewmen take<br>in a day of shopping<br>for some new clothes for<br>Lieutenant Hinawa, but their excursion<br>is interrupted by the appearance<br>of a giant Infernal. The<br>8th prepares for the annual<br>Special Fire Force beefcake calendar<br>shoot.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Fire Force Season 2 (Tamil Dub) - Episode 1 - A Fire Soldier's Fight</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/08eda542efddcd413ef83593967da7ac1593757168_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fire-force/episode-1-a-fire-soldiers-fight-920611">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Company 8's junior crewmen take<br>in a day of shopping<br>for some new clothes for<br>Lieutenant Hinawa, but their excursion<br>is interrupted by the appearance<br>of a giant Infernal. The<br>8th prepares for the annual<br>Special Fire Force beefcake calendar<br>shoot.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Tamil Dub) - Episode 9 - She's a Doormat</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/73ce48bb38f395b9657b39fb0fd011c71653807803_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs/episode-9-shes-a-doormat-920697">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Leon's attempt to support Olivia<br>backfires. He attempts to clearly<br>define their relationship as one<br>between mob and protagonist, but...<br>Meanwhile, during a sword fight<br>against Brad, he realizes the<br>difference in their resolve.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Telugu Dub) - Episode 9 - She's a Doormat</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/73ce48bb38f395b9657b39fb0fd011c71653807803_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs/episode-9-shes-a-doormat-920698">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Leon's attempt to support Olivia<br>backfires. He attempts to clearly<br>define their relationship as one<br>between mob and protagonist, but...<br>Meanwhile, during a sword fight<br>against Brad, he realizes the<br>difference in their resolve.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">DARLING in the FRANXX (Tamil Dub) - Episode 22 - Stargazers</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4d12305d8ba3b40c73565e4d9a9d90511529745097_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/darling-in-the-franxx/episode-22-stargazers-920704">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Hiro is left shattered with<br>an unresponsive Zero Two, and<br>the children struggle to come<br>to terms with the aftermath.<br>Left all alone to battle<br>for their survival, what path<br>will they choose to take?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">DARLING in the FRANXX (Telugu Dub) - Episode 22 - Stargazers</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4d12305d8ba3b40c73565e4d9a9d90511529745097_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/darling-in-the-franxx/episode-22-stargazers-920708">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Hiro is left shattered with<br>an unresponsive Zero Two, and<br>the children struggle to come<br>to terms with the aftermath.<br>Left all alone to battle<br>for their survival, what path<br>will they choose to take?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">DARLING in the FRANXX (Tamil Dub) - Episode 21 - For You, My Love</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0cb9addee965a117dcc4ace5c692977c1529149007_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/darling-in-the-franxx/episode-21-for-you-my-love-920703">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">There appears to be no<br>escape from the impending destruction<br>of Earth. But at the<br>end of the world, Zero<br>Two decides that she will<br>keep her promise, no matter<br>what.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">DARLING in the FRANXX (Telugu Dub) - Episode 21 - For You, My Love</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0cb9addee965a117dcc4ace5c692977c1529149007_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/darling-in-the-franxx/episode-21-for-you-my-love-920707">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">There appears to be no<br>escape from the impending destruction<br>of Earth. But at the<br>end of the world, Zero<br>Two decides that she will<br>keep her promise, no matter<br>what.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">RADIANT (Tamil Dub) - Episode 16 - Fly High and Pierce Through the Storm -Rising-</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fdaabb2e802968b384c94bc94774df211547892426_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/radiant/episode-16-fly-high-and-pierce-through-the-storm-rising-920711">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Konrad makes a formidable foe<br>with his giant lance. After<br>a grueling fight, Seth finally<br>defeats Konrad, but the collapse<br>of the town has already<br>begun by Hameline's hand. When<br>she attacks Seth, he is<br>sent flying and loses consciousness.<br>He awakes to find himself<br>face-to-face with a man whose<br>face closely resembles his own.<br>The man calls himself Piodon<br>and asks Seth what he's<br>fighting for, what side he's<br>truly on. Seth then rushes<br>back to the battle to<br>stop Hameline.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">RADIANT (Telugu Dub) - Episode 16 - Fly High and Pierce Through the Storm -Rising-</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fdaabb2e802968b384c94bc94774df211547892426_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/radiant/episode-16-fly-high-and-pierce-through-the-storm-rising-920712">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Konrad makes a formidable foe<br>with his giant lance. After<br>a grueling fight, Seth finally<br>defeats Konrad, but the collapse<br>of the town has already<br>begun by Hameline's hand. When<br>she attacks Seth, he is<br>sent flying and loses consciousness.<br>He awakes to find himself<br>face-to-face with a man whose<br>face closely resembles his own.<br>The man calls himself Piodon<br>and asks Seth what he's<br>fighting for, what side he's<br>truly on. Seth then rushes<br>back to the battle to<br>stop Hameline.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Iceblade Sorcerer Shall Rule the World (Hindi Dub) - Episode 8 - The Boy Who Became the World's Strongest Sorcerer Inspires the Rose</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7409d42f40438a0e97ccea6ac60c16fc1677170307_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-iceblade-sorcerer-shall-rule-the-world/episode-8-the-boy-who-became-the-worlds-strongest-sorcerer-inspires-the-rose-920699">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Aiming to get at the<br>high nobles daughters, the assassin<br>group Grim Reapers infiltrate the<br>Magic Chevalier arena. Having caught<br>wind of their plan, Abbie<br>orders Ray to guard the<br>arena. Meanwhile, after having seen<br>Ariane’s overwhelming power, Amelia has<br>completely lost her confidence. Ray<br>then delves deeper into her<br>heart and gently lifts her<br>up. On the day of<br>the final match, Amelia goes<br>into the fight against Ariane<br>with her friends cheering her<br>on. Ray watches over the<br>match, but then unpleasant news<br>reach his ears...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">The Rising of the Shield Hero Season 3 (Arabic Dub) - Episode 12 - The Ones We Must Protect</h3></th>
 </tr>
@@ -310,380 +684,6 @@
 <tr>
 <td colspan="2">
 <p align="center">A mysterious girl appears while<br>Naofumi is serving breaking to<br>the children at Lurolona Village.<br>Even though he'd prefer to<br>focus on rebuilding the village,<br>the queen asks him to<br>seek out Motoyasu, whose whereabouts<br>are unknown after his party<br>disbanded.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (Arabic Dub) - Episode 3 - The White Tiger Siblings</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d9debed7c6c4566549303cf5d1d25e671697780988_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-3-the-white-tiger-siblings-920675">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Naofumi, while purchasing slave children<br>from Lurolona Village, is shown<br>the white tiger demi-humans Fohl<br>and Atla. Fohl obviously has<br>high combat potential, but Atla<br>is blind and extremely ill.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (Arabic Dub) - Episode 2 - Nadia</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a97f3947bed35f1f96ee374db799bd321697199675_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-2-nadia-920674">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After his bout, Naofumi encounters<br>Nadia, another one of the<br>coliseum's fierce fighters. With some<br>help from an old acquaintance,<br>Naofumi's team battles through the<br>coliseum's ranks, knowing full well<br>that Nadia will be waiting<br>if they emerge victorious.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (Arabic Dub) - Episode 1 - The Dark Coliseum</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e92c2c6e863bf10a2615ee1ad44193fc1696583995_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-1-the-dark-coliseum-920673">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Seeking to reunite the scattered<br>inhabitants of Lurolona Village who<br>were sold into slavery, the<br>Shield Hero and his party<br>head to Zeltoble to secretly<br>compete in the underground fights<br>at the coliseum.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 2 (Castilian Dub) - Episode 13 - Flowers Offered in Recollection</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/caa2b1092db0657beef8003f28eeadb41656503844_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-13-flowers-offered-in-recollection-920642">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Raphtalia recalls having to buy<br>clothing for her smaller self.<br>Kizuna remembers being alone for<br>so long. Rishia remembers Ost<br>trying to give advice.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 2 (Arabic Dub) - Episode 13 - Flowers Offered in Recollection</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/caa2b1092db0657beef8003f28eeadb41656503844_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-13-flowers-offered-in-recollection-920668">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Raphtalia recalls having to buy<br>clothing for her smaller self.<br>Kizuna remembers being alone for<br>so long. Rishia remembers Ost<br>trying to give advice.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 2 (Castilian Dub) - Episode 12 - Reason to Fight</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d70dd15ef2cddb4228eb2598c21fad5d1655887831_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-12-reason-to-fight-920641">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Wave appears before its<br>scheduled time. Kizuna’s group is<br>teleported to it while Naofumi<br>and his party head for<br>Kyo’s lab on Ethnobalt’s ship.<br>There, they see the true<br>depths of Kyo’s wickedness...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 2 (Arabic Dub) - Episode 12 - Reason to Fight</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d70dd15ef2cddb4228eb2598c21fad5d1655887831_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-12-reason-to-fight-920666">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Wave appears before its<br>scheduled time. Kizuna’s group is<br>teleported to it while Naofumi<br>and his party head for<br>Kyo’s lab on Ethnobalt’s ship.<br>There, they see the true<br>depths of Kyo’s wickedness...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 2 (Castilian Dub) - Episode 11 - Kizuna</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/14a323f7eecab017660b5651993cfee21655270349_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-11-kizuna-920638">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Naofumi’s party is overjoyed to<br>be reunited with Raphtalia. Kizuna<br>criticizes Glass for invading another<br>world. Glass and L’Arc swear<br>they won’t fight Naofumi anymore,<br>and instead find another way<br>to solve their problem. Meanwhile,<br>Kyo’s plot proceeds…</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 2 (Arabic Dub) - Episode 11 - Kizuna</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/14a323f7eecab017660b5651993cfee21655270349_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-11-kizuna-920664">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Naofumi’s party is overjoyed to<br>be reunited with Raphtalia. Kizuna<br>criticizes Glass for invading another<br>world. Glass and L’Arc swear<br>they won’t fight Naofumi anymore,<br>and instead find another way<br>to solve their problem. Meanwhile,<br>Kyo’s plot proceeds…</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 2 (Castilian Dub) - Episode 10 - Katana Hero</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d6a3d992381fdebebcc2a179ee3fe7ac1654673885_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-10-katana-hero-920635">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Raphtalia is imprisoned in a<br>Raybul Kingdom prison. She’s wary<br>of L’Arc’s team, who is<br>also imprisoned there, but asks<br>them for help in escaping.<br>Glass is weakened by the<br>draining power of the prison.<br>Raphtalia has a plan to<br>escape, but…</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 2 (Arabic Dub) - Episode 10 - Katana Hero</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d6a3d992381fdebebcc2a179ee3fe7ac1654673885_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-rising-of-the-shield-hero/episode-10-katana-hero-920661">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Raphtalia is imprisoned in a<br>Raybul Kingdom prison. She’s wary<br>of L’Arc’s team, who is<br>also imprisoned there, but asks<br>them for help in escaping.<br>Glass is weakened by the<br>draining power of the prison.<br>Raphtalia has a plan to<br>escape, but…</p>
 </td>
 </tr>
 </table>
