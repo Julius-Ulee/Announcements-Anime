@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 9, 2024, 7:18:45 PM</em></p>
+<p align="center"><em>Updated on: Feb 10, 2024, 7:47:37 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -13,12 +13,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Europe) - Episode 102 - Enter King Piccolo</h3></th>
+<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez - Episode 5 - The Guiding Star of Ever-changing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/de0390aafcb4d59009e5f7dbc1d7fa801647276917_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d494f0751a401230578be70072fd13021707520960_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -31,13 +31,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-102-enter-king-piccolo-920928">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/cardfight-vanguard-overdress/episode-5-the-guiding-star-of-ever-changing-919236">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the aftermath of the<br>tournament, Goku embarks on a<br>perilous mission to avenge Krillin’s<br>death. An ancient evil has<br>returned to haunt mankind, and<br>not even Master Roshi can<br>defeat this menacing monster!</p>
+<p align="center">It's the second round of<br>the Fated Clash, and for<br>some reason, Mikoto's opponent Taizo<br>Kiyokura knows about Akina, and<br>even visits Hikari in hospital.<br>The fight begins, and while<br>Taizo praises Mikoto's effort, he<br>also remarks that he "can't<br>see her self in her<br>fights".</p>
 </td>
 </tr>
 </table>
@@ -47,12 +47,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Dub) - Episode 102 - Enter King Piccolo</h3></th>
+<th><h3 align="center">Sasaki and Peeps (English Dub) - Episode 4 - The Prince and the Sage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/de0390aafcb4d59009e5f7dbc1d7fa801647276917_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d8b3f421c0a3f60696992bbc8c3e62861706227111_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -65,13 +65,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-102-enter-king-piccolo-921273">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/sasaki-and-peeps/episode-4-the-prince-and-the-sage-921440">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the aftermath of the<br>tournament, Goku embarks on a<br>perilous mission to avenge Krillin’s<br>death. An ancient evil has<br>returned to haunt mankind, and<br>not even Master Roshi can<br>defeat this menacing monster!</p>
+<p align="center">War is now upon the<br>Kingdom of Herz. What's a<br>middle-aged businessman with a pet<br>Java sparrow supposed to do<br>about it? Well, if that<br>pet sparrow happens to be<br>the reincarnation of a legendary<br>mage, then...</p>
 </td>
 </tr>
 </table>
@@ -81,12 +81,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Europe) - Episode 117 - The Ultimate Sacrifice</h3></th>
+<th><h3 align="center">Sasaki and Peeps (English Dub) - Episode 3 - The War and the Young Lady</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9f109b098f37e0907422ef8d328c6dac1646075956_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bd6830b9b136740fc594e4fb37bfe0391705667232_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -99,13 +99,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-117-the-ultimate-sacrifice-920957">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/sasaki-and-peeps/episode-3-the-war-and-the-young-lady-921439">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tien has mastered the Evil<br>Containment Wave, and he’s willing<br>to sacrifice his life to<br>stop Piccolo. Back at Korin<br>Tower, Goku’s eager to test<br>out his new powers, but<br>will he find Piccolo before<br>Tien joins the ranks of<br>the fallen?</p>
+<p align="center">Sasaki catches wind of an<br>unsettling development in the other<br>world that could spell trouble<br>for the entire country, let<br>alone his trading operation. When<br>called upon to help, can<br>he use his modern business<br>skills to make a difference?</p>
 </td>
 </tr>
 </table>
@@ -115,12 +115,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Dub) - Episode 117 - The Ultimate Sacrifice</h3></th>
+<th><h3 align="center">The Demon Prince of Momochi House (English Dub) - Episode 4 - Crimson Burns the Dark</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9f109b098f37e0907422ef8d328c6dac1646075956_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d9f3a7bec9c25600ead5e2077b68164b1706287333_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -133,13 +133,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-117-the-ultimate-sacrifice-921303">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-4-crimson-burns-the-dark-921436">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tien has mastered the Evil<br>Containment Wave, and he’s willing<br>to sacrifice his life to<br>stop Piccolo. Back at Korin<br>Tower, Goku’s eager to test<br>out his new powers, but<br>will he find Piccolo before<br>Tien joins the ranks of<br>the fallen?</p>
+<p align="center">Kasha's visit has left Momochi<br>House reeling in a way<br>that will test Aoi, his<br>power, and all of his<br>friends. Can Ise in particular<br>rise to the challenge?</p>
 </td>
 </tr>
 </table>
@@ -149,12 +149,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Dub) - Episode 153 - The End, The Beginning</h3></th>
+<th><h3 align="center">The Demon Prince of Momochi House (Spanish Dub) - Episode 3 - A Fourth Friend</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/caac736012949bddcdec1dff4cb6d3771644837268_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7019ffb308d44b5437e451790d48d6731705668367_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -167,13 +167,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-153-the-end-the-beginning-921376">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-3-a-fourth-friend-921435">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goku and Chichi reach the<br>Magical Furnace, but its guardian<br>refuses to extinguish the flame.<br>To spare the Ox-King from<br>certain death, Goku takes matters<br>into his own hands, venturing<br>into the heart of the<br>blaze!</p>
+<p align="center">Himari brings a group of<br>her new classmates home with<br>her only to discover that<br>something is very, very wrong<br>with one of them.</p>
 </td>
 </tr>
 </table>
@@ -183,12 +183,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Europe) - Episode 153 - The End, The Beginning</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (English Dub) - Episode 20 - Necessary Killing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/caac736012949bddcdec1dff4cb6d3771644837268_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5084aa3fa2b746c4d94ce982a02f53831706275610_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -201,13 +201,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-153-the-end-the-beginning-921030">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-20-necessary-killing-921428">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goku and Chichi reach the<br>Magical Furnace, but its guardian<br>refuses to extinguish the flame.<br>To spare the Ox-King from<br>certain death, Goku takes matters<br>into his own hands, venturing<br>into the heart of the<br>blaze!</p>
+<p align="center">The first-class mage exam intensifies<br>as fighting breaks out between<br>the participants - and what's<br>at stake might even be<br>worth killing for.</p>
 </td>
 </tr>
 </table>
@@ -217,12 +217,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Dub) - Episode 152 - Mystery of the Dark World</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Portuguese Dub) - Episode 19 - Well-Laid Plans</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2a6954f404252019e281ac9a1854a8e51644837207_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/edc57dc72424d622047aa9ff632722d01705668067_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -235,13 +235,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-152-mystery-of-the-dark-world-921373">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-19-well-laid-plans-921411">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When the Basho Fan fails<br>to extinguish the blaze surrounding<br>the Ox-King’s castle, Goku and<br>Chichi must venture into a<br>horrifying world of darkness in<br>search of the Magical Furnace!</p>
+<p align="center">Frieren and her new teammates<br>hatch a plan to capture<br>a Stille - but are<br>the other teams just going<br>to stand by and let<br>it happen?</p>
 </td>
 </tr>
 </table>
@@ -251,12 +251,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Europe) - Episode 152 - Mystery of the Dark World</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Spanish Dub) - Episode 19 - Well-Laid Plans</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2a6954f404252019e281ac9a1854a8e51644837207_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/edc57dc72424d622047aa9ff632722d01705668067_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -269,13 +269,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-152-mystery-of-the-dark-world-921028">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-19-well-laid-plans-921413">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When the Basho Fan fails<br>to extinguish the blaze surrounding<br>the Ox-King’s castle, Goku and<br>Chichi must venture into a<br>horrifying world of darkness in<br>search of the Magical Furnace!</p>
+<p align="center">Frieren and her new teammates<br>hatch a plan to capture<br>a Stille - but are<br>the other teams just going<br>to stand by and let<br>it happen?</p>
 </td>
 </tr>
 </table>
@@ -285,12 +285,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Dub) - Episode 151 - Outrageous Octagon</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (French Dub) - Episode 19 - Well-Laid Plans</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/07029e1e669c8d3ca9d8830ed00780861644837190_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/edc57dc72424d622047aa9ff632722d01705668067_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -303,13 +303,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-151-outrageous-octagon-921372">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-19-well-laid-plans-921423">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While the Ox-King struggles to<br>escape the mysterious flames threatening<br>to consume his kingdom, Goku<br>and Chichi journey to a<br>treacherous mountain peak protected by<br>a bone-chilling curse!</p>
+<p align="center">Frieren and her new teammates<br>hatch a plan to capture<br>a Stille - but are<br>the other teams just going<br>to stand by and let<br>it happen?</p>
 </td>
 </tr>
 </table>
@@ -319,12 +319,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Europe) - Episode 151 - Outrageous Octagon</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (German Dub) - Episode 18 - First-Class Mage Exam</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/07029e1e669c8d3ca9d8830ed00780861644837190_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8b67d3369e6d5cff70354925f129e47a1705032276_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -337,13 +337,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-151-outrageous-octagon-921026">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-18-first-class-mage-exam-921412">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While the Ox-King struggles to<br>escape the mysterious flames threatening<br>to consume his kingdom, Goku<br>and Chichi journey to a<br>treacherous mountain peak protected by<br>a bone-chilling curse!</p>
+<p align="center">Frieren and party finally arrive<br>in Äußerst, ready to undergo<br>the first-class mage exam, and<br>meet a number of colorful<br>characters who are there to<br>do the same.</p>
 </td>
 </tr>
 </table>
@@ -353,12 +353,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Dub) - Episode 150 - The Fire-Eater</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Italian Dub) - Episode 18 - First-Class Mage Exam</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/32e0a75c21e102371e3e73be83f4c8f91644837150_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8b67d3369e6d5cff70354925f129e47a1705032276_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -371,13 +371,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-150-the-fire-eater-921369">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-18-first-class-mage-exam-921414">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goku and Chichi’s quest to<br>build a new Basho Fan<br>leads them to the center<br>of a deadly volcano. <br>Deep within the molten-mountain lives<br>a mystical flame-guzzling bird that<br>carries the key to saving<br>the Ox-King!</p>
+<p align="center">Frieren and party finally arrive<br>in Äußerst, ready to undergo<br>the first-class mage exam, and<br>meet a number of colorful<br>characters who are there to<br>do the same.</p>
 </td>
 </tr>
 </table>
@@ -387,12 +387,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Europe) - Episode 150 - The Fire-Eater</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Hindi Dub) - Episode 18 - First-Class Mage Exam</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/32e0a75c21e102371e3e73be83f4c8f91644837150_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8b67d3369e6d5cff70354925f129e47a1705032276_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -405,13 +405,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-150-the-fire-eater-921023">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-18-first-class-mage-exam-921415">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goku and Chichi’s quest to<br>build a new Basho Fan<br>leads them to the center<br>of a deadly volcano. <br>Deep within the molten-mountain lives<br>a mystical flame-guzzling bird that<br>carries the key to saving<br>the Ox-King!</p>
+<p align="center">Frieren and party finally arrive<br>in Äußerst, ready to undergo<br>the first-class mage exam, and<br>meet a number of colorful<br>characters who are there to<br>do the same.</p>
 </td>
 </tr>
 </table>
@@ -421,12 +421,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Dub) - Episode 149 - Dress in Flames</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Tamil Dub) - Episode 18 - First-Class Mage Exam</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/692c357da20369ec4bf9925ade0e88cd1644837130_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8b67d3369e6d5cff70354925f129e47a1705032276_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -439,13 +439,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-149-dress-in-flames-921368">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-18-first-class-mage-exam-921421">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goku and Chichi’s wedding plans<br>are put on hold when<br>an earthquake sparks an uncontrollable<br>blaze that threatens to incinerate<br>the Ox King - and<br>Chichi’s wedding dress!</p>
+<p align="center">Frieren and party finally arrive<br>in Äußerst, ready to undergo<br>the first-class mage exam, and<br>meet a number of colorful<br>characters who are there to<br>do the same.</p>
 </td>
 </tr>
 </table>
@@ -455,12 +455,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Europe) - Episode 149 - Dress in Flames</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Castilian Dub) - Episode 18 - First-Class Mage Exam</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/692c357da20369ec4bf9925ade0e88cd1644837130_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8b67d3369e6d5cff70354925f129e47a1705032276_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -473,13 +473,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-149-dress-in-flames-921022">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-18-first-class-mage-exam-921422">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goku and Chichi’s wedding plans<br>are put on hold when<br>an earthquake sparks an uncontrollable<br>blaze that threatens to incinerate<br>the Ox King - and<br>Chichi’s wedding dress!</p>
+<p align="center">Frieren and party finally arrive<br>in Äußerst, ready to undergo<br>the first-class mage exam, and<br>meet a number of colorful<br>characters who are there to<br>do the same.</p>
 </td>
 </tr>
 </table>
@@ -489,12 +489,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Dub) - Episode 148 - The Victor</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (English Dub) - Episode 4 - Rescue Team Member Usato!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a42c1e8ad32cb604fc41b942b7e603131644837067_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/abc49d8c6cacb8b03d6bc2be318e0b9a1706286682_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -507,13 +507,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-148-the-victor-921365">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-4-rescue-team-member-usato-921409">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Humanity’s fate hangs in the<br>balance as Goku and Piccolo<br>battle for the title of<br>world’s greatest martial artist! Kami<br>has a sure-fire way to<br>swing the momentum in Goku’s<br>favor, but it requires the<br>ultimate sacrifice!</p>
+<p align="center">As the demon threat looms<br>over the kingdom, Captain Rose<br>decides it's high time for<br>Usato to get a taste<br>of what a healer's job<br>is like on the battlefield.<br>She tests his resolve, both<br>mentally and physically.</p>
 </td>
 </tr>
 </table>
@@ -523,12 +523,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Europe) - Episode 148 - The Victor</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Portuguese Dub) - Episode 3 - Brutal! The Darkness of Llinger!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a42c1e8ad32cb604fc41b942b7e603131644837067_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a3ceea72f902a0c64bfc8142ebeccd1705668258_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -541,13 +541,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-148-the-victor-921020">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-3-brutal-the-darkness-of-llinger-921424">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Humanity’s fate hangs in the<br>balance as Goku and Piccolo<br>battle for the title of<br>world’s greatest martial artist! Kami<br>has a sure-fire way to<br>swing the momentum in Goku’s<br>favor, but it requires the<br>ultimate sacrifice!</p>
+<p align="center">Usato is quite literally thrown<br>into his next training assignment:<br>surviving the wild woods known<br>as the Darkness of Llinger<br>until he can slay its<br>most fearsome inhabitant.</p>
 </td>
 </tr>
 </table>
@@ -557,12 +557,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Dub) - Episode 147 - Goku Hangs On</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Spanish Dub) - Episode 3 - Brutal! The Darkness of Llinger!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/878e6c5c5151bffb43fc41757e0bd8721644836899_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a3ceea72f902a0c64bfc8142ebeccd1705668258_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -575,13 +575,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-147-goku-hangs-on-921363">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-3-brutal-the-darkness-of-llinger-921425">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Eager to end his brutal<br>match with Goku, Piccolo unleashes<br>a technique of unprecedented power!<br>In the aftermath of the<br>monster’s onslaught, Goku’s friends are<br>elated to find their hero<br>still standing, but how much<br>longer can he continue?</p>
+<p align="center">Usato is quite literally thrown<br>into his next training assignment:<br>surviving the wild woods known<br>as the Darkness of Llinger<br>until he can slay its<br>most fearsome inhabitant.</p>
 </td>
 </tr>
 </table>
@@ -591,12 +591,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Europe) - Episode 147 - Goku Hangs On</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Hindi Dub) - Episode 3 - Brutal! The Darkness of Llinger!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/878e6c5c5151bffb43fc41757e0bd8721644836899_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a3ceea72f902a0c64bfc8142ebeccd1705668258_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -609,13 +609,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-147-goku-hangs-on-921018">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-3-brutal-the-darkness-of-llinger-921426">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Eager to end his brutal<br>match with Goku, Piccolo unleashes<br>a technique of unprecedented power!<br>In the aftermath of the<br>monster’s onslaught, Goku’s friends are<br>elated to find their hero<br>still standing, but how much<br>longer can he continue?</p>
+<p align="center">Usato is quite literally thrown<br>into his next training assignment:<br>surviving the wild woods known<br>as the Darkness of Llinger<br>until he can slay its<br>most fearsome inhabitant.</p>
 </td>
 </tr>
 </table>
@@ -625,12 +625,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Dub) - Episode 146 - Goku's Trap</h3></th>
+<th><h3 align="center">Snack Basue - Episode 5 - Get on the Good Foot / Talkin' Loud And Saying Nothin' / My Funny Valentine</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fe062b72d6fc4edf1a2707b0400a479d1644836597_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/314c9597db9c18606cc8512459e143941707500566_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -643,13 +643,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-146-gokus-trap-921361">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/snack-basue/episode-5-get-on-the-good-foot-talkin-loud-and-saying-nothin-my-funny-valentine-919066">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a savage beating at<br>the hands of Piccolo, Goku<br>fights back with a double<br>dose of internal punishment for<br>the green fiend. The monster’s<br>next attack is lethal to<br>say the least, but Goku’s<br>evasive maneuvers leave Piccolo painfully<br>shorthanded!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -659,12 +659,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball (French Europe) - Episode 146 - Goku's Trap</h3></th>
+<th><h3 align="center">The Demon Prince of Momochi House - Episode 6 - Fleeting Times</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fe062b72d6fc4edf1a2707b0400a479d1644836597_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/34905923b84a9d8f3d6138d1d08cf0881707495897_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -677,13 +677,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/dragon-ball/episode-146-gokus-trap-921016">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-6-fleeting-times-918076">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a savage beating at<br>the hands of Piccolo, Goku<br>fights back with a double<br>dose of internal punishment for<br>the green fiend. The monster’s<br>next attack is lethal to<br>say the least, but Goku’s<br>evasive maneuvers leave Piccolo painfully<br>shorthanded!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
