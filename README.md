@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 10, 2024, 7:17:58 PM</em></p>
+<p align="center"><em>Updated on: Feb 11, 2024, 7:53:18 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -13,12 +13,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Firefighter Daigo: Rescuer in Orange - Episode 17.5</h3></th>
+<th><h3 align="center">A Sign of Affection (English Dub) - Episode 4 - What Kind of Voice?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c0a84f4120af800edcc7afada3c9f02b1707556839_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c1fcb038beced26d1a493fc2aa6d3d161707600787_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -31,13 +31,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/firefighter-daigo-rescuer-in-orange/episode-175-918034">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-4-what-kind-of-voice-921511">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Having made plans with Kyouya<br>to go shopping, Rin invites<br>Yuki and Itsuomi to join<br>them.</p>
 </td>
 </tr>
 </table>
@@ -47,12 +47,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Love Story with Yamada-kun at Lv999 (Hindi Dub) - Episode 13 - In the Morning When I Wake Up</h3></th>
+<th><h3 align="center">A Sign of Affection (Portuguese Dub) - Episode 3 - Someone is thinking of someone</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4838442b1c8834dc958ff65fd5edb31d1687624817_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bd90f556d6cc5977c8b99e60a76870621705732019_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -65,14 +65,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/my-love-story-with-yamada-kun-at-lv999/episode-13-in-the-morning-when-i-wake-up-921444">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-3-someone-is-thinking-of-someone-921505">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After impulsively spilling her feelings<br>to Yamada, Tsubaki asks him<br>to meet once again. Although<br>she is aware that Yamada<br>has feelings for someone else,<br>she tries to tell him<br>all the feelings she had<br>been carrying for him through<br>her student life. Upon hearing<br>her feelings, Yamada says…
-All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the guild members. Although she<br>knew Yamada was going to<br>join them afterwards, she ends<br>up drinking much more than<br>she had planned in order<br>to ease her nervousness. By<br>the time Yamada arrived, she<br>was completely wasted, but without<br>a complaint, Yamada stays by<br>her side. Then, after Akane<br>has sobered up, what Yamada<br>does is--.</p>
+<p align="center">Having come to terms with<br>her feelings for Itsuomi, Yuki<br>prepares to make her move,<br>but she encounters a sight<br>that throws her into confusion<br>and doubt.</p>
 </td>
 </tr>
 </table>
@@ -82,12 +81,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez - Episode 5 - The Guiding Star of Ever-changing</h3></th>
+<th><h3 align="center">A Sign of Affection (German Dub) - Episode 3 - Someone is thinking of someone</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d494f0751a401230578be70072fd13021707520960_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bd90f556d6cc5977c8b99e60a76870621705732019_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -96,17 +95,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/cardfight-vanguard-overdress/episode-5-the-guiding-star-of-ever-changing-919236">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-3-someone-is-thinking-of-someone-921506">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's the second round of<br>the Fated Clash, and for<br>some reason, Mikoto's opponent Taizo<br>Kiyokura knows about Akina, and<br>even visits Hikari in hospital.<br>The fight begins, and while<br>Taizo praises Mikoto's effort, he<br>also remarks that he "can't<br>see her self in her<br>fights".</p>
+<p align="center">Having come to terms with<br>her feelings for Itsuomi, Yuki<br>prepares to make her move,<br>but she encounters a sight<br>that throws her into confusion<br>and doubt.</p>
 </td>
 </tr>
 </table>
@@ -116,12 +115,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">Sasaki and Peeps (English Dub) - Episode 4 - The Prince and the Sage</h3></th>
+<th><h3 align="center">A Sign of Affection (French Dub) - Episode 3 - Someone is thinking of someone</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d8b3f421c0a3f60696992bbc8c3e62861706227111_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bd90f556d6cc5977c8b99e60a76870621705732019_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -130,17 +129,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/sasaki-and-peeps/episode-4-the-prince-and-the-sage-921440">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-3-someone-is-thinking-of-someone-921508">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">War is now upon the<br>Kingdom of Herz. What's a<br>middle-aged businessman with a pet<br>Java sparrow supposed to do<br>about it? Well, if that<br>pet sparrow happens to be<br>the reincarnation of a legendary<br>mage, then...</p>
+<p align="center">Having come to terms with<br>her feelings for Itsuomi, Yuki<br>prepares to make her move,<br>but she encounters a sight<br>that throws her into confusion<br>and doubt.</p>
 </td>
 </tr>
 </table>
@@ -150,12 +149,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">Sasaki and Peeps (English Dub) - Episode 3 - The War and the Young Lady</h3></th>
+<th><h3 align="center">A Sign of Affection (Spanish Dub) - Episode 3 - Someone is thinking of someone</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bd6830b9b136740fc594e4fb37bfe0391705667232_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bd90f556d6cc5977c8b99e60a76870621705732019_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -164,17 +163,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/sasaki-and-peeps/episode-3-the-war-and-the-young-lady-921439">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-3-someone-is-thinking-of-someone-921509">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sasaki catches wind of an<br>unsettling development in the other<br>world that could spell trouble<br>for the entire country, let<br>alone his trading operation. When<br>called upon to help, can<br>he use his modern business<br>skills to make a difference?</p>
+<p align="center">Having come to terms with<br>her feelings for Itsuomi, Yuki<br>prepares to make her move,<br>but she encounters a sight<br>that throws her into confusion<br>and doubt.</p>
 </td>
 </tr>
 </table>
@@ -184,12 +183,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Demon Prince of Momochi House (English Dub) - Episode 4 - Crimson Burns the Dark</h3></th>
+<th><h3 align="center">BUCCHIGIRI?! (English Dub) - Episode 3 - Love at Fist Fight! The One and Only Quail in the World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d9f3a7bec9c25600ead5e2077b68164b1706287333_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/08459c35bf30a51fc5a6784f714690c91707599649_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -198,17 +197,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-4-crimson-burns-the-dark-921436">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-3-love-at-fist-fight-the-one-and-only-quail-in-the-world-921499">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kasha's visit has left Momochi<br>House reeling in a way<br>that will test Aoi, his<br>power, and all of his<br>friends. Can Ise in particular<br>rise to the challenge?</p>
+<p align="center">Despite Matakara's protests, Arajin joins<br>Siguma Squad to please Mahoro.<br>Marito takes Arajin out and<br>tells him that they're headed<br>to a raunchy welcome party<br>full of girls. When they<br>arrive, Arajin discovers that the<br>party is not at all<br>what he imagined.</p>
 </td>
 </tr>
 </table>
@@ -218,12 +217,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Demon Prince of Momochi House (Spanish Dub) - Episode 3 - A Fourth Friend</h3></th>
+<th><h3 align="center">BUCCHIGIRI?! (Portuguese Dub) - Episode 2 - Wanna Take You On! The Chu Chu Chinese Pepper Steak Train!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7019ffb308d44b5437e451790d48d6731705668367_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25021829bc2da0655f384b3dea1a4a441705750132_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -232,17 +231,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-3-a-fourth-friend-921435">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-2-wanna-take-you-on-the-chu-chu-chinese-pepper-steak-train-921493">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Himari brings a group of<br>her new classmates home with<br>her only to discover that<br>something is very, very wrong<br>with one of them.</p>
+<p align="center">Arajin surprises everyone when he<br>uses Senya's power to land<br>a punch on Marito. Marito<br>falls in love with that<br>fist and tries to convince<br>Arajin to join Siguma Squad,<br>but Matakara asks Arajin to<br>join Minato Kai to continue<br>their Honki training together.</p>
 </td>
 </tr>
 </table>
@@ -252,12 +251,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (English Dub) - Episode 20 - Necessary Killing</h3></th>
+<th><h3 align="center">BUCCHIGIRI?! (German Dub) - Episode 2 - Wanna Take You On! The Chu Chu Chinese Pepper Steak Train!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5084aa3fa2b746c4d94ce982a02f53831706275610_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25021829bc2da0655f384b3dea1a4a441705750132_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -266,17 +265,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-20-necessary-killing-921428">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-2-wanna-take-you-on-the-chu-chu-chinese-pepper-steak-train-921494">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The first-class mage exam intensifies<br>as fighting breaks out between<br>the participants - and what's<br>at stake might even be<br>worth killing for.</p>
+<p align="center">Arajin surprises everyone when he<br>uses Senya's power to land<br>a punch on Marito. Marito<br>falls in love with that<br>fist and tries to convince<br>Arajin to join Siguma Squad,<br>but Matakara asks Arajin to<br>join Minato Kai to continue<br>their Honki training together.</p>
 </td>
 </tr>
 </table>
@@ -286,12 +285,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Portuguese Dub) - Episode 19 - Well-Laid Plans</h3></th>
+<th><h3 align="center">BUCCHIGIRI?! (French Dub) - Episode 2 - Wanna Take You On! The Chu Chu Chinese Pepper Steak Train!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/edc57dc72424d622047aa9ff632722d01705668067_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25021829bc2da0655f384b3dea1a4a441705750132_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -300,17 +299,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-19-well-laid-plans-921411">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-2-wanna-take-you-on-the-chu-chu-chinese-pepper-steak-train-921495">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Frieren and her new teammates<br>hatch a plan to capture<br>a Stille - but are<br>the other teams just going<br>to stand by and let<br>it happen?</p>
+<p align="center">Arajin surprises everyone when he<br>uses Senya's power to land<br>a punch on Marito. Marito<br>falls in love with that<br>fist and tries to convince<br>Arajin to join Siguma Squad,<br>but Matakara asks Arajin to<br>join Minato Kai to continue<br>their Honki training together.</p>
 </td>
 </tr>
 </table>
@@ -320,12 +319,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Spanish Dub) - Episode 19 - Well-Laid Plans</h3></th>
+<th><h3 align="center">BUCCHIGIRI?! (Spanish Dub) - Episode 2 - Wanna Take You On! The Chu Chu Chinese Pepper Steak Train!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/edc57dc72424d622047aa9ff632722d01705668067_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25021829bc2da0655f384b3dea1a4a441705750132_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -334,17 +333,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-19-well-laid-plans-921413">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-2-wanna-take-you-on-the-chu-chu-chinese-pepper-steak-train-921496">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Frieren and her new teammates<br>hatch a plan to capture<br>a Stille - but are<br>the other teams just going<br>to stand by and let<br>it happen?</p>
+<p align="center">Arajin surprises everyone when he<br>uses Senya's power to land<br>a punch on Marito. Marito<br>falls in love with that<br>fist and tries to convince<br>Arajin to join Siguma Squad,<br>but Matakara asks Arajin to<br>join Minato Kai to continue<br>their Honki training together.</p>
 </td>
 </tr>
 </table>
@@ -354,12 +353,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (French Dub) - Episode 19 - Well-Laid Plans</h3></th>
+<th><h3 align="center">BUCCHIGIRI?! (Hindi Dub) - Episode 2 - Wanna Take You On! The Chu Chu Chinese Pepper Steak Train!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/edc57dc72424d622047aa9ff632722d01705668067_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25021829bc2da0655f384b3dea1a4a441705750132_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -368,17 +367,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-19-well-laid-plans-921423">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-2-wanna-take-you-on-the-chu-chu-chinese-pepper-steak-train-921498">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Frieren and her new teammates<br>hatch a plan to capture<br>a Stille - but are<br>the other teams just going<br>to stand by and let<br>it happen?</p>
+<p align="center">Arajin surprises everyone when he<br>uses Senya's power to land<br>a punch on Marito. Marito<br>falls in love with that<br>fist and tries to convince<br>Arajin to join Siguma Squad,<br>but Matakara asks Arajin to<br>join Minato Kai to continue<br>their Honki training together.</p>
 </td>
 </tr>
 </table>
@@ -388,12 +387,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (German Dub) - Episode 18 - First-Class Mage Exam</h3></th>
+<th><h3 align="center">The Apothecary Diaries (English Dub) - Episode 16 - Lead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8b67d3369e6d5cff70354925f129e47a1705032276_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f2b823d09c4a30ad0237457d984468c81707598563_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -402,17 +401,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-18-first-class-mage-exam-921412">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-16-lead-921490">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Frieren and party finally arrive<br>in Äußerst, ready to undergo<br>the first-class mage exam, and<br>meet a number of colorful<br>characters who are there to<br>do the same.</p>
+<p align="center">A shack, a chest of<br>drawers, and a fishbowl are<br>all that a talented metalworker<br>leaves to his three sons<br>upon his death. Maomao is<br>assigned to investigate how these<br>strange inheritances all fit together.</p>
 </td>
 </tr>
 </table>
@@ -422,12 +421,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Italian Dub) - Episode 18 - First-Class Mage Exam</h3></th>
+<th><h3 align="center">The Apothecary Diaries (French Dub) - Episode 15 - Raw Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8b67d3369e6d5cff70354925f129e47a1705032276_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bfa8dfdbcc39f5fb28285082109ba0201705768593_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -436,17 +435,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-18-first-class-mage-exam-921414">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-15-raw-fish-921489">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Frieren and party finally arrive<br>in Äußerst, ready to undergo<br>the first-class mage exam, and<br>meet a number of colorful<br>characters who are there to<br>do the same.</p>
+<p align="center">Gaoshun requests Maomao's help in<br>solving an apparent poisoning case.<br>Meanwhile, Jinshi deals with an<br>unwelcome visitor who's taken to<br>lingering in his office.</p>
 </td>
 </tr>
 </table>
@@ -456,12 +455,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Hindi Dub) - Episode 18 - First-Class Mage Exam</h3></th>
+<th><h3 align="center">The Apothecary Diaries (German Dub) - Episode 14 - The New Pure Consort</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8b67d3369e6d5cff70354925f129e47a1705032276_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a2f8634d10b03bc262b72391a401f4301705160105_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -470,17 +469,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-18-first-class-mage-exam-921415">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-14-the-new-pure-consort-921485">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Frieren and party finally arrive<br>in Äußerst, ready to undergo<br>the first-class mage exam, and<br>meet a number of colorful<br>characters who are there to<br>do the same.</p>
+<p align="center">Ah-Duo's replacement has arrived in<br>the rear palace, and Maomao<br>is assigned to give a<br>certain lecture to all four<br>high concubines. Later, Maomao helps<br>Lihaku investigate a warehouse explosion.</p>
 </td>
 </tr>
 </table>
@@ -490,12 +489,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Tamil Dub) - Episode 18 - First-Class Mage Exam</h3></th>
+<th><h3 align="center">The Apothecary Diaries (Hindi Dub) - Episode 14 - The New Pure Consort</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8b67d3369e6d5cff70354925f129e47a1705032276_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a2f8634d10b03bc262b72391a401f4301705160105_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -504,17 +503,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-18-first-class-mage-exam-921421">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-14-the-new-pure-consort-921486">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Frieren and party finally arrive<br>in Äußerst, ready to undergo<br>the first-class mage exam, and<br>meet a number of colorful<br>characters who are there to<br>do the same.</p>
+<p align="center">Ah-Duo's replacement has arrived in<br>the rear palace, and Maomao<br>is assigned to give a<br>certain lecture to all four<br>high concubines. Later, Maomao helps<br>Lihaku investigate a warehouse explosion.</p>
 </td>
 </tr>
 </table>
@@ -524,12 +523,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Castilian Dub) - Episode 18 - First-Class Mage Exam</h3></th>
+<th><h3 align="center">Solo Leveling (Portuguese Dub) - Episode 4 - I've Gotta Get Stronger</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8b67d3369e6d5cff70354925f129e47a1705032276_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/78de61960488c9f16f960dae0b554eca1706372525_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -538,17 +537,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-18-first-class-mage-exam-921422">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/solo-leveling/episode-4-ive-gotta-get-stronger-921451">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Frieren and party finally arrive<br>in Äußerst, ready to undergo<br>the first-class mage exam, and<br>meet a number of colorful<br>characters who are there to<br>do the same.</p>
+<p align="center">Having entered the instance dungeon<br>located inside the subway, Jinwoo<br>levels up time and time<br>again by fighting waves of<br>magic beasts. As he gradually<br>makes his way forward, he<br>finds a long stairway leading<br>deeper underground.</p>
 </td>
 </tr>
 </table>
@@ -558,12 +557,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (English Dub) - Episode 4 - Rescue Team Member Usato!</h3></th>
+<th><h3 align="center">Solo Leveling (German Dub) - Episode 4 - I've Gotta Get Stronger</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/abc49d8c6cacb8b03d6bc2be318e0b9a1706286682_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/78de61960488c9f16f960dae0b554eca1706372525_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -572,17 +571,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-4-rescue-team-member-usato-921409">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/solo-leveling/episode-4-ive-gotta-get-stronger-921452">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the demon threat looms<br>over the kingdom, Captain Rose<br>decides it's high time for<br>Usato to get a taste<br>of what a healer's job<br>is like on the battlefield.<br>She tests his resolve, both<br>mentally and physically.</p>
+<p align="center">Having entered the instance dungeon<br>located inside the subway, Jinwoo<br>levels up time and time<br>again by fighting waves of<br>magic beasts. As he gradually<br>makes his way forward, he<br>finds a long stairway leading<br>deeper underground.</p>
 </td>
 </tr>
 </table>
@@ -592,12 +591,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (Portuguese Dub) - Episode 3 - Brutal! The Darkness of Llinger!</h3></th>
+<th><h3 align="center">Solo Leveling (French Dub) - Episode 4 - I've Gotta Get Stronger</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a3ceea72f902a0c64bfc8142ebeccd1705668258_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/78de61960488c9f16f960dae0b554eca1706372525_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -606,17 +605,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-3-brutal-the-darkness-of-llinger-921424">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/solo-leveling/episode-4-ive-gotta-get-stronger-921453">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Usato is quite literally thrown<br>into his next training assignment:<br>surviving the wild woods known<br>as the Darkness of Llinger<br>until he can slay its<br>most fearsome inhabitant.</p>
+<p align="center">Having entered the instance dungeon<br>located inside the subway, Jinwoo<br>levels up time and time<br>again by fighting waves of<br>magic beasts. As he gradually<br>makes his way forward, he<br>finds a long stairway leading<br>deeper underground.</p>
 </td>
 </tr>
 </table>
@@ -626,12 +625,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (Spanish Dub) - Episode 3 - Brutal! The Darkness of Llinger!</h3></th>
+<th><h3 align="center">Solo Leveling (Spanish Dub) - Episode 4 - I've Gotta Get Stronger</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a3ceea72f902a0c64bfc8142ebeccd1705668258_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/78de61960488c9f16f960dae0b554eca1706372525_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -640,17 +639,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-3-brutal-the-darkness-of-llinger-921425">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/solo-leveling/episode-4-ive-gotta-get-stronger-921454">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Usato is quite literally thrown<br>into his next training assignment:<br>surviving the wild woods known<br>as the Darkness of Llinger<br>until he can slay its<br>most fearsome inhabitant.</p>
+<p align="center">Having entered the instance dungeon<br>located inside the subway, Jinwoo<br>levels up time and time<br>again by fighting waves of<br>magic beasts. As he gradually<br>makes his way forward, he<br>finds a long stairway leading<br>deeper underground.</p>
 </td>
 </tr>
 </table>
@@ -660,12 +659,12 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (Hindi Dub) - Episode 3 - Brutal! The Darkness of Llinger!</h3></th>
+<th><h3 align="center">Solo Leveling (Italian Dub) - Episode 4 - I've Gotta Get Stronger</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a3ceea72f902a0c64bfc8142ebeccd1705668258_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/78de61960488c9f16f960dae0b554eca1706372525_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -674,17 +673,17 @@ All the<br>while, Akane was eating Yakiniku<br>in an offline meetup with<br>the 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2024</td>
+<td align="center">2/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-3-brutal-the-darkness-of-llinger-921426">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/solo-leveling/episode-4-ive-gotta-get-stronger-921456">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Usato is quite literally thrown<br>into his next training assignment:<br>surviving the wild woods known<br>as the Darkness of Llinger<br>until he can slay its<br>most fearsome inhabitant.</p>
+<p align="center">Having entered the instance dungeon<br>located inside the subway, Jinwoo<br>levels up time and time<br>again by fighting waves of<br>magic beasts. As he gradually<br>makes his way forward, he<br>finds a long stairway leading<br>deeper underground.</p>
 </td>
 </tr>
 </table>
