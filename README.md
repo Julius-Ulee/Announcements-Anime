@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 11, 2024, 7:17:35 PM</em></p>
+<p align="center"><em>Updated on: Feb 12, 2024, 7:50:16 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -13,12 +13,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier - Episode 18 - Putting Feelings Into a Moment, Part 4</h3></th>
+<th><h3 align="center">Rurouni Kenshin (English Dub) - Episode 18 - Sanosuke & Nishiki Paintings</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/603d38662e9a87fce4826548549b7f141707646125_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0170ca8a9d2b61175c94bf07bc90eb711698942044_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -31,7 +31,177 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-18-putting-feelings-into-a-moment-part-4-917788">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/rurouni-kenshin/episode-18-sanosuke-nishiki-paintings-921605">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sanosuke is visiting the sukiyaki<br>restaurant Akabeko, where he always<br>leaves his bill on a<br>tab. One of Akabeko's workers,<br>Tae, asks him to go<br>buy a Nishiki painting from<br>the painting shop on her<br>behalf. Though Sanosuke had no<br>interest in paintings, he finds<br>one at the store that<br>catches his eye. It was<br>a painting of the man<br>he looked up to as<br>his master back when he<br>was a member of the<br>Sekiho Army, Captain Sagara. With<br>a gleam in his eyes,<br>Sanosuke makes his way to<br>meet with the artist of<br>the painting.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 (English Dub) - Episode 4 - The Daily Life of the Former Hero and the Assassin</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6dd6b0d5a960dbe544c160b3ce836c4d1706453871_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-4-the-daily-life-of-the-former-hero-and-the-assassin-921597">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">It's morning as usual. Ruti<br>reconsiders her ordinary daily life<br>that she had abandoned as<br>a hero. That morning, Tisse<br>seemed to be acting strangely.<br>Ruti tries to ask her<br>about the previous night, but...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 (Spanish Dub) - Episode 1 - Let's Go On a Quiet Little Journey</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fa044076387b77c0255f7835f7c1fd681704636806_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-1-lets-go-on-a-quiet-little-journey-921600">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Red heads for a mountain<br>range called the Wall at<br>the World's End with his<br>lover Rit and sister Ruti.<br>It was supposed to be<br>an easy trip to get<br>materials for an engagement ring<br>to give to Rit, but...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 (Portuguese Dub) - Episode 1 - Let's Go On a Quiet Little Journey</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fa044076387b77c0255f7835f7c1fd681704636806_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-1-lets-go-on-a-quiet-little-journey-921599">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Red heads for a mountain<br>range called the Wall at<br>the World's End with his<br>lover Rit and sister Ruti.<br>It was supposed to be<br>an easy trip to get<br>materials for an engagement ring<br>to give to Rit, but...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! (Portuguese Dub) - Episode 3 - A Thinly Veiled Sword Dance (Rondo)</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c829460cd9285a1de7e4bbdd19fb89841705837813_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy/episode-3-a-thinly-veiled-sword-dance-rondo-921598">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rishe's new life in Galkhein<br>begins with cleaning the villa<br>that's her new home. She<br>attends a party where she's<br>presented as the prince's fiancée.<br>Dancing with Arnold brings up<br>memories of her past life,<br>spurring her to test him<br>just a little.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 12 - Episode 5</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1c2a6f187f9d96a33a774474b3adcb541707684351_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/theatre-of-darkness-yamishibai/episode-5-919361">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -47,12 +217,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Spanish Dub) - Episode 14</h3></th>
+<th><h3 align="center">Shangri-La Frontier (English Dub) - Episode 16 - Putting Feelings Into a Moment, Part 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9a0f42628a4d059e2885f4dd3adcab781707636915_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8c314cd552392412f3a6ae5c54a0ab671706429465_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -65,7 +235,211 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-14-921539">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-16-putting-feelings-into-a-moment-part-2-921591">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sunraku and the others are<br>engaged in a battle against<br>Wethermon the Tombguard, and making<br>full use of resurrection items.<br>Ten minutes have passed since<br>the battle began and Wethermon<br>summons his tactical mount "Kirin".</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (German Dub) - Episode 15 - Putting Feelings Into a Moment, Part 1</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/445657f760552b27dc294819a4c4c3c01705801476_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-15-putting-feelings-into-a-moment-part-1-921585">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">On the night of the<br>new moon, the members of<br>Ashura Kai are ambushed by<br>a group of allied clans<br>including Psyger-0. Meanwhile, Sunraku, Oikatzo,<br>and Pencilgon confront Wethermon the<br>Tombguard at the Hidden Garden.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (Spanish Dub) - Episode 15 - Putting Feelings Into a Moment, Part 1</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/445657f760552b27dc294819a4c4c3c01705801476_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-15-putting-feelings-into-a-moment-part-1-921586">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">On the night of the<br>new moon, the members of<br>Ashura Kai are ambushed by<br>a group of allied clans<br>including Psyger-0. Meanwhile, Sunraku, Oikatzo,<br>and Pencilgon confront Wethermon the<br>Tombguard at the Hidden Garden.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (Italian Dub) - Episode 15 - Putting Feelings Into a Moment, Part 1</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/445657f760552b27dc294819a4c4c3c01705801476_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-15-putting-feelings-into-a-moment-part-1-921587">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">On the night of the<br>new moon, the members of<br>Ashura Kai are ambushed by<br>a group of allied clans<br>including Psyger-0. Meanwhile, Sunraku, Oikatzo,<br>and Pencilgon confront Wethermon the<br>Tombguard at the Hidden Garden.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (Hindi Dub) - Episode 15 - Putting Feelings Into a Moment, Part 1</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/445657f760552b27dc294819a4c4c3c01705801476_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-15-putting-feelings-into-a-moment-part-1-921588">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">On the night of the<br>new moon, the members of<br>Ashura Kai are ambushed by<br>a group of allied clans<br>including Psyger-0. Meanwhile, Sunraku, Oikatzo,<br>and Pencilgon confront Wethermon the<br>Tombguard at the Hidden Garden.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (Tamil Dub) - Episode 15 - Putting Feelings Into a Moment, Part 1</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/445657f760552b27dc294819a4c4c3c01705801476_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-15-putting-feelings-into-a-moment-part-1-921590">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">On the night of the<br>new moon, the members of<br>Ashura Kai are ambushed by<br>a group of allied clans<br>including Psyger-0. Meanwhile, Sunraku, Oikatzo,<br>and Pencilgon confront Wethermon the<br>Tombguard at the Hidden Garden.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mr. Villain's Day Off - Episode 6 - Those Who Wish in Summer</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/142d288b7ad5ecc592f54046e5c40a391707672735_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/mr-villains-day-off/episode-6-those-who-wish-in-summer-918304">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -81,12 +455,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Portuguese Dub) - Episode 14</h3></th>
+<th><h3 align="center">The Fire Hunter - Episode 15</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9a0f42628a4d059e2885f4dd3adcab781707636896_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5e52a6274f885974890996855efef3531707672671_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -99,7 +473,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-14-921552">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-fire-hunter/episode-15-919794">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -115,12 +489,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc - Episode 19 - The Ball of Fire Revealed</h3></th>
+<th><h3 align="center">Meiji Gekken: 1874 - Episode 5 - Fight to the Death</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b581ad879530af9be509497e86437c51707617754_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1450dd7dbda64148da45e15e531a67df1707646386_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -133,7 +507,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-19-the-ball-of-fire-revealed-918576">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/meiji-gekken-1874/episode-5-fight-to-the-death-919374">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -149,12 +523,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (English Dub) - Episode 14</h3></th>
+<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 - Episode 6 - A Long Vacation</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9a0f42628a4d059e2885f4dd3adcab781707636864_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2f84c627c963d83c16070b17719b33ee1707663729_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -167,7 +541,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-14-921565">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-6-a-long-vacation-918317">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -183,12 +557,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Couple of Cuckoos (Tamil Dub) - Episode 16 - I want to talk about now.</h3></th>
+<th><h3 align="center">7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! - Episode 6 - The Only One in the World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4f5d30d114472913025dbad9c70247fb1660408940_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8df491e74b6f6c4bcbe865041b8cc59b1707663663_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -201,75 +575,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-couple-of-cuckoos/episode-16-i-want-to-talk-about-now-921535">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sachi is worried about Hiro,<br>so she brings Erika along<br>to follow her and learn<br>about her.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">A Couple of Cuckoos (Telugu Dub) - Episode 16 - I want to talk about now.</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4f5d30d114472913025dbad9c70247fb1660408940_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/11/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-couple-of-cuckoos/episode-16-i-want-to-talk-about-now-921536">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sachi is worried about Hiro,<br>so she brings Erika along<br>to follow her and learn<br>about her.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Daily Life of the Immortal King (Season 4) - Episode 10 - Start Immortal King Mode</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/798371ce73d2c92df4c3f1fa3e1b72021707601014_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/11/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-10-start-immortal-king-mode-917173">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy/episode-6-the-only-one-in-the-world-918332">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -285,12 +591,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1089-Current) - Episode 1093 - The Winner Takes All! Law vs. Blackbeard!</h3></th>
+<th><h3 align="center">Fluffy Paradise - Episode 7 - I Believe I Can Be of Some Service</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7c407377b1ae2f231be9e6815227cb0f1707616297_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1c74a12639a7ecd3d6fdd7fac59c5eda1707646489_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -303,75 +609,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/one-piece/episode-1093-the-winner-takes-all-law-vs-blackbeard-919746">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Blackbeard Pirates ambushed the<br>Heart Pirates led by Law.<br>The Blackbeard Pirates’ top officers<br>use a variety of formidable<br>Devil Fruit powers and keep<br>pushing the Heart Pirates in<br>order to obtain the copies<br>of the Road Ponegliffs.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Wonderful Precure! - Episode 2 - Let's All Be Friends! Cure Friendy!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cefa95b4aa610265bc5b65cd705f09321707611518_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/11/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/wonderful-precure/episode-2-lets-all-be-friends-cure-friendy-914749">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Mey Mey has returned to<br>his original form after having<br>been a Garugaru and asks<br>Komugi to help his friends<br>too. Komugi says she won’t<br>do it unless Iroha joins<br>her, but then a new<br>Garugaru appears.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Daily Life of the Immortal King (Season 4) (English Dub) - Episode 1 - Way-of-Heaven-level Swordsmanship</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/22be3f8416eb2c23efa2f188c5975f7a1702810289_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/11/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-1-way-of-heaven-level-swordsmanship-921529">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fluffy-paradise/episode-7-i-believe-i-can-be-of-some-service-918196">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -387,12 +625,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Daily Life of the Immortal King (Season 4) (English Dub) - Episode 2 - Snack Noodle in Collector's Edition</h3></th>
+<th><h3 align="center">Heaven Official's Blessing 2 (Japanese Dub) - Episode 6</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ec7ee92bdbc113e5391d0776dfbe53e01702810611_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/546a80de22c6e8515650f7181193fadf1707655851_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -405,7 +643,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-2-snack-noodle-in-collectors-edition-921530">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/heaven-officials-blessing/episode-6-918392">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -421,12 +659,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Hindi Dub) - Episode 3 - An Unknown Monster</h3></th>
+<th><h3 align="center">CHIBI MARUKO-CHAN - Episode 1423</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bc0e1cffa7a262c9838683dc9000ad191705770002_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1396f4c0ac173eac664f3d028386b0881707646143_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -439,251 +677,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-strongest-tanks-labyrinth-raids-a-tank-with-a-rare-9999-resistance-skill-got-kicked-from-the-heros-party-/episode-3-an-unknown-monster-921527">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/chibi-maruko-chan/episode-1423-919592">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Manicia worries that her illness<br>has prevented her brother from<br>pursuing a more rewarding path<br>in life.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tales of Wedding Rings (English Dub) - Episode 4 - Episode 4</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c5233c506f5031dbabc8d08ca64b4ec91706336727_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-4-episode-4-921524">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With the belief that the<br>Abyss King's armies are closing<br>in, Alabaster suggests they postpone<br>Satou's marriage to Nefritis and<br>head to another country. As<br>they're departing an Abyss King's<br>knight makes it past the<br>barrier and attacks Romca.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tales of Wedding Rings (Portuguese Dub) - Episode 3 - Episode 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/76446498559c043f4a9682d47bc93fc11705726570_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-3-episode-3-921519">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Satou and the others have<br>arrived in the elven homeland<br>of Romca, the Land of<br>Wind where he plans to<br>marry Nefritis, princess of the<br>Ring of Wind. Due to<br>her shy nature, Nefritis vehemently<br>refuses her marriage to Satou.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tales of Wedding Rings (German Dub) - Episode 3 - Episode 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/76446498559c043f4a9682d47bc93fc11705726570_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-3-episode-3-921520">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Satou and the others have<br>arrived in the elven homeland<br>of Romca, the Land of<br>Wind where he plans to<br>marry Nefritis, princess of the<br>Ring of Wind. Due to<br>her shy nature, Nefritis vehemently<br>refuses her marriage to Satou.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tales of Wedding Rings (Spanish Dub) - Episode 3 - Episode 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/76446498559c043f4a9682d47bc93fc11705726570_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-3-episode-3-921523">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Satou and the others have<br>arrived in the elven homeland<br>of Romca, the Land of<br>Wind where he plans to<br>marry Nefritis, princess of the<br>Ring of Wind. Due to<br>her shy nature, Nefritis vehemently<br>refuses her marriage to Satou.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (German Dub) - Episode 2 - Where Secrets Are</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffe05b2eb1550f7d13c3daaf55da99d91705165652_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/blue-exorcist/episode-2-where-secrets-are-921515">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Yukio Okumura, Rin's younger twin<br>brother and Intermediate Exorcist First<br>Class, is summoned to a<br>high-level inquiry meeting of the<br>True Cross Order to be<br>questioned about Saburota Todo, the<br>mastermind behind the resurrection of<br>the Impure King. Suspicious of<br>the imposing atmosphere, Yukio recalls<br>the words of his late<br>adoptive father, Shiro Fujimoto. Meanwhile,<br>the Exwires are tasked with<br>exorcising "Mayuko of the Toilet."<br>However, Izumo Kamiki holds a<br>certain grudge against Shiemi Moriyama.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (French Dub) - Episode 2 - Where Secrets Are</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffe05b2eb1550f7d13c3daaf55da99d91705165652_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/blue-exorcist/episode-2-where-secrets-are-921517">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Yukio Okumura, Rin's younger twin<br>brother and Intermediate Exorcist First<br>Class, is summoned to a<br>high-level inquiry meeting of the<br>True Cross Order to be<br>questioned about Saburota Todo, the<br>mastermind behind the resurrection of<br>the Impure King. Suspicious of<br>the imposing atmosphere, Yukio recalls<br>the words of his late<br>adoptive father, Shiro Fujimoto. Meanwhile,<br>the Exwires are tasked with<br>exorcising "Mayuko of the Toilet."<br>However, Izumo Kamiki holds a<br>certain grudge against Shiemi Moriyama.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">A Sign of Affection (English Dub) - Episode 4 - What Kind of Voice?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c1fcb038beced26d1a493fc2aa6d3d161707600787_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-4-what-kind-of-voice-921511">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Having made plans with Kyouya<br>to go shopping, Rin invites<br>Yuki and Itsuomi to join<br>them.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
