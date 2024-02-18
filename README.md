@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 18, 2024, 10:49:36 AM</em></p>
+<p align="center"><em>Updated on: Feb 18, 2024, 11:04:07 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -37,7 +37,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Straw Hats without Luffy, Chopper, and Jimbei are taken<br>to the laboratory on the clouds far above the ground<br>by Lilith. They get excited about the things they've never<br>seen before. However, inside the laboratory, a new threat is<br>waiting for them.</p>
+<p align="center">The Straw Hats without Luffy, Chopper, and Jimbei are taken to the laboratory on the<br>clouds far above the ground by Lilith. They get excited about the things they've never<br>seen before. However, inside the laboratory, a new threat is waiting for them.</p>
 </td>
 </tr>
 </table>
@@ -71,7 +71,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In Niko Garden, Mey Mey once again asks Iroha and<br>Komugi, “Please help my friends.” Meanwhile, on his way home<br>from Iroha's house, Satoru comes across a mysterious black egg.</p>
+<p align="center">In Niko Garden, Mey Mey once again asks Iroha and Komugi, “Please help my friends.”<br>Meanwhile, on his way home from Iroha's house, Satoru comes across a mysterious black egg.</p>
 </td>
 </tr>
 </table>
@@ -139,7 +139,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A fearsome chameleon kong is sighted near Avancia, and all<br>the fighters in town band together to take it down.<br>But where did it come from?</p>
+<p align="center">A fearsome chameleon kong is sighted near Avancia, and all the fighters in town band<br>together to take it down. But where did it come from?</p>
 </td>
 </tr>
 </table>
@@ -173,7 +173,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the belief that the Abyss King's armies are closing<br>in, Alabaster suggests they postpone Satou's marriage to Nefritis and<br>head to another country. As they're departing an Abyss King's<br>knight makes it past the barrier and attacks Romca.</p>
+<p align="center">With the belief that the Abyss King's armies are closing in, Alabaster suggests they postpone<br>Satou's marriage to Nefritis and head to another country. As they're departing an Abyss King's<br>knight makes it past the barrier and attacks Romca.</p>
 </td>
 </tr>
 </table>
@@ -207,7 +207,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the belief that the Abyss King's armies are closing<br>in, Alabaster suggests they postpone Satou's marriage to Nefritis and<br>head to another country. As they're departing an Abyss King's<br>knight makes it past the barrier and attacks Romca.</p>
+<p align="center">With the belief that the Abyss King's armies are closing in, Alabaster suggests they postpone<br>Satou's marriage to Nefritis and head to another country. As they're departing an Abyss King's<br>knight makes it past the barrier and attacks Romca.</p>
 </td>
 </tr>
 </table>
@@ -241,7 +241,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the belief that the Abyss King's armies are closing<br>in, Alabaster suggests they postpone Satou's marriage to Nefritis and<br>head to another country. As they're departing an Abyss King's<br>knight makes it past the barrier and attacks Romca.</p>
+<p align="center">With the belief that the Abyss King's armies are closing in, Alabaster suggests they postpone<br>Satou's marriage to Nefritis and head to another country. As they're departing an Abyss King's<br>knight makes it past the barrier and attacks Romca.</p>
 </td>
 </tr>
 </table>
@@ -275,7 +275,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">True Cross Academy is busy with preparations for the school<br>festival. Renzo Shima and Rin try to find partners to<br>attend the music festival and dance party with, but they<br>are continually rejected. Unwilling to give up, Rin attempts to<br>invite Izumo. But she flat out declines because the annual<br>Exorcist Certification Exam is approaching. However, Shiemi, who has passed<br>the school's transfer exam and has become their classmate, appears<br>before a completely depressed Shima and Rin.</p>
+<p align="center">True Cross Academy is busy with preparations for the school festival. Renzo Shima and Rin<br>try to find partners to attend the music festival and dance party with, but they<br>are continually rejected. Unwilling to give up, Rin attempts to invite Izumo. But she flat<br>out declines because the annual Exorcist Certification Exam is approaching. However, Shiemi, who has passed<br>the school's transfer exam and has become their classmate, appears before a completely depressed Shima<br>and Rin.</p>
 </td>
 </tr>
 </table>
@@ -309,7 +309,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">True Cross Academy is busy with preparations for the school<br>festival. Renzo Shima and Rin try to find partners to<br>attend the music festival and dance party with, but they<br>are continually rejected. Unwilling to give up, Rin attempts to<br>invite Izumo. But she flat out declines because the annual<br>Exorcist Certification Exam is approaching. However, Shiemi, who has passed<br>the school's transfer exam and has become their classmate, appears<br>before a completely depressed Shima and Rin.</p>
+<p align="center">True Cross Academy is busy with preparations for the school festival. Renzo Shima and Rin<br>try to find partners to attend the music festival and dance party with, but they<br>are continually rejected. Unwilling to give up, Rin attempts to invite Izumo. But she flat<br>out declines because the annual Exorcist Certification Exam is approaching. However, Shiemi, who has passed<br>the school's transfer exam and has become their classmate, appears before a completely depressed Shima<br>and Rin.</p>
 </td>
 </tr>
 </table>
@@ -343,7 +343,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having made plans with Kyouya to go shopping, Rin invites<br>Yuki and Itsuomi to join them.</p>
+<p align="center">Having made plans with Kyouya to go shopping, Rin invites Yuki and Itsuomi to join<br>them.</p>
 </td>
 </tr>
 </table>
@@ -377,7 +377,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having made plans with Kyouya to go shopping, Rin invites<br>Yuki and Itsuomi to join them.</p>
+<p align="center">Having made plans with Kyouya to go shopping, Rin invites Yuki and Itsuomi to join<br>them.</p>
 </td>
 </tr>
 </table>
@@ -411,7 +411,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having made plans with Kyouya to go shopping, Rin invites<br>Yuki and Itsuomi to join them.</p>
+<p align="center">Having made plans with Kyouya to go shopping, Rin invites Yuki and Itsuomi to join<br>them.</p>
 </td>
 </tr>
 </table>
@@ -445,7 +445,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having made plans with Kyouya to go shopping, Rin invites<br>Yuki and Itsuomi to join them.</p>
+<p align="center">Having made plans with Kyouya to go shopping, Rin invites Yuki and Itsuomi to join<br>them.</p>
 </td>
 </tr>
 </table>
@@ -479,7 +479,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Despite Matakara's protests, Arajin joins Siguma Squad to please Mahoro.<br>Marito takes Arajin out and tells him that they're headed<br>to a raunchy welcome party full of girls. When they<br>arrive, Arajin discovers that the party is not at all<br>what he imagined.</p>
+<p align="center">Despite Matakara's protests, Arajin joins Siguma Squad to please Mahoro. Marito takes Arajin out and<br>tells him that they're headed to a raunchy welcome party full of girls. When they<br>arrive, Arajin discovers that the party is not at all what he imagined.</p>
 </td>
 </tr>
 </table>
@@ -513,7 +513,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Despite Matakara's protests, Arajin joins Siguma Squad to please Mahoro.<br>Marito takes Arajin out and tells him that they're headed<br>to a raunchy welcome party full of girls. When they<br>arrive, Arajin discovers that the party is not at all<br>what he imagined.</p>
+<p align="center">Despite Matakara's protests, Arajin joins Siguma Squad to please Mahoro. Marito takes Arajin out and<br>tells him that they're headed to a raunchy welcome party full of girls. When they<br>arrive, Arajin discovers that the party is not at all what he imagined.</p>
 </td>
 </tr>
 </table>
@@ -547,7 +547,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Despite Matakara's protests, Arajin joins Siguma Squad to please Mahoro.<br>Marito takes Arajin out and tells him that they're headed<br>to a raunchy welcome party full of girls. When they<br>arrive, Arajin discovers that the party is not at all<br>what he imagined.</p>
+<p align="center">Despite Matakara's protests, Arajin joins Siguma Squad to please Mahoro. Marito takes Arajin out and<br>tells him that they're headed to a raunchy welcome party full of girls. When they<br>arrive, Arajin discovers that the party is not at all what he imagined.</p>
 </td>
 </tr>
 </table>
@@ -581,7 +581,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Despite Matakara's protests, Arajin joins Siguma Squad to please Mahoro.<br>Marito takes Arajin out and tells him that they're headed<br>to a raunchy welcome party full of girls. When they<br>arrive, Arajin discovers that the party is not at all<br>what he imagined.</p>
+<p align="center">Despite Matakara's protests, Arajin joins Siguma Squad to please Mahoro. Marito takes Arajin out and<br>tells him that they're headed to a raunchy welcome party full of girls. When they<br>arrive, Arajin discovers that the party is not at all what he imagined.</p>
 </td>
 </tr>
 </table>
@@ -615,7 +615,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Despite Matakara's protests, Arajin joins Siguma Squad to please Mahoro.<br>Marito takes Arajin out and tells him that they're headed<br>to a raunchy welcome party full of girls. When they<br>arrive, Arajin discovers that the party is not at all<br>what he imagined.</p>
+<p align="center">Despite Matakara's protests, Arajin joins Siguma Squad to please Mahoro. Marito takes Arajin out and<br>tells him that they're headed to a raunchy welcome party full of girls. When they<br>arrive, Arajin discovers that the party is not at all what he imagined.</p>
 </td>
 </tr>
 </table>
@@ -649,7 +649,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Covering up Jinshi's otherworldly beauty is no easy task, but<br>after Maomao takes the challenge head-on, she's surprised when she's<br>also asked to don the disguise of a noblewoman and<br>escort "Jinka" outside the palace.</p>
+<p align="center">Covering up Jinshi's otherworldly beauty is no easy task, but after Maomao takes the challenge<br>head-on, she's surprised when she's also asked to don the disguise of a noblewoman and<br>escort "Jinka" outside the palace.</p>
 </td>
 </tr>
 </table>
@@ -683,7 +683,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A shack, a chest of drawers, and a fishbowl are<br>all that a talented metalworker leaves to his three sons<br>upon his death. Maomao is assigned to investigate how these<br>strange inheritances all fit together.</p>
+<p align="center">A shack, a chest of drawers, and a fishbowl are all that a talented metalworker<br>leaves to his three sons upon his death. Maomao is assigned to investigate how these<br>strange inheritances all fit together.</p>
 </td>
 </tr>
 </table>
