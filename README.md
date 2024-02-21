@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 21, 2024, 7:50:01 AM</em></p>
+<p align="center"><em>Updated on: Feb 21, 2024, 7:19:26 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,6 +12,312 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Fire Force Season 2 (Telugu Dub) - Episode 3 - A New Flashpoint</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/919974b58d87d8255c020e6d11bba8d71594970351_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fire-force/episode-3-a-new-flashpoint-922216">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Obi goes to see the chief with news of a fifth Adolla-Burst bearer. Schoolgirl Inca,<br>who has the ability to sniff out fires before they start, becomes notorious as the<br>Fireground Thief, extorting valuables from victims in exchange for rescuing them.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Fire Force Season 2 (Tamil Dub) - Episode 3 - A New Flashpoint</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/919974b58d87d8255c020e6d11bba8d71594970351_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fire-force/episode-3-a-new-flashpoint-922215">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Obi goes to see the chief with news of a fifth Adolla-Burst bearer. Schoolgirl Inca,<br>who has the ability to sniff out fires before they start, becomes notorious as the<br>Fireground Thief, extorting valuables from victims in exchange for rescuing them.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Tamil Dub) - Episode 11 - What I Can Do Now</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/691bad0b6312eed1ca4713ae35264ce71655018557_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs/episode-11-what-i-can-do-now-922236">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Leon weaves his way through the horde of monsters alone in order to rescue Angelica.<br>Meanwhile, Chris and Olivia battle fiercely alongside the other students on the passenger ship, but<br>they're surrounded by the duchy's fleet...!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Telugu Dub) - Episode 11 - What I Can Do Now</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/691bad0b6312eed1ca4713ae35264ce71655018557_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs/episode-11-what-i-can-do-now-922237">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Leon weaves his way through the horde of monsters alone in order to rescue Angelica.<br>Meanwhile, Chris and Olivia battle fiercely alongside the other students on the passenger ship, but<br>they're surrounded by the duchy's fleet...!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Tamil Dub) - Episode 1 - The Storm Dragon, Veldora</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56fb585aaca7bdce948a175dc717abdb1538388974_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/that-time-i-got-reincarnated-as-a-slime/episode-1-the-storm-dragon-veldora-922242">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mikami Satoru, a businessman, is stabbed by a criminal on the street and killed. When<br>he regains consciousness in the darkness, he finds that he's been reincarnated as a slime!<br>With nothing better to do, he spends his time devouring all the rare herbs and<br>precious ores he comes across. As he does, he encounters the Storm Dragon Veldora, who<br>was sealed in this cave 300 years ago by a hero's "Unlimited Imprisonment" skill. He's<br>frightened at first, but as they talk, he becomes friends with the long-isolated Veldora.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Telugu Dub) - Episode 1 - The Storm Dragon, Veldora</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56fb585aaca7bdce948a175dc717abdb1538388974_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/that-time-i-got-reincarnated-as-a-slime/episode-1-the-storm-dragon-veldora-922243">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mikami Satoru, a businessman, is stabbed by a criminal on the street and killed. When<br>he regains consciousness in the darkness, he finds that he's been reincarnated as a slime!<br>With nothing better to do, he spends his time devouring all the rare herbs and<br>precious ores he comes across. As he does, he encounters the Storm Dragon Veldora, who<br>was sealed in this cave 300 years ago by a hero's "Unlimited Imprisonment" skill. He's<br>frightened at first, but as they talk, he becomes friends with the long-isolated Veldora.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">RADIANT (Tamil Dub) - Episode 18 - The Light That Follows the Darkness -Awakening-</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/876b381b78ed05a0c2e45a9eeee475a71549095909_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/radiant/episode-18-the-light-that-follows-the-darkness-awakening-922218">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Hameline is defeated by General Torque, "the Beast." The enraged Seth continues to fight, but<br>Von Teppes of the Inquisition turns the tables on him. Seth finally loses consciousness, but<br>then an immense hidden power he didn't know he had sends him on a rampage.<br>He defeats Teppes and, still unconscious, goes after Torque. The battle grows even more intense<br>as Colonel Santori jumps in to assist Torque. Then, as Melie and Grimm attempt to<br>flee the town, a ride appears for them from Artemis courtesy of Majesty himself...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">RADIANT (Telugu Dub) - Episode 18 - The Light That Follows the Darkness -Awakening-</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/876b381b78ed05a0c2e45a9eeee475a71549095909_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/radiant/episode-18-the-light-that-follows-the-darkness-awakening-922220">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Hameline is defeated by General Torque, "the Beast." The enraged Seth continues to fight, but<br>Von Teppes of the Inquisition turns the tables on him. Seth finally loses consciousness, but<br>then an immense hidden power he didn't know he had sends him on a rampage.<br>He defeats Teppes and, still unconscious, goes after Torque. The battle grows even more intense<br>as Colonel Santori jumps in to assist Torque. Then, as Melie and Grimm attempt to<br>flee the town, a ride appears for them from Artemis courtesy of Majesty himself...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Iceblade Sorcerer Shall Rule the World (Hindi Dub) - Episode 10 - The Boy Who Became the World's Strongest Sorcerer Sets Up a Maid Cafe</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9765cb8d90a983bb1193eeea6bf0c7a81678383778_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-iceblade-sorcerer-shall-rule-the-world/episode-10-the-boy-who-became-the-worlds-strongest-sorcerer-sets-up-a-maid-cafe-922238">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After the Magic Chevalier is over, the season turns to fall. While Ray and his<br>class are getting excited about their plan for the cultural festival, they get word that<br>Rebecca has been engaged to an upper-tier noble called Evan Bernstein. Ray goes to congratulate<br>her, but gets the feeling that she is not her usual self. On top of<br>that, Dina Sera asks Ray to watch over Rebecca, so he begins his investigation into<br>Evan. However, the situation behind this way bigger than Ray could have imagined...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">BONES 25: DREAMING FORWARD - Episode 3 - Successful Adaptation</h3></th>
 </tr>
@@ -378,312 +684,6 @@
 <tr>
 <td colspan="2">
 <p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Marginal Prince - Episode 4 - Sunlight Vorspiel</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/88bb2f4fe7a7b25967510069c2fd14db1708444928_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/20/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/marginal-prince/episode-4-sunlight-vorspiel-922193">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Marginal Prince - Episode 3 - Phantasmal Ipse</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e5b930016eb9ade35c5668e96297c6fb1708444628_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/20/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/marginal-prince/episode-3-phantasmal-ipse-922191">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Marginal Prince - Episode 2 - Edelstein of Dawn</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1793941cea17ed64b5ff048e7f88eb491708444323_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/20/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/marginal-prince/episode-2-edelstein-of-dawn-922189">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Marginal Prince - Episode 1 - Jade Escuela</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4ad3ed1367372119a32de805f685d7ed1708444152_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/20/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/marginal-prince/episode-1-jade-escuela-922188">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions (German Dub) - Episode 2 - The Case of the Locked-Room Piggy Bank Theft</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2f663580e0a8c5991c569ef850d62bd71696853802_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/20/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/ron-kamonohashis-forbidden-deductions/episode-2-the-case-of-the-locked-room-piggy-bank-theft-922233">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ron is excited to solve cases by using Toto, but he's not on any good<br>ones because his boss thinks he's useless. All he gets are odd jobs and busywork.<br>Ron, however, is quite interested in a new report about coins going missing from a<br>piggy bank...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord (Hindi Dub) - Episode 4 - The Hidden Boss Attends Field Lessons</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fda1b44229787184d0a5017569184f8f1706630258_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/20/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/villainess-level-99-i-may-be-the-hidden-boss-but-im-not-the-demon-lord/episode-4-the-hidden-boss-attends-field-lessons-922232">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Log Horizon (German Dub) - Episode 2 - The Battle of Loka</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4441c2988807a6da204f4ad6748f8ed11381365669_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/20/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/log-horizon/episode-2-the-battle-of-loka-922230">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Apocalypse has locked thirty thousand players inside the game, and no one knows what<br>to do.  The larger guilds are taking over Akihabara, and outside the city violent<br>groups are Party Killing other players.  A young female member of Marielle's "Crescent Moon<br>Alliance" is trapped in Susukino, far to the north, and needs their help.  Shiroe<br>feels somewhat embarrassed, but makes a decision.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Golden Kamuy (German Dub) - Episode 27 - Igogusa</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bebd0efd3602394448290e102b5e83ab1603091149_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/20/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/golden-kamuy/episode-27-igogusa-922227">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As his group tracks Kiroranke and Asirpa in the frozen north, Tsukishima reflects how he<br>began to be involved with the 7th Division.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The God of High School (French Dub) - Episode 3 - wisdom/kingdom</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/417516193faf5f8c3be8eb3f04c1c3e71595234552_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/20/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-god-of-high-school/episode-3-wisdomkingdom-922226">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Mira faces off against WWD women's pro wrestler Mah Miseon, but her swordfighting can't keep<br>up with Miseon's well-built body and overwhelming strength. Mori faces the risk of being disqualified<br>from the tournament after interfering with the match between Gang Manseok and Go Gamdo. Park<br>Mujin, a National Assembly member and God of High School's sponsor, tells Mori that if<br>he can defeat Commissioner Q in a match, he will be allowed to return to<br>the tournament. Meanwhile, as regional preliminaries continue across Korea, a secretive organization schemes behind the<br>scenes. The "key" to fulfilling their desires turns out to be...</p>
 </td>
 </tr>
 </table>
