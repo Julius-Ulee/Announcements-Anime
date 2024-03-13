@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 13, 2024, 7:50:19 AM</em></p>
+<p align="center"><em>Updated on: Mar 13, 2024, 7:19:49 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,210 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Fire Force Season 2 (Telugu Dub) - Episode 6 - The Time to Choose</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/17632e1c3dcd74e2a3b9c656a993148a1596759447_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fire-force/episode-6-the-time-to-choose-923803">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Inca is faced with the decision of whether to go with Shinra and the Fire<br>Force, or to go with Charon and side with the Evangelist. Fed up with always<br>being a step behind the Evangelist's men, the 8th launches a research expedition to find<br>answers.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Fire Force Season 2 (Tamil Dub) - Episode 6 - The Time to Choose</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/17632e1c3dcd74e2a3b9c656a993148a1596759447_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fire-force/episode-6-the-time-to-choose-923804">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Inca is faced with the decision of whether to go with Shinra and the Fire<br>Force, or to go with Charon and side with the Evangelist. Fed up with always<br>being a step behind the Evangelist's men, the 8th launches a research expedition to find<br>answers.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Tamil Dub) - Episode 4 - In the Kingdom of the Dwarves</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0ca007eab3908b867106812c458320581540200149_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/that-time-i-got-reincarnated-as-a-slime/episode-4-in-the-kingdom-of-the-dwarves-924028">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rimuru and his companions visit the Dwarven Kingdom, the Armed Nation of Dwargon, in search<br>of some artisans to help the Goblins learn to supply their own food, shelter, and<br>clothing. However, a skirmish just outside the city gate lands Rimuru and Gobta in a<br>prison cell. Then there's a report of an Armorsaurus in the nearby mines!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Telugu Dub) - Episode 4 - In the Kingdom of the Dwarves</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0ca007eab3908b867106812c458320581540200149_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/that-time-i-got-reincarnated-as-a-slime/episode-4-in-the-kingdom-of-the-dwarves-924029">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rimuru and his companions visit the Dwarven Kingdom, the Armed Nation of Dwargon, in search<br>of some artisans to help the Goblins learn to supply their own food, shelter, and<br>clothing. However, a skirmish just outside the city gate lands Rimuru and Gobta in a<br>prison cell. Then there's a report of an Armorsaurus in the nearby mines!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">RADIANT (Tamil Dub) - Episode 21 - In Search of the Future -Utopia-</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0ae639e2b3cd69eca00159f6b2df9ccd1550912063_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/radiant/episode-21-in-search-of-the-future-utopia-924024">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Just when Seth decides to set out on a new journey after hearing what Yaga<br>wrote in a letter to Alma, a massive number of Nemesis eggs rains down on<br>Artemis Academy. The sorcerers of the city intercept them, but an egg they miss falls<br>on an isolated island where Melie happens to be gathering mushrooms. Seth rushes to save<br>her and fights the Nemesis that hatches from the egg, but its immense strength forces<br>Seth into a corner, and his power once again goes berserk. Frightened by this inner<br>power that he can't control, Seth makes a decision...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">RADIANT (Telugu Dub) - Episode 21 - In Search of the Future -Utopia-</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0ae639e2b3cd69eca00159f6b2df9ccd1550912063_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/radiant/episode-21-in-search-of-the-future-utopia-924025">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Just when Seth decides to set out on a new journey after hearing what Yaga<br>wrote in a letter to Alma, a massive number of Nemesis eggs rains down on<br>Artemis Academy. The sorcerers of the city intercept them, but an egg they miss falls<br>on an isolated island where Melie happens to be gathering mushrooms. Seth rushes to save<br>her and fights the Nemesis that hatches from the egg, but its immense strength forces<br>Seth into a corner, and his power once again goes berserk. Frightened by this inner<br>power that he can't control, Seth makes a decision...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Black Clover (French Dub) - Episode 102 - Two Miracles</h3></th>
 </tr>
@@ -479,210 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">While the Royal Knights began their assault on the Eye of the Midnight Sun’s hideout,<br>Rades, Valtos and Sally from the Eye of the Midnight Sun attack the Black Bulls’<br>hideout. Gauche, Gordon, and Grey who remained back at the hideout end up having to<br>fight. Gauche is worried about the fact that his mirror magic doesn’t work well against<br>Sally’s gel magic, but he works together with Grey and Gordon to do everything they<br>can to protect their hideout.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Clover (French Dub) - Episode 88 - Storming the Eye of the Midnight Sun's Hideout!!!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/aad87e3260e537fc359d01d13e25708d1560832263_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/black-clover/episode-88-storming-the-eye-of-the-midnight-suns-hideout-923989">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Royal Knights arrive at the floating dungeon at the Gravito Stones, which is where<br>the Eye of the Midnight Sun’s hideout is. Mereoleona orders them to split into five<br>different teams and they begin their assault. Asta heads in with Mereoleona and Zora Ideale.<br>Meanwhile, Captain Nozel of the Silver Eagles also heads in, vowing to get revenge for<br>a fallen rival.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Clover (French Dub) - Episode 87 - Formation of the Royal Knights</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cb26395c9f5b0c001c0df037f7d7e6e21560243161_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/black-clover/episode-87-formation-of-the-royal-knights-923987">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Asta, Noelle, and Luck are suddenly taken away by Captain Mereoleona, who suddenly dropped in<br>at the Black Bulls’ base. It just so happened the three of them had passed<br>the Royal Knights Selection Exam. The other Magic Knights who passed had also gathered, including<br>the two Magic Knights who fought a fierce battle in the finals, Yuno and the<br>captain of the Aqua Deer, Rill. They were then informed that there would be one<br>more member of the Black Bulls joining them, and it happened to be... Finally, Captain<br>Nozel from the Silver Eagles also joined them as the captain of the Royal Knights,<br>Mereoleona prepped them for their battle against the Eye of the Midnight Sun.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Clover (French Dub) - Episode 86 - Yami and Vangeance</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f6a875042a81b49667444f801b6af15f1559638052_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/black-clover/episode-86-yami-and-vangeance-923985">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">A few years after Vangeance had saved Yami from the group of bandits, they were<br>still Magic Knight squad members and were assigned a special mission by Julius. It was<br>a mission to track down the Magic Knights that were aiding a group of bandits<br>who were terrorizing places throughout the Clover Kingdom. Yami and William decide to split up<br>to cover more ground and Yami ends up running into the bandits!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Clover (French Dub) - Episode 85 - Together in the Bath</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6cd6f327c955da0daff853745b482bac1559037032_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/black-clover/episode-85-together-in-the-bath-923982">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">For some reason, Captain Yami tells all the Black Bulls to take a bath with<br>him. After not being able to fight with Yuno in the Royal Knights Selection Exam<br>finals, Asta had been acting like his soul was gone. While in the bath, Yami<br>starts to tell the Black Bulls about an incident that happened when he had just<br>become a Magic Knight and had gone on a journey to train.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Clover (French Dub) - Episode 84 - The Victors</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2c3379aa3a1ff1b3f5dbcbaa1b23a13d1558428002_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/black-clover/episode-84-the-victors-923981">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The final match of the Royal Knights Selection Exam has finally come down to Yuno,<br>Noelle, and En’s team versus Rill’s team. Yuno takes on the captain of the Aqua<br>Deer as Noelle and En guard their crystal. Both Yuno and Rill have extreme amounts<br>of magic and natural skill, and Asta watched their battle, trying to hold back his<br>own disappointment...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Clover (French Dub) - Episode 83 - Burn It Into You</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5fb4bbf6db7ae8abc3c3314fe36342ce1557811942_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/black-clover/episode-83-burn-it-into-you-923979">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Xerx’s magic seems to have little effect against Langris, as well, so Asta decides to<br>use his Black Asta powers. Will he be able to defeat Langris, despite Langris’s tremendous<br>magical powers? Luck’s team then faces off with Rill’s team and then finally, Rill’s team<br>goes up against Yuno’s team...</p>
 </td>
 </tr>
 </table>
