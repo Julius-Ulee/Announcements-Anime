@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 16, 2024, 7:48:19 AM</em></p>
+<p align="center"><em>Updated on: Mar 16, 2024, 7:20:09 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,142 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Firefighter Daigo: Rescuer in Orange - Episode 22 - Dust Explosion</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b8ed678b536d90899141ffff740ae61e1710575582_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/16/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/firefighter-daigo-rescuer-in-orange/episode-22-dust-explosion-918039">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">On the last day before Yamagami leaves Fuwa Rescue, there is a special order dispatch<br>for them to go to a printing facility that has caught on fire. Inside the<br>building, there are powders that could cause a dust explosion.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">SPY x FAMILY (Eps 26+) (Tamil Dub) - Episode 29 - The Pastry of Knowledge / The Informant's Great Romance Plan II</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7fd95982ce7dd132313fe02d0bd8d4f31698478287_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/16/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-29-the-pastry-of-knowledge-the-informants-great-romance-plan-ii-924272">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Eden's legendary dessert finally appears! In order to obtain the macrons that supposedly can make<br>you into an Imperial Scholar if eaten, Anya and her friends race to get to<br>them first.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">SPY x FAMILY (Eps 26+) (Telugu Dub) - Episode 29 - The Pastry of Knowledge / The Informant's Great Romance Plan II</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7fd95982ce7dd132313fe02d0bd8d4f31698478287_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/16/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-29-the-pastry-of-knowledge-the-informants-great-romance-plan-ii-924273">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Eden's legendary dessert finally appears! In order to obtain the macrons that supposedly can make<br>you into an Imperial Scholar if eaten, Anya and her friends race to get to<br>them first.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">SPY x FAMILY (Eps 26+) (Hindi Dub) - Episode 29 - The Pastry of Knowledge / The Informant's Great Romance Plan II</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7fd95982ce7dd132313fe02d0bd8d4f31698478287_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/16/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-29-the-pastry-of-knowledge-the-informants-great-romance-plan-ii-924312">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Eden's legendary dessert finally appears! In order to obtain the macrons that supposedly can make<br>you into an Imperial Scholar if eaten, Anya and her friends race to get to<br>them first.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">CARDFIGHT!! VANGUARD Divinez - Episode 9 - Taboo Upon Zero</h3></th>
 </tr>
@@ -549,142 +685,6 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <tr>
 <td colspan="2">
 <p align="center">Resolve bridges Rose's tragic past into her future as she and the rest of the<br>Rescue Team make their way to the battlefield where they're fated to cross with the<br>demons.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (Portuguese Dub) - Episode 8 - Battalion Commander Rose</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a9b52d3434a5d06f7335d4c388057f001708706570_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-8-battalion-commander-rose-924277">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">A look back into Rose's past as a new battalion commander and her relationship with<br>her old team. Just who were they? And where did things go wrong...?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (Spanish Dub) - Episode 8 - Battalion Commander Rose</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a9b52d3434a5d06f7335d4c388057f001708706570_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-8-battalion-commander-rose-924278">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">A look back into Rose's past as a new battalion commander and her relationship with<br>her old team. Just who were they? And where did things go wrong...?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (Hindi Dub) - Episode 8 - Battalion Commander Rose</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a9b52d3434a5d06f7335d4c388057f001708706570_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-8-battalion-commander-rose-924279">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">A look back into Rose's past as a new battalion commander and her relationship with<br>her old team. Just who were they? And where did things go wrong...?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Snack Basue - Episode 10 - Friend To Friend / Wednesday Night / Only Sixteen</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/223e363d9286e768f5206cb5af6286261710521659_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/snack-basue/episode-10-friend-to-friend-wednesday-night-only-sixteen-919071">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">To make a friend or not to make a friend, that is the question this<br>week at our lovely run-down snack bar. Find out whose point is superior and meet<br>the new customers who drop in this time! Grab a drink and listen in on<br>tonight's shenanigans.</p>
 </td>
 </tr>
 </table>
