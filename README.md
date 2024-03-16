@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 15, 2024, 7:19:00 PM</em></p>
+<p align="center"><em>Updated on: Mar 16, 2024, 7:48:19 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom (Tamil Dub) - Episode 5 - Assembly Time</h3></th>
+<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez - Episode 9 - Taboo Upon Zero</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a853a31a3145826c3037214c50fefd651472884925_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1d286f433d7ea970b704653e19f3167d1710539554_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/assassination-classroom/episode-5-assembly-time-924096">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/cardfight-vanguard-overdress/episode-9-taboo-upon-zero-919240">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before the torturous school assembly begins, Okuda attempts to poison Koro Sensei in an unexpected<br>way... with unexpected results.</p>
+<p align="center">It is the third round of the Fated Clash, with Suo standing on the Hakusan<br>stage. Masanori attempts to bewilder his opponent, but Suo remains unfazed. An unexpected development occurs<br>in the fight between Zero and Taboo. What exactly does Suo desire from the Fated<br>Clash?</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom (Telugu Dub) - Episode 5 - Assembly Time</h3></th>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 4 - Anime Awards 2024 wrap-up, Kaiju No. 8 OP/ED news, and our first Rom-Com Corner</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a853a31a3145826c3037214c50fefd651472884925_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2a02b154efa749b6548d80d19c8501c41710537815_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,15 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/assassination-classroom/episode-5-assembly-time-924097">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/crunchyroll-presents-the-anime-effect/episode-4-anime-awards-2024-wrap-up-kaiju-no-8-oped-news-and-our-first-rom-com-corner-921816">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before the torturous school assembly begins, Okuda attempts to poison Koro Sensei in an unexpected<br>way... with unexpected results.</p>
+<p align="center">"Nick, LeAlec, and Leah are closing out the Anime Awards 2024 coverage with final takeaways,<br>shoutouts, and favorite moments. Catch all this, as well as the latest updates on the<br>Kaiju No. 8 anime, One-Punch Man Season 3, and more, only on The Anime Effect.<br>
+
+Today’s episode released late today as we wanted to first acknowledge the passing of Akira<br>Toriyama. We recorded this episode before the news about Akira Toriyama was shared.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +82,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ranking of Kings: The Treasure Chest of Courage (Tamil Dub) - Episode 5 - The Law of the Underworld | A White Horse in Love | The Gentle Soldier, Hokuro</h3></th>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 5 - Godzilla Minus One and Studio Ghibli Oscar wins, DAN DA DAN, and a sci-fi anime deep dive</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d6b0d7638e865c08a6d0ac2d7c3fe4131683825558_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ea9edbfcbf2863d72454227ced389dd51710538130_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +100,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/ranking-of-kings/episode-5-the-law-of-the-underworld-a-white-horse-in-love-the-gentle-soldier-hokuro-924105">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/crunchyroll-presents-the-anime-effect/episode-5-godzilla-minus-one-and-studio-ghibli-oscar-wins-dan-da-dan-and-a-sci-fi-anime-deep-dive-921817">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fren is branded an outlaw when he leaves the underworld to help save Ouken. When<br>Whiteking grows fat after the captain neglects to care for her, only one thing can<br>whip her back into shape. Hokuro joins the military to repay Bojji's kindness.</p>
+<p align="center">LeAlec and Leah take the reins this week – with occasional help from a cardboard<br>cutout of Nick – and dish on their favorite announcements from Mario Day and all<br>the new anime coming out this year like Demon Slayer, DAN DA DAN and BLUE<br>LOCK: Episode Nagi, but only after gushing over the Godzilla Minus One and The Boy<br>and the Heron Oscar wins. Stick around for their own deep dive on sci-fi and<br>mystery anime and their debate on whether mecha anime qualifies as sci-fi? Catch all this<br>and more, only on The Anime Effect.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +116,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairies Album (Season 4) - Episode 5 - WIND FRUIT CHANGES MEMORIES</h3></th>
+<th><h3 align="center">Sasaki and Peeps (English Dub) - Episode 9 - Executions and Negotiations</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f82504d4f0dc6a820afbfc788afb85801710454858_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d75bc3176e872040122573937a62c4121709271717_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +134,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairies-album/episode-5-wind-fruit-changes-memories-922375">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/sasaki-and-peeps/episode-9-executions-and-negotiations-924308">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Marc has been thrown into prison for a farce of an offense, and it's up<br>to Sasaki to cook up an otherwordly scheme to get him out... and maybe make<br>a tidy profit in the process.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +150,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride: Those Awaiting a Star (English Dub) - Episode 3 - Part 3</h3></th>
+<th><h3 align="center">The Demon Prince of Momochi House (English Dub) - Episode 9 - A Raven-Black Storm</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/80001ada01ffced2e574f5ffc2e7850a1504973685_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6d21d27d2208b36d56871a39581efb531709314214_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +164,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/14/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-ancient-magus-bride/episode-3-part-3-924111">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-9-a-raven-black-storm-924306">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The magician of the forest invites Chise into his library. Chise is reluctant at first,<br>but they develop a strong friendship that would have a lasting influence on her.</p>
+<p align="center">Himari and her friends go to investigate the unsettling rumors about Kagome Park, but the<br>horror strikes too close to home when an uninvited guest comes knocking at Momochi House.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +184,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride: Those Awaiting a Star (English Dub) - Episode 2 - Part 2</h3></th>
+<th><h3 align="center">The Demon Prince of Momochi House (Spanish Dub) - Episode 8 - A Cat and Wandering Child</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/218714968440f8fdc8569e8719ed3d5a1489099032_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/57b2cc3be81c4d779b119af5f70f56c11708712527_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +198,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/14/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-ancient-magus-bride/episode-2-part-2-924110">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-8-a-cat-and-wandering-child-924304">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The magician of the forest invites Chise into his library. Chise is reluctant at first,<br>but they develop a strong friendship that would have a lasting influence on her.</p>
+<p align="center">Aoi seems to be in a slump. His seals aren't working well, meaning lesser yokai<br>are now running amok at Momochi House. Good thing Granny Cat arrives to clean up...<br>except it looks like she means to take Himari out with the trash!</p>
 </td>
 </tr>
 </table>
@@ -216,12 +218,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride: Those Awaiting a Star (English Dub) - Episode 1 - Part 1</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (English Dub) - Episode 25 - A Fatal Vulnerability</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9a518bad1b88ee8bdb6538a614c0af951473470678_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56674020dfd38ca7445e9d1c340e81ea1709305367_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +232,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/14/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-ancient-magus-bride/episode-1-part-1-924109">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-25-a-fatal-vulnerability-924299">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chise is the student and future bride of the Thorn Sorcerer, Elias. They receive a<br>package from Angelica in London: mostly textbooks, save for one special book.</p>
+<p align="center">A perfect imitation of Frieren stands between the test-takers and victory, but Fern believes she<br>knows how to win. Is it time for the student to surpass the master?</p>
 </td>
 </tr>
 </table>
@@ -250,12 +252,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Witch and the Beast (English Dub) - Episode 7 - The Witch and the Demon Sword: Act II</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Portuguese Dub) - Episode 24 - Perfect Replicas</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c87df8bb70067117183001a243d4db5e1709233501_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ddefe54ecd4b64728dd2aebaae6284601708700271_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +266,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/14/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-witch-and-the-beast/episode-7-the-witch-and-the-demon-sword-act-ii-924106">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-24-perfect-replicas-924283">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Helga and Guideau go head-to-head with the Paladin Corps's Matt Cugat, an ice mage with<br>power to rival a witch. While they struggle to escape with the Demon Sword, Ashaf<br>suspects a plot.</p>
+<p align="center">Due to the Spiegel, a legendary monster that can create perfect replicas of others, the<br>test-takers who would conquer the Ruins of the King's Tomb must first face the ultimate<br>enemy: themselves.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +286,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Telugu Dub) - Episode 35 - Seance</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Spanish Dub) - Episode 24 - Perfect Replicas</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f2bfa9bbfac4ac3956159d803e5f35181696520910_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ddefe54ecd4b64728dd2aebaae6284601708700271_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +300,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/14/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-35-seance-924103">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-24-perfect-replicas-924285">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nanami, Fushiguro, and Ino meet up with Itadori, then Nanami issues new orders for the<br>others to work together to lift the veil keeping sorcerers out.</p>
+<p align="center">Due to the Spiegel, a legendary monster that can create perfect replicas of others, the<br>test-takers who would conquer the Ruins of the King's Tomb must first face the ultimate<br>enemy: themselves.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +320,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Witch and the Beast - Episode 9 - The Witch and the Demon Sword: Final Act</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (French Dub) - Episode 24 - Perfect Replicas</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d215239c914a8838e718e0f29d42c6d61710435252_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ddefe54ecd4b64728dd2aebaae6284601708700271_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +334,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/14/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-witch-and-the-beast/episode-9-the-witch-and-the-demon-sword-final-act-919004">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-24-perfect-replicas-924292">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ashgan has lost control, and Ashaf finally unleashes Guideau to stop it. But even with<br>the curse undone, can the beast stand up to the Demon Sword's apocalyptic power?</p>
+<p align="center">Due to the Spiegel, a legendary monster that can create perfect replicas of others, the<br>test-takers who would conquer the Ruins of the King's Tomb must first face the ultimate<br>enemy: themselves.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +354,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Brave Bang Bravern! - Episode 10 - In Japan, They Call This OMIAI</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (German Dub) - Episode 23 - Conquering the Labyrinth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/788e6958e42db4a0c84e0b1f46f6ea811710432164_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f3560639fe0f53c64bf6e25cd84fb1e91708082146_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +368,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/14/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/brave-bang-bravern/episode-10-in-japan-they-call-this-omiai-919612">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-23-conquering-the-labyrinth-924284">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lulu makes a surprise announcement that she intends to pilot Superbia, but like with any<br>matchmaking process, it remains to be seen if the pair will actually hit it off.</p>
+<p align="center">The aspiring first-class mages now face their second test: conquering the Ruins of the King's<br>Tomb. A simple task, or so the proctor claims, but there's a reason this particular<br>dungeon remains unexplored.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +388,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Delusional Monthly Magazine - Episode 10 - Holy Moly! Fight and a Continental Rising!</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Italian Dub) - Episode 23 - Conquering the Labyrinth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/01562918a84285c5ea9df336d945509d1710428247_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f3560639fe0f53c64bf6e25cd84fb1e91708082146_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +402,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/14/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/delusional-monthly-magazine/episode-10-holy-moly-fight-and-a-continental-rising-918989">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-23-conquering-the-labyrinth-924286">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Catherine presents Goro with all six MOParts, leaving the decision to use them in the<br>hands of Monthly Moso's staff. At last, the Mo Continent's true nature might come to<br>light.</p>
+<p align="center">The aspiring first-class mages now face their second test: conquering the Ruins of the King's<br>Tomb. A simple task, or so the proctor claims, but there's a reason this particular<br>dungeon remains unexplored.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +422,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God (Hindi Dub) - Episode 6 - Position Selection</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Hindi Dub) - Episode 23 - Conquering the Labyrinth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/073f9fb878ee53a058f48479a0d1904d1588762545_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f3560639fe0f53c64bf6e25cd84fb1e91708082146_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,19 +436,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/14/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tower-of-god/episode-6-position-selection-924081">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-23-conquering-the-labyrinth-924287">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">What will Khun do after meeting Rachel?
-The position selection begins, and despite struggling with their<br>assignments, the examinees grow closer.
-Meanwhile, someone watches them and ruminates from afar...</p>
+<p align="center">The aspiring first-class mages now face their second test: conquering the Ruins of the King's<br>Tomb. A simple task, or so the proctor claims, but there's a reason this particular<br>dungeon remains unexplored.</p>
 </td>
 </tr>
 </table>
@@ -456,12 +456,12 @@ Meanwhile, someone watches them and ruminates from afar...</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride (Tamil Dub) - Episode 5 - Love conquers all</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Castilian Dub) - Episode 23 - Conquering the Labyrinth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7f513a5104a797ad34db8d43615483541509782616_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f3560639fe0f53c64bf6e25cd84fb1e91708082146_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -470,17 +470,17 @@ Meanwhile, someone watches them and ruminates from afar...</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/14/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-ancient-magus-bride/episode-5-love-conquers-all-924075">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-23-conquering-the-labyrinth-924288">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To sorcerer Refnred's eyes, Chise is a sad girl, being duped by a mage. But<br>no matter what Elias' true motives are, Chise has no intention of leaving him. Elias<br>was the first person to value her, after all. As she walks towards the epicenter,<br>she learns of the truth behind it. The sight of a boy appears behind the<br>tragedy.</p>
+<p align="center">The aspiring first-class mages now face their second test: conquering the Ruins of the King's<br>Tomb. A simple task, or so the proctor claims, but there's a reason this particular<br>dungeon remains unexplored.</p>
 </td>
 </tr>
 </table>
@@ -490,12 +490,12 @@ Meanwhile, someone watches them and ruminates from afar...</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride (Telugu Dub) - Episode 5 - Love conquers all</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Tamil Dub) - Episode 23 - Conquering the Labyrinth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7f513a5104a797ad34db8d43615483541509782616_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f3560639fe0f53c64bf6e25cd84fb1e91708082146_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -504,17 +504,17 @@ Meanwhile, someone watches them and ruminates from afar...</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/14/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-ancient-magus-bride/episode-5-love-conquers-all-924076">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-23-conquering-the-labyrinth-924290">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To sorcerer Refnred's eyes, Chise is a sad girl, being duped by a mage. But<br>no matter what Elias' true motives are, Chise has no intention of leaving him. Elias<br>was the first person to value her, after all. As she walks towards the epicenter,<br>she learns of the truth behind it. The sight of a boy appears behind the<br>tragedy.</p>
+<p align="center">The aspiring first-class mages now face their second test: conquering the Ruins of the King's<br>Tomb. A simple task, or so the proctor claims, but there's a reason this particular<br>dungeon remains unexplored.</p>
 </td>
 </tr>
 </table>
@@ -524,12 +524,12 @@ Meanwhile, someone watches them and ruminates from afar...</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">VINLAND SAGA Season 2 (Telugu Dub) - Episode 24 - Home</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (English Dub) - Episode 9 - The End and the Beginning</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/400444fbca03053125500bd0f3b59c831687191900_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e7b9befd310a337f9461dde69156e2e81709311768_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -538,17 +538,17 @@ Meanwhile, someone watches them and ruminates from afar...</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/14/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/vinland-saga/episode-24-home-924077">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-9-the-end-and-the-beginning-924301">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Leif's ship returns to Iceland. Thorfinn discovers what has become of his family after his<br>father's death all those many years ago.</p>
+<p align="center">Resolve bridges Rose's tragic past into her future as she and the rest of the<br>Rescue Team make their way to the battlefield where they're fated to cross with the<br>demons.</p>
 </td>
 </tr>
 </table>
@@ -558,12 +558,12 @@ Meanwhile, someone watches them and ruminates from afar...</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">LAID-BACK CAMP SEASON2 (English Dub) - Episode 8 - Camping Alone</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Portuguese Dub) - Episode 8 - Battalion Commander Rose</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8e11afa3f637ef264597117b5b9396c51614226919_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a9b52d3434a5d06f7335d4c388057f001708706570_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -572,17 +572,17 @@ Meanwhile, someone watches them and ruminates from afar...</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/laid-back-camp/episode-8-camping-alone-924086">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-8-battalion-commander-rose-924277">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nadeshiko arrives at her campsite and begins experimenting with outdoor cooking, when two kids show<br>up.</p>
+<p align="center">A look back into Rose's past as a new battalion commander and her relationship with<br>her old team. Just who were they? And where did things go wrong...?</p>
 </td>
 </tr>
 </table>
@@ -592,12 +592,12 @@ Meanwhile, someone watches them and ruminates from afar...</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Bottom-Tier Character Tomozaki 2nd STAGE (English Dub) - Episode 9 - If you don't make up your mind, the story won't advance</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Spanish Dub) - Episode 8 - Battalion Commander Rose</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ca6e89ace153f2909a012585a45f7d971709104121_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a9b52d3434a5d06f7335d4c388057f001708706570_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -606,17 +606,17 @@ Meanwhile, someone watches them and ruminates from afar...</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/bottom-tier-character-tomozaki/episode-9-if-you-dont-make-up-your-mind-the-story-wont-advance-924082">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-8-battalion-commander-rose-924278">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Things get awkward around Mimimi. Tomozaki finally chooses the two girls he'd like to pursue,<br>and Hinami gives him more tasks in pursuit of his goals.</p>
+<p align="center">A look back into Rose's past as a new battalion commander and her relationship with<br>her old team. Just who were they? And where did things go wrong...?</p>
 </td>
 </tr>
 </table>
@@ -626,12 +626,12 @@ Meanwhile, someone watches them and ruminates from afar...</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Classroom of the Elite Season 3 (English Dub) - Episode 9 - Extreme justice is extreme injustice.</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Hindi Dub) - Episode 8 - Battalion Commander Rose</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/23775e3eccb37b0585c786cba1552dea1709125805_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a9b52d3434a5d06f7335d4c388057f001708706570_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -640,17 +640,17 @@ Meanwhile, someone watches them and ruminates from afar...</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/classroom-of-the-elite/episode-9-extreme-justice-is-extreme-injustice-924072">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-8-battalion-commander-rose-924279">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The class vote has seen the first student expelled from Class C. Sakayanagi meets up<br>with Ayanokoji and they're approached by a man named Tsukishiro sent by Ayanokoji's father. Afterward<br>Ayanokoji challenges Sakayanagi to compete on their next exam.</p>
+<p align="center">A look back into Rose's past as a new battalion commander and her relationship with<br>her old team. Just who were they? And where did things go wrong...?</p>
 </td>
 </tr>
 </table>
@@ -660,12 +660,12 @@ Meanwhile, someone watches them and ruminates from afar...</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Classroom of the Elite Season 3 (Portuguese Dub) - Episode 8 - Those who cannot remember the past are condemned to repeat it.</h3></th>
+<th><h3 align="center">Snack Basue - Episode 10 - Friend To Friend / Wednesday Night / Only Sixteen</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/862f5a17b20aa69a07d6ca57f0cf09f51708523510_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/223e363d9286e768f5206cb5af6286261710521659_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -674,17 +674,17 @@ Meanwhile, someone watches them and ruminates from afar...</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2024</td>
+<td align="center">3/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/classroom-of-the-elite/episode-8-those-who-cannot-remember-the-past-are-condemned-to-repeat-it-924065">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/snack-basue/episode-10-friend-to-friend-wednesday-night-only-sixteen-919071">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After conversing with her brother Manabu, Horikita offers Yamauchi name as the one who should<br>be expelled. Not only has he made few contributions to the class, but he also<br>worked with Sakayanagi in Class A to expel Ayanokoji.</p>
+<p align="center">To make a friend or not to make a friend, that is the question this<br>week at our lovely run-down snack bar. Find out whose point is superior and meet<br>the new customers who drop in this time! Grab a drink and listen in on<br>tonight's shenanigans.</p>
 </td>
 </tr>
 </table>
