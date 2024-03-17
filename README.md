@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 16, 2024, 7:20:09 PM</em></p>
+<p align="center"><em>Updated on: Mar 17, 2024, 7:52:49 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Firefighter Daigo: Rescuer in Orange - Episode 22 - Dust Explosion</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 4) (English Dub) - Episode 7 - Art of Explosion?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b8ed678b536d90899141ffff740ae61e1710575582_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bb49570a56ef49d93c62f1f395d8c6fd1705788104_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/firefighter-daigo-rescuer-in-orange/episode-22-dust-explosion-918039">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-7-art-of-explosion-924443">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On the last day before Yamagami leaves Fuwa Rescue, there is a special order dispatch<br>for them to go to a printing facility that has caught on fire. Inside the<br>building, there are powders that could cause a dust explosion.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Tamil Dub) - Episode 29 - The Pastry of Knowledge / The Informant's Great Romance Plan II</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 4) (Hindi Dub) - Episode 3 - Resonance Between Masters</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7fd95982ce7dd132313fe02d0bd8d4f31698478287_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4c137dd02d2a66cb014dca8c185a219a1703371310_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-29-the-pastry-of-knowledge-the-informants-great-romance-plan-ii-924272">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-3-resonance-between-masters-924440">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Eden's legendary dessert finally appears! In order to obtain the macrons that supposedly can make<br>you into an Imperial Scholar if eaten, Anya and her friends race to get to<br>them first.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Telugu Dub) - Episode 29 - The Pastry of Knowledge / The Informant's Great Romance Plan II</h3></th>
+<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Hindi Dub) - Episode 8 - Lilia and Lily</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7fd95982ce7dd132313fe02d0bd8d4f31698478287_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/03b3fa91dc7339939fd108ea3b30856b1708801122_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-29-the-pastry-of-knowledge-the-informants-great-romance-plan-ii-924273">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-strongest-tanks-labyrinth-raids-a-tank-with-a-rare-9999-resistance-skill-got-kicked-from-the-heros-party-/episode-8-lilia-and-lily-924439">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Eden's legendary dessert finally appears! In order to obtain the macrons that supposedly can make<br>you into an Imperial Scholar if eaten, Anya and her friends race to get to<br>them first.</p>
+<p align="center">After a successful first raid on Keild Labyrinth, Rud's party returns the following day for<br>a second attempt at clearing it, but they soon find themselves fighting extremely powerful monsters<br>in dangerous uncharted territory.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Hindi Dub) - Episode 29 - The Pastry of Knowledge / The Informant's Great Romance Plan II</h3></th>
+<th><h3 align="center">Tales of Wedding Rings (English Dub) - Episode 9 - Episode 9</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7fd95982ce7dd132313fe02d0bd8d4f31698478287_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b12a1a5e7577ec657849e69d6b05bea1709360156_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-29-the-pastry-of-knowledge-the-informants-great-romance-plan-ii-924312">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-9-episode-9-924437">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Eden's legendary dessert finally appears! In order to obtain the macrons that supposedly can make<br>you into an Imperial Scholar if eaten, Anya and her friends race to get to<br>them first.</p>
+<p align="center">Peace has returned to Maasa and the gang are able to take a short break.<br>Satou and Hime go on a date alone, but Nefritis, Granart, and Saphir secretly follow<br>them. Satou and Hime are enjoying their date, but then they recall Alabaster's prior words.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez - Episode 9 - Taboo Upon Zero</h3></th>
+<th><h3 align="center">Tales of Wedding Rings (Portuguese Dub) - Episode 8 - Episode 8</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1d286f433d7ea970b704653e19f3167d1710539554_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/26775052f59e2e231a04e0b740c932a41708767724_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/cardfight-vanguard-overdress/episode-9-taboo-upon-zero-919240">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-8-episode-8-924430">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It is the third round of the Fated Clash, with Suo standing on the Hakusan<br>stage. Masanori attempts to bewilder his opponent, but Suo remains unfazed. An unexpected development occurs<br>in the fight between Zero and Taboo. What exactly does Suo desire from the Fated<br>Clash?</p>
+<p align="center">The oracle who's secretly running Maasa the Land of Water offers some advice to Marse<br>who failed in his mission. Satou and Sluder prepare to repel the approaching Abyss King's<br>horde. As Satou struggles, a certain person suddenly stands before him.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 4 - Anime Awards 2024 wrap-up, Kaiju No. 8 OP/ED news, and our first Rom-Com Corner</h3></th>
+<th><h3 align="center">Tales of Wedding Rings (German Dub) - Episode 8 - Episode 8</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2a02b154efa749b6548d80d19c8501c41710537815_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/26775052f59e2e231a04e0b740c932a41708767724_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,19 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/crunchyroll-presents-the-anime-effect/episode-4-anime-awards-2024-wrap-up-kaiju-no-8-oped-news-and-our-first-rom-com-corner-921816">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-8-episode-8-924431">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">"Nick, LeAlec, and Leah are closing out the Anime Awards 2024 coverage with final takeaways,<br>shoutouts, and favorite moments. Catch all this, as well as the latest updates on the<br>Kaiju No. 8 anime, One-Punch Man Season 3, and more, only on The Anime Effect.<br>
-
-Today’s episode released late today as we wanted to first acknowledge the passing of Akira<br>Toriyama. We recorded this episode before the news about Akira Toriyama was shared.</p>
+<p align="center">The oracle who's secretly running Maasa the Land of Water offers some advice to Marse<br>who failed in his mission. Satou and Sluder prepare to repel the approaching Abyss King's<br>horde. As Satou struggles, a certain person suddenly stands before him.</p>
 </td>
 </tr>
 </table>
@@ -218,12 +216,12 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 5 - Godzilla Minus One and Studio Ghibli Oscar wins, DAN DA DAN, and a sci-fi anime deep dive</h3></th>
+<th><h3 align="center">Tales of Wedding Rings (Spanish Dub) - Episode 8 - Episode 8</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ea9edbfcbf2863d72454227ced389dd51710538130_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/26775052f59e2e231a04e0b740c932a41708767724_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -232,17 +230,17 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/crunchyroll-presents-the-anime-effect/episode-5-godzilla-minus-one-and-studio-ghibli-oscar-wins-dan-da-dan-and-a-sci-fi-anime-deep-dive-921817">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-8-episode-8-924432">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">LeAlec and Leah take the reins this week – with occasional help from a cardboard<br>cutout of Nick – and dish on their favorite announcements from Mario Day and all<br>the new anime coming out this year like Demon Slayer, DAN DA DAN and BLUE<br>LOCK: Episode Nagi, but only after gushing over the Godzilla Minus One and The Boy<br>and the Heron Oscar wins. Stick around for their own deep dive on sci-fi and<br>mystery anime and their debate on whether mecha anime qualifies as sci-fi? Catch all this<br>and more, only on The Anime Effect.</p>
+<p align="center">The oracle who's secretly running Maasa the Land of Water offers some advice to Marse<br>who failed in his mission. Satou and Sluder prepare to repel the approaching Abyss King's<br>horde. As Satou struggles, a certain person suddenly stands before him.</p>
 </td>
 </tr>
 </table>
@@ -252,12 +250,12 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 
 <table align="center">
 <tr>
-<th><h3 align="center">Sasaki and Peeps (English Dub) - Episode 9 - Executions and Negotiations</h3></th>
+<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (German Dub) - Episode 7 - Hesitation</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d75bc3176e872040122573937a62c4121709271717_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/76717b644f28cf430fc23b9a754b35cc1708183668_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -266,17 +264,17 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/sasaki-and-peeps/episode-9-executions-and-negotiations-924308">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/blue-exorcist/episode-7-hesitation-924424">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Marc has been thrown into prison for a farce of an offense, and it's up<br>to Sasaki to cook up an otherwordly scheme to get him out... and maybe make<br>a tidy profit in the process.</p>
+<p align="center">Behind the façade of the Inari Tourism and Urbanization Project, the Illuminati gradually undermined the<br>area. After learning about Izumo's past from Mike, Rin and the others head to Peace<br>Town Inari, which they believe holds the entrance to the Illuminati's underground laboratory. Meanwhile, at<br>the laboratory, Izumo is taken to a room where Michael Gedoin is waiting to undergo<br>a complete medical examination. Izumo screams to create an uproar, giving her a chance to<br>try and escape by summoning Uke and Mike. She runs away to get out of<br>the underground laboratory – only for Renzo Shima to stand in her way.</p>
 </td>
 </tr>
 </table>
@@ -286,12 +284,12 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Demon Prince of Momochi House (English Dub) - Episode 9 - A Raven-Black Storm</h3></th>
+<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (French Dub) - Episode 7 - Hesitation</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6d21d27d2208b36d56871a39581efb531709314214_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/76717b644f28cf430fc23b9a754b35cc1708183668_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -300,17 +298,17 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-9-a-raven-black-storm-924306">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/blue-exorcist/episode-7-hesitation-924426">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Himari and her friends go to investigate the unsettling rumors about Kagome Park, but the<br>horror strikes too close to home when an uninvited guest comes knocking at Momochi House.</p>
+<p align="center">Behind the façade of the Inari Tourism and Urbanization Project, the Illuminati gradually undermined the<br>area. After learning about Izumo's past from Mike, Rin and the others head to Peace<br>Town Inari, which they believe holds the entrance to the Illuminati's underground laboratory. Meanwhile, at<br>the laboratory, Izumo is taken to a room where Michael Gedoin is waiting to undergo<br>a complete medical examination. Izumo screams to create an uproar, giving her a chance to<br>try and escape by summoning Uke and Mike. She runs away to get out of<br>the underground laboratory – only for Renzo Shima to stand in her way.</p>
 </td>
 </tr>
 </table>
@@ -320,12 +318,12 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Demon Prince of Momochi House (Spanish Dub) - Episode 8 - A Cat and Wandering Child</h3></th>
+<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (English Dub) - Episode 2 - Where Secrets Are</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/57b2cc3be81c4d779b119af5f70f56c11708712527_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffe05b2eb1550f7d13c3daaf55da99d91705165652_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -334,17 +332,17 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-8-a-cat-and-wandering-child-924304">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/blue-exorcist/episode-2-where-secrets-are-924427">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Aoi seems to be in a slump. His seals aren't working well, meaning lesser yokai<br>are now running amok at Momochi House. Good thing Granny Cat arrives to clean up...<br>except it looks like she means to take Himari out with the trash!</p>
+<p align="center">Yukio Okumura, Rin's younger twin brother and Intermediate Exorcist First Class, is summoned to a<br>high-level inquiry meeting of the True Cross Order to be questioned about Saburota Todo, the<br>mastermind behind the resurrection of the Impure King. Suspicious of the imposing atmosphere, Yukio recalls<br>the words of his late adoptive father, Shiro Fujimoto. Meanwhile, the Exwires are tasked with<br>exorcising "Mayuko of the Toilet." However, Izumo Kamiki holds a certain grudge against Shiemi Moriyama.</p>
 </td>
 </tr>
 </table>
@@ -354,12 +352,12 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (English Dub) - Episode 25 - A Fatal Vulnerability</h3></th>
+<th><h3 align="center">A Sign of Affection (English Dub) - Episode 9 - I Don't Want to Leave</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56674020dfd38ca7445e9d1c340e81ea1709305367_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/053725004279d226ed66f5c1063386b81709368890_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -368,17 +366,17 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-25-a-fatal-vulnerability-924299">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-9-i-dont-want-to-leave-924418">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A perfect imitation of Frieren stands between the test-takers and victory, but Fern believes she<br>knows how to win. Is it time for the student to surpass the master?</p>
+<p align="center">The gang heads up the mountains for a very eventful boot camp.</p>
 </td>
 </tr>
 </table>
@@ -388,12 +386,12 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Portuguese Dub) - Episode 24 - Perfect Replicas</h3></th>
+<th><h3 align="center">A Sign of Affection (Spanish Dub) - Episode 8 - One Small Step</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ddefe54ecd4b64728dd2aebaae6284601708700271_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/19a12ca241d4a9c19cb32923f8a429d61708767763_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -402,17 +400,17 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-24-perfect-replicas-924283">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-8-one-small-step-924416">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Due to the Spiegel, a legendary monster that can create perfect replicas of others, the<br>test-takers who would conquer the Ruins of the King's Tomb must first face the ultimate<br>enemy: themselves.</p>
+<p align="center">Being introduced to Yuki gets Shin reminiscing about his high school days with Itsuomi and<br>Emma.</p>
 </td>
 </tr>
 </table>
@@ -422,12 +420,12 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Spanish Dub) - Episode 24 - Perfect Replicas</h3></th>
+<th><h3 align="center">A Sign of Affection (French Dub) - Episode 8 - One Small Step</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ddefe54ecd4b64728dd2aebaae6284601708700271_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/19a12ca241d4a9c19cb32923f8a429d61708767763_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -436,17 +434,17 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-24-perfect-replicas-924285">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-8-one-small-step-924417">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Due to the Spiegel, a legendary monster that can create perfect replicas of others, the<br>test-takers who would conquer the Ruins of the King's Tomb must first face the ultimate<br>enemy: themselves.</p>
+<p align="center">Being introduced to Yuki gets Shin reminiscing about his high school days with Itsuomi and<br>Emma.</p>
 </td>
 </tr>
 </table>
@@ -456,12 +454,12 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (French Dub) - Episode 24 - Perfect Replicas</h3></th>
+<th><h3 align="center">A Sign of Affection (Portuguese Dub) - Episode 8 - One Small Step</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ddefe54ecd4b64728dd2aebaae6284601708700271_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/19a12ca241d4a9c19cb32923f8a429d61708767763_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -470,17 +468,17 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-24-perfect-replicas-924292">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-8-one-small-step-924414">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Due to the Spiegel, a legendary monster that can create perfect replicas of others, the<br>test-takers who would conquer the Ruins of the King's Tomb must first face the ultimate<br>enemy: themselves.</p>
+<p align="center">Being introduced to Yuki gets Shin reminiscing about his high school days with Itsuomi and<br>Emma.</p>
 </td>
 </tr>
 </table>
@@ -490,12 +488,12 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (German Dub) - Episode 23 - Conquering the Labyrinth</h3></th>
+<th><h3 align="center">A Sign of Affection (German Dub) - Episode 8 - One Small Step</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f3560639fe0f53c64bf6e25cd84fb1e91708082146_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/19a12ca241d4a9c19cb32923f8a429d61708767763_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -504,17 +502,17 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-23-conquering-the-labyrinth-924284">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-8-one-small-step-924415">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The aspiring first-class mages now face their second test: conquering the Ruins of the King's<br>Tomb. A simple task, or so the proctor claims, but there's a reason this particular<br>dungeon remains unexplored.</p>
+<p align="center">Being introduced to Yuki gets Shin reminiscing about his high school days with Itsuomi and<br>Emma.</p>
 </td>
 </tr>
 </table>
@@ -524,12 +522,12 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Italian Dub) - Episode 23 - Conquering the Labyrinth</h3></th>
+<th><h3 align="center">BUCCHIGIRI?! (English Dub) - Episode 7 - Group Date?! The Sea, Maji Croquette, and I!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f3560639fe0f53c64bf6e25cd84fb1e91708082146_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fc7a31c08553f8aa976c5c7a84c140b21709373059_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -538,17 +536,17 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-23-conquering-the-labyrinth-924286">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-7-group-date-the-sea-maji-croquette-and-i-924412">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The aspiring first-class mages now face their second test: conquering the Ruins of the King's<br>Tomb. A simple task, or so the proctor claims, but there's a reason this particular<br>dungeon remains unexplored.</p>
+<p align="center">As Arajin keeps trying to capture Mahoro's heart, the injured Marito invites him to a<br>"group date" at the beach. Arajin agrees and buffs up for the party. When the<br>day comes, Arajin realizes that he was set to 'date' very different partners... in battle.</p>
 </td>
 </tr>
 </table>
@@ -558,12 +556,12 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Hindi Dub) - Episode 23 - Conquering the Labyrinth</h3></th>
+<th><h3 align="center">The Apothecary Diaries (English Dub) - Episode 21 - How to Buy Out a Contract</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f3560639fe0f53c64bf6e25cd84fb1e91708082146_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f0905ef49fa6074f4cc324cde623faa71709373825_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -572,17 +570,17 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-23-conquering-the-labyrinth-924287">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-21-how-to-buy-out-a-contract-924359">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The aspiring first-class mages now face their second test: conquering the Ruins of the King's<br>Tomb. A simple task, or so the proctor claims, but there's a reason this particular<br>dungeon remains unexplored.</p>
+<p align="center">Back to work at the rear palace, Maomao listens to Guen talk about his family's<br>business. Meanwhile, Lihaku hears a rumor that that whips him into action.</p>
 </td>
 </tr>
 </table>
@@ -592,12 +590,12 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Castilian Dub) - Episode 23 - Conquering the Labyrinth</h3></th>
+<th><h3 align="center">The Apothecary Diaries (French Dub) - Episode 20 - Thornapple</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f3560639fe0f53c64bf6e25cd84fb1e91708082146_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/eec2966c53a83544a155b1fc5f172b161708795404_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -606,17 +604,17 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-23-conquering-the-labyrinth-924288">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-20-thornapple-924358">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The aspiring first-class mages now face their second test: conquering the Ruins of the King's<br>Tomb. A simple task, or so the proctor claims, but there's a reason this particular<br>dungeon remains unexplored.</p>
+<p align="center">Maomao was able to stop the assassination attempt, but was heavily injured in the process.<br>However, the injuries aren't enough to stop her curiosity, driving her to confront the culprit<br>behind the incident.</p>
 </td>
 </tr>
 </table>
@@ -626,12 +624,12 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Tamil Dub) - Episode 23 - Conquering the Labyrinth</h3></th>
+<th><h3 align="center">The Apothecary Diaries (German Dub) - Episode 19 - Chance or Something More</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f3560639fe0f53c64bf6e25cd84fb1e91708082146_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c55a96ace107e619f320adcdea6881d71708166733_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -640,17 +638,17 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-23-conquering-the-labyrinth-924290">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-19-chance-or-something-more-924356">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The aspiring first-class mages now face their second test: conquering the Ruins of the King's<br>Tomb. A simple task, or so the proctor claims, but there's a reason this particular<br>dungeon remains unexplored.</p>
+<p align="center">A discussion with Lihaku about recent events leads Maomao to realize that the mysteries she's<br>helped to solve are connected. As the final piece of the puzzle falls into place,<br>she rushes to stop impending disaster.</p>
 </td>
 </tr>
 </table>
@@ -660,12 +658,12 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (English Dub) - Episode 9 - The End and the Beginning</h3></th>
+<th><h3 align="center">The Apothecary Diaries (Hindi Dub) - Episode 19 - Chance or Something More</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e7b9befd310a337f9461dde69156e2e81709311768_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c55a96ace107e619f320adcdea6881d71708166733_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -674,17 +672,17 @@ Today’s episode released late today as we wanted to first acknowledge the pass
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2024</td>
+<td align="center">3/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-9-the-end-and-the-beginning-924301">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-apothecary-diaries/episode-19-chance-or-something-more-924357">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Resolve bridges Rose's tragic past into her future as she and the rest of the<br>Rescue Team make their way to the battlefield where they're fated to cross with the<br>demons.</p>
+<p align="center">A discussion with Lihaku about recent events leads Maomao to realize that the mysteries she's<br>helped to solve are connected. As the final piece of the puzzle falls into place,<br>she rushes to stop impending disaster.</p>
 </td>
 </tr>
 </table>
