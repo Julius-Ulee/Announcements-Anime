@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 17, 2024, 7:18:36 PM</em></p>
+<p align="center"><em>Updated on: Mar 18, 2024, 7:50:41 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier - Episode 23 - Bird with Rabbits vs. Skeletal Choir</h3></th>
+<th><h3 align="center">Rurouni Kenshin (English Dub) - Episode 23 - The Wolf's Fangs</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/decc594d791590285a8ce914f25b32cc1710662311_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dc4e80856829a13904a44c4a994a0f0c1701971121_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-23-bird-with-rabbits-vs-skeletal-choir-917793">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/rurouni-kenshin/episode-23-the-wolfs-fangs-924477">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku, Emul, and Bilac face off against the area boss the Humming Lich in the<br>Canyon of Ancient Souls. Struggling to inflict damage, Bilac rushes to rework the Dullahan General's<br>Decapitator into a holy-attribute weapon.</p>
+<p align="center">After defeating Arundo Akamatsu, Kenshin returns to the Kamiya Dojo and sees Hajime Saito. Hajime<br>had introduced himself to Kaoru and Yahiko as Goro Fujita, the police officer, and they<br>had invited him into the Dojo without any suspicion. Hajime criticizes Kenshin and the others<br>for their naivety. Over the past ten years that Kenshin had washed his hands of<br>manslaying, Hajime had honed his killing intent and skills as a hitman, and now Hajime's<br>ferocity was aimed at them.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Spanish Dub) - Episode 19</h3></th>
+<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 (English Dub) - Episode 9 - Take Out the Fairy in Love and the Greedy Cardinal</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/21210cd7f17e271ccbc844f55f6877be1710662257_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/07ee6003094bd237633a7de3554b518c1709477832_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,7 +64,449 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-19-921544">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-9-take-out-the-fairy-in-love-and-the-greedy-cardinal-924473">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">In order to drive Van away from Zoltan, Red and his friends aim to appease<br>Ljubo and Lavender. Rit is the one who volunteers to negotiate with Lavender. The method<br>she utilizes is... love stories?!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 (Portuguese Dub) - Episode 6 - A Long Vacation</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2f84c627c963d83c16070b17719b33ee1707663729_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/17/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-6-a-long-vacation-924470">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Van and the others are headed to Zoltan. If Ruti's existence should come to light,<br>there could be trouble, so Red and Rit decide they should take Ruti on a<br>trip.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 (Spanish Dub) - Episode 6 - A Long Vacation</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2f84c627c963d83c16070b17719b33ee1707663729_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/17/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-6-a-long-vacation-924472">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Van and the others are headed to Zoltan. If Ruti's existence should come to light,<br>there could be trouble, so Red and Rit decide they should take Ruti on a<br>trip.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! (Portuguese Dub) - Episode 8 - The Color of the Sea beyond the Horizon</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0db8cda196a0ba545216db99bef775c61708854663_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/17/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy/episode-8-the-color-of-the-sea-beyond-the-horizon-924469">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rishe's secret plan advances perfectly. Then she receives an invitation from Arnold to join him<br>on an incognito trip into town. Certain it must be for official business, Rishe goes<br>along only to end up at a jeweler's where Arnold has a plan of his<br>own!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 12 - Episode 10 - Inkstone</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bb3bf6d7e0ec63349fbf47282f72c2421710701276_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/17/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/theatre-of-darkness-yamishibai/episode-10-inkstone-919366">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">This is the story of a couple who is clearing out an old storage unit<br>on their family's property...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (English Dub) - Episode 21 - Errands, Cultivation, and Game Progress</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/54775bb5f30ff151e3e8f8b3f6915c371709452693_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/17/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-21-errands-cultivation-and-game-progress-924460">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">"Unique monsters make money" Pencilgon suggests forming a clan with Sunraku and Oikatzo. After temporarily<br>splitting, Sunraku returns to the Palace of Rabituza with the Non-Standard Ether Reactor he received<br>from Oikatzo and comes up with a great idea."</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (German Dub) - Episode 20 - Current Situations and Next Steps</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/94a03db22a5fb3b1ec0342f0a5c7c0491708846470_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/17/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-20-current-situations-and-next-steps-924455">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Utopia, SLF's development company, is in a tizzy over the defeat of Wethermon the Tombguard.<br>Sunraku is excited to kick off his bonus unique scenario Vorpal Epic. He then decides<br>to check out the loot he received from defeating Wethermon.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (Spanish Dub) - Episode 20 - Current Situations and Next Steps</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/94a03db22a5fb3b1ec0342f0a5c7c0491708846470_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/17/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-20-current-situations-and-next-steps-924456">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Utopia, SLF's development company, is in a tizzy over the defeat of Wethermon the Tombguard.<br>Sunraku is excited to kick off his bonus unique scenario Vorpal Epic. He then decides<br>to check out the loot he received from defeating Wethermon.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (Italian Dub) - Episode 20 - Current Situations and Next Steps</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/94a03db22a5fb3b1ec0342f0a5c7c0491708846470_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/17/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-20-current-situations-and-next-steps-924457">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Utopia, SLF's development company, is in a tizzy over the defeat of Wethermon the Tombguard.<br>Sunraku is excited to kick off his bonus unique scenario Vorpal Epic. He then decides<br>to check out the loot he received from defeating Wethermon.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (Tamil Dub) - Episode 20 - Current Situations and Next Steps</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/94a03db22a5fb3b1ec0342f0a5c7c0491708846470_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/17/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-20-current-situations-and-next-steps-924458">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Utopia, SLF's development company, is in a tizzy over the defeat of Wethermon the Tombguard.<br>Sunraku is excited to kick off his bonus unique scenario Vorpal Epic. He then decides<br>to check out the loot he received from defeating Wethermon.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (Hindi Dub) - Episode 20 - Current Situations and Next Steps</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/94a03db22a5fb3b1ec0342f0a5c7c0491708846470_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/17/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-20-current-situations-and-next-steps-924462">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Utopia, SLF's development company, is in a tizzy over the defeat of Wethermon the Tombguard.<br>Sunraku is excited to kick off his bonus unique scenario Vorpal Epic. He then decides<br>to check out the loot he received from defeating Wethermon.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (French Dub) - Episode 19 - The World Progresses, the Heroes Are Revealed</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/51efec384f26a6a279c6e2ffb609f0981708212091_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/17/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-19-the-world-progresses-the-heroes-are-revealed-924459">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Wethermon falls into a slumber and Setsuna of Bygone Days leaves behind a hint that<br>will lead to the truth about SLF. Wethermon's subjugation is reported to all players in<br>game. Now, standing before the battle-weary trio are angry members of Ashura Kai...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mr. Villain's Day Off - Episode 11 - When the Flowers Scatter</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/144d92c947e4b126c22d29c77ac527da1710695590_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/17/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/mr-villains-day-off/episode-11-when-the-flowers-scatter-918309">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">It's not easy for trees to talk to each other, when social mobility is limited<br>at best. And everyone needs a helping hand sometimes, even misfit robots. Does Mr. Villain<br>have the solutions?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Fire Hunter - Episode 20 - Lamplight</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5ce89ccfc047d3706fab9192cbdb79111710690787_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/17/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-fire-hunter/episode-20-lamplight-919799">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -80,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Portuguese Dub) - Episode 19</h3></th>
+<th><h3 align="center">Meiji Gekken: 1874 - Episode 10 - The River Never Stops, Nor Carries The Same Water Twice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/21210cd7f17e271ccbc844f55f6877be1710662277_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d0ea03c737d82b686bd4d614bcd963931710684331_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +540,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-19-921557">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/meiji-gekken-1874/episode-10-the-river-never-stops-nor-carries-the-same-water-twice-919379">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Hiramatsu plans is to conduct a night raid on the Imperial palace and abduct the<br>emperor. Can Shizuma stop him and prevent war from breaking out in Japan once more?</p>
 </td>
 </tr>
 </table>
@@ -114,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc - Episode 24 - Overtime in the Rain</h3></th>
+<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 - Episode 11 - The Hero's Challenge</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6c51472bc4a84f7e381e7ed5a7e51e8e1710637267_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/af67f421c9acd94162632a295cc991901710684293_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +574,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-24-overtime-in-the-rain-924031">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-11-the-heros-challenge-918322">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Thanks to Misaki, the score is tied, initiating the first overtime of the tournament. But<br>Coach Mikami is out of substitutions, and everyone is more than fatigued. Now Japan’s worst<br>fears have become a reality. Things are not looking good…</p>
+<p align="center">At Tisse's request, Albert heads off to search for a girl who has disappeared in<br>the forest. Although she is found to be safe, Van, who has also come to<br>rescue her, takes issue with the creature that led her astray which culminates in a<br>skirmish.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (English Dub) - Episode 19</h3></th>
+<th><h3 align="center">7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! - Episode 11 - The Determination of a Snow Flower</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/21210cd7f17e271ccbc844f55f6877be1710662235_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cf4d1a3f0c3610bf942a64fb847ec66a1710684168_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +608,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/captain-tsubasa-junior-youth-arc/episode-19-921570">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy/episode-11-the-determination-of-a-snow-flower-918337">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Rishe and Prince Kyle work to prevent Coyolle's future downfall. After making preparations, they gain<br>the opportunity to negotiate with Arnold again, but things don't quite go to plan. Then,<br>a message from Theodore arrives, interrupting their discussion.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Couple of Cuckoos (Telugu Dub) - Episode 21 - It's a secret between you and me.</h3></th>
+<th><h3 align="center">Fluffy Paradise - Episode 12 - After the Battle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d4b58e6b036e7863a3b516f85ae63e0b1663433023_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/899e71dfe6435d160fc6c6c55c15832e1710672170_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +642,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-couple-of-cuckoos/episode-21-its-a-secret-between-you-and-me-924448">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fluffy-paradise/episode-12-after-the-battle-918201">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having topped his grade in the term exams, Nagi confesses to Hiro once again.</p>
+<p align="center">Now that the dust is settling on the fight to save the kobolds, Neema must<br>stop and take stock of everything that's happened... and how much further she must go.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Couple of Cuckoos (Tamil Dub) - Episode 21 - It's a secret between you and me.</h3></th>
+<th><h3 align="center">Heaven Official's Blessing 2 (Japanese Dub) - Episode 11 - A Sad Parting Under Moonlight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d4b58e6b036e7863a3b516f85ae63e0b1663433023_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bd275a8fd99e106b01ebc54a3f7564331710672121_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,455 +676,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-couple-of-cuckoos/episode-21-its-a-secret-between-you-and-me-924449">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/heaven-officials-blessing/episode-11-a-sad-parting-under-moonlight-918397">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having topped his grade in the term exams, Nagi confesses to Hiro once again.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">One Piece: Egghead Island (1089-Current) - Episode 1097 - The Will of Ohara! The Inherited Research</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1750dc14e095f7e86ea231e1f3ec0f9a1710639072_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/one-piece/episode-1097-the-will-of-ohara-the-inherited-research-919750">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Shaka reveals the secret behind the foundation of the Revolutionary Army and how the relationship<br>between Vegapunk and Dragon affected it. Meanwhile, Vegapunk explains to Luffy and the others about<br>his special power and how his clones work.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Wonderful Precure! - Episode 7 - Their Friend Liberale!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1f1dc36ebb62b24d96a5f3fb1644c85f1710636455_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/wonderful-precure/episode-7-their-friend-liberale-923279">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Komugi runs away from Iroha’s home. She meets Satoru in town, who takes her to<br>his house. Meanwhile, Iroha hears about Mayu’s relationship with Yuki and receives a new harness.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Daily Life of the Immortal King (Season 4) (English Dub) - Episode 7 - Art of Explosion?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bb49570a56ef49d93c62f1f395d8c6fd1705788104_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/16/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-7-art-of-explosion-924443">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Daily Life of the Immortal King (Season 4) (Hindi Dub) - Episode 3 - Resonance Between Masters</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4c137dd02d2a66cb014dca8c185a219a1703371310_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/16/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-3-resonance-between-masters-924440">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Hindi Dub) - Episode 8 - Lilia and Lily</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/03b3fa91dc7339939fd108ea3b30856b1708801122_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/16/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-strongest-tanks-labyrinth-raids-a-tank-with-a-rare-9999-resistance-skill-got-kicked-from-the-heros-party-/episode-8-lilia-and-lily-924439">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After a successful first raid on Keild Labyrinth, Rud's party returns the following day for<br>a second attempt at clearing it, but they soon find themselves fighting extremely powerful monsters<br>in dangerous uncharted territory.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tales of Wedding Rings (English Dub) - Episode 9 - Episode 9</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b12a1a5e7577ec657849e69d6b05bea1709360156_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/16/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-9-episode-9-924437">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Peace has returned to Maasa and the gang are able to take a short break.<br>Satou and Hime go on a date alone, but Nefritis, Granart, and Saphir secretly follow<br>them. Satou and Hime are enjoying their date, but then they recall Alabaster's prior words.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tales of Wedding Rings (Portuguese Dub) - Episode 8 - Episode 8</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/26775052f59e2e231a04e0b740c932a41708767724_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/16/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-8-episode-8-924430">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The oracle who's secretly running Maasa the Land of Water offers some advice to Marse<br>who failed in his mission. Satou and Sluder prepare to repel the approaching Abyss King's<br>horde. As Satou struggles, a certain person suddenly stands before him.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tales of Wedding Rings (German Dub) - Episode 8 - Episode 8</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/26775052f59e2e231a04e0b740c932a41708767724_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/16/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-8-episode-8-924431">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The oracle who's secretly running Maasa the Land of Water offers some advice to Marse<br>who failed in his mission. Satou and Sluder prepare to repel the approaching Abyss King's<br>horde. As Satou struggles, a certain person suddenly stands before him.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tales of Wedding Rings (Spanish Dub) - Episode 8 - Episode 8</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/26775052f59e2e231a04e0b740c932a41708767724_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/16/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-8-episode-8-924432">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The oracle who's secretly running Maasa the Land of Water offers some advice to Marse<br>who failed in his mission. Satou and Sluder prepare to repel the approaching Abyss King's<br>horde. As Satou struggles, a certain person suddenly stands before him.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (German Dub) - Episode 7 - Hesitation</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/76717b644f28cf430fc23b9a754b35cc1708183668_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/16/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/blue-exorcist/episode-7-hesitation-924424">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Behind the façade of the Inari Tourism and Urbanization Project, the Illuminati gradually undermined the<br>area. After learning about Izumo's past from Mike, Rin and the others head to Peace<br>Town Inari, which they believe holds the entrance to the Illuminati's underground laboratory. Meanwhile, at<br>the laboratory, Izumo is taken to a room where Michael Gedoin is waiting to undergo<br>a complete medical examination. Izumo screams to create an uproar, giving her a chance to<br>try and escape by summoning Uke and Mike. She runs away to get out of<br>the underground laboratory – only for Renzo Shima to stand in her way.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (French Dub) - Episode 7 - Hesitation</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/76717b644f28cf430fc23b9a754b35cc1708183668_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/16/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/blue-exorcist/episode-7-hesitation-924426">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Behind the façade of the Inari Tourism and Urbanization Project, the Illuminati gradually undermined the<br>area. After learning about Izumo's past from Mike, Rin and the others head to Peace<br>Town Inari, which they believe holds the entrance to the Illuminati's underground laboratory. Meanwhile, at<br>the laboratory, Izumo is taken to a room where Michael Gedoin is waiting to undergo<br>a complete medical examination. Izumo screams to create an uproar, giving her a chance to<br>try and escape by summoning Uke and Mike. She runs away to get out of<br>the underground laboratory – only for Renzo Shima to stand in her way.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (English Dub) - Episode 2 - Where Secrets Are</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffe05b2eb1550f7d13c3daaf55da99d91705165652_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/16/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/blue-exorcist/episode-2-where-secrets-are-924427">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Yukio Okumura, Rin's younger twin brother and Intermediate Exorcist First Class, is summoned to a<br>high-level inquiry meeting of the True Cross Order to be questioned about Saburota Todo, the<br>mastermind behind the resurrection of the Impure King. Suspicious of the imposing atmosphere, Yukio recalls<br>the words of his late adoptive father, Shiro Fujimoto. Meanwhile, the Exwires are tasked with<br>exorcising "Mayuko of the Toilet." However, Izumo Kamiki holds a certain grudge against Shiemi Moriyama.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">A Sign of Affection (English Dub) - Episode 9 - I Don't Want to Leave</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/053725004279d226ed66f5c1063386b81709368890_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/16/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-9-i-dont-want-to-leave-924418">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The gang heads up the mountains for a very eventful boot camp.</p>
+<p align="center">Xie Lian gets angry with Hua Cheng for revealing the truth about the Golden Feast<br>Massacre to Lang Qianqiu. But Hua Cheng tells him plainly that Xie Lian did nothing<br>wrong. When he realizes that Hua Cheng trusts him absolutely, and is the one person<br>to see through to the truth of the matter, he says aloud that he wonders<br>if they've met somewhere before...</p>
 </td>
 </tr>
 </table>
