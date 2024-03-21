@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 20, 2024, 7:19:19 PM</em></p>
+<p align="center"><em>Updated on: Mar 21, 2024, 7:51:13 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Fire Force Season 2 (Telugu Dub) - Episode 7 - Road to the Oasis</h3></th>
+<th><h3 align="center">LAID-BACK CAMP SEASON2 (English Dub) - Episode 9 - Winter's End and the Day of Departure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/26dd83e56c88b3282bf97429c9a5d1d11597375234_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1bfcaf0e377e7d2e3ced2ec039b9d6531614842593_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fire-force/episode-7-road-to-the-oasis-924571">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/laid-back-camp/episode-9-winters-end-and-the-day-of-departure-924646">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The task force arrives on the Chinese Peninsula, and sets off through inhospitable territory toward<br>a spatial rift that they hope will provide the answers they seek. They pick up<br>an unexpected companion along the way who agrees to be their guide.</p>
+<p align="center">Everyone is going to Izu to camp soon, and so Nadeshiko plans what to make.<br>Meanwhile, Rin adds some new parts to her bike, when her grandpa pays her a<br>visit.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fire Force Season 2 (Tamil Dub) - Episode 7 - Road to the Oasis</h3></th>
+<th><h3 align="center">Bottom-Tier Character Tomozaki 2nd STAGE (English Dub) - Episode 10 - The patterns carved into the stone tablet are connected to the mysteries of the world</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/26dd83e56c88b3282bf97429c9a5d1d11597375234_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9a12fba62d74afd6ad5f344304a44bdd1709732680_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fire-force/episode-7-road-to-the-oasis-924570">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/bottom-tier-character-tomozaki/episode-10-the-patterns-carved-into-the-stone-tablet-are-connected-to-the-mysteries-of-the-world-924644">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The task force arrives on the Chinese Peninsula, and sets off through inhospitable territory toward<br>a spatial rift that they hope will provide the answers they seek. They pick up<br>an unexpected companion along the way who agrees to be their guide.</p>
+<p align="center">Roles are assigned in the class play, and Kikuchi goes in a new direction while<br>revising her script; as research, she wants to know more about Hinami.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime (Tamil Dub) - Episode 5 - Hero King, Gazel Dwargo</h3></th>
+<th><h3 align="center">DON'T TOY WITH ME, MISS NAGATORO 2nd Attack (French Dub) - Episode 12 - Wanna Do Something to Make It Not a Dry Run?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8a8b7aba9511be011aef14f38a0c1f401540793539_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e9143ceda86a09b95d6da2f68a59a5641679156131_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/that-time-i-got-reincarnated-as-a-slime/episode-5-hero-king-gazel-dwargo-924593">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/dont-toy-with-me-miss-nagatoro/episode-12-wanna-do-something-to-make-it-not-a-dry-run-924630">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Thanks to Rimuru's skill, Kaijin was able to finish all the longswords and deliver them<br>to the king, so the two of them celebrate by heading to a bar staffed<br>by lots of elf girls. One of them reads Rimuru's fortune for fun, and sees<br>an image in her crystal ball of someone she believes Rimuru is destined to be<br>with. As everyone wonders who this person could be, Vesta shows up and starts to<br>hassle Rimuru...</p>
+<p align="center">Pursued by Gamo and Yoshi who aim to preserve Senpai's virginity and Sunomiya and the<br>President who aim to protect and fight for Senpai's love, Nagatoro and Senpai set off<br>on their date to the aquarium.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime (Telugu Dub) - Episode 5 - Hero King, Gazel Dwargo</h3></th>
+<th><h3 align="center">DON'T TOY WITH ME, MISS NAGATORO 2nd Attack (French Dub) - Episode 11 - Don't You Miss Me, Senpai?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8a8b7aba9511be011aef14f38a0c1f401540793539_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/763ebc6ebd135ab05b81734b59285e321678551842_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/that-time-i-got-reincarnated-as-a-slime/episode-5-hero-king-gazel-dwargo-924594">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/dont-toy-with-me-miss-nagatoro/episode-11-dont-you-miss-me-senpai-924627">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Thanks to Rimuru's skill, Kaijin was able to finish all the longswords and deliver them<br>to the king, so the two of them celebrate by heading to a bar staffed<br>by lots of elf girls. One of them reads Rimuru's fortune for fun, and sees<br>an image in her crystal ball of someone she believes Rimuru is destined to be<br>with. As everyone wonders who this person could be, Vesta shows up and starts to<br>hassle Rimuru...</p>
+<p align="center">Sunomiya encourages Senpai to ask Nagatoro out on a date. On a late walk home<br>Senpai tries to ascertain if Nagatoro has anywhere she'd like to go on her next<br>school break.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 45 - The Day the Magic Vanished</h3></th>
+<th><h3 align="center">DON'T TOY WITH ME, MISS NAGATORO 2nd Attack (French Dub) - Episode 10 - Hachioji-senpai Taught Me A Lot</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6767c3cecc012ac4c49cdc6e419943371710830410_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e901856c8302cc45015bb7c0093d04031677937267_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-45-the-day-the-magic-vanished-924523">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/dont-toy-with-me-miss-nagatoro/episode-10-hachioji-senpai-taught-me-a-lot-924625">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">It's the start of a new school year. Nagatoro is planning to join the judo<br>club and the art club gets a new member.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 44 - An Angel Came Down</h3></th>
+<th><h3 align="center">DON'T TOY WITH ME, MISS NAGATORO 2nd Attack (French Dub) - Episode 9 - That Is, If You Win at Least Once, Senpai</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3977a7164498132807bed5315ef4ae2f1710829988_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/359b1be2368b4936b940a0e951c99d921677343734_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-44-an-angel-came-down-924520">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/dont-toy-with-me-miss-nagatoro/episode-9-that-is-if-you-win-at-least-once-senpai-924622">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The school judo tournament is coming up. Senpai and Nagatoro are both reluctant to participate.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 43 - Someday, My Prince</h3></th>
+<th><h3 align="center">DON'T TOY WITH ME, MISS NAGATORO 2nd Attack (French Dub) - Episode 8 - Why Don't You Try Bulking Up a Little, Paisen?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0c7ed495daec6c78714687f6aebf52e61710829508_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e90e2a0caba3e3f16427c83e4ae719e41676741110_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-43-someday-my-prince-924519">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/dont-toy-with-me-miss-nagatoro/episode-8-why-dont-you-try-bulking-up-a-little-paisen-924621">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Senpai sketches Nagatoro in an athletic stance that seems very natural to her. Wait, is<br>Nagatoro into judo...?</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 42 - The Grand, Error-Filled Plan</h3></th>
+<th><h3 align="center">DON'T TOY WITH ME, MISS NAGATORO 2nd Attack (French Dub) - Episode 7 - I Figured That's How You'd Ski, Senpai</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7cb499194eb5c1f444a50a4f7bc6216c1710829629_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/11422c89240b1ca5a9452d0328fca9ff1676140271_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-42-the-grand-error-filled-plan-924518">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/dont-toy-with-me-miss-nagatoro/episode-7-i-figured-thats-how-youd-ski-senpai-924620">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Senpai, Nagatoro and their classmates go skiing. Nagatoro is a good skier, but Senpai doesn't<br>fail to disappoint.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 41 - Please, Santa Claus!</h3></th>
+<th><h3 align="center">DON'T TOY WITH ME, MISS NAGATORO 2nd Attack (French Dub) - Episode 6 - How Are Your Fortunes This Year, Senpai?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ede61f7d637cbbf60d6da9e5833299561710829445_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/93f6f509979f948235e724a7d98de9aa1675529512_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-41-please-santa-claus-924517">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/dont-toy-with-me-miss-nagatoro/episode-6-how-are-your-fortunes-this-year-senpai-924618">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Senpai has a Christmas gift for Nagatoro, but The Friends get in the way of<br>him handing it to her.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 40 - Dream Warrior</h3></th>
+<th><h3 align="center">DON'T TOY WITH ME, MISS NAGATORO 2nd Attack (French Dub) - Episode 5 - So This Is Your Room, Huh, Senpai?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c465703eee5f4e341d1982907a4f0a191707813973_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/25c9bb1ca8a226791b4da265b202911c1674922020_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-40-dream-warrior-921704">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/dont-toy-with-me-miss-nagatoro/episode-5-so-this-is-your-room-huh-senpai-924616">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Senpai gets sick, so Nagatoro comes over to check on him. His family happens not<br>to be home.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 39 - Minky Mama Attacks!</h3></th>
+<th><h3 align="center">DON'T TOY WITH ME, MISS NAGATORO 2nd Attack (French Dub) - Episode 4 - Why Don't You Come Inside, Senpai-kun?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7e0ba79ecb6e6c31e4644502975dd05f1707813666_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ce59684e86d8f1fbd5fa0484002c63531674289880_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-39-minky-mama-attacks-921702">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/dont-toy-with-me-miss-nagatoro/episode-4-why-dont-you-come-inside-senpai-kun-924614">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Senpai visits Nagatoro’s home to deliver handouts from school. Her sister lets him in and<br>decides to mess with both him and Nagatoro.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 38 - A Chance Meeting in the Snow</h3></th>
+<th><h3 align="center">DON'T TOY WITH ME, MISS NAGATORO 2nd Attack (French Dub) - Episode 3 - Senpai... Were You... Listening to What I Said...?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b064c639c272c108bed7bef6c1a2544a1707813369_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a9b4d753b0eb1479acf9f79b5efd5da11673718439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-38-a-chance-meeting-in-the-snow-921700">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/dont-toy-with-me-miss-nagatoro/episode-3-senpai-were-you-listening-to-what-i-said-924612">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Nagatoro forgets her phone in the club room. Senpai tries to bring it back to<br>her but gets himself into a situation.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 37 - The Trapeze Act of Love</h3></th>
+<th><h3 align="center">DON'T TOY WITH ME, MISS NAGATORO 2nd Attack (French Dub) - Episode 2 - You're Inviting Me, Senpai?!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1b292fa044c64f62a4e54634a22a1fab1707813006_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/794627c3f098b425e22a9f207ffc1fcb1673417388_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-37-the-trapeze-act-of-love-921698">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/dont-toy-with-me-miss-nagatoro/episode-2-youre-inviting-me-senpai-924611">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The club president gives Senpai tickets to the zoo, insisting that he takes Nagatoro with<br>him to practice life drawing together.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 36 - The Great Inheritance</h3></th>
+<th><h3 align="center">DON'T TOY WITH ME, MISS NAGATORO 2nd Attack (French Dub) - Episode 1 - It's You and Me, Senpai~</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/74465bf2ddd6bf2c44cb5c3d9ab9e3ed1707812585_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6debe0de8233557d5816d395a1e042fa1673098737_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-36-the-great-inheritance-921696">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/dont-toy-with-me-miss-nagatoro/episode-1-its-you-and-me-senpai-924610">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Nagatoro is still torturing Senpai, laughing at his choice of manga and at how he<br>talks to girls, and trying to get a reaction out of him by having him<br>put her stockings on her.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 35 - The Dreaming Diamond</h3></th>
+<th><h3 align="center">Classroom of the Elite Season 3 (English Dub) - Episode 10 - The first cause of Absurd conclusions I ascribe to the want of Method.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/969ac2debafca52b610974049f36b9441707811985_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/58472aa8dd821db8a9f0b9a6bc41edc01709738093_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-35-the-dreaming-diamond-921694">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/classroom-of-the-elite/episode-10-the-first-cause-of-absurd-conclusions-i-ascribe-to-the-want-of-method-924641">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Class C considers various strategies for the special exam, but they all lack a decisive<br>factor. Hirata remains disappointed in the class vote result. Ayanokoji calls out to Hirata, who<br>acts coldly towards Mii-chan who is worried about him.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 34 - The Princess of the Underground Kingdom</h3></th>
+<th><h3 align="center">Classroom of the Elite Season 3 (Portuguese Dub) - Episode 9 - Extreme justice is extreme injustice.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b1888a5a4d2323d927d7ba3f2fac23571707811568_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/23775e3eccb37b0585c786cba1552dea1709125805_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-34-the-princess-of-the-underground-kingdom-921692">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/classroom-of-the-elite/episode-9-extreme-justice-is-extreme-injustice-924634">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The class vote has seen the first student expelled from Class C. Sakayanagi meets up<br>with Ayanokoji and they're approached by a man named Tsukishiro sent by Ayanokoji's father. Afterward<br>Ayanokoji challenges Sakayanagi to compete on their next exam.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 33 - An Android's Love</h3></th>
+<th><h3 align="center">Classroom of the Elite Season 3 (Spanish Dub) - Episode 9 - Extreme justice is extreme injustice.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f0bfdfa8bded6f0aa0016094df469ae11707811147_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/23775e3eccb37b0585c786cba1552dea1709125805_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-33-an-androids-love-921689">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/classroom-of-the-elite/episode-9-extreme-justice-is-extreme-injustice-924635">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The class vote has seen the first student expelled from Class C. Sakayanagi meets up<br>with Ayanokoji and they're approached by a man named Tsukishiro sent by Ayanokoji's father. Afterward<br>Ayanokoji challenges Sakayanagi to compete on their next exam.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 32 - The Too-Large Visitor</h3></th>
+<th><h3 align="center">Classroom of the Elite Season 3 (German Dub) - Episode 9 - Extreme justice is extreme injustice.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1c17274fd46494d3893e44895883560c1707810849_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/23775e3eccb37b0585c786cba1552dea1709125805_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-32-the-too-large-visitor-921688">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/classroom-of-the-elite/episode-9-extreme-justice-is-extreme-injustice-924636">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The class vote has seen the first student expelled from Class C. Sakayanagi meets up<br>with Ayanokoji and they're approached by a man named Tsukishiro sent by Ayanokoji's father. Afterward<br>Ayanokoji challenges Sakayanagi to compete on their next exam.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 31 - The Legend Reborn</h3></th>
+<th><h3 align="center">Classroom of the Elite Season 3 (French Dub) - Episode 9 - Extreme justice is extreme injustice.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/209e95e90678243ca49c7bf84035ca2f1707810309_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/23775e3eccb37b0585c786cba1552dea1709125805_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-princess-minky-momo/episode-31-the-legend-reborn-921686">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/classroom-of-the-elite/episode-9-extreme-justice-is-extreme-injustice-924640">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The class vote has seen the first student expelled from Class C. Sakayanagi meets up<br>with Ayanokoji and they're approached by a man named Tsukishiro sent by Ayanokoji's father. Afterward<br>Ayanokoji challenges Sakayanagi to compete on their next exam.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairy Tail Final Season (French Dub) - Episode 328 - Dearest Friends</h3></th>
+<th><h3 align="center">The Great Cleric (French Dub) - Episode 8 - A Threat in the Boss Room</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7d9b7ac7d95af9a50e3e8a25db725f7a1569700524_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ccb4017cabb0de7344fdf894327715c01692894913_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/19/2024</td>
+<td align="center">3/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairy-tail/episode-328-dearest-friends-923789">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-great-cleric/episode-8-a-threat-in-the-boss-room-924603">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Using the power of all seven Dragon Slayers, Natsu unleashes one final, soulful attack on<br>Acnologia. One year later, Lucy reveals everything that has happened since the battle.</p>
+<p align="center">Luciel makes progress at his new job, potentially even getting in over his head. He's<br>up against a strange encounter in the boss room, and an even more mysterious one<br>afterward...</p>
 </td>
 </tr>
 </table>
