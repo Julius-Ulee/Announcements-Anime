@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 23, 2024, 7:48:21 AM</em></p>
+<p align="center"><em>Updated on: Mar 23, 2024, 7:20:47 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,142 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Firefighter Daigo: Rescuer in Orange - Episode 23 - The Heroes Assemble</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0a7b1954b02206f4fe3440966ef628131711180678_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/firefighter-daigo-rescuer-in-orange/episode-23-the-heroes-assemble-918040">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Fuwa Rescue arrives at a dangerous scene where there's a risk of a dust explosion.<br>Judging by the unnatural feel of the scene, they deduce that it may be arson.<br>Realizing that the perpetrator is still inside, Shun reenters the facility despite the danger.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">SPY x FAMILY (Eps 26+) (Tamil Dub) - Episode 30 - Plan to Cross the Border</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f7d238c5de662a5e83f3386d11e92f6b1699092700_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-30-plan-to-cross-the-border-924694">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">On a mission as Thorn Princess and using her job as city hall as a<br>cover, Yor is tasked with protecting the only survivors of the Gretcher family, Olka and<br>her son, and helping them escape to a different country by traveling on a cruise<br>ship.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">SPY x FAMILY (Eps 26+) (Telugu Dub) - Episode 30 - Plan to Cross the Border</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f7d238c5de662a5e83f3386d11e92f6b1699092700_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-30-plan-to-cross-the-border-924695">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">On a mission as Thorn Princess and using her job as city hall as a<br>cover, Yor is tasked with protecting the only survivors of the Gretcher family, Olka and<br>her son, and helping them escape to a different country by traveling on a cruise<br>ship.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">SPY x FAMILY (Eps 26+) (Hindi Dub) - Episode 30 - Plan to Cross the Border</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f7d238c5de662a5e83f3386d11e92f6b1699092700_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-30-plan-to-cross-the-border-924737">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">On a mission as Thorn Princess and using her job as city hall as a<br>cover, Yor is tasked with protecting the only survivors of the Gretcher family, Olka and<br>her son, and helping them escape to a different country by traveling on a cruise<br>ship.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">CARDFIGHT!! VANGUARD Divinez - Episode 10 - The Seventh Wish</h3></th>
 </tr>
@@ -547,142 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Resolve bridges Rose's tragic past into her future as she and the rest of the<br>Rescue Team make their way to the battlefield where they're fated to cross with the<br>demons.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (Spanish Dub) - Episode 9 - The End and the Beginning</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e7b9befd310a337f9461dde69156e2e81709311768_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-9-the-end-and-the-beginning-924700">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Resolve bridges Rose's tragic past into her future as she and the rest of the<br>Rescue Team make their way to the battlefield where they're fated to cross with the<br>demons.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (Hindi Dub) - Episode 9 - The End and the Beginning</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e7b9befd310a337f9461dde69156e2e81709311768_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-9-the-end-and-the-beginning-924701">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Resolve bridges Rose's tragic past into her future as she and the rest of the<br>Rescue Team make their way to the battlefield where they're fated to cross with the<br>demons.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Snack Basue - Episode 11 - Under The Cherry Moon / Adult Education / Solitude</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/af3816c4f7666ef8e8ce35bfdce4f9f31711124978_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/snack-basue/episode-11-under-the-cherry-moon-adult-education-solitude-919072">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Heated debates stir up the snack bar this week as Akemi goes head-to-head with her<br>patrons. Who will you side with, and are the topics worth debating? Grab a drink<br>and come decide for yourself at Snack Basue!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Demon Prince of Momochi House - Episode 12 - The Light That Crosses Seas</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/498b2a6bd66e6edad3d5052c83ff9e001711122909_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-12-the-light-that-crosses-seas-918082">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Now that Aoi and the others are safely back in the house that sits between<br>the human world and spiritual realm, Aoi has something to share with Himari about her<br>rightful place there.</p>
 </td>
 </tr>
 </table>
