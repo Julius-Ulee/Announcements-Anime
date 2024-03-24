@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 23, 2024, 7:20:47 PM</em></p>
+<p align="center"><em>Updated on: Mar 24, 2024, 7:54:52 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Firefighter Daigo: Rescuer in Orange - Episode 23 - The Heroes Assemble</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 4) (English Dub) - Episode 8 - Defending the Faction 60</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0a7b1954b02206f4fe3440966ef628131711180678_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1b1ee3fdf82e8a07a5b6b6c5c541edd71706403661_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,313 +30,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/firefighter-daigo-rescuer-in-orange/episode-23-the-heroes-assemble-918040">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Fuwa Rescue arrives at a dangerous scene where there's a risk of a dust explosion.<br>Judging by the unnatural feel of the scene, they deduce that it may be arson.<br>Realizing that the perpetrator is still inside, Shun reenters the facility despite the danger.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Tamil Dub) - Episode 30 - Plan to Cross the Border</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f7d238c5de662a5e83f3386d11e92f6b1699092700_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/23/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-30-plan-to-cross-the-border-924694">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">On a mission as Thorn Princess and using her job as city hall as a<br>cover, Yor is tasked with protecting the only survivors of the Gretcher family, Olka and<br>her son, and helping them escape to a different country by traveling on a cruise<br>ship.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Telugu Dub) - Episode 30 - Plan to Cross the Border</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f7d238c5de662a5e83f3386d11e92f6b1699092700_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/23/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-30-plan-to-cross-the-border-924695">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">On a mission as Thorn Princess and using her job as city hall as a<br>cover, Yor is tasked with protecting the only survivors of the Gretcher family, Olka and<br>her son, and helping them escape to a different country by traveling on a cruise<br>ship.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Hindi Dub) - Episode 30 - Plan to Cross the Border</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f7d238c5de662a5e83f3386d11e92f6b1699092700_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/23/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/spy-x-family/episode-30-plan-to-cross-the-border-924737">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">On a mission as Thorn Princess and using her job as city hall as a<br>cover, Yor is tasked with protecting the only survivors of the Gretcher family, Olka and<br>her son, and helping them escape to a different country by traveling on a cruise<br>ship.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez - Episode 10 - The Seventh Wish</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cae63f45caccce956627aaf63df6a6be1711142144_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/cardfight-vanguard-overdress/episode-10-the-seventh-wish-924684">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The shocking revelation of the true identity of the masked person. The reason for her<br>various actions in the Fated Clash, as well as the mystery of the supposedly nonexistent<br>"Seventh Fated One," are now unveiled. If the final clash were to take place, all<br>that awaits is destruction. What decision will Akina make with this knowledge?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 6 - Spring anime breakdown, Hunter x Hunter X Reebok, and even more Kaiju No. 8</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9ccbc83235528c5945a562dd213475e51711148538_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/crunchyroll-presents-the-anime-effect/episode-6-spring-anime-breakdown-hunter-x-hunter-x-reebok-and-even-more-kaiju-no-8-924731">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Leah, LeAlec, and the real Nick are counting down their most anticipated anime of the<br>spring season, including Kaiju No. 8, KONOSUBA S3, Black Butler, WINDBREAKER, and more. But first,<br>LeAlec the sneakerhead reviews the new Hunter x Hunter X Reebok collection, Nick shares all<br>the anime concerts that have brought him to tears in anticipation of the One Piece<br>Music Symphony, and everyone debates which Suicide Squad ISEKAI cast member they’re most anticipating.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Sasaki and Peeps (English Dub) - Episode 10 - Value and Dignity</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d32b3885b9adbe82c1171f54796ae1d71709875406_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/sasaki-and-peeps/episode-10-value-and-dignity-924728">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The hour of Marc's execution draws near, and Sasaki is ready to lay everything on<br>the table in one final gambit to save his life.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Demon Prince of Momochi House (English Dub) - Episode 10 - Shelf of Hearts</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c1aca2c280b0eec1a2560544b7214ee81709916681_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-10-shelf-of-hearts-924727">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Aoi, Yukari, and Ise disappear in the raven-black storm that has fallen over Momochi House.<br>Determined to find them, Himari scours the house and beyond for any clue of their<br>whereabouts... and she may learn more than she's prepared for.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Demon Prince of Momochi House (Spanish Dub) - Episode 9 - A Raven-Black Storm</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6d21d27d2208b36d56871a39581efb531709314214_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-9-a-raven-black-storm-924725">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Himari and her friends go to investigate the unsettling rumors about Kagome Park, but the<br>horror strikes too close to home when an uninvited guest comes knocking at Momochi House.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (English Dub) - Episode 26 - The Height of Magic</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-26-the-height-of-magic-924720">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-8-defending-the-faction-60-924831">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -352,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Portuguese Dub) - Episode 25 - A Fatal Vulnerability</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 4) (Hindi Dub) - Episode 4 - Underground Spiritual Vein</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56674020dfd38ca7445e9d1c340e81ea1709305367_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/485a9d99c98bf6ef5cf89404e18fc3181703972359_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
+<td align="center">3/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-25-a-fatal-vulnerability-924707">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-daily-life-of-the-immortal-king/episode-4-underground-spiritual-vein-924830">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A perfect imitation of Frieren stands between the test-takers and victory, but Fern believes she<br>knows how to win. Is it time for the student to surpass the master?</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -386,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Spanish Dub) - Episode 25 - A Fatal Vulnerability</h3></th>
+<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Hindi Dub) - Episode 9 - Amon Sloth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56674020dfd38ca7445e9d1c340e81ea1709305367_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cb7dc8a1db12d3d7cfab7af024dbccf81709393821_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
+<td align="center">3/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-25-a-fatal-vulnerability-924708">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-strongest-tanks-labyrinth-raids-a-tank-with-a-rare-9999-resistance-skill-got-kicked-from-the-heros-party-/episode-9-amon-sloth-924828">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A perfect imitation of Frieren stands between the test-takers and victory, but Fern believes she<br>knows how to win. Is it time for the student to surpass the master?</p>
+<p align="center">The battle with the guardian of the Keild Labyrinth commences, but have Rud and his<br>party bitten off more than they can chew?</p>
 </td>
 </tr>
 </table>
@@ -420,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (French Dub) - Episode 25 - A Fatal Vulnerability</h3></th>
+<th><h3 align="center">Tales of Wedding Rings (English Dub) - Episode 10 - Episode 10</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56674020dfd38ca7445e9d1c340e81ea1709305367_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e426c51e066b975d6338281fe9359f2e1709991443_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
+<td align="center">3/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-25-a-fatal-vulnerability-924716">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-10-episode-10-924825">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A perfect imitation of Frieren stands between the test-takers and victory, but Fern believes she<br>knows how to win. Is it time for the student to surpass the master?</p>
+<p align="center">Satou and his friends head to Idanokan, the Land of Earth. However, having previously been<br>destroyed in a battle with the Abyss King, the dwarves have abandoned the city. As<br>the group searches for the Ring Princess that which they feared most occurs.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Italian Dub) - Episode 24 - Perfect Replicas</h3></th>
+<th><h3 align="center">Tales of Wedding Rings (Portuguese Dub) - Episode 9 - Episode 9</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ddefe54ecd4b64728dd2aebaae6284601708700271_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b12a1a5e7577ec657849e69d6b05bea1709360156_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
+<td align="center">3/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-24-perfect-replicas-924711">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-9-episode-9-924819">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Due to the Spiegel, a legendary monster that can create perfect replicas of others, the<br>test-takers who would conquer the Ruins of the King's Tomb must first face the ultimate<br>enemy: themselves.</p>
+<p align="center">Peace has returned to Maasa and the gang are able to take a short break.<br>Satou and Hime go on a date alone, but Nefritis, Granart, and Saphir secretly follow<br>them. Satou and Hime are enjoying their date, but then they recall Alabaster's prior words.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Hindi Dub) - Episode 24 - Perfect Replicas</h3></th>
+<th><h3 align="center">Tales of Wedding Rings (Spanish Dub) - Episode 9 - Episode 9</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ddefe54ecd4b64728dd2aebaae6284601708700271_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b12a1a5e7577ec657849e69d6b05bea1709360156_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
+<td align="center">3/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-24-perfect-replicas-924712">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-9-episode-9-924820">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Due to the Spiegel, a legendary monster that can create perfect replicas of others, the<br>test-takers who would conquer the Ruins of the King's Tomb must first face the ultimate<br>enemy: themselves.</p>
+<p align="center">Peace has returned to Maasa and the gang are able to take a short break.<br>Satou and Hime go on a date alone, but Nefritis, Granart, and Saphir secretly follow<br>them. Satou and Hime are enjoying their date, but then they recall Alabaster's prior words.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (German Dub) - Episode 24 - Perfect Replicas</h3></th>
+<th><h3 align="center">Tales of Wedding Rings (German Dub) - Episode 9 - Episode 9</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ddefe54ecd4b64728dd2aebaae6284601708700271_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b12a1a5e7577ec657849e69d6b05bea1709360156_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
+<td align="center">3/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-24-perfect-replicas-924715">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tales-of-wedding-rings/episode-9-episode-9-924824">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Due to the Spiegel, a legendary monster that can create perfect replicas of others, the<br>test-takers who would conquer the Ruins of the King's Tomb must first face the ultimate<br>enemy: themselves.</p>
+<p align="center">Peace has returned to Maasa and the gang are able to take a short break.<br>Satou and Hime go on a date alone, but Nefritis, Granart, and Saphir secretly follow<br>them. Satou and Hime are enjoying their date, but then they recall Alabaster's prior words.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Tamil Dub) - Episode 24 - Perfect Replicas</h3></th>
+<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (German Dub) - Episode 8 - Determination</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ddefe54ecd4b64728dd2aebaae6284601708700271_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d0c722faf22a0d8365247eb1205b3eb71708795441_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
+<td align="center">3/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-24-perfect-replicas-924718">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/blue-exorcist/episode-8-determination-924814">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Due to the Spiegel, a legendary monster that can create perfect replicas of others, the<br>test-takers who would conquer the Ruins of the King's Tomb must first face the ultimate<br>enemy: themselves.</p>
+<p align="center">Michael Gedoin, lost in his admiration and adoration for Lucifer, takes further action to ensure<br>the success of his Elixir research. He devises a plan separating Rin and his team<br>– leaving each member to fend for themselves. Although Rin faces off against a giant,<br>grotesque Zombie in the underground laboratory's container, he hesitates to use his sword against it<br>when he realizes the Zombie is a human corpse possessed by a demon. Yukio, Suguro,<br>Shiemi and Konekomaru each must face off against their demons in the laboratory alone...</p>
 </td>
 </tr>
 </table>
@@ -590,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Castilian Dub) - Episode 24 - Perfect Replicas</h3></th>
+<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (French Dub) - Episode 8 - Determination</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ddefe54ecd4b64728dd2aebaae6284601708700271_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d0c722faf22a0d8365247eb1205b3eb71708795441_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
+<td align="center">3/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-24-perfect-replicas-924719">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/blue-exorcist/episode-8-determination-924815">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Due to the Spiegel, a legendary monster that can create perfect replicas of others, the<br>test-takers who would conquer the Ruins of the King's Tomb must first face the ultimate<br>enemy: themselves.</p>
+<p align="center">Michael Gedoin, lost in his admiration and adoration for Lucifer, takes further action to ensure<br>the success of his Elixir research. He devises a plan separating Rin and his team<br>– leaving each member to fend for themselves. Although Rin faces off against a giant,<br>grotesque Zombie in the underground laboratory's container, he hesitates to use his sword against it<br>when he realizes the Zombie is a human corpse possessed by a demon. Yukio, Suguro,<br>Shiemi and Konekomaru each must face off against their demons in the laboratory alone...</p>
 </td>
 </tr>
 </table>
@@ -624,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (English Dub) - Episode 10 - Unhinged?! The Black Knight Appears!</h3></th>
+<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (English Dub) - Episode 3 - True Cross Academy Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1981d4367958c729fb6aba4af1ffb80e1709911179_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f5721512f172b55dfdb607f6b8aaa8541705769176_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
+<td align="center">3/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-10-unhinged-the-black-knight-appears-924703">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/blue-exorcist/episode-3-true-cross-academy-festival-924818">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Usato, Kazuki, and Suzune finally set foot on their first battlefield. The conflict is harrowing<br>enough as it is for all of them, but reports of a terrifying foe among<br>the demon army have Usato in particular shaking in his boots...</p>
+<p align="center">True Cross Academy is busy with preparations for the school festival. Renzo Shima and Rin<br>try to find partners to attend the music festival and dance party with, but they<br>are continually rejected. Unwilling to give up, Rin attempts to invite Izumo. But she flat<br>out declines because the annual Exorcist Certification Exam is approaching. However, Shiemi, who has passed<br>the school's transfer exam and has become their classmate, appears before a completely depressed Shima<br>and Rin.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (Portuguese Dub) - Episode 9 - The End and the Beginning</h3></th>
+<th><h3 align="center">A Sign of Affection (English Dub) - Episode 10 - Oushi's World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e7b9befd310a337f9461dde69156e2e81709311768_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dc27c51a573be93dfb15b5f64adce9e21709995916_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +366,323 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/22/2024</td>
+<td align="center">3/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-9-the-end-and-the-beginning-924699">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-10-oushis-world-924809">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Resolve bridges Rose's tragic past into her future as she and the rest of the<br>Rescue Team make their way to the battlefield where they're fated to cross with the<br>demons.</p>
+<p align="center">Itsuomi knows that a confrontation with Oushi is inevitable and decides to take matters into<br>his own hands.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Sign of Affection (Portuguese Dub) - Episode 9 - I Don't Want to Leave</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/053725004279d226ed66f5c1063386b81709368890_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-9-i-dont-want-to-leave-924804">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The gang heads up the mountains for a very eventful boot camp.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Sign of Affection (Spanish Dub) - Episode 9 - I Don't Want to Leave</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/053725004279d226ed66f5c1063386b81709368890_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-9-i-dont-want-to-leave-924805">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The gang heads up the mountains for a very eventful boot camp.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Sign of Affection (German Dub) - Episode 9 - I Don't Want to Leave</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/053725004279d226ed66f5c1063386b81709368890_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-9-i-dont-want-to-leave-924806">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The gang heads up the mountains for a very eventful boot camp.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Sign of Affection (French Dub) - Episode 9 - I Don't Want to Leave</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/053725004279d226ed66f5c1063386b81709368890_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/a-sign-of-affection/episode-9-i-dont-want-to-leave-924807">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The gang heads up the mountains for a very eventful boot camp.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">BUCCHIGIRI?! (English Dub) - Episode 8 - Sad News! Seriously Falling in Love with Gomoku Soba!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b55c6bad59a7c08a10cd22781f8aeffa1709999093_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-8-sad-news-seriously-falling-in-love-with-gomoku-soba-924797">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">BUCCHIGIRI?! (Portuguese Dub) - Episode 7 - Group Date?! The Sea, Maji Croquette, and I!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fc7a31c08553f8aa976c5c7a84c140b21709373059_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-7-group-date-the-sea-maji-croquette-and-i-924792">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As Arajin keeps trying to capture Mahoro's heart, the injured Marito invites him to a<br>"group date" at the beach. Arajin agrees and buffs up for the party. When the<br>day comes, Arajin realizes that he was set to 'date' very different partners... in battle.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">BUCCHIGIRI?! (German Dub) - Episode 7 - Group Date?! The Sea, Maji Croquette, and I!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fc7a31c08553f8aa976c5c7a84c140b21709373059_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-7-group-date-the-sea-maji-croquette-and-i-924793">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As Arajin keeps trying to capture Mahoro's heart, the injured Marito invites him to a<br>"group date" at the beach. Arajin agrees and buffs up for the party. When the<br>day comes, Arajin realizes that he was set to 'date' very different partners... in battle.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">BUCCHIGIRI?! (Spanish Dub) - Episode 7 - Group Date?! The Sea, Maji Croquette, and I!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fc7a31c08553f8aa976c5c7a84c140b21709373059_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-7-group-date-the-sea-maji-croquette-and-i-924796">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As Arajin keeps trying to capture Mahoro's heart, the injured Marito invites him to a<br>"group date" at the beach. Arajin agrees and buffs up for the party. When the<br>day comes, Arajin realizes that he was set to 'date' very different partners... in battle.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">BUCCHIGIRI?! (Hindi Dub) - Episode 7 - Group Date?! The Sea, Maji Croquette, and I!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fc7a31c08553f8aa976c5c7a84c140b21709373059_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/23/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/bucchigiri/episode-7-group-date-the-sea-maji-croquette-and-i-924798">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As Arajin keeps trying to capture Mahoro's heart, the injured Marito invites him to a<br>"group date" at the beach. Arajin agrees and buffs up for the party. When the<br>day comes, Arajin realizes that he was set to 'date' very different partners... in battle.</p>
 </td>
 </tr>
 </table>
