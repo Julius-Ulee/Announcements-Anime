@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 25, 2024, 7:19:24 PM</em></p>
+<p align="center"><em>Updated on: Mar 26, 2024, 7:49:49 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,448 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (English Dub) - Episode 10 - Time Flies Super Fast</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/67e837ecc32fcd7704a539d9d010e8001710173940_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-10-time-flies-super-fast-924920">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The new term begins. Minami catches Tsubasa on the way to class and starts teasing<br>him ruthlessly. The two are thrilled to learn they are in the same class again,<br>but Minami still seems gloomy. After school, Minami says she has something to tell Tsubasa.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Spanish Dub) - Episode 9 - Lake Abashiri Is Super Relaxing</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b9d9faf645ad29c2a82bda134d7a80aa1709571800_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-9-lake-abashiri-is-super-relaxing-924915">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Matsuo, a class friend who made amends with Minami, takes Tsubasa smelt fishing as a<br>thank you for his consultation. Minami, who happened to be at the fishing spot, joins<br>them, and they discuss makeup. Later, Minami visits Tsubasa who's caught a cold.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Portuguese Dub) - Episode 9 - Lake Abashiri Is Super Relaxing</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b9d9faf645ad29c2a82bda134d7a80aa1709571800_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-9-lake-abashiri-is-super-relaxing-924916">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Matsuo, a class friend who made amends with Minami, takes Tsubasa smelt fishing as a<br>thank you for his consultation. Minami, who happened to be at the fishing spot, joins<br>them, and they discuss makeup. Later, Minami visits Tsubasa who's caught a cold.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Hindi Dub) - Episode 9 - Lake Abashiri Is Super Relaxing</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b9d9faf645ad29c2a82bda134d7a80aa1709571800_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-9-lake-abashiri-is-super-relaxing-924919">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Matsuo, a class friend who made amends with Minami, takes Tsubasa smelt fishing as a<br>thank you for his consultation. Minami, who happened to be at the fishing spot, joins<br>them, and they discuss makeup. Later, Minami visits Tsubasa who's caught a cold.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Foolish Angel Dances with the Devil (English Dub) - Episode 10 - The False Foolish Angel and Demon</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/faa2c2f4f1d81fb88605b6d3fd49959a1710175871_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-foolish-angel-dances-with-the-devil/episode-10-the-false-foolish-angel-and-demon-924911">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Lily's brother, Zwei, comes to visit. When he first runs into Lily and Akutsu, he's<br>pleasant and cordial. However, his tone quickly shifts when he thinks he's alone with Lily.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (English Dub) - Episode 10 - Watch As I Improve the World</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e699c3566d6e2aa04b58654e1d3613061710156457_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-10-watch-as-i-improve-the-world-924909">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Shin and company begin full-scale action to destroy the underground organization with demon general Rona's<br>help. The group discovers that the mastermind is Bright, an instructor at Rotsgard Academy. Bright's<br>willingness to make sacrifices angers Makoto.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Portuguese Dub) - Episode 9 - The Perverted Dragon</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d9f7d7c4aeb9f0ca73803b602f0aba91709558280_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-9-the-perverted-dragon-924907">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Lime sets out to investigate hyuman experiments that are secretly being carried out in Rotsgard.<br>He ends up being captured by an underground organization along with Eva. After that, the<br>two manage to escape and meet up with Shin and the others.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Spanish Dub) - Episode 9 - The Perverted Dragon</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d9f7d7c4aeb9f0ca73803b602f0aba91709558280_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-9-the-perverted-dragon-924912">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Lime sets out to investigate hyuman experiments that are secretly being carried out in Rotsgard.<br>He ends up being captured by an underground organization along with Eva. After that, the<br>two manage to escape and meet up with Shin and the others.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Foolish Angel Dances with the Devil - Episode 12 - The Foolish Angel and Demon to the End</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00ea5fd9d85f1d3ff415536d676019b01711385389_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-foolish-angel-dances-with-the-devil/episode-12-the-foolish-angel-and-demon-to-the-end-918509">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! - Episode 12 - Life Without You Feels Super Off</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d9585798fa85bfab77e77888782e1b7f1711384126_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-12-life-without-you-feels-super-off-918496">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Tsubasa and Minami miss the last bus home from the park and end up getting<br>a hotel room, making the overnight date that Minami had joked about a reality. However,<br>Minami sneaks out early, leaving Tsubasa confused and afraid to face her before she leaves.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">'Tis Time for "Torture," Princess - Episode 12 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f0de239fb14c566fc2379703b40237b61711381069_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tis-time-for-torture-princess/episode-12-untitled-918483">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Vanilla invites Princess out on a playdate. The princess catches a cold. Torture worries about<br>a corporate shake-up. And the Hell-Lord wakes up to find himself in a strange new<br>world...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 - Episode 12 - Attack of the Giant Monsters</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/220a5c86d663bf6d9b90b2167dc38e741711378080_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-12-attack-of-the-giant-monsters-918469">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">HIGH CARD - Episode 24 - LAST SHOT</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/80c9ec0495edfce6091447ab97cff70c1711357758_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/high-card/episode-24-last-shot-918544">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Tamil Dub) - Episode 10 - Love Hashira Mitsuri Kanroji</h3></th>
 </tr>
@@ -241,448 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">As Rishe picks herbs for Kyle from her garden, Michel, a scholar she apprenticed under<br>in her third life, appears before her. Later, at the party, Rishe spots Arnold and<br>Kyle quietly slip away. She follows them and overhears Kyle make a bold request.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Theatre of Darkness: Yamishibai 12 - Episode 11 - Story Time</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/467b5831abb1267b894010bc433a78541711300723_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/theatre-of-darkness-yamishibai/episode-11-story-time-919367">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">This is the the story of a couple who is attending a reading for a<br>certain picture book...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (English Dub) - Episode 22 - The Walking Air Purifier</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/880eb051934c25a1bc7a871d98c4445d1710058232_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-22-the-walking-air-purifier-924859">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Bilac accepts Sanraku's proposal and they head to the Canyon of Ancient Souls to obtain<br>the magic operations unit necessary for becoming an Ancient Craftsman. Lycagon's Mark causes weak monsters<br>to flee, then they encounter the rare Dullahan General.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Spanish Dub) - Episode 21 - Errands, Cultivation, and Game Progress</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/54775bb5f30ff151e3e8f8b3f6915c371709452693_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-21-errands-cultivation-and-game-progress-924852">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">"Unique monsters make money" Pencilgon suggests forming a clan with Sunraku and Oikatzo. After temporarily<br>splitting, Sunraku returns to the Palace of Rabituza with the Non-Standard Ether Reactor he received<br>from Oikatzo and comes up with a great idea."</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (German Dub) - Episode 21 - Errands, Cultivation, and Game Progress</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/54775bb5f30ff151e3e8f8b3f6915c371709452693_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-21-errands-cultivation-and-game-progress-924853">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">"Unique monsters make money" Pencilgon suggests forming a clan with Sunraku and Oikatzo. After temporarily<br>splitting, Sunraku returns to the Palace of Rabituza with the Non-Standard Ether Reactor he received<br>from Oikatzo and comes up with a great idea."</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Italian Dub) - Episode 21 - Errands, Cultivation, and Game Progress</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/54775bb5f30ff151e3e8f8b3f6915c371709452693_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-21-errands-cultivation-and-game-progress-924855">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">"Unique monsters make money" Pencilgon suggests forming a clan with Sunraku and Oikatzo. After temporarily<br>splitting, Sunraku returns to the Palace of Rabituza with the Non-Standard Ether Reactor he received<br>from Oikatzo and comes up with a great idea."</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Hindi Dub) - Episode 21 - Errands, Cultivation, and Game Progress</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/54775bb5f30ff151e3e8f8b3f6915c371709452693_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-21-errands-cultivation-and-game-progress-924860">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">"Unique monsters make money" Pencilgon suggests forming a clan with Sunraku and Oikatzo. After temporarily<br>splitting, Sunraku returns to the Palace of Rabituza with the Non-Standard Ether Reactor he received<br>from Oikatzo and comes up with a great idea."</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Tamil Dub) - Episode 21 - Errands, Cultivation, and Game Progress</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/54775bb5f30ff151e3e8f8b3f6915c371709452693_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-21-errands-cultivation-and-game-progress-924862">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">"Unique monsters make money" Pencilgon suggests forming a clan with Sunraku and Oikatzo. After temporarily<br>splitting, Sunraku returns to the Palace of Rabituza with the Non-Standard Ether Reactor he received<br>from Oikatzo and comes up with a great idea."</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (French Dub) - Episode 20 - Current Situations and Next Steps</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/94a03db22a5fb3b1ec0342f0a5c7c0491708846470_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-20-current-situations-and-next-steps-924857">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Utopia, SLF's development company, is in a tizzy over the defeat of Wethermon the Tombguard.<br>Sunraku is excited to kick off his bonus unique scenario Vorpal Epic. He then decides<br>to check out the loot he received from defeating Wethermon.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Portugese Dub) - Episode 13 - Only Resentments About the End of Life Remain</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/684cf599bd6bb60a2309b66b7c29741a1703390619_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-13-only-resentments-about-the-end-of-life-remain-924887">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Pencilgon, Sunraku, and Oikatzo make their way to find the NPC Setsuna of Bygone Days,<br>Wethermon's former lover. She presents to them the Unique Scenario "From the Living World, With<br>Love" which they accept.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Portugese Dub) - Episode 12 - Regrets Always Lie in the Past</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f62a15938b4a17a1fc3b1d26088bbf381702797922_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-12-regrets-always-lie-in-the-past-924886">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Pencilgon sends Sunraku and Oikatzo to the Iron Ruins of the Divinity to grind their<br>levels to at least level 50. While there they encounter the Lifestide Lake Serpent monster.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Portugese Dub) - Episode 11 - The Glimmer of Truth</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5bb26f9371fc6a701147fba5da4f96011702192647_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-11-the-glimmer-of-truth-924885">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sunraku speaks with Vysache about their plans to defeat Wethermon the Tombguard. After their discussion<br>Vysache decides to help Sunraku in his endeavor by ascending his weapons.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Portugese Dub) - Episode 10 - Let's Go Tomb Raiding!!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2fc95e70e1f94763c0d10cfd1d438e801701593309_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-10-lets-go-tomb-raiding-924881">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sunraku continues his way through the Prismatic Forest Grotto where he encounters the area boss<br>Clown Spider. He tells Emul to stay back as he wants to solo it first<br>try with a no-hit run.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Portugese Dub) - Episode 9 - A Dazzling Sea of Trees</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c44e40fe13c4029c0f677d59d4aad5741700986182_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-9-a-dazzling-sea-of-trees-924875">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sunraku has to make it out of town so he can move on to the<br>Prismatic Forest Grotto, but Ashura Kai and Psyger-0 stand in his way. Once he reaches<br>the grotto itself, a dazzling array of sights await him!</p>
 </td>
 </tr>
 </table>
