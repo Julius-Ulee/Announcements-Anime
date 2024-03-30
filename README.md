@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 29, 2024, 7:20:09 PM</em></p>
+<p align="center"><em>Updated on: Mar 30, 2024, 7:48:02 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom (Tamil Dub) - Episode 7 - School Trip Time/1st Period</h3></th>
+<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez - Episode 11 - Siblings</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cde7fd2aaabdc03e4645c194d7423da31472885747_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8b50ac3f479c1273d693f917f21cf0661711751901_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/assassination-classroom/episode-7-school-trip-time1st-period-925440">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/cardfight-vanguard-overdress/episode-11-siblings-924685">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The students go on a school trip to Kyoto, where they must still keep assassination<br>foremost in their minds. Kanzaki faces trouble from her past.</p>
+<p align="center">Will it be Akina or Hikari who changes fate? Their resolves clash right before the<br>final showdown. With Gabwelius watching as the one who created what started everything, Hikari's "Fated<br>One of Time, Liael=Amorta" finally appears. Which of them will win and change the future!</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom (Telugu Dub) - Episode 7 - School Trip Time/1st Period</h3></th>
+<th><h3 align="center">Sasaki and Peeps (English Dub) - Episode 11 - Imagination and Counters</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cde7fd2aaabdc03e4645c194d7423da31472885747_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/346a3d64bb622f573bfa4d172eaed17a1710495068_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/assassination-classroom/episode-7-school-trip-time1st-period-925441">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/sasaki-and-peeps/episode-11-imagination-and-counters-925510">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The students go on a school trip to Kyoto, where they must still keep assassination<br>foremost in their minds. Kanzaki faces trouble from her past.</p>
+<p align="center">After an urgent call from Futari Shizuka, Sasaki and Peeps rush to save her from<br>her old organization in a battle that goes, er, straight to the top?</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ranking of Kings: The Treasure Chest of Courage (Tamil Dub) - Episode 7 - The Snake Charmer with the Crooked Smile | The Big Four's Banquet</h3></th>
+<th><h3 align="center">The Demon Prince of Momochi House (English Dub) - Episode 11 - The Blue Hollyhock Dawns</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/607117dc9d0d028e38741ed871f73b451685030893_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e4c86f840ae0d2e951b7d4a2a23b69ff1710520145_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/ranking-of-kings/episode-7-the-snake-charmer-with-the-crooked-smile-the-big-fours-banquet-925460">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-11-the-blue-hollyhock-dawns-925507">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before joining the Big Four, Bebin struggled to excel, and went to Despa for lessons<br>on how to be a better swordsman. When infighting threatens the harmony of the Big<br>Four, King Daida tasks Hokuro with finding a way to bring the group back together.</p>
+<p align="center">Himari dives into Aoi's past to learn more about him and hopefully discover a way<br>to save him. Can her connection to Aoi break him of the crow's curse?</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fairies Album (Season 4) - Episode 7 - Twins of Shu Hu</h3></th>
+<th><h3 align="center">The Demon Prince of Momochi House (Spanish Dub) - Episode 10 - Shelf of Hearts</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d323bfe9add943e4ce32584a6b331e8d1711659733_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c1aca2c280b0eec1a2560544b7214ee81709916681_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fairies-album/episode-7-twins-of-shu-hu-922377">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-demon-prince-of-momochi-house/episode-10-shelf-of-hearts-925506">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Upheaval hurts the innocent, and the twins sincerely support each other.</p>
+<p align="center">Aoi, Yukari, and Ise disappear in the raven-black storm that has fallen over Momochi House.<br>Determined to find them, Himari scours the house and beyond for any clue of their<br>whereabouts... and she may learn more than she's prepared for.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Witch and the Beast (English Dub) - Episode 9 - The Witch and the Demon Sword: Final Act</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (English Dub) - Episode 27 - An Era of Humans</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d215239c914a8838e718e0f29d42c6d61710435252_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/87a75d6cd7468397e75311ed1dee58d31710511818_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-witch-and-the-beast/episode-9-the-witch-and-the-demon-sword-final-act-925457">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-27-an-era-of-humans-925504">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ashgan has lost control, and Ashaf finally unleashes Guideau to stop it. But even with<br>the curse undone, can the beast stand up to the Demon Sword's apocalyptic power?</p>
+<p align="center">With the second test behind them, only one remains - but first, Frieren and Fern<br>need to settle an important matter in town. What awaits them in the third test?</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Telugu Dub) - Episode 37 - Red Scale</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Portuguese Dub) - Episode 26 - The Height of Magic</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5acb841078ad6cdf51d4a214cedbdb801697731675_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/jujutsu-kaisen/episode-37-red-scale-925455">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-26-the-height-of-magic-925488">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuji makes his way to Shibuya Station where he's confronted by Choso. Choso unleashes his<br>Convergence and the battle between him and Yuji commences.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Witch and the Beast - Episode 11 - Eloquence and Silence: Opening Act</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Spanish Dub) - Episode 26 - The Height of Magic</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/11707ba1692d56abd90a6d8e3b0d07a31711646386_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-witch-and-the-beast/episode-11-eloquence-and-silence-opening-act-919006">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-26-the-height-of-magic-925491">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ashaf reminisces about his first meeting with Guideau. Three years ago, a sleepy farming town<br>blamed a young witch for a string of gruesome incidents. But what kind of "witch"<br>can't use magic?</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Brave Bang Bravern! - Episode 12 - Beyond Brave Bang!</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (French Dub) - Episode 26 - The Height of Magic</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ef485b815f0a38e6629f280c0d0f6b6b1711638689_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/brave-bang-bravern/episode-12-beyond-brave-bang-919614">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-26-the-height-of-magic-925499">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The final battle has not started well for humanity's last hope. Is this the end<br>for planet Earth?</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Urusei Yatsura - Episode 175 - The Spice Girls Strike Back! Operations Animals!</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (German Dub) - Episode 25 - A Fatal Vulnerability</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a6e1b14222b513e3c85103e1b940db8f1711477208_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56674020dfd38ca7445e9d1c340e81ea1709305367_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/urusei-yatsura/episode-175-the-spice-girls-strike-back-operations-animals-925331">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-25-a-fatal-vulnerability-925489">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The girl gang resorts to a series of zoological schemes in order to get back<br>at Lum and the girls. However, one cheeky ostrich has some plans of his own!</p>
+<p align="center">A perfect imitation of Frieren stands between the test-takers and victory, but Fern believes she<br>knows how to win. Is it time for the student to surpass the master?</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Urusei Yatsura - Episode 174 - I Want a Bride! The Big Adventure of a Fox in Love!</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Castilian Dub) - Episode 25 - A Fatal Vulnerability</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0e628fd7c06379b0d5dd89d7cfd869da1711477050_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56674020dfd38ca7445e9d1c340e81ea1709305367_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/urusei-yatsura/episode-174-i-want-a-bride-the-big-adventure-of-a-fox-in-love-925330">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-25-a-fatal-vulnerability-925493">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The brisk autumn breeze has Shinobu doting on love, leading the little fox to come<br>flying into town alongside the falling leaves.</p>
+<p align="center">A perfect imitation of Frieren stands between the test-takers and victory, but Fern believes she<br>knows how to win. Is it time for the student to surpass the master?</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Urusei Yatsura - Episode 193.5 - The Urusei Yatsura Pre-Finale Program! Announcing the Urusei Grand Prix Award!</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Italian Dub) - Episode 25 - A Fatal Vulnerability</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3fc188167556ce9535a3c61e613ca4b31711469772_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56674020dfd38ca7445e9d1c340e81ea1709305367_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/urusei-yatsura/episode-1935-the-urusei-yatsura-pre-finale-program-announcing-the-urusei-grand-prix-award-925315">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-25-a-fatal-vulnerability-925494">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Cherry and Kotatsu-neko host a countdown of Japan's favorite Urusei Yatsura episodes, followed by a<br>special presentation of the nation's favorite episode: After You've Gone.</p>
+<p align="center">A perfect imitation of Frieren stands between the test-takers and victory, but Fern believes she<br>knows how to win. Is it time for the student to surpass the master?</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Urusei Yatsura - Episode 194 - All-Star Party! We are Immortal!</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Hindi Dub) - Episode 25 - A Fatal Vulnerability</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/05419625b9e848b0cb7bc445ef937d501711469523_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56674020dfd38ca7445e9d1c340e81ea1709305367_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/urusei-yatsura/episode-194-all-star-party-we-are-immortal-925311">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-25-a-fatal-vulnerability-925495">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lum, Ataru, and ALL of their friends gather for one last blowout before they say<br>goodbye... for now at least.</p>
+<p align="center">A perfect imitation of Frieren stands between the test-takers and victory, but Fern believes she<br>knows how to win. Is it time for the student to surpass the master?</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Urusei Yatsura - Episode 193 - I Can't Take It Anymore! Ran's Malicious Operation!</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Tamil Dub) - Episode 25 - A Fatal Vulnerability</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8fa76187565f40aa9fbc1273764d1d7f1711469433_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56674020dfd38ca7445e9d1c340e81ea1709305367_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/urusei-yatsura/episode-193-i-cant-take-it-anymore-rans-malicious-operation-925309">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/frieren-beyond-journeys-end/episode-25-a-fatal-vulnerability-925501">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Another wave of awful childhood memories prompts Ran to dispatch a pint-sized, cigarette smoking robot<br>to take control of Ataru!</p>
+<p align="center">A perfect imitation of Frieren stands between the test-takers and victory, but Fern believes she<br>knows how to win. Is it time for the student to surpass the master?</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Urusei Yatsura - Episode 192 - Darling, Rescue Me! Lum's Dangerous Engagement!</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (English Dub) - Episode 11 - Wham! Ultimate Healing Punch!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7d24631ddda3e1cc7b6202e3ee7554fc1711469409_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2166d054a2a92560afc899d04ab7faff1710510255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/urusei-yatsura/episode-192-darling-rescue-me-lums-dangerous-engagement-925307">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-11-wham-ultimate-healing-punch-925486">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lum encounters a jungle boy who falls madly in love with her after it's discovered<br>that he's impervious to her electric shocks! Ataru and the gang soon learn why a<br>little shock means nothing to this kid.</p>
+<p align="center">Usato's first battle quickly turns into a waking nightmare when he realizes his friends are<br>tangling with their fated foe, the Black Knight. Can he make it in time to<br>save them?</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Urusei Yatsura - Episode 191 - Pure-hearted Fox! He'll Risk His Life for Love!</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Portuguese Dub) - Episode 10 - Unhinged?! The Black Knight Appears!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8b285a211faa69c8625d0e1d66032b2c1711469356_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1981d4367958c729fb6aba4af1ffb80e1709911179_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/urusei-yatsura/episode-191-pure-hearted-fox-hell-risk-his-life-for-love-925304">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-10-unhinged-the-black-knight-appears-925480">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While helping out a kind granny in a nearby village, the little fox is captivated<br>by the tale of a fox who saves his beloved by grabbing an Oni by<br>the horns! Believing the story to be true, the little guy returns to Tomobiki Town<br>to save Shinobu!</p>
+<p align="center">Usato, Kazuki, and Suzune finally set foot on their first battlefield. The conflict is harrowing<br>enough as it is for all of them, but reports of a terrifying foe among<br>the demon army have Usato in particular shaking in his boots...</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Urusei Yatsura - Episode 190 - Ran's Humongous Doll of Destruction!</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Spanish Dub) - Episode 10 - Unhinged?! The Black Knight Appears!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/37187712a88d88dbcdb65818554deef71711469289_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1981d4367958c729fb6aba4af1ffb80e1709911179_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/urusei-yatsura/episode-190-rans-humongous-doll-of-destruction-925303">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-10-unhinged-the-black-knight-appears-925481">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ataru and the gang are sent to meditational detention after a classroom brawl blows a<br>hole in Tomobiki High!</p>
+<p align="center">Usato, Kazuki, and Suzune finally set foot on their first battlefield. The conflict is harrowing<br>enough as it is for all of them, but reports of a terrifying foe among<br>the demon army have Usato in particular shaking in his boots...</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Urusei Yatsura - Episode 189 - Hellish Home Visits! The Passion of the Teacher!</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Hindi Dub) - Episode 10 - Unhinged?! The Black Knight Appears!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3f39b8cae64a9d6e8337e33464659a811711469234_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1981d4367958c729fb6aba4af1ffb80e1709911179_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/urusei-yatsura/episode-189-hellish-home-visits-the-passion-of-the-teacher-925302">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-10-unhinged-the-black-knight-appears-925482">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Suffering from another crisis of educational faith, Onsen Mark takes it upon himself to make<br>a couple house calls. He'll soon wish he didn't.</p>
+<p align="center">Usato, Kazuki, and Suzune finally set foot on their first battlefield. The conflict is harrowing<br>enough as it is for all of them, but reports of a terrifying foe among<br>the demon army have Usato in particular shaking in his boots...</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Urusei Yatsura - Episode 188 - Darling Told Me He Loves Me!</h3></th>
+<th><h3 align="center">Snack Basue - Episode 12 - The Great Pretender / Let Me Into Your World / Trouble Man</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/28979b93ce50b864cab464c3a7193bd41711469130_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b42d4971c5678004bc0589a21a8b5881711707992_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/urusei-yatsura/episode-188-darling-told-me-he-loves-me-925300">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/snack-basue/episode-12-the-great-pretender-let-me-into-your-world-trouble-man-919073">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lum finally gets Ataru to say those three little words after slipping him something she<br>brewed up with Sakura and Shinobu. However, the girls quickly realize that these pills have<br>some seriously silly side effects.</p>
+<p align="center">Welcome home, dear viewer, as you're greeted by a new face tonight. Meet Misawa, Akemi's<br>friend! How will she react when she meets Morita for the first time? Find out<br>in tonight's episode of lies and manhood.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Urusei Yatsura - Episode 187 - Ataru Wants to Go on a Date! Operation Examination!</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic - Episode 13 - The Journey Begins!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cccac447311fc699768fcb8d07822f2d1711469079_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3724bc4a30d0e75575dbe9910e5e06a41711702702_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/urusei-yatsura/episode-187-ataru-wants-to-go-on-a-date-operation-examination-925297">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-wrong-way-to-use-healing-magic/episode-13-the-journey-begins-918096">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ataru pulls out every hairbrained scheme in the book to ace at least one of<br>his exams and win a date with Shinobu.</p>
+<p align="center">With Usato's first battle behind him, it's time to face the path ahead. He receives<br>a special diplomatic quest from the king as well as a personal request from the<br>mysterious fox girl, both of which will take him on a winding journey to new<br>lands.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Urusei Yatsura - Episode 186 - Dreaming Ten's Big Adventure at the End of the Rainbow!</h3></th>
+<th><h3 align="center">The Weakest Tamer Began a Journey to Pick Up Trash (Telugu Dub) - Episode 12</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/69eea92fcbb677d49d2aa1c17bc972741711469067_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4b6f47560ecb66e3ad17901727a117c71711702650_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/28/2024</td>
+<td align="center">3/29/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/urusei-yatsura/episode-186-dreaming-tens-big-adventure-at-the-end-of-the-rainbow-925294">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/the-weakest-tamer-began-a-journey-to-pick-up-trash/episode-12-919192">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ten's imagination goes into overdrive after the little guy has a chance encounter with a<br>fairy who claims he can make any child's dream come true!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
