@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Apr 1, 2024, 7:20:51 PM</em></p>
+<p align="center"><em>Updated on: Apr 2, 2024, 7:52:41 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">SAINT SEIYA: Knights of the Zodiac Battle for Sanctuary Part II (Spanish Dub) - Episode 2</h3></th>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (English Dub) - Episode 11 - Youth Hits Super Hard in the Feels</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f54eae6b22b771cc50e0d161bfaf027c1711919126_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0636d828e73080d9ce4d09619c4c4c701710779201_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,7 +30,313 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/saint-seiya-knights-of-the-zodiac/episode-2-925649">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-11-youth-hits-super-hard-in-the-feels-925974">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A sleep-deprived Tsubasa meets up with Minami and they head to her secret location. Later,<br>Minami suggests they should return there years from now and Tsubasa wonders what she means<br>by that. She then reveals what it is she wanted to convey.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Portuguese Dub) - Episode 10 - Time Flies Super Fast</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/67e837ecc32fcd7704a539d9d010e8001710173940_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-10-time-flies-super-fast-925963">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The new term begins. Minami catches Tsubasa on the way to class and starts teasing<br>him ruthlessly. The two are thrilled to learn they are in the same class again,<br>but Minami still seems gloomy. After school, Minami says she has something to tell Tsubasa.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Hindi Dub) - Episode 10 - Time Flies Super Fast</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/67e837ecc32fcd7704a539d9d010e8001710173940_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-10-time-flies-super-fast-925965">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The new term begins. Minami catches Tsubasa on the way to class and starts teasing<br>him ruthlessly. The two are thrilled to learn they are in the same class again,<br>but Minami still seems gloomy. After school, Minami says she has something to tell Tsubasa.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Foolish Angel Dances with the Devil (English Dub) - Episode 11 - The Foolish Angel and Demon Spread Their Wings</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1f078771e05269590ca3224fe40e07ed1710779152_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-foolish-angel-dances-with-the-devil/episode-11-the-foolish-angel-and-demon-spread-their-wings-925973">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Overwhelmed with rage and disgust at the mistreatment of Lily, Akutsu manifests black wings and<br>attacks Zwei. However, it quickly becomes apparent that even Lily isn't safe from Akutsu in<br>his blind rage.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (English Dub) - Episode 11 - Summer of Growth and New Skills</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1cd210488565733b7bd26c27dd35d4231710765624_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-11-summer-of-growth-and-new-skills-925971">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">It's summer vacation for Rotsgard Academy. Makoto spends his time doing miscellaneous work and learning<br>magic. One day it's decided he will have a mock battle against the wingkin. Makoto<br>braces himself against his powerful enemies who are undefeated.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Portuguese Dub) - Episode 10 - Watch As I Improve the World</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e699c3566d6e2aa04b58654e1d3613061710156457_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-10-watch-as-i-improve-the-world-925966">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Shin and company begin full-scale action to destroy the underground organization with demon general Rona's<br>help. The group discovers that the mastermind is Bright, an instructor at Rotsgard Academy. Bright's<br>willingness to make sacrifices angers Makoto.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Spanish Dub) - Episode 10 - Watch As I Improve the World</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e699c3566d6e2aa04b58654e1d3613061710156457_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-10-watch-as-i-improve-the-world-925968">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Shin and company begin full-scale action to destroy the underground organization with demon general Rona's<br>help. The group discovers that the mastermind is Bright, an instructor at Rotsgard Academy. Bright's<br>willingness to make sacrifices angers Makoto.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Banished Former Hero Lives as He Pleases - Episode 1 - Cast Out</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/39ac0bf50356ebf2285f58be83fe17311711930269_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-banished-former-hero-lives-as-he-pleases/episode-1-cast-out-925791">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Alan is deemed to be a failure and cast out of his family. He is<br>delighted to leave his stifling life behind and sets off on a journey to find<br>the peace he longs for. Then, he happens to run across his ex-fiancée, Lise, being<br>attacked by monsters.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Banished Former Hero Lives as He Pleases - Episode 2 - The Master Blacksmith of the Sacred Sword</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ae02dba317e3937978792be1129078261711930309_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-banished-former-hero-lives-as-he-pleases/episode-2-the-master-blacksmith-of-the-sacred-sword-925792">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After an unexpected battle, Alan decides to travel with Lise and Béatrice for a while<br>longer. Lise wants to introduce him to a friend, a swordsmith in a village in<br>the borderlands, but when they arrive, they find Lise's friend has collapsed!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF - Episode 1 - The Harvest Festival and The Crowded Driver's Box</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8ce9f423ef22f606ad2a583b111975fa1711930189_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/spice-and-wolf-merchant-meets-the-wise-wolf/episode-1-the-harvest-festival-and-the-crowded-drivers-box-925795">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -46,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SAINT SEIYA: Knights of the Zodiac Battle for Sanctuary Part II (Portuguese Dub) - Episode 2</h3></th>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability - Episode 1 - I Reincarnated as the Seventh Prince</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5736537e918587a859d51b599d94187e1711919141_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fb75bcac33ff155dc7b4978cfdcd23f11711930143_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,7 +370,41 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/saint-seiya-knights-of-the-zodiac/episode-2-925651">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability/episode-1-i-reincarnated-as-the-seventh-prince-925812">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A mage, lacking both talent and lineage, is burned to death by the magic he<br>loves. He's reborn as Lloyd, seventh prince of the Saloum Kingdom, with his past memories<br>intact. One day, in a forbidden library, he awakens a demon that wields ancient magic...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Re:Monster (Tamil Dub) - Episode 1</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7ce2f3c950ab6d67ea8b43fa814e39661711964628_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-925928">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -80,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SAINT SEIYA: Knights of the Zodiac Battle for Sanctuary Part II - Episode 2</h3></th>
+<th><h3 align="center">Re:Monster (Telugu Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d1b37a3d20294efb7d784205136caac61711919165_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7ce2f3c950ab6d67ea8b43fa814e39661711965031_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,7 +438,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/saint-seiya-knights-of-the-zodiac/episode-2-925644">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-925941">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -114,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SAINT SEIYA: Knights of the Zodiac Battle for Sanctuary Part II (Japanese Audio) - Episode 2 - Untitled</h3></th>
+<th><h3 align="center">Re:Monster (French Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d1b37a3d20294efb7d784205136caac61711919178_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/096290c5322dbf71bf01836b46f9abbf1711964586_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,7 +472,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/saint-seiya-knights-of-the-zodiac/episode-2-untitled-925646">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-925902">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -148,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SAINT SEIYA: Knights of the Zodiac Battle for Sanctuary Part II (Spanish Dub) - Episode 1</h3></th>
+<th><h3 align="center">Re:Monster (German Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/82cf15e7a296c1323db103d1d66195021711916339_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/014db6f36c3e427548f8dd51d92decb61711964605_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,7 +506,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/saint-seiya-knights-of-the-zodiac/episode-1-925648">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-925915">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -182,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SAINT SEIYA: Knights of the Zodiac Battle for Sanctuary Part II (Portuguese Dub) - Episode 1</h3></th>
+<th><h3 align="center">Re:Monster (Spanish Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/65a0daab94dc8022ce5e8e097cc60a051711916360_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7e3ccca3c1b1f34e62b97f493dc47d4d1711964528_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,7 +540,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/saint-seiya-knights-of-the-zodiac/episode-1-925650">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-925876">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -216,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SAINT SEIYA: Knights of the Zodiac Battle for Sanctuary Part II - Episode 1</h3></th>
+<th><h3 align="center">Re:Monster (Portuguese Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e5b1be1f7ff88b581b592987bfe0c61b1711916277_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/059bf17015769ef5ec7f8849b67715711711964561_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,7 +574,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/saint-seiya-knights-of-the-zodiac/episode-1-925643">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-925889">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -250,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SAINT SEIYA: Knights of the Zodiac Battle for Sanctuary Part II (Japanese Audio) - Episode 1 - Untitled</h3></th>
+<th><h3 align="center">Re:Monster - Episode 1 - Re:Born</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e5b1be1f7ff88b581b592987bfe0c61b1711916299_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7f2166eacd422e905fb13531e5a869781711966536_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +608,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/saint-seiya-knights-of-the-zodiac/episode-1-untitled-925645">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-reborn-925850">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">After being brutally murdered, Tomokui Kanata awakens in the body of a tiny green baby.<br>He now has to begin a new life as a goblin in a brutal world,<br>but fortunately, he has retained his special ability from his previous life.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Tamil Dub) - Episode 11 - A Connected Bond: Daybreak and First Light</h3></th>
+<th><h3 align="center">Re:Monster (English Dub) - Episode 1 - Re:Born</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d8fac42abdf05f57fe00994af96b84ac1687108967_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/702465c408efe503f36018b5ba7e9a541711966961_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +642,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-11-a-connected-bond-daybreak-and-first-light-925825">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-reborn-925863">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">After being brutally murdered, Tomokui Kanata awakens in the body of a tiny green baby.<br>He now has to begin a new life as a goblin in a brutal world,<br>but fortunately, he has retained his special ability from his previous life.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc (Telugu Dub) - Episode 11 - A Connected Bond: Daybreak and First Light</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 - Episode 13 - The Very Busy Academy Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d8fac42abdf05f57fe00994af96b84ac1687108967_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8f4983b2213b136aab3b9e4e78bf404e1711929689_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,353 +676,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba/episode-11-a-connected-bond-daybreak-and-first-light-925826">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-13-the-very-busy-academy-festival-918470">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 (English Dub) - Episode 11 - The Hero's Challenge</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/af67f421c9acd94162632a295cc991901710684293_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-11-the-heros-challenge-925808">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">At Tisse's request, Albert heads off to search for a girl who has disappeared in<br>the forest. Although she is found to be safe, Van, who has also come to<br>rescue her, takes issue with the creature that led her astray which culminates in a<br>skirmish.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 (Portuguese Dub) - Episode 8 - All for Blessings and Faith</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59554268b0e9e3e565547ab4e25453f41708854703_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-8-all-for-blessings-and-faith-925790">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Tisse, who accompanied Van on his quest to defeat the hill giant, is shocked by<br>Van's twisted sense of justice. His justice is directed at the Zoltan people who welcome<br>the hero, and a large-scale commotion develops.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 (Spanish Dub) - Episode 8 - All for Blessings and Faith</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59554268b0e9e3e565547ab4e25453f41708854703_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside/episode-8-all-for-blessings-and-faith-925793">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Tisse, who accompanied Van on his quest to defeat the hill giant, is shocked by<br>Van's twisted sense of justice. His justice is directed at the Zoltan people who welcome<br>the hero, and a large-scale commotion develops.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! (Portuguese Dub) - Episode 10 - A Sweetly Fragrant Cigarette Is Lit</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e50d89b5ba7cf39fd089eb325e7640c51710072902_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy/episode-10-a-sweetly-fragrant-cigarette-is-lit-925789">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Rishe has kept a certain activity of hers secret from Arnold, but when he appears<br>right in front of her, there's no escaping his notice. Later she learns that Michel<br>believes Arnold fulfills every condition necessary to conduct a particular experiment.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Theatre of Darkness: Yamishibai 12 - Episode 12 - Totem</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/444c6de751bb84409bddb0f603a5a65e1711870148_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/theatre-of-darkness-yamishibai/episode-12-totem-919368">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">This is the story of a high school student encountering a string of bad luck...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (English Dub) - Episode 23 - Bird with Rabbits vs. Skeletal Choir</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/decc594d791590285a8ce914f25b32cc1710662311_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-23-bird-with-rabbits-vs-skeletal-choir-925655">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sunraku, Emul, and Bilac face off against the area boss the Humming Lich in the<br>Canyon of Ancient Souls. Struggling to inflict damage, Bilac rushes to rework the Dullahan General's<br>Decapitator into a holy-attribute weapon.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (German Dub) - Episode 22 - The Walking Air Purifier</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/880eb051934c25a1bc7a871d98c4445d1710058232_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-22-the-walking-air-purifier-925637">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Bilac accepts Sanraku's proposal and they head to the Canyon of Ancient Souls to obtain<br>the magic operations unit necessary for becoming an Ancient Craftsman. Lycagon's Mark causes weak monsters<br>to flee, then they encounter the rare Dullahan General.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Spanish Dub) - Episode 22 - The Walking Air Purifier</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/880eb051934c25a1bc7a871d98c4445d1710058232_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-22-the-walking-air-purifier-925638">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Bilac accepts Sanraku's proposal and they head to the Canyon of Ancient Souls to obtain<br>the magic operations unit necessary for becoming an Ancient Craftsman. Lycagon's Mark causes weak monsters<br>to flee, then they encounter the rare Dullahan General.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Italian Dub) - Episode 22 - The Walking Air Purifier</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/880eb051934c25a1bc7a871d98c4445d1710058232_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-22-the-walking-air-purifier-925639">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Bilac accepts Sanraku's proposal and they head to the Canyon of Ancient Souls to obtain<br>the magic operations unit necessary for becoming an Ancient Craftsman. Lycagon's Mark causes weak monsters<br>to flee, then they encounter the rare Dullahan General.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier (Tamil Dub) - Episode 22 - The Walking Air Purifier</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/880eb051934c25a1bc7a871d98c4445d1710058232_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">3/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/shangri-la-frontier/episode-22-the-walking-air-purifier-925647">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Bilac accepts Sanraku's proposal and they head to the Canyon of Ancient Souls to obtain<br>the magic operations unit necessary for becoming an Ancient Craftsman. Lycagon's Mark causes weak monsters<br>to flee, then they encounter the rare Dullahan General.</p>
+<p align="center">The academy festival is fast approaching. Shinai, a temple priest, arranges a meeting with Makoto<br>on short notice. Shinai informs Makoto about rumors concerning the medicine being sold at the<br>shop and offers Makoto a proposal to help dispel them.</p>
 </td>
 </tr>
 </table>
