@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Apr 2, 2024, 7:19:51 PM</em></p>
+<p align="center"><em>Updated on: Apr 3, 2024, 7:49:45 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,244 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions (German Dub) - Episode 8 - The Case of the Observatory Murder (Part 2)</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a6ab3a97605815a4c4e3c012e240ff8b1700479918_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2NJ10/the-case-of-the-observatory-murder-part-2">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Ron is named main suspect in a murder and Toto investigates to clear his name.<br>Everyone but Ron has an alibi for the time of the murder, which only seems<br>to cement his guilt, but Toto discovers a few things that cast a new light<br>on the incident.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord (Hindi Dub) - Episode 10 - The Hidden Boss Enters a Dungeon</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4c7743edce32401ba8c984459812fc731710240147_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG35WD/the-hidden-boss-enters-a-dungeon">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Yumiella finds the missing Alicia near a dungeon, so they enter it together to raise<br>Alicia's level. As they travell, Yumiella realizes that the plot of Light Magic and the<br>Hero is driving their actions and the paths they take.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Log Horizon (German Dub) - Episode 8 - Villain in Glasses</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cb4048d9cccbf7c3a040b35f1dcf88361385205973_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVEG9W/villain-in-glasses">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After the success of their Crescent Burger, Marielle and Henrietta meet with the members of<br>the major crafting guilds of Elder Tale: Karashin of Shopping Street 8, Michikata of the<br>Marine Agency ,and Roderic of the Roderic Merchant Association.  They use Shiroe's plan to<br>dangle the secret recipe of the Crescent Burger in front of them, and the talented<br>account Henrietta opens negotiations.  What she wants is...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Golden Kamuy (German Dub) - Episode 33 - Revolutionary</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/075128feb7fa2792a95f70a324cca9761606732458_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUXP10M/revolutionary">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Before Kiroranke came to Japan, he was a Russian revolutionary. One day, he and Wilk<br>went to the house of a Japanese cameraman, where they began to study the Japanese<br>language. But more was going on than meets the eye...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The God of High School (French Dub) - Episode 9 - curse/cornered</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/eea08b4928ad4ee34c64be921a5215931598871758_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UD1MNM/cursecornered">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After learning that his grandfather, Jin Taejin, has been confined, Mori rushes to set him<br>free. Daewi and Mira await his arrival at the tournament with no idea what's going<br>on. With Mori missing and Daewi suspended, Mira is forced to kick of the team<br>match alone. She struggles against her opponent, Marin, who evades her attacks and counters with<br>her own sword. When he calls it a National Treasure, it begins to glow white,<br>and its true form is revealed...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Yashahime: Princess Half-Demon (German Dub) - Episode 27 - The Silver-Scale Curse</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/440092f56799bfe822a261e91b10a9711634348013_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U417V9/the-silver-scale-curse">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Jaken recalls that fateful day fourteen years ago, when Zero placed a curse on Rin<br>that would make her slowly rot away to an excruciating death. The three girls search<br>for Bokusen-Oh, who may have a lead on the whereabouts of Towa’s new weapon.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">RoOT - Episode 1 - This Is the Ibusuki Detective Agency</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/10a8448613b251cf3f69875fc66a35281712069432_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UX4NVX/this-is-the-ibusuki-detective-agency">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">19-year-old private detective Rena is assigned to train the clumsy new hire Sato. After Sato<br>is attacked on a job, they take shelter in a nearby restaurant, where owner Taeko<br>asks them to investigate an odd taxi driver she knows named Odokawa...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Log Horizon (Hindi Dub) - Episode 21 - The Two of Us Shall Waltz</h3></th>
 </tr>
@@ -30,7 +268,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/log-horizon/episode-21-the-two-of-us-shall-waltz-925979">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UD1MDM/the-two-of-us-shall-waltz">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -64,7 +302,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/ranking-of-kings/episode-21-the-swordsmanship-of-a-king-925977">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U41749/the-swordsmanship-of-a-king">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -98,7 +336,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-11-youth-hits-super-hard-in-the-feels-925974">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUEM0E8/youth-hits-super-hard-in-the-feels">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -132,7 +370,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-10-time-flies-super-fast-925963">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV5QD/time-flies-super-fast">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -166,7 +404,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-10-time-flies-super-fast-925965">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU20W2P/time-flies-super-fast">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -200,7 +438,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-foolish-angel-dances-with-the-devil/episode-11-the-foolish-angel-and-demon-spread-their-wings-925973">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU4174E/the-foolish-angel-and-demon-spread-their-wings">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -234,7 +472,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-11-summer-of-growth-and-new-skills-925971">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUNK2N5/summer-of-growth-and-new-skills">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -268,7 +506,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-10-watch-as-i-improve-the-world-925966">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UD1MD5/watch-as-i-improve-the-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -302,7 +540,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-10-watch-as-i-improve-the-world-925968">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZV0ZE/watch-as-i-improve-the-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -336,7 +574,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-banished-former-hero-lives-as-he-pleases/episode-1-cast-out-925791">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUNKK83/cast-out">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -370,7 +608,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-banished-former-hero-lives-as-he-pleases/episode-2-the-master-blacksmith-of-the-sacred-sword-925792">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZDDE8/the-master-blacksmith-of-the-sacred-sword">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -404,7 +642,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/spice-and-wolf-merchant-meets-the-wise-wolf/episode-1-the-harvest-festival-and-the-crowded-drivers-box-925795">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQWW0P/the-harvest-festival-and-the-crowded-drivers-box">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -438,251 +676,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability/episode-1-i-reincarnated-as-the-seventh-prince-925812">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2NNZ7/i-reincarnated-as-the-seventh-prince">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
 <p align="center">A mage, lacking both talent and lineage, is burned to death by the magic he<br>loves. He's reborn as Lloyd, seventh prince of the Saloum Kingdom, with his past memories<br>intact. One day, in a forbidden library, he awakens a demon that wields ancient magic...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Re:Monster (Tamil Dub) - Episode 1</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7ce2f3c950ab6d67ea8b43fa814e39661711964628_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-925928">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Re:Monster (Telugu Dub) - Episode 1</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7ce2f3c950ab6d67ea8b43fa814e39661711965031_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-925941">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Re:Monster (French Dub) - Episode 1</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/096290c5322dbf71bf01836b46f9abbf1711964586_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-925902">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Re:Monster (German Dub) - Episode 1</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/014db6f36c3e427548f8dd51d92decb61711964605_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-925915">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Re:Monster (Spanish Dub) - Episode 1</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7e3ccca3c1b1f34e62b97f493dc47d4d1711964528_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-925876">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Re:Monster (Portuguese Dub) - Episode 1</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/059bf17015769ef5ec7f8849b67715711711964561_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-925889">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Re:Monster - Episode 1 - Re:Born</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7f2166eacd422e905fb13531e5a869781711966536_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/remonster/episode-1-reborn-925850">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After being brutally murdered, Tomokui Kanata awakens in the body of a tiny green baby.<br>He now has to begin a new life as a goblin in a brutal world,<br>but fortunately, he has retained his special ability from his previous life.</p>
 </td>
 </tr>
 </table>
