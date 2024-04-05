@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Apr 5, 2024, 7:50:44 AM</em></p>
+<p align="center"><em>Updated on: Apr 5, 2024, 7:19:02 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,176 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Assassination Classroom (Tamil Dub) - Episode 8 - School Trip Time/2nd Period</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/00e77934984295a783cf7c3dc0fe16b81472895241_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU417GE/school-trip-time2nd-period">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The E Class gives a pro sniper plenty of chances to take down Koro Sensei,<br>then try to make the most of what's left of their school trip to Kyoto.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Assassination Classroom (Telugu Dub) - Episode 8 - School Trip Time/2nd Period</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/00e77934984295a783cf7c3dc0fe16b81472895241_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUEM0K8/school-trip-time2nd-period">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The E Class gives a pro sniper plenty of chances to take down Koro Sensei,<br>then try to make the most of what's left of their school trip to Kyoto.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Ranking of Kings: The Treasure Chest of Courage (Tamil Dub) - Episode 8 - Kage's Yearning | A Great Mother</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dbe75b8358806d53f3451a8f2fec572e1685641823_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3KEQ5/kages-yearning-a-great-mother">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A young Kage is afraid of the world around him, but finds his courage when<br>faced with a dangerous encounter. Shiina seeks for more strength, but comes to realize that<br>the greatest strength of all is not directed inward, but is found when helping others.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Fairies Album (Season 4) - Episode 8 - Brothers Help Each Other</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5815a8bbf5577d5040f215627d4770b31712270336_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2N38P/brothers-help-each-other">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mutual trust and help shine against danger, and brotherhood is the only answer.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride - Episode 2 - First Love With Social Anxiety Tastes a Lot Like Moldy Bread</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0cf6c80ffa1b2550eb5436e8e8bea4a81712270313_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZV0WN/first-love-with-social-anxiety-tastes-a-lot-like-moldy-bread">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After a very bland breakfast, Zagan realizes he has no idea what people normally eat.<br>Nephy offers to make him a homecooked meal, and the two set off to buy<br>ingredients from a nearby town. However, financial troubles and highwaymen prevent smooth travel.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">The Witch and the Beast (English Dub) - Episode 10 - Origin Witch</h3></th>
 </tr>
@@ -514,176 +684,6 @@ What was the true intention<br>of her plan to gather all the Fishermen in one lo
 <tr>
 <td colspan="2">
 <p align="center">As Hirata recovers and the class shows unity, it's finally Ayanokoji vs. Sakayanagi. The final<br>special exam has begun and the first round is basketball. Class C puts up a<br>good fight, but Sakayanagi plans to mentally shake Sudo so he will fall.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Classroom of the Elite Season 3 (Spanish Dub) - Episode 11 - There is only one rule in love: bring happiness to those you love.</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4c175c18a725639034b5e53a959ed8ad1710338727_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/3/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UD1M8M/there-is-only-one-rule-in-love-bring-happiness-to-those-you-love">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As Hirata recovers and the class shows unity, it's finally Ayanokoji vs. Sakayanagi. The final<br>special exam has begun and the first round is basketball. Class C puts up a<br>good fight, but Sakayanagi plans to mentally shake Sudo so he will fall.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Classroom of the Elite Season 3 (German Dub) - Episode 11 - There is only one rule in love: bring happiness to those you love.</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4c175c18a725639034b5e53a959ed8ad1710338727_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/3/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2NJ72/there-is-only-one-rule-in-love-bring-happiness-to-those-you-love">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As Hirata recovers and the class shows unity, it's finally Ayanokoji vs. Sakayanagi. The final<br>special exam has begun and the first round is basketball. Class C puts up a<br>good fight, but Sakayanagi plans to mentally shake Sudo so he will fall.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Classroom of the Elite Season 3 (French Dub) - Episode 11 - There is only one rule in love: bring happiness to those you love.</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4c175c18a725639034b5e53a959ed8ad1710338727_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/3/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZD750/there-is-only-one-rule-in-love-bring-happiness-to-those-you-love">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As Hirata recovers and the class shows unity, it's finally Ayanokoji vs. Sakayanagi. The final<br>special exam has begun and the first round is basketball. Class C puts up a<br>good fight, but Sakayanagi plans to mentally shake Sudo so he will fall.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Great Cleric (French Dub) - Episode 10 - The Secret of Substance X</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ae7b708da354748780816a36a1c71e791694096190_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/3/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU8J2N3/the-secret-of-substance-x">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Luciel agrees to heal the adventurers in Shurule but demands that they stop calling him<br>"maso-zombie." Cattleya realizes Luciel has been consuming Substance X and informs the pope, who explains<br>the origin of the mysterious drink.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Metallic Rouge (Tamil Dub) - Episode 11</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5079fe6fb3ba232eae9419f14d56b9331712158895_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/3/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV4EM">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
 </td>
 </tr>
 </table>
