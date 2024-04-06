@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Apr 5, 2024, 7:19:02 PM</em></p>
+<p align="center"><em>Updated on: Apr 6, 2024, 7:49:07 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom (Tamil Dub) - Episode 8 - School Trip Time/2nd Period</h3></th>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 8 - Author Kelly Knox’s Cozy Anime Corner, “isekai” in the dictionary, and the best Star Wars dad jokes</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/00e77934984295a783cf7c3dc0fe16b81472895241_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/78bb8a88363afee4b0cebaa3933abafc1712357446_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU417GE/school-trip-time2nd-period">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3KD59/author-kelly-knoxs-cozy-anime-corner-isekai-in-the-dictionary-and-the-best-star-wars-dad-jokes">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The E Class gives a pro sniper plenty of chances to take down Koro Sensei,<br>then try to make the most of what's left of their school trip to Kyoto.</p>
+<p align="center">Author and entertainment writer Kelly Knox joins Nick and LeAlec to talk about her new<br>book Star Wars: Dad Jokes and what makes anime cozy. First, everyone reveals if they<br>have their tickets for SPY x FAMILY CODE: White, if they think Webster’s definitions of<br>“isekai,” “fan service,” and other anime terms are accurate, and whether they’ll be watching Kaiju<br>No. 8, That Time I Got Reincarnated as a Slime season 3, or My Hero<br>Academia season 7 this spring.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom (Telugu Dub) - Episode 8 - School Trip Time/2nd Period</h3></th>
+<th><h3 align="center">Sasaki and Peeps (English Dub) - Episode 12 - Real Life, Fantasy, and the Fourth World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/00e77934984295a783cf7c3dc0fe16b81472895241_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f185467678fbfecc4d9b85e4f245f4931711092927_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,313 +64,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUEM0K8/school-trip-time2nd-period">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The E Class gives a pro sniper plenty of chances to take down Koro Sensei,<br>then try to make the most of what's left of their school trip to Kyoto.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Ranking of Kings: The Treasure Chest of Courage (Tamil Dub) - Episode 8 - Kage's Yearning | A Great Mother</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dbe75b8358806d53f3451a8f2fec572e1685641823_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3KEQ5/kages-yearning-a-great-mother">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">A young Kage is afraid of the world around him, but finds his courage when<br>faced with a dangerous encounter. Shiina seeks for more strength, but comes to realize that<br>the greatest strength of all is not directed inward, but is found when helping others.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Fairies Album (Season 4) - Episode 8 - Brothers Help Each Other</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5815a8bbf5577d5040f215627d4770b31712270336_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2N38P/brothers-help-each-other">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Mutual trust and help shine against danger, and brotherhood is the only answer.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride - Episode 2 - First Love With Social Anxiety Tastes a Lot Like Moldy Bread</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0cf6c80ffa1b2550eb5436e8e8bea4a81712270313_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZV0WN/first-love-with-social-anxiety-tastes-a-lot-like-moldy-bread">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After a very bland breakfast, Zagan realizes he has no idea what people normally eat.<br>Nephy offers to make him a homecooked meal, and the two set off to buy<br>ingredients from a nearby town. However, financial troubles and highwaymen prevent smooth travel.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Witch and the Beast (English Dub) - Episode 10 - Origin Witch</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ae552216b89605d0c631442319ab4e3a1711041914_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV5Z3/origin-witch">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ashaf heads off with Helga to find somewhere safer for her to stay, but while<br>they are gone, Guideau overhears a bunch of kids talking about a witch and goes<br>to investigate. But is the rumor all that it seems?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Telugu Dub) - Episode 38 - Fluctuations</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d7c121a729f482352d0dc303827da1d41698336985_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU20W8X/fluctuations">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Mei Mei and Ui Ui fight the Special-Grade Disease Curse summoned by whatever is pretending<br>to be Suguru Geto. Meanwhile, Nanami joins up with Maki and Naobito, but they encounter<br>a cursed spirit with unknown powers.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">A Salad Bowl of Eccentrics - Episode 1 - Awaiting Kirin (From Another World)</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a80ff9147153c9ce6a492eb9572f2a2c1712253100_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU8J2P3/awaiting-kirin-from-another-world">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sosuke is a hardworking private detective who's down on his luck, but he'll be working<br>even harder after he catches an (un)lucky break—an otherworldly princess who falls from the sky<br>and takes an interest in his occupation.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Witch and the Beast - Episode 12 - Eloquence and Silence: Final Act</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ee52ce1bbe06b0f561cbecb6ff948dbe1712247537_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV420/eloquence-and-silence-final-act">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Executioners corner the helpless Falvell. With Ashaf out of comission, only Guideau can save the<br>young witch. But what could persuade the gruff and violent Guideau to lend a helping<br>hand?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">WIND BREAKER - Episode 1 - SAKURA ARRIVES AT FURIN</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/83e46252754b32f923948209591abeed1712247514_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU07MPE/sakura-arrives-at-furin">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">An admirer of strong people with a complete disinterest in the weak, Haruka Sakura, a<br>loner and delinquent high school student, aims to be a fighter at the top of<br>Furin High School. Coming from outside the city, Sakura enrolls in Furin High School, infamous<br>for its delinquents.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">A Condition Called Love - Episode 1 - Nice to Meet You</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/453850fb53e43298c19d1445f0d0b2c31712243931_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU417VN/nice-to-meet-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU20WV1/real-life-fantasy-and-the-fourth-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -386,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride - Episode 1 - First Love Is Like a Nasty Disease That Everyone Catches Once</h3></th>
+<th><h3 align="center">The Demon Prince of Momochi House (English Dub) - Episode 12 - The Light That Crosses Seas</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a1cb1740be76f5e090f879ae2606f27a1712243100_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/498b2a6bd66e6edad3d5052c83ff9e001711122909_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,11 +94,215 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2024</td>
+<td align="center">4/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG357N/first-love-is-like-a-nasty-disease-that-everyone-catches-once">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV52K/the-light-that-crosses-seas">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Now that Aoi and the others are safely back in the house that sits between<br>the human world and spiritual realm, Aoi has something to share with Himari about her<br>rightful place there.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Demon Prince of Momochi House (Spanish Dub) - Episode 11 - The Blue Hollyhock Dawns</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e4c86f840ae0d2e951b7d4a2a23b69ff1710520145_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUEM08M/the-blue-hollyhock-dawns">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Himari dives into Aoi's past to learn more about him and hopefully discover a way<br>to save him. Can her connection to Aoi break him of the crow's curse?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Frieren: Beyond Journey's End (English Dub) - Episode 28 - It Would Be Embarrassing When We Met Again</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fccf5fe3454a077e0d68299b7453e5121711114121_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVEGZX/it-would-be-embarrassing-when-we-met-again">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As the first-class mage exam concludes and the test-takers go their separate ways, farewell leads<br>to departure - but the next stage of Frieren's journey has only just begun.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Frieren: Beyond Journey's End (Portuguese Dub) - Episode 27 - An Era of Humans</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/87a75d6cd7468397e75311ed1dee58d31710511818_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQWEXE/an-era-of-humans">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With the second test behind them, only one remains - but first, Frieren and Fern<br>need to settle an important matter in town. What awaits them in the third test?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Frieren: Beyond Journey's End (Spanish Dub) - Episode 27 - An Era of Humans</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/87a75d6cd7468397e75311ed1dee58d31710511818_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U417NJ/an-era-of-humans">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With the second test behind them, only one remains - but first, Frieren and Fern<br>need to settle an important matter in town. What awaits them in the third test?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Frieren: Beyond Journey's End (French Dub) - Episode 27 - An Era of Humans</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/87a75d6cd7468397e75311ed1dee58d31710511818_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUKV9PW/an-era-of-humans">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With the second test behind them, only one remains - but first, Frieren and Fern<br>need to settle an important matter in town. What awaits them in the third test?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Frieren: Beyond Journey's End (German Dub) - Episode 26 - The Height of Magic</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV5NK/the-height-of-magic">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -420,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Laid-Back Camp Season 3 - Episode 1 - Where Should We Go Next?</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Castilian Dub) - Episode 26 - The Height of Magic</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4c88526b6172d3ac52d745937356d55f1712241044_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,11 +332,11 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2024</td>
+<td align="center">4/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV533/where-should-we-go-next">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3KE1G/the-height-of-magic">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -454,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God (Hindi Dub) - Episode 9 - The One-Horned Ogre</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Tamil Dub) - Episode 26 - The Height of Magic</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/739033cced11ee48e1b30aee89d788df1590577017_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,18 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2024</td>
+<td align="center">4/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG35DN/the-one-horned-ogre">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUXP1K0/the-height-of-magic">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">"My plan worked." With this declaration, Endorsi kicks her own teammate.
-What was the true intention<br>of her plan to gather all the Fishermen in one location and see how the<br>Ranker would act?</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -489,12 +386,12 @@ What was the true intention<br>of her plan to gather all the Fishermen in one lo
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride (Tamil Dub) - Episode 8 - Let sleeping dogs lie.</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Italian Dub) - Episode 26 - The Height of Magic</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6f1b2ff6bcfd55ab2fbf1e0dfe908a2d1511298718_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -503,17 +400,17 @@ What was the true intention<br>of her plan to gather all the Fishermen in one lo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2024</td>
+<td align="center">4/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU0G7ZD/let-sleeping-dogs-lie">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UX4NG5/the-height-of-magic">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Alice sees Elias' changes and decides immediately that he could never be human. Sorcerer Cartaphilius,<br>who is attempting to capture the black dog by manipulating Renfred and Alice, causes Elias<br>to show a completely different side of himself when his "work" hurts Chise. Those who<br>know Elias call him the Pilum Murialis.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -523,12 +420,12 @@ What was the true intention<br>of her plan to gather all the Fishermen in one lo
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride (Telugu Dub) - Episode 8 - Let sleeping dogs lie.</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Hindi Dub) - Episode 26 - The Height of Magic</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6f1b2ff6bcfd55ab2fbf1e0dfe908a2d1511298718_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -537,17 +434,17 @@ What was the true intention<br>of her plan to gather all the Fishermen in one lo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2024</td>
+<td align="center">4/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVEGNE/let-sleeping-dogs-lie">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZD79N/the-height-of-magic">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Alice sees Elias' changes and decides immediately that he could never be human. Sorcerer Cartaphilius,<br>who is attempting to capture the black dog by manipulating Renfred and Alice, causes Elias<br>to show a completely different side of himself when his "work" hurts Chise. Those who<br>know Elias call him the Pilum Murialis.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -557,12 +454,12 @@ What was the true intention<br>of her plan to gather all the Fishermen in one lo
 
 <table align="center">
 <tr>
-<th><h3 align="center">LAID-BACK CAMP SEASON2 (English Dub) - Episode 11 - Izu Camping!! On the Way</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (English Dub) - Episode 12 - The True Face of the Black Knight!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/72885999a620b64b3a5faf319f9f5bc61616045512_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/612caacbc46b26cb249de42392f8d59a1711122596_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -571,17 +468,17 @@ What was the true intention<br>of her plan to gather all the Fishermen in one lo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/3/2024</td>
+<td align="center">4/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UX4NMG/izu-camping-on-the-way">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU417EM/the-true-face-of-the-black-knight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The gang changes course and head toward a different campsite. After they hit the hot<br>springs, at night, Nadeshiko treats them to her cooking.</p>
+<p align="center">Now that Usato's first clash with the Demon Lord's army is over, he's going to<br>have to deal with the aftermath—including a prisoner of war.</p>
 </td>
 </tr>
 </table>
@@ -591,12 +488,12 @@ What was the true intention<br>of her plan to gather all the Fishermen in one lo
 
 <table align="center">
 <tr>
-<th><h3 align="center">Bottom-Tier Character Tomozaki 2nd STAGE (English Dub) - Episode 12 - Sometimes the ancient tome in the first town is the key to the final dungeon</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Portuguese Dub) - Episode 11 - Wham! Ultimate Healing Punch!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1421df9863a91a3e00332a767f86f78c1712172365_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2166d054a2a92560afc899d04ab7faff1710510255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -605,17 +502,17 @@ What was the true intention<br>of her plan to gather all the Fishermen in one lo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/3/2024</td>
+<td align="center">4/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUXP1J7/sometimes-the-ancient-tome-in-the-first-town-is-the-key-to-the-final-dungeon">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2NJ98/wham-ultimate-healing-punch">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tomozaki tries to show Kikuchi the issues with her world view. Mimimi and Tomozaki perform<br>their comedy routine. The curtain rises on the class play.</p>
+<p align="center">Usato's first battle quickly turns into a waking nightmare when he realizes his friends are<br>tangling with their fated foe, the Black Knight. Can he make it in time to<br>save them?</p>
 </td>
 </tr>
 </table>
@@ -625,12 +522,12 @@ What was the true intention<br>of her plan to gather all the Fishermen in one lo
 
 <table align="center">
 <tr>
-<th><h3 align="center">Classroom of the Elite Season 3 (English Dub) - Episode 12 - Change your desires rather than the order of the world.</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Spanish Dub) - Episode 11 - Wham! Ultimate Healing Punch!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f77c24b5a7998889f6484a9983d06a0e1710935840_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2166d054a2a92560afc899d04ab7faff1710510255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -639,17 +536,17 @@ What was the true intention<br>of her plan to gather all the Fishermen in one lo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/3/2024</td>
+<td align="center">4/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUNK2QM/change-your-desires-rather-than-the-order-of-the-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUNK2P8/wham-ultimate-healing-punch">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The class narrowly lost to Class A in the final exam, and were demoted back<br>to Class D. However, the students showed growth throughout the year. Horikita, in particular, having<br>grown as leader requests to dissolve the alliance with Class B.</p>
+<p align="center">Usato's first battle quickly turns into a waking nightmare when he realizes his friends are<br>tangling with their fated foe, the Black Knight. Can he make it in time to<br>save them?</p>
 </td>
 </tr>
 </table>
@@ -659,12 +556,12 @@ What was the true intention<br>of her plan to gather all the Fishermen in one lo
 
 <table align="center">
 <tr>
-<th><h3 align="center">Classroom of the Elite Season 3 (Portuguese Dub) - Episode 11 - There is only one rule in love: bring happiness to those you love.</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Hindi Dub) - Episode 11 - Wham! Ultimate Healing Punch!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4c175c18a725639034b5e53a959ed8ad1710338727_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2166d054a2a92560afc899d04ab7faff1710510255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -673,17 +570,119 @@ What was the true intention<br>of her plan to gather all the Fishermen in one lo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/3/2024</td>
+<td align="center">4/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU20WP0/there-is-only-one-rule-in-love-bring-happiness-to-those-you-love">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZD7MN/wham-ultimate-healing-punch">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Hirata recovers and the class shows unity, it's finally Ayanokoji vs. Sakayanagi. The final<br>special exam has begun and the first round is basketball. Class C puts up a<br>good fight, but Sakayanagi plans to mentally shake Sudo so he will fall.</p>
+<p align="center">Usato's first battle quickly turns into a waking nightmare when he realizes his friends are<br>tangling with their fated foe, the Black Knight. Can he make it in time to<br>save them?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">HIGHSPEED Étoile - Episode 1 - Underneath Fuji's Sky</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5b096da3543e1a957645ca05eb070a051712338119_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUEM0QM/underneath-fujis-sky">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A new form of energy called HyPER gives rise to a new racing series, NEX<br>Race, where human drivers and AI compete at speeds exceeding 500 kph. Five years later,<br>the season finale is contested by the undisputed champ and the Queen of the race<br>track.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Snack Basue - Episode 13 - Risen' To the Top / Just One Look</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6245fc9d819408c7d5ae274342c9ddbf1712326379_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U41Z1P/risen-to-the-top-just-one-look">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">In this final week, join the patrons one last time as Akemi reaches new heights<br>of ridiculousness involving inappropriate words. So pick up a glass and enjoy the run-down snack<br>bar as you de-stress, engage, and sing along!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Irregular at Magic High School Season 3 - Episode 1 - Double Seven Part I</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/653b0d1f0668fd0f0df0039ac0396f6a1712330696_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUXP170/double-seven-part-i">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">It has reached the month of April in 2096, and various aspects of Tatsuya's life<br>was changing as he advances to the second year. Tatsuya and Mizuki transferred to the<br>newly established Department of Magical Engineering, and Mikihiko has also transferred out of Course 2,<br>and was now a Course 1 student. Along with this change, Tatsuya and Miyuki were<br>now living with Minami who was sent to stay with them by the Yotsuba Family.<br>Tatsuya enters the school year hoping they would have a peaceful student life this time<br>around, but the new year meant the arrival of new students, like Kasumi and Izumi,<br>the twins of the Sagusa Family, and Takuma Shippou, the new student valedictorian who feels<br>a rivalry towards the Saegusa Family. All of them having their own quirk or two,<br>for better or for worse...</p>
 </td>
 </tr>
 </table>
