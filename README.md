@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Apr 6, 2024, 7:18:35 PM</em></p>
+<p align="center"><em>Updated on: Apr 7, 2024, 7:55:11 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia: Memories - Episode 1 - Izuku Midoriya: Resolve</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 4) (English Dub) - Episode 10 - Start Immortal King Mode</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/601737bc64e66534d076a573070dde5d1712390164_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/798371ce73d2c92df4c3f1fa3e1b72021707601014_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZD7EP/izuku-midoriya-resolve">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNKE3/start-immortal-king-mode">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After the Quirkless Izuku Midoriya meets All Might, he becomes the successor to All Might's<br>Quirk, One For All, which means he must eventually go up against All For One<br>and Tomura Shigaraki.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Telugu Dub) - Episode 32 - Who Is This Mission For?</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Season 4) (Hindi Dub) - Episode 6 - It's All Your Fault</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ad9a4f7964ef77bbcaab853c6b300bc81700310394_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e86f82ae4b269f08e151a6e321d3b4ba1705194720_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UV3MKD/who-is-this-mission-for">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX19MZ/its-all-your-fault">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Loid tries to pick out souvenirs that will make him look like a fun and<br>happy dad so he can cheer Anya up. Meanwhile, Yor was facing off with Sickle-and-Chain<br>Barnaby.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Tamil Dub) - Episode 32 - Who Is This Mission For?</h3></th>
+<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Hindi Dub) - Episode 11 - Attack of the Monsters</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ad9a4f7964ef77bbcaab853c6b300bc81700310394_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/59f170c47910c4781c1dfb82d60c62311710611776_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG35JP/who-is-this-mission-for">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMXK8/attack-of-the-monsters">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Loid tries to pick out souvenirs that will make him look like a fun and<br>happy dad so he can cheer Anya up. Meanwhile, Yor was facing off with Sickle-and-Chain<br>Barnaby.</p>
+<p align="center">The homunculi finish construction on the town's new public baths and the adventurers plus Rud<br>and his clan are the first to try them out. Meanwhile, a new threat rears<br>its head on the horizon.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Hindi Dub) - Episode 32 - Who Is This Mission For?</h3></th>
+<th><h3 align="center">Tales of Wedding Rings (English Dub) - Episode 12 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ad9a4f7964ef77bbcaab853c6b300bc81700310394_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e1becded625650ebfdc029c20b3b9f4f1711195852_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2NJGK/who-is-this-mission-for">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE1MQ/untitled">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Loid tries to pick out souvenirs that will make him look like a fun and<br>happy dad so he can cheer Anya up. Meanwhile, Yor was facing off with Sickle-and-Chain<br>Barnaby.</p>
+<p align="center">Satou and his friends return to Arnulus among countless corpses of imperial soldiers and monsters.<br>Satou encounters the Abyss King in a hopeless situation. Using the Ring Princesses' power he<br>challenges the Abyss King in a confrontation to save Arnulus!</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shadowverse Flame - Shadowverse Flame: Special Episode 3</h3></th>
+<th><h3 align="center">Tales of Wedding Rings (Portuguese Dub) - Episode 11 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4287cf239ccd14026de20beeb258ae1a1712358325_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1e4c8c4c581db5261bc30f4b1f4e85881710591038_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU04K2W/shadowverse-flame-special-episode-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2GG2/untitled">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Light and some of the gang are joined by Hiro, Luca, and a few familiar<br>old faces as they take a look back at Seventh Flame's battles with the Seven<br>Shadows in Genesis Corp's experimental facility, the Shadow Area.</p>
+<p align="center">Satou and his friends have arrived in Satou's world with no way to return to<br>Arnulus. Satou suffers from being unable to fulfill his duty as Ring King when Amber,<br>the Ring Princess of Idanokan, the Land of Earth, appears before him.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 8 - Author Kelly Knox’s Cozy Anime Corner, “isekai” in the dictionary, and the best Star Wars dad jokes</h3></th>
+<th><h3 align="center">Tales of Wedding Rings (German Dub) - Episode 11 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/78bb8a88363afee4b0cebaa3933abafc1712357446_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1e4c8c4c581db5261bc30f4b1f4e85881710591038_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
+<td align="center">4/6/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3KD59/author-kelly-knoxs-cozy-anime-corner-isekai-in-the-dictionary-and-the-best-star-wars-dad-jokes">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7J3J/untitled">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Author and entertainment writer Kelly Knox joins Nick and LeAlec to talk about her new<br>book Star Wars: Dad Jokes and what makes anime cozy. First, everyone reveals if they<br>have their tickets for SPY x FAMILY CODE: White, if they think Webster’s definitions of<br>“isekai,” “fan service,” and other anime terms are accurate, and whether they’ll be watching Kaiju<br>No. 8, That Time I Got Reincarnated as a Slime season 3, or My Hero<br>Academia season 7 this spring.</p>
+<p align="center">Satou and his friends have arrived in Satou's world with no way to return to<br>Arnulus. Satou suffers from being unable to fulfill his duty as Ring King when Amber,<br>the Ring Princess of Idanokan, the Land of Earth, appears before him.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Sasaki and Peeps (English Dub) - Episode 12 - Real Life, Fantasy, and the Fourth World</h3></th>
+<th><h3 align="center">Tales of Wedding Rings (Spanish Dub) - Episode 11 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f185467678fbfecc4d9b85e4f245f4931711092927_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1e4c8c4c581db5261bc30f4b1f4e85881710591038_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,11 +230,351 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
+<td align="center">4/6/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU20WV1/real-life-fantasy-and-the-fourth-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47P22/untitled">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Satou and his friends have arrived in Satou's world with no way to return to<br>Arnulus. Satou suffers from being unable to fulfill his duty as Ring King when Amber,<br>the Ring Princess of Idanokan, the Land of Earth, appears before him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (German Dub) - Episode 10 - Friends</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ba64d9cb0bd0a9df30390ca744e5c4b41710002238_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGQQK/friends">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Forcibly possessed by Nine Tails, Izumo strains her energy to cry for help as the<br>demon's power overwhelms her. Rin answers Izumo's cry for help, exorcises the bloated Zombie and<br>finds himself standing in the way of Michael Gedoin. Gedoin, confused and impatient with the<br>unexpected situation, unleashes more Zombies on Rin and the others to buy time. As Yukio<br>and the rest of the group come rushing to fight back, Izumo begins to be<br>swallowed up by Nine Tails' madness, which she cannot subdue and is losing control.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (French Dub) - Episode 10 - Friends</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ba64d9cb0bd0a9df30390ca744e5c4b41710002238_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM995/friends">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Forcibly possessed by Nine Tails, Izumo strains her energy to cry for help as the<br>demon's power overwhelms her. Rin answers Izumo's cry for help, exorcises the bloated Zombie and<br>finds himself standing in the way of Michael Gedoin. Gedoin, confused and impatient with the<br>unexpected situation, unleashes more Zombies on Rin and the others to buy time. As Yukio<br>and the rest of the group come rushing to fight back, Izumo begins to be<br>swallowed up by Nine Tails' madness, which she cannot subdue and is losing control.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (English Dub) - Episode 5 - Destiny</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c568e8daffe767d3b8f419f77479541c1706982701_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5NN2/destiny">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Every branch of the Knights of the True Cross is thrown into chaos as Lucifer,<br>the King of Light, declares war. At the same time, Yukio, Rin, and the other<br>Exwires leave for Izumo's hometown in Shimane Prefecture to bring Izumo and Shima back home.<br>Izumo has been kidnapped and confined in the Far East Laboratory, controlled by the Illuminati.<br>As Izumo awakens, she finds Shima wearing an Illuminati uniform. Then, she also meets someone<br>with whom she shares a deep connection.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Sign of Affection (English Dub) - Episode 12 - Our World</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0f6de20f82043358ab1ee19aedf246cd1711200666_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNKK3/our-world">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Yuki and Itsuomi have their first date as a couple, and it leads to them<br>learning more about each other.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Sign of Affection (Portuguese Dub) - Episode 11 - Promise</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/064a99492b6a6ac88e91298b18f793f21710597852_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47QQ5/promise">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Yuki faces her nerves before an interview for her part-time job, and Shin has to<br>battle his to finally break the news to Emma.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Sign of Affection (German Dub) - Episode 11 - Promise</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/064a99492b6a6ac88e91298b18f793f21710597852_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WNND/promise">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Yuki faces her nerves before an interview for her part-time job, and Shin has to<br>battle his to finally break the news to Emma.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Sign of Affection (French Dub) - Episode 11 - Promise</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/064a99492b6a6ac88e91298b18f793f21710597852_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMXX8/promise">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Yuki faces her nerves before an interview for her part-time job, and Shin has to<br>battle his to finally break the news to Emma.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Sign of Affection (Spanish Dub) - Episode 11 - Promise</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/064a99492b6a6ac88e91298b18f793f21710597852_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EVV7/promise">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Yuki faces her nerves before an interview for her part-time job, and Shin has to<br>battle his to finally break the news to Emma.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">BUCCHIGIRI?! (English Dub) - Episode 10 - Fallen Friend! This Love, This Pain, This Almond Tofu!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4e136cf342f30f87402446042fa032a31711205716_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0ZZ2/fallen-friend-this-love-this-pain-this-almond-tofu">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After Akutaro warns Arajin that a Majin's goal is to take over his host's body,<br>Senya disappears. Meanwhile, Ichiya commands Matakara to fight as many people as he can. Matakara's<br>uncharacteristic brutality leads him to one very dangerous confrontation.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">BUCCHIGIRI?! (Portuguese Dub) - Episode 9 - Temptation! Soup-Related Etceteras!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/94d39a5d49fa9d74b3c99586d64042f61710601765_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU20WW3/temptation-soup-related-etceteras">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -250,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Demon Prince of Momochi House (English Dub) - Episode 12 - The Light That Crosses Seas</h3></th>
+<th><h3 align="center">BUCCHIGIRI?! (German Dub) - Episode 9 - Temptation! Soup-Related Etceteras!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/498b2a6bd66e6edad3d5052c83ff9e001711122909_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/94d39a5d49fa9d74b3c99586d64042f61710601765_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,215 +604,11 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
+<td align="center">4/6/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV52K/the-light-that-crosses-seas">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Now that Aoi and the others are safely back in the house that sits between<br>the human world and spiritual realm, Aoi has something to share with Himari about her<br>rightful place there.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Demon Prince of Momochi House (Spanish Dub) - Episode 11 - The Blue Hollyhock Dawns</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e4c86f840ae0d2e951b7d4a2a23b69ff1710520145_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUEM08M/the-blue-hollyhock-dawns">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Himari dives into Aoi's past to learn more about him and hopefully discover a way<br>to save him. Can her connection to Aoi break him of the crow's curse?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (English Dub) - Episode 28 - It Would Be Embarrassing When We Met Again</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fccf5fe3454a077e0d68299b7453e5121711114121_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVEGZX/it-would-be-embarrassing-when-we-met-again">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As the first-class mage exam concludes and the test-takers go their separate ways, farewell leads<br>to departure - but the next stage of Frieren's journey has only just begun.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Portuguese Dub) - Episode 27 - An Era of Humans</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/87a75d6cd7468397e75311ed1dee58d31710511818_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQWEXE/an-era-of-humans">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With the second test behind them, only one remains - but first, Frieren and Fern<br>need to settle an important matter in town. What awaits them in the third test?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Spanish Dub) - Episode 27 - An Era of Humans</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/87a75d6cd7468397e75311ed1dee58d31710511818_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U417NJ/an-era-of-humans">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With the second test behind them, only one remains - but first, Frieren and Fern<br>need to settle an important matter in town. What awaits them in the third test?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (French Dub) - Episode 27 - An Era of Humans</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/87a75d6cd7468397e75311ed1dee58d31710511818_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUKV9PW/an-era-of-humans">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With the second test behind them, only one remains - but first, Frieren and Fern<br>need to settle an important matter in town. What awaits them in the third test?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (German Dub) - Episode 26 - The Height of Magic</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV5NK/the-height-of-magic">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UD1MMQ/temptation-soup-related-etceteras">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -488,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Castilian Dub) - Episode 26 - The Height of Magic</h3></th>
+<th><h3 align="center">BUCCHIGIRI?! (French Dub) - Episode 9 - Temptation! Soup-Related Etceteras!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/94d39a5d49fa9d74b3c99586d64042f61710601765_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,11 +638,11 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
+<td align="center">4/6/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3KE1G/the-height-of-magic">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3KEEX/temptation-soup-related-etceteras">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -522,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Tamil Dub) - Episode 26 - The Height of Magic</h3></th>
+<th><h3 align="center">BUCCHIGIRI?! (Spanish Dub) - Episode 9 - Temptation! Soup-Related Etceteras!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/94d39a5d49fa9d74b3c99586d64042f61710601765_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,153 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
+<td align="center">4/6/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUXP1K0/the-height-of-magic">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZV001/temptation-soup-related-etceteras">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
 <p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Italian Dub) - Episode 26 - The Height of Magic</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UX4NG5/the-height-of-magic">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Frieren: Beyond Journey's End (Hindi Dub) - Episode 26 - The Height of Magic</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZD79N/the-height-of-magic">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (English Dub) - Episode 12 - The True Face of the Black Knight!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/612caacbc46b26cb249de42392f8d59a1711122596_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU417EM/the-true-face-of-the-black-knight">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Now that Usato's first clash with the Demon Lord's army is over, he's going to<br>have to deal with the aftermath—including a prisoner of war.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Wrong Way to Use Healing Magic (Portuguese Dub) - Episode 11 - Wham! Ultimate Healing Punch!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2166d054a2a92560afc899d04ab7faff1710510255_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2NJ98/wham-ultimate-healing-punch">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Usato's first battle quickly turns into a waking nightmare when he realizes his friends are<br>tangling with their fated foe, the Black Knight. Can he make it in time to<br>save them?</p>
 </td>
 </tr>
 </table>
