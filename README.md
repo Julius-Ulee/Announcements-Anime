@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Apr 12, 2024, 7:51:09 AM</em></p>
+<p align="center"><em>Updated on: Apr 12, 2024, 7:19:54 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,210 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Kurayukaba & Kuramerukagari - Kurayukaba</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7f6e4db48e6510a22a78f13c4c25ed6f1712873553_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/12/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9N9V/kurayukaba">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">"Yes, Ootsuji Detective Agency" In the purple smoke lies a faint dream, and in the<br>town, rumors swirl like smoke. Now, facing the strangeness of the "mass disappearance" bewildering society,<br>detective Soutarou confronts it! With no witnesses and unclear intentions, the identity of the "ominous<br>tracks" that always appear in its footsteps... In search of clues, the detective delves into<br>the underground realm of the town called "Kuragari." There, the encounter with the black iron<br>armored train and its commander, Tanne, will significantly shake the fate of the detective!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Kurayukaba & Kuramerukagari - Kuramerukagari</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1783979f7ed2c6ecd4238b6a1a2170691712873596_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/12/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07X77/kuramerukagari">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">This is a story that weaves together people and a town. A coal mining town<br>crowded with small-scale excavators, commonly known as the "Hakoniwa." In this town that changes daily<br>like a labyrinth, there's a girl named Kagari who runs a mapmaking business and a<br>boy named Yuya who dreams of breaking free from the "Hakoniwa." Eventually, the two, along<br>with the unique residents of the town, find themselves confronting a conspiracy that shakes the<br>entire town. The fate of the” Hakoniwa" depends on Kagari's drawings on the map.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Assassination Classroom (Tamil Dub) - Episode 9 - Transfer Student Time</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a295d22bc74e2671d39ec66984d837c21472902070_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/12/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J5WP/transfer-student-time">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A new student joins the E Class with a singleminded focus on assassination that drives<br>her classmates to distraction. Koro Sensei to the rescue!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Assassination Classroom (Telugu Dub) - Episode 9 - Transfer Student Time</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a295d22bc74e2671d39ec66984d837c21472902070_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/12/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2WGV/transfer-student-time">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A new student joins the E Class with a singleminded focus on assassination that drives<br>her classmates to distraction. Koro Sensei to the rescue!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Ranking of Kings: The Treasure Chest of Courage (Tamil Dub) - Episode 9 - Miranjo and the Demon | The Prince and His Treasures</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a5e3c4fbe9a944b0e997a40200c639261686246629_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/12/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZV0W9/miranjo-and-the-demon-the-prince-and-his-treasures">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Young Miranjo happens upon a child demon while playing in the forest, and lands in<br>trouble when she can't find her way home. As Bojji prepares to leave the castle<br>to look for Kage, he pauses to give gifts to those who have helped him<br>get where he is.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Fairies Album (Season 4) - Episode 9 - Strange Rain in the Si Mansion</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e25a89f5d86866e97a683bf49ad413891712869491_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/12/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUNK57V/strange-rain-in-the-si-mansion">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The doctor from Tao City shows the true identity, and strange rain falls in the<br>Si Mansion.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">The Witch and the Beast (English Dub) - Episode 11 - Eloquence and Silence: Opening Act</h3></th>
 </tr>
@@ -482,210 +686,6 @@ What<br>waits for them beyond their sadness?</p>
 <tr>
 <td colspan="2">
 <p align="center">The class narrowly lost to Class A in the final exam, and were demoted back<br>to Class D. However, the students showed growth throughout the year. Horikita, in particular, having<br>grown as leader requests to dissolve the alliance with Class B.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Classroom of the Elite Season 3 (German Dub) - Episode 12 - Change your desires rather than the order of the world.</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f77c24b5a7998889f6484a9983d06a0e1710935840_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJ3J3/change-your-desires-rather-than-the-order-of-the-world">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The class narrowly lost to Class A in the final exam, and were demoted back<br>to Class D. However, the students showed growth throughout the year. Horikita, in particular, having<br>grown as leader requests to dissolve the alliance with Class B.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Classroom of the Elite Season 3 (Spanish Dub) - Episode 12 - Change your desires rather than the order of the world.</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f77c24b5a7998889f6484a9983d06a0e1710935840_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGQG3/change-your-desires-rather-than-the-order-of-the-world">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The class narrowly lost to Class A in the final exam, and were demoted back<br>to Class D. However, the students showed growth throughout the year. Horikita, in particular, having<br>grown as leader requests to dissolve the alliance with Class B.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Classroom of the Elite Season 3 (French Dub) - Episode 12 - Change your desires rather than the order of the world.</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f77c24b5a7998889f6484a9983d06a0e1710935840_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7J75/change-your-desires-rather-than-the-order-of-the-world">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The class narrowly lost to Class A in the final exam, and were demoted back<br>to Class D. However, the students showed growth throughout the year. Horikita, in particular, having<br>grown as leader requests to dissolve the alliance with Class B.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Great Cleric (French Dub) - Episode 11 - Trouble in St. Shurule</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/95f5ef5d9bf652b4a83a87acd7fdb1e71694707829_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9NVV/trouble-in-st-shurule">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Luciel runs into trouble in the streets of the capital, and an altogether different danger<br>awaits him in the depths below the city...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The 2024 Crunchyroll Anime Awards - Crunchyroll Anime Awards</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ea42de55abc478f77db223a2989662441712753227_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE1J7/crunchyroll-anime-awards">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Crunchyroll presents the 8th annual Anime Awards on March 2, 2024, live from Tokyo, hosted<br>by Sally Amaki and Jon Kabira. Watch the livestream to see 25+ categories awarded to<br>the industry’s top talent, creators and performers. The Anime Awards includes celebrity presenters, musical performances<br>and, of course, all the awards delivered in person!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The 2024 Crunchyroll Anime Awards (English Audio) - Crunchyroll Anime Awards</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ea42de55abc478f77db223a2989662441712753227_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WN9G/crunchyroll-anime-awards">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Crunchyroll presents the 8th annual Anime Awards on March 2, 2024, live from Tokyo, hosted<br>by Sally Amaki and Jon Kabira. Watch the livestream to see 25+ categories awarded to<br>the industry’s top talent, creators and performers. The Anime Awards includes celebrity presenters, musical performances<br>and, of course, all the awards delivered in person!</p>
 </td>
 </tr>
 </table>
