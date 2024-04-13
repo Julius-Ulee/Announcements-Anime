@@ -26,8 +26,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "${{ github.repository_owner }}"
-          git config --global user.email "fidzlieazriel@gmail.com"
+          git config --global user.name "King"
+          git config --global user.email "king@github.com"
 
       - name: Commit and Push changes
         run: |
