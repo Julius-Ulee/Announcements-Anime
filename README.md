@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Apr 13, 2024, 7:41:45 AM</em></p>
+<p align="center"><em>Updated on: Apr 13, 2024, 11:25:47 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Black Butler (Spanish Dub) - Episode 25 - His Butler, Performer</h3></th>
+<th><h3 align="center">Shadowverse Flame - Episode 76 - For the Sake of the World, I'll Defeat You!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9e1e8d93b93e0d8b24dc9d27a99b85bf1481805071_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8aa34e25b26b585a5273808c675fbba71712950540_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/12/2024</td>
+<td align="center">4/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU472W3/his-butler-performer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNGXDX/for-the-sake-of-the-world-ill-defeat-you">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hoping for some favorable publicity, Ciel arranges a staged production of Hamlet for some orphaned<br>children. What he finds instead is a valuable lesson in the futility of revenge.</p>
+<p align="center">Nekome-cho is overrun by Shades, forcing Subaru and Itsuki to fight their way through as<br>they make their way toward the Gaia Tower to shut down the energy signal emanating<br>from it.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (Portuguese Dub) - Episode 25 - His Butler, Performer</h3></th>
+<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez - Episode 12 -  The Fated Moment </h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9e1e8d93b93e0d8b24dc9d27a99b85bf1481805071_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c33252afd8cfa1abd2f97caa1e55b6d91712951846_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMKGW/his-butler-performer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U41GEV/-the-fated-moment-">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hoping for some favorable publicity, Ciel arranges a staged production of Hamlet for some orphaned<br>children. What he finds instead is a valuable lesson in the futility of revenge.</p>
+<p align="center">It's the final battle of the Fated Clash. If Akina wins, Hikari's illness will be<br>cured, and Suo will be saved from the void. Akina is determined to change the<br>future. With the owners of the Fated Ones looking on, the last fight between the<br>fate of Miracles and Zero begins!</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (English Dub) - Episode 25 - His Butler, Performer</h3></th>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 9 - New in Anime: HAIKYU!! The Dumpster Battle, Demon Slayer: Kimetsu no Yaiba return, and CinemaCon updates</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9e1e8d93b93e0d8b24dc9d27a99b85bf1481805071_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/af08ec522a9e10d25247450388b2fb221712959533_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU472Z9/his-butler-performer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUXPG8J/new-in-anime-haikyu-the-dumpster-battle-demon-slayer-kimetsu-no-yaiba-return-and-cinemacon-updates">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hoping for some favorable publicity, Ciel arranges a staged production of Hamlet for some orphaned<br>children. What he finds instead is a valuable lesson in the futility of revenge.</p>
+<p align="center">CinemaCon revealed the upcoming Haikyu!! The Dumpster Battle, BLUE LOCK THE MOVIE -EPISODE NAGI-, and<br>more anime films, so Nick, LeAlec, and Leah are revealing everything we know about them<br>so far. PLUS, with Demon Slayer: Kimetsu no Yaiba Hashira Training Arc arriving this spring,<br>hosts debate which Hashira reigns supreme. Finally, we’re digging deeper into our mailbag to answer<br>even more of your burning anime questions.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (Spanish Dub) - Episode 24 - His Butler, Fluent</h3></th>
+<th><h3 align="center">Black Butler: Book of Circus (English Dub) - Episode 10 - His Butler, Fulfilling His Duty</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f95fb8f798c7f7618a50c039a2d68561481818572_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d1f5b8aa6ccb9c1af3617a203986f5111410460406_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J5D5/his-butler-fluent">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNE4Z/his-butler-fulfilling-his-duty">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having regained the services of his Butler, the Young Master issues a chilling order to<br>kill. Sebastian is eager to please, but this task will require a revelation of his<br>true nature.</p>
+<p align="center">Sebastian carries out his remaining orders, and as usual, Will is left to clean up<br>the mess.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (Portuguese Dub) - Episode 24 - His Butler, Fluent</h3></th>
+<th><h3 align="center">Black Butler: Book of Circus (English Dub) - Episode 9 - His Butler, Serene</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f95fb8f798c7f7618a50c039a2d68561481818572_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/365270297cbbc19426f938663fb0670c1409856234_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2W78M/his-butler-fluent">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E2KJ/his-butler-serene">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having regained the services of his Butler, the Young Master issues a chilling order to<br>kill. Sebastian is eager to please, but this task will require a revelation of his<br>true nature.</p>
+<p align="center">The world is never kind to anyone.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (English Dub) - Episode 24 - His Butler, Fluent</h3></th>
+<th><h3 align="center">Black Butler: Book of Circus (English Dub) - Episode 8 - His Butler, Sneering</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f95fb8f798c7f7618a50c039a2d68561481818572_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2db4206d8223c1ae9db680b127a3e07a1409232527_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +200,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2W1P/his-butler-fluent">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMK19/his-butler-sneering">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having regained the services of his Butler, the Young Master issues a chilling order to<br>kill. Sebastian is eager to please, but this task will require a revelation of his<br>true nature.</p>
+<p align="center">Lord Kelvin invites Ciel to replay a certain night from his past, and Ciel's servants<br>receive some unexpected visitors at the mansion.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (Spanish Dub) - Episode 23 - His Butler, Up in Flames</h3></th>
+<th><h3 align="center">Black Butler: Book of Circus (English Dub) - Episode 7 - His Butler, Careful Tending</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/29c80e56c91786390041a1ec52e67e041481803365_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9a7ed957180f22ccf62ad5de756644261408630491_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +234,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82MPV/his-butler-up-in-flames">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47J12/his-butler-careful-tending">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Young Master arrives in London only to find the city engulfed by flames. After<br>an ominous warning from the undertaker, Ciel attempts to visit the queen, but he’s shocked<br>by his treatment at the hands of the palace guards.</p>
+<p align="center">Before they pay the baron a visit, Sebastian decides to take some advice from Soma.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (Portuguese Dub) - Episode 23 - His Butler, Up in Flames</h3></th>
+<th><h3 align="center">Black Butler: Book of Circus (English Dub) - Episode 6 - His Butler, Liaison</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/29c80e56c91786390041a1ec52e67e041481803365_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/65b1f6ba081820e6a2bcc6229221ac751408042412_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +268,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ50ZG/his-butler-up-in-flames">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEMWK/his-butler-liaison">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Young Master arrives in London only to find the city engulfed by flames. After<br>an ominous warning from the undertaker, Ciel attempts to visit the queen, but he’s shocked<br>by his treatment at the hands of the palace guards.</p>
+<p align="center">Sometimes Sebastian's revisions to a plan can be dangerous.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (English Dub) - Episode 23 - His Butler, Up in Flames</h3></th>
+<th><h3 align="center">Black Butler: Book of Circus (English Dub) - Episode 5 - His Butler, Taking Flight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/29c80e56c91786390041a1ec52e67e041481803365_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5d8a54d2ceabf6cb91e7c7f96e54328d1407293589_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +302,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J5QQ/his-butler-up-in-flames">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU4721K/his-butler-taking-flight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Young Master arrives in London only to find the city engulfed by flames. After<br>an ominous warning from the undertaker, Ciel attempts to visit the queen, but he’s shocked<br>by his treatment at the hands of the palace guards.</p>
+<p align="center">Sebastian and Will may well be the most awkward duo in circus history, but Ciel<br>currently has bigger problems.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (Spanish Dub) - Episode 22 - His Butler, Dissolution</h3></th>
+<th><h3 align="center">Black Butler: Book of Circus (English Dub) - Episode 4 - His Butler, Colleague</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8ab901e334f36e40c97e2d736fd250b71481801992_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0d87b8dea5301ce554e49410300ef3d61406827856_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +336,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0N20/his-butler-dissolution">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ73D1/his-butler-colleague">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Young Master’s journey to Paris leads to another showdown with the Queen’s angelic butler<br>and a painful parting of the ways with someone dear to his heart. Can Ciel<br>survive without the demonic assistance he’s grown so accustomed to?</p>
+<p align="center">Sebastian and Ciel have done undercover work before, but this particular job presents some unique<br>challenges.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (Portuguese Dub) - Episode 22 - His Butler, Dissolution</h3></th>
+<th><h3 align="center">Black Butler: Book of Circus (English Dub) - Episode 3 - His Butler, Hired</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8ab901e334f36e40c97e2d736fd250b71481801992_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/43ad41ce55954abcfb4aa61832954aa01406154109_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +370,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0N74/his-butler-dissolution">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2WKE/his-butler-hired">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Young Master’s journey to Paris leads to another showdown with the Queen’s angelic butler<br>and a painful parting of the ways with someone dear to his heart. Can Ciel<br>survive without the demonic assistance he’s grown so accustomed to?</p>
+<p align="center">The air is thick with trapezes, knives, and pointed jibes as Sebastian and Ciel audition<br>for the circus. Then after the excitement dies down, they see an unexpected familiar face<br>in the rehearsal tent...</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (English Dub) - Episode 22 - His Butler, Dissolution</h3></th>
+<th><h3 align="center">Black Butler: Book of Circus (English Dub) - Episode 2 - His Butler, Taking the Stage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8ab901e334f36e40c97e2d736fd250b71481801992_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cc7ecc5d7b203ec5525f67fa5c6e53b61405537199_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +404,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E204/his-butler-dissolution">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J5N1/his-butler-taking-the-stage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Young Master’s journey to Paris leads to another showdown with the Queen’s angelic butler<br>and a painful parting of the ways with someone dear to his heart. Can Ciel<br>survive without the demonic assistance he’s grown so accustomed to?</p>
+<p align="center">After a letter from Queen Victoria, some breaking and entering, and a trip to Undertaker,<br>Sebastian and Ciel go to the circus. The mission: find a large group of missing<br>children. The obstacle: Sebastian loses it a little when he's around cats...</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (Spanish Dub) - Episode 21 - His Butler, Engaging Servants</h3></th>
+<th><h3 align="center">Black Butler: Book of Circus (English Dub) - Episode 1 - His Butler, Presenting</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6e7b8c0503ba4a565f12b7a7f1c1e8d51481800549_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e11c1013807c741cad5f0a66cbd7f4f01405012767_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +438,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMKZ2/his-butler-engaging-servants">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82MJ7/his-butler-presenting">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A series of flashbacks reveals the secret pasts - and hidden talents - of the<br>Phantomhive staff. While the servants go about their daily duties, the Young Master gives a<br>chess lesson to pretty lady.</p>
+<p align="center">Our favorite butler and master are back with more tea and cakes, more cutlery-based warfare,<br>and more evil to rout from the London underworld.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (Portuguese Dub) - Episode 21 - His Butler, Engaging Servants</h3></th>
+<th><h3 align="center">Black Butler II OVA (Spanish Dub) - Episode 6 - The Story of Will the Reaper</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6e7b8c0503ba4a565f12b7a7f1c1e8d51481800549_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7cfaad728fc5a873cc282f139b608c481511872308_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -472,13 +472,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ73KZ/his-butler-engaging-servants">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU472J9/the-story-of-will-the-reaper">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A series of flashbacks reveals the secret pasts - and hidden talents - of the<br>Phantomhive staff. While the servants go about their daily duties, the Young Master gives a<br>chess lesson to pretty lady.</p>
+<p align="center">Will and Grell are tasked with training the new students of the Reaper Association. As<br>they lead the recruits through the process, Will reflects on the past, when he and<br>Grell first teamed up to take the Reaper exam.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (English Dub) - Episode 21 - His Butler, Engaging Servants</h3></th>
+<th><h3 align="center">Black Butler II OVA (Portuguese Dub) - Episode 6 - The Story of Will the Reaper</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6e7b8c0503ba4a565f12b7a7f1c1e8d51481800549_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7cfaad728fc5a873cc282f139b608c481511872308_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -506,13 +506,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2W7GM/his-butler-engaging-servants">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ73X1/the-story-of-will-the-reaper">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A series of flashbacks reveals the secret pasts - and hidden talents - of the<br>Phantomhive staff. While the servants go about their daily duties, the Young Master gives a<br>chess lesson to pretty lady.</p>
+<p align="center">Will and Grell are tasked with training the new students of the Reaper Association. As<br>they lead the recruits through the process, Will reflects on the past, when he and<br>Grell first teamed up to take the Reaper exam.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (Spanish Dub) - Episode 20 - His Butler, Escaping</h3></th>
+<th><h3 align="center">Black Butler II OVA (English Dub) - Episode 6 - The Story of Will the Reaper</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ec2aeb238c455f2c80847ee051058541481799187_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7cfaad728fc5a873cc282f139b608c481511872308_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -540,13 +540,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47J3M/his-butler-escaping">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU0714G/the-story-of-will-the-reaper">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While the Young Master continues his investigation into the opium-filled, counterfeit candy wrappers, the Butler<br>is chained and tortured in the Tower of London.</p>
+<p align="center">Will and Grell are tasked with training the new students of the Reaper Association. As<br>they lead the recruits through the process, Will reflects on the past, when he and<br>Grell first teamed up to take the Reaper exam.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (Portuguese Dub) - Episode 20 - His Butler, Escaping</h3></th>
+<th><h3 align="center">Black Butler II OVA (Spanish Dub) - Episode 5 - The Threads of the Spider's Story</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ec2aeb238c455f2c80847ee051058541481799187_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/27cacf3355b67c538f94c971acc0ea071511867735_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -574,13 +574,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J505/his-butler-escaping">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ73N9/the-threads-of-the-spiders-story">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While the Young Master continues his investigation into the opium-filled, counterfeit candy wrappers, the Butler<br>is chained and tortured in the Tower of London.</p>
+<p align="center">After freeing a butterfly from a spider’s web - and removing one of the insect’s<br>wings to ensure it never flies away - Alois Trancy faces difficult questions about himself<br>and his relationship with Claude</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (English Dub) - Episode 20 - His Butler, Escaping</h3></th>
+<th><h3 align="center">Black Butler II OVA (Portuguese Dub) - Episode 5 - The Threads of the Spider's Story</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ec2aeb238c455f2c80847ee051058541481799187_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/27cacf3355b67c538f94c971acc0ea071511867735_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -608,13 +608,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ50JG/his-butler-escaping">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J541/the-threads-of-the-spiders-story">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While the Young Master continues his investigation into the opium-filled, counterfeit candy wrappers, the Butler<br>is chained and tortured in the Tower of London.</p>
+<p align="center">After freeing a butterfly from a spider’s web - and removing one of the insect’s<br>wings to ensure it never flies away - Alois Trancy faces difficult questions about himself<br>and his relationship with Claude</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (Spanish Dub) - Episode 19 - His Butler, Imprisoned</h3></th>
+<th><h3 align="center">Black Butler II OVA (English Dub) - Episode 5 - The Threads of the Spider's Story</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/57166abf8c83d2389aa19fd85e398c6b1481799785_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/27cacf3355b67c538f94c971acc0ea071511867735_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -642,13 +642,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEMDX/his-butler-imprisoned">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9JZZ/the-threads-of-the-spiders-story">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">There’s a potent new drug plaguing the backstreets of London, and it’s being sold in<br>stolen Phantomhive candy wrappers. The Young Master is being set up, but what manner of<br>man wants him to take the fall?</p>
+<p align="center">After freeing a butterfly from a spider’s web - and removing one of the insect’s<br>wings to ensure it never flies away - Alois Trancy faces difficult questions about himself<br>and his relationship with Claude</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler (Portuguese Dub) - Episode 19 - His Butler, Imprisoned</h3></th>
+<th><h3 align="center">Black Butler II OVA (Spanish Dub) - Episode 4 - Ciel in Wonderland Part II</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/57166abf8c83d2389aa19fd85e398c6b1481799785_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b1a4a856eb491c9015ca4599ef4b38df1511938482_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -676,13 +676,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82MGV/his-butler-imprisoned">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2WJP/ciel-in-wonderland-part-ii">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">There’s a potent new drug plaguing the backstreets of London, and it’s being sold in<br>stolen Phantomhive candy wrappers. The Young Master is being set up, but what manner of<br>man wants him to take the fall?</p>
+<p align="center">As the young master tracks his rabbit-eared butler through Wonderland, he meets an enigmatic caterpillar<br>and the Cheshire Cat. After joining the Mad Hatter for tea, Ciel’s adventure takes a<br>dark turn when he’s accused of a crime by the Queen of Hearts.</p>
 </td>
 </tr>
 </table>
