@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Apr 14, 2024, 9:40:21 PM</em></p>
+<p align="center"><em>Updated on: Apr 15, 2024, 10:14:36 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,482 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 (Portuguese Dub) - Episode 10 - The Hero and the Guide</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e74c68e7bea3be5b4bd916ecf4454f5c1710081633_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE4NG/the-hero-and-the-guide">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Van and the others rush into Red's shop, accusing Esta of betrayal. Red, who encountered<br>Van's values during their discussion, makes a bold move to make contact with him in<br>an attempt to overturn his rigid thinking.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside Season2 (Spanish Dub) - Episode 10 - The Hero and the Guide</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e74c68e7bea3be5b4bd916ecf4454f5c1710081633_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ57P9/the-hero-and-the-guide">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Van and the others rush into Red's shop, accusing Esta of betrayal. Red, who encountered<br>Van's values during their discussion, makes a bold move to make contact with him in<br>an attempt to overturn his rigid thinking.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy! (Portuguese Dub) - Episode 12 - The Most Beautiful Thing</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5069478d8aa0a784a2a6a47b4df34eb41711283326_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7Q5G/the-most-beautiful-thing">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Michel has decided who he'll give his black powder to, but Rishe plans to stop<br>him using experience from her past lives and relationships built in this life. Will she<br>be able to convince Michel? What will Arnold do when he sees the results of<br>her plot?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (English Dub) - Episode 25 - Those Who Illuminate The World's Darkness</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/54f4c62d7db8031daa874b0c66e213c51711857151_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07VZV/those-who-illuminate-the-worlds-darkness">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Bilac finds jewelry among Sunraku's loot. In order to show them to a jeweler, she<br>introduces Sunraku to Aramiys, the swordsman of Cazzeria, and vice captain of the Musketeers in<br>Boots. Later they head to Eighthold where they encounter the Professor.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (Spanish Dub) - Episode 24 - Rare Items, Worth More Than Life Itself</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/efd4a6f29ce3b03a6f9d14d818b804bf1711265548_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EN9M/rare-items-worth-more-than-life-itself">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sunraku returns to the Canyon Ancient Souls, where he encounters a swarm of Crystal Scorpions<br>that are over level 100. Struggling to acquire the rare materials he seeks, Sunraku watches<br>the scorpions' movements and comes up with a secret plan...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (German Dub) - Episode 24 - Rare Items, Worth More Than Life Itself</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/efd4a6f29ce3b03a6f9d14d818b804bf1711265548_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX13NP/rare-items-worth-more-than-life-itself">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sunraku returns to the Canyon Ancient Souls, where he encounters a swarm of Crystal Scorpions<br>that are over level 100. Struggling to acquire the rare materials he seeks, Sunraku watches<br>the scorpions' movements and comes up with a secret plan...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (Italian Dub) - Episode 24 - Rare Items, Worth More Than Life Itself</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/efd4a6f29ce3b03a6f9d14d818b804bf1711265548_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M23M/rare-items-worth-more-than-life-itself">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sunraku returns to the Canyon Ancient Souls, where he encounters a swarm of Crystal Scorpions<br>that are over level 100. Struggling to acquire the rare materials he seeks, Sunraku watches<br>the scorpions' movements and comes up with a secret plan...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (Hindi Dub) - Episode 24 - Rare Items, Worth More Than Life Itself</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/efd4a6f29ce3b03a6f9d14d818b804bf1711265548_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN2MK/rare-items-worth-more-than-life-itself">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sunraku returns to the Canyon Ancient Souls, where he encounters a swarm of Crystal Scorpions<br>that are over level 100. Struggling to acquire the rare materials he seeks, Sunraku watches<br>the scorpions' movements and comes up with a secret plan...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (Tamil Dub) - Episode 24 - Rare Items, Worth More Than Life Itself</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/efd4a6f29ce3b03a6f9d14d818b804bf1711265548_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJP9N/rare-items-worth-more-than-life-itself">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sunraku returns to the Canyon Ancient Souls, where he encounters a swarm of Crystal Scorpions<br>that are over level 100. Struggling to acquire the rare materials he seeks, Sunraku watches<br>the scorpions' movements and comes up with a secret plan...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier (French Dub) - Episode 23 - Bird with Rabbits vs. Skeletal Choir</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/decc594d791590285a8ce914f25b32cc1710662311_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9XWJ/bird-with-rabbits-vs-skeletal-choir">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sunraku, Emul, and Bilac face off against the area boss the Humming Lich in the<br>Canyon of Ancient Souls. Struggling to inflict damage, Bilac rushes to rework the Dullahan General's<br>Decapitator into a holy-attribute weapon.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 - Episode 14 - Wedding Reception</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4a90ac9092f36a1e0b729711ab690b5a1713106293_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WN49/wedding-reception">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The newlyweds have settled into their new home. Next, custom dictates they throw a party<br>for everyone they know. Preparing to host a crowd won't be easy. And even if<br>they pull it off, the big day has surprises in store.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World - Episode 2 - Above and Below</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f2f1e88efc51a1b2a0015cacb024efe81713106268_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JWXE/above-and-below">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">To prepare for the political turmoil ahead, Ars is now determined to recruit the most<br>talented people he can find with the help of his Appraisal skill, and he's off<br>to a larger town to see if he can scout someone with an aptitude for<br>magic.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Grandpa and Grandma Turn Young Again - Episode 2 - Grandpa and Grandma and Their Children</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e400fd080f240bba905c760e4411c7041713106229_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE1QQ/grandpa-and-grandma-and-their-children">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Shouzou and Ine often have visitors dropping by. One day, their granddaughter, Shiori, comes to<br>their house after a fight with her father, Takahiro. He's a doctor. Shiori aims to<br>follow in his footsteps, but she's worried about her grades and friendships.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Vampire Dormitory - Episode 2 - Love 2. The pretty boy is targeted.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/40bd9cdf0ad563c2664ac92bc9bd94761713104464_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JW2N/love-2-the-pretty-boy-is-targeted">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mito meets Takara and Juri, part-time workers with Ruka, as she ends up attending Hijirioka<br>Boys' High School. Now, working at the Café, Mito enjoys her happy new life when<br>she's approached by her classmate, Ren Nikaido, who knows Ruka is a vampire, and…</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">The Duke of Death and His Maid Season 3 - Episode 26 - The Duke, Alice, and the Mysterious Clone</h3></th>
 </tr>
@@ -207,482 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Behold, France’s enigmatic Eiffel Attack! Team Japan stands at the ready, reflexes primed, but it’s<br>Pierre and Napoleon all the way. Perfect pass work epitomizes the French forces as they<br>make their way to the goal. Can Tsubasa resuscitate the team?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">One Piece: Egghead Island (1089-Current) - The Log of the Rivalry! The Straw Hats vs. Cipher Pol</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3620446853cb935123d5340dc4b8b4571713057963_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/14/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUXPGV1/the-log-of-the-rivalry-the-straw-hats-vs-cipher-pol">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Robin and Franky look back on the history of Lucci, Kaku, and the rest of<br>the Cipher Pol agents who forced their way into Egghead. They talk about how the<br>rivalry between the Straw Hats and those Cipher Pol agents evolved since they met in<br>Water Seven.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Wonderful Precure! - Episode 11 - A Giant Creature Hiding in the Mountains?!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cf62a04440ec57d6684ded949d130a381713055992_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/14/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UV3KPN/a-giant-creature-hiding-in-the-mountains">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Komugi and the gang hear a rumor about a mysterious creature appearing at Mount Miharashi<br>and decide to investigate. They climb to the summit but don’t see any signs of<br>a Garugaru, but that’s where they notice something important.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Daily Life of the Immortal King (Season 4) (English Dub) - Episode 11 - Birth of Evil Sword Lord</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/20101ae061d03bd7800eeb4b0f8919231708211915_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JVKM/birth-of-evil-sword-lord">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Daily Life of the Immortal King (Season 4) (Hindi Dub) - Episode 7 - Art of Explosion?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bb49570a56ef49d93c62f1f395d8c6fd1705788104_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0D88/art-of-explosion">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Hindi Dub) - Episode 12 - Magic Power</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4ad2b18453604c10f4c57ea9db72564c1711216526_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMG17/magic-power">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With Avancia's fate hanging in the balance, the final battle between Rud's party and the<br>demon king known as Greed begins.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tales of Wedding Rings (Portuguese Dub) - Episode 12 - Episode 12</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e1becded625650ebfdc029c20b3b9f4f1711195852_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M2GM/episode-12">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Satou and his friends return to Arnulus among countless corpses of imperial soldiers and monsters.<br>Satou encounters the Abyss King in a hopeless situation. Using the Ring Princesses' power he<br>challenges the Abyss King in a confrontation to save Arnulus!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tales of Wedding Rings (German Dub) - Episode 12 - Episode 12</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e1becded625650ebfdc029c20b3b9f4f1711195852_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN25K/episode-12">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Satou and his friends return to Arnulus among countless corpses of imperial soldiers and monsters.<br>Satou encounters the Abyss King in a hopeless situation. Using the Ring Princesses' power he<br>challenges the Abyss King in a confrontation to save Arnulus!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tales of Wedding Rings (Spanish Dub) - Episode 12 - Episode 12</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e1becded625650ebfdc029c20b3b9f4f1711195852_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9X3J/episode-12">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Satou and his friends return to Arnulus among countless corpses of imperial soldiers and monsters.<br>Satou encounters the Abyss King in a hopeless situation. Using the Ring Princesses' power he<br>challenges the Abyss King in a confrontation to save Arnulus!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (German Dub) - Episode 11 - Pink Spider</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ac49d5632263d304219406c81c2224f01710601990_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE48G/pink-spider">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Izumo and the rest of the team succeed at thwarting the threat of the Illuminati,<br>with the help of her mother, Tamamo. As the Knights of the True Cross gain<br>control of Inari, the once-continuous turmoil and fighting finally calm down throughout the land. However,<br>Renzo Shima leaves with the Illuminati as a member of their team. Suguro tries to<br>explain that Renzo was a spy for the Illuminati to his elder brothers, Juzo and<br>Kinzo, who've come to help from the Kyoto Branch – only to learn of an<br>even more shocking truth from Juzo.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (French Dub) - Episode 11 - Pink Spider</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ac49d5632263d304219406c81c2224f01710601990_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5749/pink-spider">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Izumo and the rest of the team succeed at thwarting the threat of the Illuminati,<br>with the help of her mother, Tamamo. As the Knights of the True Cross gain<br>control of Inari, the once-continuous turmoil and fighting finally calm down throughout the land. However,<br>Renzo Shima leaves with the Illuminati as a member of their team. Suguro tries to<br>explain that Renzo was a spy for the Illuminati to his elder brothers, Juzo and<br>Kinzo, who've come to help from the Kyoto Branch – only to learn of an<br>even more shocking truth from Juzo.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Blue Exorcist -Shimane Illuminati Saga- (English Dub) - Episode 6 - I Can't Rely on Anyone</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/aecc77ec8995749d6eb10cd615e06f051707585932_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47PZN/i-cant-rely-on-anyone">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Takara summons Izumo's familiar, Fox God Mike, to talk about the past surrounding the Kamiki<br>family and the Inari Taisha Shrine. Coming from a long line of shrine maidens, Tamamo,<br>Izumo and Tsukumo's mother, serves as the head of the family who must bear the<br>burden of controlling the fox demon, Nine Tails. Although Izumo possesses excellent divine power as<br>a shrine maiden, she has no one she can rely on in her private life<br>– she spends her days with her boisterous mother and younger sister. Those days fell<br>into ruin when the Inari Light Foundation appeared and made its move.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">A Sign of Affection (Portuguese Dub) - Episode 12 - Our World</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0f6de20f82043358ab1ee19aedf246cd1711200666_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47PZ4/our-world">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Yuki and Itsuomi have their first date as a couple, and it leads to them<br>learning more about each other.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">A Sign of Affection (French Dub) - Episode 12 - Our World</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0f6de20f82043358ab1ee19aedf246cd1711200666_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMJ30/our-world">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Yuki and Itsuomi have their first date as a couple, and it leads to them<br>learning more about each other.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">A Sign of Affection (Spanish Dub) - Episode 12 - Our World</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0f6de20f82043358ab1ee19aedf246cd1711200666_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3ENPP/our-world">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Yuki and Itsuomi have their first date as a couple, and it leads to them<br>learning more about each other.</p>
 </td>
 </tr>
 </table>
