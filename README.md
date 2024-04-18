@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Apr 17, 2024, 7:20:03 PM</em></p>
+<p align="center"><em>Updated on: Apr 18, 2024, 7:50:16 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Fire Force Season 2 (Telugu Dub) - Episode 11 - Dark Hero</h3></th>
+<th><h3 align="center">LAID-BACK CAMP SEASON2 (English Dub) - Episode 13 - I'm Home</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5bac3c425b4177419aa52070a1b71d811599805070_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6d6b6322f8e653203c56bf4673de455c1617257736_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX13W4/dark-hero">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0DQ4/im-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After reporting their findings to Obi, the team is dismayed to hear that their discoveries<br>are being quashed by the church, prompting Licht to turn to unofficial channels. Joker approaches<br>Benimaru with a proposition concerning the Holy Sol Temple.</p>
+<p align="center">It’s the last day of the Izu trip. The group visit the Iidas, who had<br>helped them on their Izu trip and say hi to the hot spring capybaras.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fire Force Season 2 (Tamil Dub) - Episode 11 - Dark Hero</h3></th>
+<th><h3 align="center">Classroom of the Elite Season 3 (Portuguese Dub) - Episode 13 - Love is the best teacher.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5bac3c425b4177419aa52070a1b71d811599805070_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/daa70f435d091af2062bb6184b760c8a1711544266_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3ENQ8/dark-hero">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE4XZ/love-is-the-best-teacher">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After reporting their findings to Obi, the team is dismayed to hear that their discoveries<br>are being quashed by the church, prompting Licht to turn to unofficial channels. Joker approaches<br>Benimaru with a proposition concerning the Holy Sol Temple.</p>
+<p align="center">It's spring break. Shiina calls Ayanokoji to discuss books. Meanwhile, Class B's Kanzaki appears before<br>Ryuen, who is having a secret meeting with Hashimoto. Although the class was defeated, Kanzaki<br>faces Ryuen without hesitation.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime (Tamil Dub) - Episode 9 - Attack of the Ogres</h3></th>
+<th><h3 align="center">Classroom of the Elite Season 3 (German Dub) - Episode 13 - Love is the best teacher.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c31d537b1e83ad171aea351e910ef94b1543242345_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/daa70f435d091af2062bb6184b760c8a1711544266_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9N73/attack-of-the-ogres">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5791/love-is-the-best-teacher">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rimuru and the Goblins' village is developing nicely. The Dwarves are building all kinds of<br>houses and furniture, and the local Goblin Lords have appointed Rigurd as the Goblin King.<br>As Rimuru watches everything come together, he decides to return to the cave and test<br>the skills he received from Shizu. While there, he receives a request for help from<br>Ranga through Thought Communication, and he rushes back to find his friends facing six Ogres.<br>One of them orders Rimuru to "reveal his true identity." What is going on in<br>the Great Forest of Jura?</p>
+<p align="center">It's spring break. Shiina calls Ayanokoji to discuss books. Meanwhile, Class B's Kanzaki appears before<br>Ryuen, who is having a secret meeting with Hashimoto. Although the class was defeated, Kanzaki<br>faces Ryuen without hesitation.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime (Telugu Dub) - Episode 9 - Attack of the Ogres</h3></th>
+<th><h3 align="center">Classroom of the Elite Season 3 (Spanish Dub) - Episode 13 - Love is the best teacher.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c31d537b1e83ad171aea351e910ef94b1543242345_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/daa70f435d091af2062bb6184b760c8a1711544266_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJ3XD/attack-of-the-ogres">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47PD1/love-is-the-best-teacher">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rimuru and the Goblins' village is developing nicely. The Dwarves are building all kinds of<br>houses and furniture, and the local Goblin Lords have appointed Rigurd as the Goblin King.<br>As Rimuru watches everything come together, he decides to return to the cave and test<br>the skills he received from Shizu. While there, he receives a request for help from<br>Ranga through Thought Communication, and he rushes back to find his friends facing six Ogres.<br>One of them orders Rimuru to "reveal his true identity." What is going on in<br>the Great Forest of Jura?</p>
+<p align="center">It's spring break. Shiina calls Ayanokoji to discuss books. Meanwhile, Class B's Kanzaki appears before<br>Ryuen, who is having a secret meeting with Hashimoto. Although the class was defeated, Kanzaki<br>faces Ryuen without hesitation.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions (German Dub) - Episode 10 - The Case of the Poisoned Latte</h3></th>
+<th><h3 align="center">Classroom of the Elite Season 3 (French Dub) - Episode 13 - Love is the best teacher.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bc83f5d418e0046fac0828d4600752fd1701692498_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/daa70f435d091af2062bb6184b760c8a1711544266_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5Z7V/the-case-of-the-poisoned-latte">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2W13W/love-is-the-best-teacher">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Toto is shadowed by a reporter who's a huge fan of his for the way<br>he's solved one difficult case after another. They step into a cafe where Ron happens<br>to be working, making things a little awkward. Then, a customer collapses to the ground—poisoned!</p>
+<p align="center">It's spring break. Shiina calls Ayanokoji to discuss books. Meanwhile, Class B's Kanzaki appears before<br>Ryuen, who is having a secret meeting with Hashimoto. Although the class was defeated, Kanzaki<br>faces Ryuen without hesitation.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord (Hindi Dub) - Episode 12 - The Hidden Boss Battles the Demon Lord</h3></th>
+<th><h3 align="center">The Great Cleric (French Dub) - Episode 12 - S-Rank Healer and Exorcist Luciel's Declaration</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3744d14aadbc5e5378626df11ba004dd1711443700_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e36bc192bdd4d286576dd56ab49c3b821695315633_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMGD8/the-hidden-boss-battles-the-demon-lord">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47DEQ/s-rank-healer-and-exorcist-luciels-declaration">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">At long last, Yumiella and her companions reach the Demon Lord's castle, but his power<br>is so great that she's the only one who stands a chance against him. Then<br>the Demon Lord tells them the true story of his connection to Valschein's royal family.</p>
+<p align="center">The depths of the undead labyrinth force Luciel to keep going, testing his mettle as<br>a healer and an adventurer. What will he find at the end, and what will<br>he find when he finally returns to the surface?</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Log Horizon (German Dub) - Episode 10 - Grab It in Your Hand</h3></th>
+<th><h3 align="center">Metallic Rouge (Tamil Dub) - Episode 13</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8814115b637b48a606e19f29bff464e31386120327_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cd4e6e594094d64c3b0c06ec397b39041713372068_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJPEZ/grab-it-in-your-hand">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU20D58">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shiroe confronts the 10 guild masters who represent Akihabara with the need to revitalize the<br>town and bring peace and order.  His calm and forceful manner brings them over,<br>and the government of Akihabara, the "Round Table", is founded.  After this work is<br>done, his guild, "Log Horizon", joyously moves to their new location.  That night, Nyanta<br>fixes them his special curry.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Golden Kamuy (German Dub) - Episode 35 - Sin and Impurity</h3></th>
+<th><h3 align="center">Metallic Rouge (Telugu Dub) - Episode 13</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3ecf1517ab1f0f1c7c4e36918f7605841607939259_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cd4e6e594094d64c3b0c06ec397b39041713372044_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9XE4/sin-and-impurity">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU8JZW8">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Asirpa, Shiraishi, and Sugimoto are finally reunited in the frozen North.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (French Dub) - Episode 11 - lay/key</h3></th>
+<th><h3 align="center">Metallic Rouge (Hindi Dub) - Episode 13</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1ecff5b4f181e5e7e9cdec2874902baa1600079975_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cd4e6e594094d64c3b0c06ec397b39041713370216_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2W184/laykey">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVE5JG">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In his battle with Mori, Ilpyo unleashes the charyeok Nine-Tails and awakens as the Key.<br>Mori uses his Blue Dragon Tempest, but Ilpyo stops it easily. The difference in strength<br>between them seems clear, but then, energy suddenly surges forth from Mori's body...</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Yashahime: Princess Half-Demon (German Dub) - Episode 29 - The Girl Named Rion</h3></th>
+<th><h3 align="center">Metallic Rouge (Italian Dub) - Episode 13</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/985b955720d82524a5bab62d15adf3eb1635556350_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/344757a5f8becbbffb122128d8024edd1713370244_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ57Z4/the-girl-named-rion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUEMVP3">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rion used to travel the world with her father Kirinmaru, but one day, her soul<br>was sealed deep within Mount Musubi. Longing for freedom and peace, Rion asks Setsuna to<br>sever the thread of fate that connects her to her father.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">RoOT - Route of OddTaxi - - Episode 3 - Love Thy Neighbor</h3></th>
+<th><h3 align="center">Metallic Rouge (Castilian Dub) - Episode 13</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/01b225baaf7d9f630ad16f3c4d93606f1713278856_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd5ace0d44b12ff0277a6d36d8cae39e1713370186_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU0G7N9/love-thy-neighbor">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUEMV7W">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rena pays a visit to Donraku and Kabasawa. Sato tries to tail Dobu to get<br>his stolen photos back, but is caught in the process.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Oblivion Battery - Episode 2 - Wanna Play Together?</h3></th>
+<th><h3 align="center">Metallic Rouge (French Dub) - Episode 13</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/53f1101b3627dcfc98c37684549a52c61713252965_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b87f9aa57a53191c1edaf1052a6dab8a1713370100_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2G57/wanna-play-together">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2NPD3">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kei still refuses to play baseball, but Haruka manages to lure him out to do<br>batting practice with a certain offer. Aoi Todo and Shunpei Chihaya, who also gave up<br>baseball like Taro did, can't hide their shock to witness their practice.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TOUKEN RANBU KAI KYODEN - Episode 1 - A Recurring Dream</h3></th>
+<th><h3 align="center">Metallic Rouge (German Dub) - Episode 13</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/da1a665faff465901639e4f8bd22d6b01713271753_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2249592c04b42965830709e8251bae031713370125_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JV0W/a-recurring-dream">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UX4J3V">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Souza is tormented by frequent nightmares of the Honnoji Incident, which serves as a precursor<br>to the arrival of Fudou Yukimitsu, another Oda Nobunaga sword, to the Citadel.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TOUKEN RANBU KAI KYODEN - Episode 2 - The Stories That Tell</h3></th>
+<th><h3 align="center">Viral Hit - Episode 2 - I Have to Become Stronger</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/29f15e430ba6341b91bf4267fe6193681713271811_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00ed0487b23ad76461754b33afcbce341713366793_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2X4W/the-stories-that-tell">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07XD7/i-have-to-become-stronger">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yamanbagiri has been appointed Attendant Sword, and his first task is to come up with<br>a countermeasure to the increase in the Time Retrograde Army's strength. To add to that,<br>Fudou Yukimitsu is also proving to be a problem…</p>
+<p align="center">After tasting viral success, Hobin and Snapper try to come up with ways to keep<br>their new audience interested. However, when Hobin calls out Pakgo live on stream, he finds<br>out he's not as ready for a fight as he thought he was.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TOUKEN RANBU KAI KYODEN - Episode 3 - A Worthy Man</h3></th>
+<th><h3 align="center">BLUE LOCK (Castilian Dub) - Episode 12 - The Second Selection</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cbdf41034c1bc129bc475dab583772c21713278808_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8c015f5e9ecc31135a10fefb0f35e03d1671908514_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7QKQ/a-worthy-man">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU823XG/the-second-selection">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Things come to a head between Fudou Yukimutsu and Heshikiri Hasebe, and Yamanbagiri has to<br>come up with a way to resolve the Oda swords' issues.</p>
+<p align="center">With many candidates dropping out, Blue Lock project moves on to the second selection. It’s<br>where a teammate becomes a foe, and a foe becomes a teammate. And here, Isagi<br>meets Itoshi Rin, the strongest egoist he’s ever met, the top player of the new<br>Blue Lock ranking and the little brother of the genius Itoshi Sae. To evolve even<br>further, Isagi’s battle proceeds to a new stage.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Unnamed Memory - Episode 2 - The Past Recalled Once Again</h3></th>
+<th><h3 align="center">BLUE LOCK (Arabic Dub) - Episode 12 - The Second Selection</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9dd07c937f557432f8f42433ccb645601713252817_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8c015f5e9ecc31135a10fefb0f35e03d1671908514_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2G5N/the-past-recalled-once-again">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JV93/the-second-selection">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tinasha has just arrived at Farsas Castle, when she finds that she must set off<br>for the border. There, she confronts her past memories, as well as a foe who<br>has been biding time for seventy years.</p>
+<p align="center">With many candidates dropping out, Blue Lock project moves on to the second selection. It’s<br>where a teammate becomes a foe, and a foe becomes a teammate. And here, Isagi<br>meets Itoshi Rin, the strongest egoist he’s ever met, the top player of the new<br>Blue Lock ranking and the little brother of the genius Itoshi Sae. To evolve even<br>further, Isagi’s battle proceeds to a new stage.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Log Horizon (Hindi Dub) - Episode 23 - Student of the Mage</h3></th>
+<th><h3 align="center">BARTENDER Glass of God - Episode 3 - The Perfect Taste</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4cb9f300d408191105ab8b5db581b5771393979623_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d0bc505b8112995bbdb2feab924e88fa1713357590_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9NEP/student-of-the-mage">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2NJP0/the-perfect-taste">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The second day of the Scales Festival in Akihabara arrives.  Akatsuki has gotten closer<br>to Shiroe, and so is very happy all day, and even seems to be enjoying<br>her fights with Naotsugu.  Meanwhile, Minori is uncertain with how to deal with her<br>feelings towards him, and goes to speed to Karashin. Karashin is overloaded with paperwork so<br>she decides to help.  It seems like a lot of land people merchants have<br>come to Akihabara...</p>
+<p align="center">Award-winning bartender Kuzuhara Ryuichi finds himself in an impromptu bartending competition with Sasakura Ryu at<br>the prodding of Chairman Taizo. A young woman comes to Edenhall, determined to see how<br>Ryu mixes a B&B.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ranking of Kings (Russian) - Episode 23 - The King and the Sun</h3></th>
+<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 - Episode 2 - A Smile for This Dour Girl!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b734ed22d4c8b4d16103ab8026ec379f1648130396_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2c94e5e64e2e8aaa2e6ec3cac426545a1713357363_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07V3K/the-king-and-the-sun">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0K1M/a-smile-for-this-dour-girl">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Daida acknowledges and accepts Miranjo's crimes, then forgives her. As part of his atonement, Daida<br>relinquishes the throne to Bojji. However, Kage feels out of place with his friend's new<br>position of distinction, and leaves Bojji to reign on his own.</p>
+<p align="center">Kazuma and the gang receive a letter from Princess Iris. She wants to share a<br>meal with them while hearing about their adventures. While Kazuma is giddy with wonderment of<br>her beauty, Darkness is terrified of heads rolling in the event of any rudeness.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ranking of Kings (Telugu Dub) - Episode 23 - The King and the Sun</h3></th>
+<th><h3 align="center">Date A Live V - Episode 2 - Final Respite</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b734ed22d4c8b4d16103ab8026ec379f1648130396_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/88ec7a3f4db43b3a59ea17d6d22831861713357330_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MNJ5/the-king-and-the-sun">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0K57/final-respite">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Daida acknowledges and accepts Miranjo's crimes, then forgives her. As part of his atonement, Daida<br>relinquishes the throne to Bojji. However, Kage feels out of place with his friend's new<br>position of distinction, and leaves Bojji to reign on his own.</p>
+<p align="center">The crew of Fraxinus sets about preparing for their battle against DEM with haste and<br>high morale. The Spirits work hard to prepare snacks in order to encourage Shido and<br>everyone else as the decisive battle draws closer by the hour...</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ranking of Kings (Russian) - Episode 22 - A Promise to the Demon</h3></th>
+<th><h3 align="center">Mysterious Disappearances - Episode 2 - Schoolhouse, Drool, and an Apartment Wife</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/74282144066335553c1c811f89644e201647519417_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8ee9db6576ca833112f0a5cecb022cad1713357274_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/16/2024</td>
+<td align="center">4/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9X54/a-promise-to-the-demon">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47QMQ/schoolhouse-drool-and-an-apartment-wife">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Bosse shows Daida the happy memories of the time he spent with Miranjo, and how<br>he received his strength from the demon. After catching the demon, Despa attempts to get<br>his wish for Ouken granted, but Bojji and Daida have a different wish in mind.</p>
+<p align="center">The curse of Tsukuyomi's Water of Youth hasn't finished with Sumireko yet. Meanwhile, Adashino's younger<br>sister, Oto, picks up on the presence of a Curiosity at the school she attends.<br>Sumireko poses as Oto's friend in order to infiltrate the school.</p>
 </td>
 </tr>
 </table>
