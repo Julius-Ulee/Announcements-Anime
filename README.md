@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Apr 19, 2024, 7:19:58 PM</em></p>
+<p align="center"><em>Updated on: Apr 20, 2024, 7:51:15 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,618 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez - Episode 13 - A Sliver of Light </h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7b72ae359564c141e08bde0f8dae46741713568969_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU20EXK/a-sliver-of-light-">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Right as it seems that everything will return to Zero, the seventh Fated One's card<br>that Hikari brought saves Akina from his pinch! "Even though it's just a glimmer of<br>hope, a miracle will descend upon those who reach out their hand". Can the future<br>actually be changed!?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 10 - JUJUTSU KAISEN Takes World Record, SPY x FAMILY Merch, and Isekai Anime Guide</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b3298c647418221498dfc08af3dd5e71713567217_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU074QV/jujutsu-kaisen-takes-world-record-spy-x-family-merch-and-isekai-anime-guide">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Nick, LeAlec and Leah are reacting to JUJUTSU KAISEN setting a Guinness World Record previously<br>held by Attack on Titan, the Gundam 45th anniversary, and a new clothing capsule for<br>SPY x FAMILY by streetwear brand BAIT. Then, we’re diving into the isekai genre, including<br>how it started and what anime are showcasing it best!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (English Dub) - Episode 49 - Demons and Strategies</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fc56833f14c0d6655ddf80feed0d7b831712325422_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE4JZ/demons-and-strategies">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rimuru has returned to Jura after having attended Walpurgis. Diablo informs Rimuru of his mission<br>to deal with the Kingdom of Falmuth. Having presented the kingdom with three options at<br>a resolution, the clock on the week for their answer ticks down.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Frieren: Beyond Journey's End (German Dub) - Episode 28 - It Would Be Embarrassing When We Met Again</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fccf5fe3454a077e0d68299b7453e5121711114121_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGM2N/it-would-be-embarrassing-when-we-met-again">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As the first-class mage exam concludes and the test-takers go their separate ways, farewell leads<br>to departure - but the next stage of Frieren's journey has only just begun.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Frieren: Beyond Journey's End (Italian Dub) - Episode 28 - It Would Be Embarrassing When We Met Again</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fccf5fe3454a077e0d68299b7453e5121711114121_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMGQN/it-would-be-embarrassing-when-we-met-again">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As the first-class mage exam concludes and the test-takers go their separate ways, farewell leads<br>to departure - but the next stage of Frieren's journey has only just begun.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Frieren: Beyond Journey's End (Castilian Dub) - Episode 28 - It Would Be Embarrassing When We Met Again</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fccf5fe3454a077e0d68299b7453e5121711114121_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5ZVE/it-would-be-embarrassing-when-we-met-again">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As the first-class mage exam concludes and the test-takers go their separate ways, farewell leads<br>to departure - but the next stage of Frieren's journey has only just begun.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Frieren: Beyond Journey's End (Hindi Dub) - Episode 28 - It Would Be Embarrassing When We Met Again</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fccf5fe3454a077e0d68299b7453e5121711114121_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0DX4/it-would-be-embarrassing-when-we-met-again">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As the first-class mage exam concludes and the test-takers go their separate ways, farewell leads<br>to departure - but the next stage of Frieren's journey has only just begun.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Frieren: Beyond Journey's End (Tamil Dub) - Episode 28 - It Would Be Embarrassing When We Met Again</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fccf5fe3454a077e0d68299b7453e5121711114121_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU823EG/it-would-be-embarrassing-when-we-met-again">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As the first-class mage exam concludes and the test-takers go their separate ways, farewell leads<br>to departure - but the next stage of Frieren's journey has only just begun.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Portuguese Dub) - Episode 13 - The Journey Begins!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3724bc4a30d0e75575dbe9910e5e06a41711702702_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47PG1/the-journey-begins">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With Usato's first battle behind him, it's time to face the path ahead. He receives<br>a special diplomatic quest from the king as well as a personal request from the<br>mysterious fox girl, both of which will take him on a winding journey to new<br>lands.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Spanish Dub) - Episode 13 - The Journey Begins!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3724bc4a30d0e75575dbe9910e5e06a41711702702_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2W1EW/the-journey-begins">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With Usato's first battle behind him, it's time to face the path ahead. He receives<br>a special diplomatic quest from the king as well as a personal request from the<br>mysterious fox girl, both of which will take him on a winding journey to new<br>lands.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (Hindi Dub) - Episode 13 - The Journey Begins!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3724bc4a30d0e75575dbe9910e5e06a41711702702_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3ENM2/the-journey-begins">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With Usato's first battle behind him, it's time to face the path ahead. He receives<br>a special diplomatic quest from the king as well as a personal request from the<br>mysterious fox girl, both of which will take him on a winding journey to new<br>lands.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">HIGHSPEED Étoile - Episode 3 - The Queen's Invasion</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/49cbb8cad658bea6f8323e131b29f4791713517585_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV59K/the-queens-invasion">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After her first race in the category ended in disqualification, it's clear to Rin that<br>she has a lot to learn if she wants to compete with the big guns<br>in the NEX Race series.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">THE iDOLM@STER SHINY COLORS - Episode 3 - Hopes for the Future</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6ddfd3080fb24bd95cf6e8da9e9470151713517551_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ73J7/hopes-for-the-future">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">ALSTROEMERIA, uncertain about their future aspirations, try to find their dreams as individuals and as<br>idols while performing at the Spring Flower Festival.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Misfit of Demon King Academy Ⅱ - Episode 14 - Goddess of Selection</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/af2b8087f98d5ce5b2bb0d2c160aad331713529547_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JV3W/goddess-of-selection">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">To investigate the dragon sighted in Azeshion, Anos and his friends visit the Hero Academy<br>in the name of participating in an exchange program. Emilia teaches at the Hero Academy,<br>but despite her efforts, Ledriano and the other students of the Hero Academy are rather<br>unenthusiastic about the exchange. Furthermore, Zamira, the headmaster of the Hero Academy, issues a decree<br>to slay the dragon. Yet, as Emilia resists his unreasonable order, the Hero Academy students<br>begin to lose interest…</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Irregular at Magic High School Season 3 - Episode 3 - Double Seven Part III</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0e1f1f250ea45b2bdf2f788ab88443ce1713538907_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UX4ND5/double-seven-part-iii">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Information gets out that Kanda, an anti-magic advocate and Diet member, will visit First High<br>School with the media to observe the school's curriculum, claiming that he has heard disturbing<br>rumors about it. He plans to create an uproar with the media and assert that<br>the school is brainwashing students into the military - if he finds anything suspicious of<br>that nature. To stop this ploy, Tatsuya suggests performing an experiment showing the students creating<br>a Sustained Gravity Control-Type Magic Thermonuclear Fusion Reactor = Stellar Furnace. The students plan on<br>demonstrating that the magic education they receive at the school can solve energy problems, and<br>that magic can contribute to the peace of humankind depending on the type of magic<br>they use.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 - Episode 51 - Peaceful Days</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/01cd4f8beab16d6aae36547144cb43321713534463_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UD110X/peaceful-days">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Expecting visitors from all races to come calling after learning that Rimuru now controls the<br>entire Great Forest of Jura, Rimuru decides to hold a festival to introduce himself and<br>Tempest to the world, with the goal of attracting new citizens.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Astro Note - Episode 3 - Episode 3</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0ab0f4e6a4b90d1a28421f91aa9119b11713508647_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG35PP/episode-3">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Shoin's appearance causes a big fuss among all the residents of Astro Lodge, except Ren,<br>who is more worried about his field trip.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">NIJIYON ANIMATION 2 - Episode 3</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e43c2d692f270b32bc2d930e37e70e8d1713473304_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/19/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV5EK">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Assassination Classroom (Tamil Dub) - Episode 10 - L and R Time</h3></th>
 </tr>
@@ -71,623 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Prof. Jelavich is forced to prove her assassin chops when her mentor pays a visit.<br>Koro Sensei takes Nagisa and Karma on a trip they'll never forget.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Ranking of Kings: The Treasure Chest of Courage (Tamil Dub) - Episode 10 - Return of the Sword King</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c929fa055abed6200befa4b1910cecce1686848642_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/19/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JVZ3/return-of-the-sword-king">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As Bojji and Kage continue their journey together, Despa and the captain are tracking down<br>Ouken's missing head. Meanwhile, Desha enters the Divine Treasure Vault, where he hopes to finally<br>uncover the means to restore Ouken's humanity to him.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Fairies Album (Season 4) - Episode 10 - Mapler Builds Dreams</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffb9a1d1c30b40687429752d539249631713469338_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/19/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZD495/mapler-builds-dreams">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">What's true is entwined with what's false, and the dragon is traced and found.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Witch and the Beast (English Dub) - Episode 12 - Eloquence and Silence: Final Act</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ee52ce1bbe06b0f561cbecb6ff948dbe1712247537_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JVG3/eloquence-and-silence-final-act">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Executioners corner the helpless Falvell. With Ashaf out of comission, only Guideau can save the<br>young witch. But what could persuade the gruff and violent Guideau to lend a helping<br>hand?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">WIND BREAKER (English Dub) - Episode 1 - SAKURA ARRIVES AT FURIN</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/83e46252754b32f923948209591abeed1712247514_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7QEM/sakura-arrives-at-furin">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">An admirer of strong people with a complete disinterest in the weak, Haruka Sakura, a<br>loner and delinquent high school student, aims to be a fighter at the top of<br>Furin High School. Coming from outside the city, Sakura enrolls in Furin High School, infamous<br>for its delinquents.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Telugu Dub) - Episode 40 - Thunderclap</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7ffef2ae2236e511b3f4b575e3ec88901699547213_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5Z2E/thunderclap">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sukuna refuses to heed Jogo's advice after waking up, instead displaying his overwhelming strength against<br>the Special-Grade Cursed Spirit, Jogo. Meanwhile, Fushiguro faces off against the rampant Toji with neither<br>being aware of the other's identity.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Laid-Back Camp Season 3 (English Dub) - Episode 1 - Where Should We Go Next?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4c88526b6172d3ac52d745937356d55f1712241044_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMGXN/where-should-we-go-next">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Rin thinks back to how her grandpa got her into camping. Meanwhile, the Outdoor Activities<br>Club gets back together for the first time in a while. They build an alcohol<br>stove and plan their next outing.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">A Condition Called Love (English Dub) - Episode 1 - Nice to Meet You</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/453850fb53e43298c19d1445f0d0b2c31712243931_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M290/nice-to-meet-you">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Hotaru has never really understood love. She loves her friends and family, but romance? That's<br>an entirely different story. So what's a girl to do when someone she's just met<br>immediately asks her out?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride (English Dub) - Episode 2 - First Love With Social Anxiety Tastes a Lot Like Moldy Bread</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0cf6c80ffa1b2550eb5436e8e8bea4a81712270313_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3ENX2/first-love-with-social-anxiety-tastes-a-lot-like-moldy-bread">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After a very bland breakfast, Zagan realizes he has no idea what people normally eat.<br>Nephy offers to make him a homecooked meal, and the two set off to buy<br>ingredients from a nearby town. However, financial troubles and highwaymen prevent smooth travel.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride (English Dub) - Episode 1 - First Love Is Like a Nasty Disease That Everyone Catches Once</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a1cb1740be76f5e090f879ae2606f27a1712243100_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2W1ZW/first-love-is-like-a-nasty-disease-that-everyone-catches-once">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The death of an Archdemon sends waves throughout the world of sorcerers. As his estate<br>is auctioned off,  an elf woman goes up for sale, and the sorcerer Zagan<br>is stricken with love at first sight.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">A Salad Bowl of Eccentrics - Episode 3 - The Homeless Gourmet</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/355c8ec1c9d61b4f837f5f52f96f278f1713459075_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUNK29M/the-homeless-gourmet">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Livia faces a desperate struggle concerning her diet. A certain organization also takes an interest<br>in her. But surely they can't win her over with the promise of food and<br>housing... can they?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">WIND BREAKER - Episode 3 - THE MAN WHO STANDS AT THE TOP</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/73fbf1b383eacfcfb7d9677f0fa07f381713452990_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUKV90G/the-man-who-stands-at-the-top">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Furin High School's first-year Class 1 is infamous for its group of strong fighters. 
-One<br>of the students in the class, Kyotaro Sugishita, becomes furious with what Sakura said and<br>throws a punch at him. The two begin a spectacular fight, ignoring an aloof Hayato<br>Suo, who's carefully watching the fight, and Nirei, who's now panicking. 
-
-A tremendously loud voice<br>echoes throughout the school, interrupting the fight between the two young men. The owner of<br>that voice that instantly changed the mood of the entire school is none other than<br>Umemiya, the Representative of Bofurin. Sakura and the rest look nervously up at the speakers<br>to hear Umemiya say something completely unexpected.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">A Condition Called Love - Episode 3 - Our First Christmas</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2523aa42c3518281f9435bdff7c384371713452942_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQWE7N/our-first-christmas">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Hotaru and Hananoi-kun's trial dating period is set to expire on Christmas, and Hananoi-kun has<br>promised her a Christmas Eve to remember. But now he isn't responding to her and<br>Hotaru's not sure how to face him, if she ever sees him again at all.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride - Episode 4 - When An Archdemon Offers You Anything, You're Better Off Saying No</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d9ddd7f7be4bb23c57fa7e2ff7c3a3a01713439449_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JW99/when-an-archdemon-offers-you-anything-youre-better-off-saying-no">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">In an effort to give Nephy power she has some control over, Zagan takes her<br>on as an apprentice. However, after a meeting with the 12 remaining Archdemons, he begins<br>to doubt whether he can give her a normal life.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Laid-Back Camp Season 3 - Episode 3 - We're Off! Land of Suspension Bridges</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/acebaba8890561fec9269c7283549a931713439252_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU20WMX/were-off-land-of-suspension-bridges">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">On their way to meet up with Nadeshiko for a three-girl camping trip, Rin and<br>Ayano bike their way around Ikawa to see the area's impressive array of suspension bridges.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tower of God (Hindi Dub) - Episode 11 - Underwater Hunt (Part One)</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/66c73e2444da31732466664443dd691d1591799510_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJPZK/underwater-hunt-part-one">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Another test is held to reach the top of the tower.
-Much has been lost and<br>important things have been gained in order to climb the tower.
-Accept it all and move<br>forward in the direction your feelings lead you.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Ancient Magus' Bride (Tamil Dub) - Episode 10 - We live and learn</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b2d245c7c3a43b76374cd2dc8ab73bbc1512798564_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN2GV/we-live-and-learn">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Chise and Selkie climb aboard a dragon's back to meet Lindel, to have her own<br>mage's staff made. Frustrated by Chise's acceptance of her being kept as a pet by<br>Elias, he describes the time he found Elias in the darkness. Meanwhile, Elias, who had<br>stayed at home by himself, receives a letter from a sorcerer's college.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Ancient Magus' Bride (Telugu Dub) - Episode 10 - We live and learn</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b2d245c7c3a43b76374cd2dc8ab73bbc1512798564_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/18/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9XPM/we-live-and-learn">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Chise and Selkie climb aboard a dragon's back to meet Lindel, to have her own<br>mage's staff made. Frustrated by Chise's acceptance of her being kept as a pet by<br>Elias, he describes the time he found Elias in the darkness. Meanwhile, Elias, who had<br>stayed at home by himself, receives a letter from a sorcerer's college.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">LAID-BACK CAMP SEASON2 (English Dub) - Episode 13 - I'm Home</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6d6b6322f8e653203c56bf4673de455c1617257736_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0DQ4/im-home">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">It’s the last day of the Izu trip. The group visit the Iidas, who had<br>helped them on their Izu trip and say hi to the hot spring capybaras.</p>
 </td>
 </tr>
 </table>
