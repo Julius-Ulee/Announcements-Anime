@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Apr 23, 2024, 7:21:02 PM</em></p>
+<p align="center"><em>Updated on: Apr 24, 2024, 7:51:19 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Log Horizon (Hindi Dub) - Episode 24 - Chaos.</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 63 - Don't Say Goodbye</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/564eecbea2b78fea36ec09f5b03ffc9e1394583363_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bfba32233d90276ed809992bd3ff20561710838264_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMV7P/chaos">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU41J85/dont-say-goodbye">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akihabara is amazingly busy since the Scales Festival began.  There are many land people<br>in town, causing accidents, spreading rumors, and starting couples' fights, and even Shiroe can't deal<br>with them.  An influential noble named Marves arrives from Minami to see Laynessia. <br>Laynessia tries her best to deal with him, but he gets closer and closer to<br>her...</p>
+<p align="center">Momo and friends make their last stand against the nightmare!</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ranking of Kings: The Treasure Chest of Courage (Telugu Dub) - Episode 1 - Kage's Errand | The Prince and Money</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 62 - An Approaching Shadow</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f58086810e34a92127096924687da6931681397525_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/39ae33013fa8af052ea7bf4144f4b89f1710837305_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5GW1/kages-errand-the-prince-and-money">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUNKJZV/an-approaching-shadow">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When Bojji's training schedule is interrupted, Kage is sent shopping for the item that Despa<br>needs to keep going. Despa sends Bojji and Kage out to earn some money, claiming<br>that Bojji is too naïve about society to be a king, and could use some<br>exposure.</p>
+<p align="center">The nightmare finally makes its move against Momo, infecting the animals of the pet shop<br>and sending her on the run.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (English Dub) - Episode 2 - Mischievous Wolf and No Laughing Matter</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 61 - Love Apples Forever</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/df62269699b20052fac70e05ef47d6f01712590239_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9cb8aaab9b5709f2dc982c1e3b38e1ad1710836885_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M013/mischievous-wolf-and-no-laughing-matter">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU8JQ00/love-apples-forever">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lawrence and Holo stay overnight in the town where they sell the furs. As Lawrence<br>learns more about Holo, Holo learns about the current state of the Church and shares<br>her own wisdom.</p>
+<p align="center">The dark presence that has been pursuing Momo sets its sights on a new target...<br>the reformed Devil Queen's apple orchard!</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (German Dub) - Episode 1 - The Harvest Festival and The Crowded Driver's Box</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 60 - Time is the Cradle of Love</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8ce9f423ef22f606ad2a583b111975fa1711930189_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d18b4921a380c10de34ad4944edbafca1710836465_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2W2K2/the-harvest-festival-and-the-crowded-drivers-box">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3KDW3/time-is-the-cradle-of-love">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">An old tale from long ago, that began in a village far, far away... There,<br>a wolf brought bountiful harvests of wheat for an exceedingly long time, until memories of<br>the wolf became antiquated stories. What then, was left for the wolf to do?</p>
+<p align="center">A mysterious event takes Momo back in time to when her parents were first dating...<br>but will the past rewrite itself?!</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (French Dub) - Episode 1 - The Harvest Festival and The Crowded Driver's Box</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 59 - The Legend of a Certain Streetcorner</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8ce9f423ef22f606ad2a583b111975fa1711930189_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3b6f2cc8e2e8d12c22717fcbfaa176dd1710835986_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMD0N/the-harvest-festival-and-the-crowded-drivers-box">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU20EK7/the-legend-of-a-certain-streetcorner">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">An old tale from long ago, that began in a village far, far away... There,<br>a wolf brought bountiful harvests of wheat for an exceedingly long time, until memories of<br>the wolf became antiquated stories. What then, was left for the wolf to do?</p>
+<p align="center">Overthere Park in Somewhere City has seen better days. Momo wants to work with the<br>young girl, Faerie, to restore the park's flowers... and its fairies!</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (English Dub) - Episode 2 - I Encountered an Adventurer</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 58 - The Conman's Nocturne</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/97aa09c9a60a82a869f8901ca69c985d1712587468_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1f9414d007ba108bd7595f8a9abd5121710835626_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47431/i-encountered-an-adventurer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV8W5/the-conmans-nocturne">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After making the Demon Grimoire his familiar, Lloyd sets out in pursuit of a dungeon<br>with magically enchanted items and encounters Tao, a martial artist who uses Qi techniques. Lloyd<br>assumes the alter ego of Robert and heads deep into a dungeon with her.</p>
+<p align="center">An enthusiastic Momo agrees to hand out flyers for a piano concert coming up, but<br>people begin to say the concert is fake, and accuse Momo of being a fraud!</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (German Dub) - Episode 1 - I Reincarnated as the Seventh Prince</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 57 - The Human-Powered Aircraft Rhapsody</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fb75bcac33ff155dc7b4978cfdcd23f11711930143_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4ef903f79247a2bcad08f48a3f8453001710835167_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J2XG/i-reincarnated-as-the-seventh-prince">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQWZ3W/the-human-powered-aircraft-rhapsody">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A mage, lacking both talent and lineage, is burned to death by the magic he<br>loves. He's reborn as Lloyd, seventh prince of the Saloum Kingdom, with his past memories<br>intact. One day, in a forbidden library, he awakens a demon that wields ancient magic...</p>
+<p align="center">Substituting in for her superintendent aunt, Momo meets the colorful characters of an apartment... one<br>of whom is an inventor looking to make it big!</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (French Dub) - Episode 1 - I Reincarnated as the Seventh Prince</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 56 - The Sun-Dappled Girl in the Forest</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fb75bcac33ff155dc7b4978cfdcd23f11711930143_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d20965f1fdfdd60e5d9c20b8514474311710834787_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2NMJ/i-reincarnated-as-the-seventh-prince">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZDNWE/the-sun-dappled-girl-in-the-forest">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A mage, lacking both talent and lineage, is burned to death by the magic he<br>loves. He's reborn as Lloyd, seventh prince of the Saloum Kingdom, with his past memories<br>intact. One day, in a forbidden library, he awakens a demon that wields ancient magic...</p>
+<p align="center">Momo travels to Peaceful Village and meets Sibelle, a girl treated as an outcast for<br>her curious powers. What has turned the hearts of the villagers against her?!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (Hindi Dub) - Episode 1 - I Reincarnated as the Seventh Prince</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 55 - Return With Love Apples</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fb75bcac33ff155dc7b4978cfdcd23f11711930143_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7b7b7d3eff6aed85d2b3fa035ef5635d1710834366_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7ZWX/i-reincarnated-as-the-seventh-prince">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2NZX9/return-with-love-apples">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A mage, lacking both talent and lineage, is burned to death by the magic he<br>loves. He's reborn as Lloyd, seventh prince of the Saloum Kingdom, with his past memories<br>intact. One day, in a forbidden library, he awakens a demon that wields ancient magic...</p>
+<p align="center">The Devil Queen makes her return to Somewhere City hoping to make amends, but her<br>reputation precedes her...</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (English Dub) - Episode 14 - I'm Not a Fan of High Society</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 54 - Fly, Albatross</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/138cce7ff5bd5a6efd265ab3a92afb5b1712579064_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b7e8561c8771b169fa5eb2846ff5e1ae1710834007_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0ZMP/im-not-a-fan-of-high-society">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZV1M7/fly-albatross">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Makoto attends a luncheon on the second day of the festival and is approached by<br>Sairitsu, an official with the Laurel Commonwealth. She suspects Makoto may be from another world<br>because of the foreign characters on the Kuzunoha Trading Company's sign.</p>
+<p align="center">Momo travels to Heaven Island to help with an outbreak of sickness among the animals...<br>but to help the animals of nearby Little Island, she'll have to fly there!</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Portuguese Dub) - Episode 13 - The Very Busy Academy Festival</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 53 - The Steam Train That Ran Through the Flowers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8f4983b2213b136aab3b9e4e78bf404e1711929689_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/750ba783f4b82bad01beaa98222c77851710833586_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJN7W/the-very-busy-academy-festival">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UV38EW/the-steam-train-that-ran-through-the-flowers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The academy festival is fast approaching. Shinai, a temple priest, arranges a meeting with Makoto<br>on short notice. Shinai informs Makoto about rumors concerning the medicine being sold at the<br>shop and offers Makoto a proposal to help dispel them.</p>
+<p align="center">A visit to distant Dunno Village leads Momo to a curious sight: a steam train<br>running through a bed of flowers. The nearby Miss Cecilia seems to know something about<br>it...</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Spanish Dub) - Episode 13 - The Very Busy Academy Festival</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 52 - Mocha and the Penguin</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8f4983b2213b136aab3b9e4e78bf404e1711929689_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fdb5801678b69a3cade8ef5219b872861710833226_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGVDJ/the-very-busy-academy-festival">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUN107D/mocha-and-the-penguin">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The academy festival is fast approaching. Shinai, a temple priest, arranges a meeting with Makoto<br>on short notice. Shinai informs Makoto about rumors concerning the medicine being sold at the<br>shop and offers Makoto a proposal to help dispel them.</p>
+<p align="center">To help a heartbroken penguin mother at the zoo, Momo and friends plan to disguise<br>Mocha as a baby penguin... a plan Mocha isn't too happy about!</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (English Dub) - Episode 1 - A Level 2 Hero Candidate</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 51 - Last Action</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2247e6f391d8a7a258241c2e3dbeb0d31712584406_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bde3f3258e4bbff60c12045d441820e71710832806_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9K8Q/a-level-2-hero-candidate">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU0GDNZ/last-action">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Banaza, a merchant, has doubts about a world with racial discrimination. One day, he's summoned<br>to The Magical Kingdom of Klyrode in another world as a hero candidate. However, his<br>level 1 abilities and stats are on par with those of ordinary citizens.</p>
+<p align="center">Momo befriends a famous stunt man and actor making his return to the silver screen<br>after three years in retirement. But her new friend is hiding a secret...</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Banished Former Hero Lives as He Pleases - Episode 5 - The Beginning of Madness</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 50 - Watch Out For Apples</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1982e69f64d9de8e0f3b06824b6878a01713801751_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f8e9eb5e0a180a1893e56ade645ab5ef1710832398_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM901/the-beginning-of-madness">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU07481/watch-out-for-apples">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Westfelts' schemes are proceeding apace. Craig and Bret head into the capital. While Craig<br>goes off to complete his portion of the plan, two unexpected personages address the people<br>of the town.</p>
+<p align="center">A foray into Fairy Tale Forest leads Momo to get involved in the story of<br>Snow White and the sinister Devil Queen.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF - Episode 4 - Romantic Merchant and Moonlit Farewell</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 49 - The Mystery of Momo and Momo</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2bf1936737b1e58045c0599e2d5d60711713801713_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3c29cc1946f2e0086b8bd8687d8f4c4e1710831967_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU200VZ/romantic-merchant-and-moonlit-farewell">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3KDG3/the-mystery-of-momo-and-momo">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lawrence has figured out the truth behind the silver scheme, and how to profit from<br>it, but in doing so he has made some dangerous enemies.  Meanwhile, Holo and<br>Lawrence discuss his grand plans for the future.</p>
+<p align="center">The arrogant Peachboy declares he's going to take out a nearby nest of oni. Momo<br>is forced to tag along to make sure he doesn't get himself (or her companions)<br>hurt.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability - Episode 4 - Headed Out for a Monster Hunt</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 48 - Minky Momo Graffiti: Part 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b460a4457ec7d00b189ad0ac69a5e95a1713800586_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/16948daec9f7576d1a4be97cd5b4a2121710831552_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU411JV/headed-out-for-a-monster-hunt">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU20EQ7/minky-momo-graffiti-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With an interest in weapon enchantments and their effectiveness, Lloyd joins Albert and Sylpha on<br>a monster hunt. After meeting Tao and reaching their destination the group encounters a pack<br>of bearwolves, who regenerate unnaturally quickly.</p>
+<p align="center">The King of Fenarinarsa looks back on the people Momo's met as the cast prepares<br>for a new adventure.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tadaima, Okaeri - Episode 3 - Sorry</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 47 - Minky Momo Graffiti: Part 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/346c62a82f32dc3ebeeef17f5dc113291713797472_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bdb3f1adad3d7f4ec5ae6584c76fa5041710831141_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM923/sorry">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV8Q5/minky-momo-graffiti-part-1">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hiromu's disapproving father Koji shows up at the house unannounced, when Hikari the hero swoops<br>in to protect his parents! But when it becomes apparent that Koji's visits have another<br>agenda, can Hikari the hero save his family again?</p>
+<p align="center">The King of Fenarinarsa looks back on Momo's story as the cast prepares for a<br>new adventure.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:Monster (Tamil Dub) - Episode 4</h3></th>
+<th><h3 align="center">Fairy Princess Minky Momo - Episode 46 - The Fenarinarsa of Dreams</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/caa33754c3db494445a4e1e2ff8414631713795633_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ccaaa85baacd78475bde7ef9feadd7ae1710830889_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UV3MZX">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUEMGE5/the-fenarinarsa-of-dreams">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Having lost her powers, Momo has made a committment to live as an ordinary girl<br>on Earth. Until one day, suddenly...</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:Monster (Telugu Dub) - Episode 4</h3></th>
+<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions (German Dub) - Episode 11 - The Case of the Mad Chameleon Murder</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/caa33754c3db494445a4e1e2ff8414631713795670_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/00230ac3bf8c5d8cf0ab4168c4a87e081702296091_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UD1MJ5">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMV0P/the-case-of-the-mad-chameleon-murder">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Toto meets Kawasemi while on a business trip to Aichi. Kawasemi's been in a slump<br>since losing Yamane, and his powers of perception have suffered. He's investigating the Mad Chameleon,<br>who commits a crime right in front of them!</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:Monster (French Dub) - Episode 4</h3></th>
+<th><h3 align="center">Log Horizon (German Dub) - Episode 11 - An Invitation from Eastal</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b530cbe197661776593b55e92d2200cf1713795587_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/162f8de55bcdc388b3c6908b256d46521386716012_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/22/2024</td>
+<td align="center">4/23/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUKV9N1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M0G3/an-invitation-from-eastal">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The Free Cities of Eastel are the first to notice the founding of the Round<br>Table.  They send a messenger to Akihabara and invite Shiroe and Crusty to their<br>conference.  What are the nobles planning at their ice-covered palace?  Meanwhile, Minori and<br>Touya and the other new playesr are going on a camping trip at the beach<br>to learn to fight. Marielle forgets her role as leader (?) and enjoys the salt<br>air fun.</p>
 </td>
 </tr>
 </table>
