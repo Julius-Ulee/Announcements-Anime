@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Apr 24, 2024, 7:51:19 AM</em></p>
+<p align="center"><em>Updated on: Apr 24, 2024, 7:24:31 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,142 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Fire Force Season 2 (Telugu Dub) - Episode 12 - Shadows Cast by Divine Light</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/daa4d398f2cb38cf67119aa027d03aa51600408997_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU070P5/shadows-cast-by-divine-light">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Joker and Benimaru break their way into the church in search of the hidden scriptures.<br>When Benimaru presses Joker for answers as to how he knows so much, Joker tells<br>him about his past, revealing some dark secrets about the Holy Sol Temple.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Fire Force Season 2 (Tamil Dub) - Episode 12 - Shadows Cast by Divine Light</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/daa4d398f2cb38cf67119aa027d03aa51600408997_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9K2Q/shadows-cast-by-divine-light">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Joker and Benimaru break their way into the church in search of the hidden scriptures.<br>When Benimaru presses Joker for answers as to how he knows so much, Joker tells<br>him about his past, revealing some dark secrets about the Holy Sol Temple.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Tamil Dub) - Episode 10 - The Orc Lord</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e22c89d747e39a451a7cb82f87799c7f1543847266_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7ZVX/the-orc-lord">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Six Ogres are all that remain of their clan after an attack by an Orc<br>army. They say that the Orcs were traveling with a mysterious majin who wore plate<br>mail and a clown mask. Rimuru proposes that the Ogres join his ranks, and they<br>accept on the condition that they will get to take down the one leading the<br>Orcs, so Rimuru gives all six of them names. Meanwhile, the Orcs begin to invade<br>the marshlands surrounding Lake Siss that are inhabited by the Lizardmen. So the Lizardman chieftan<br>gives his son, Gabiru, an order...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Telugu Dub) - Episode 10 - The Orc Lord</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e22c89d747e39a451a7cb82f87799c7f1543847266_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0EV0/the-orc-lord">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Six Ogres are all that remain of their clan after an attack by an Orc<br>army. They say that the Orcs were traveling with a mysterious majin who wore plate<br>mail and a clown mask. Rimuru proposes that the Ogres join his ranks, and they<br>accept on the condition that they will get to take down the one leading the<br>Orcs, so Rimuru gives all six of them names. Meanwhile, the Orcs begin to invade<br>the marshlands surrounding Lake Siss that are inhabited by the Lizardmen. So the Lizardman chieftan<br>gives his son, Gabiru, an order...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Fairy Princess Minky Momo - Episode 63 - Don't Say Goodbye</h3></th>
 </tr>
@@ -547,142 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">The King of Fenarinarsa looks back on the people Momo's met as the cast prepares<br>for a new adventure.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 47 - Minky Momo Graffiti: Part 1</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bdb3f1adad3d7f4ec5ae6584c76fa5041710831141_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/23/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV8Q5/minky-momo-graffiti-part-1">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The King of Fenarinarsa looks back on Momo's story as the cast prepares for a<br>new adventure.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Fairy Princess Minky Momo - Episode 46 - The Fenarinarsa of Dreams</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ccaaa85baacd78475bde7ef9feadd7ae1710830889_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/23/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUEMGE5/the-fenarinarsa-of-dreams">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Having lost her powers, Momo has made a committment to live as an ordinary girl<br>on Earth. Until one day, suddenly...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions (German Dub) - Episode 11 - The Case of the Mad Chameleon Murder</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/00230ac3bf8c5d8cf0ab4168c4a87e081702296091_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/23/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMV0P/the-case-of-the-mad-chameleon-murder">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Toto meets Kawasemi while on a business trip to Aichi. Kawasemi's been in a slump<br>since losing Yamane, and his powers of perception have suffered. He's investigating the Mad Chameleon,<br>who commits a crime right in front of them!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Log Horizon (German Dub) - Episode 11 - An Invitation from Eastal</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/162f8de55bcdc388b3c6908b256d46521386716012_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/23/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M0G3/an-invitation-from-eastal">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Free Cities of Eastel are the first to notice the founding of the Round<br>Table.  They send a messenger to Akihabara and invite Shiroe and Crusty to their<br>conference.  What are the nobles planning at their ice-covered palace?  Meanwhile, Minori and<br>Touya and the other new playesr are going on a camping trip at the beach<br>to learn to fight. Marielle forgets her role as leader (?) and enjoys the salt<br>air fun.</p>
 </td>
 </tr>
 </table>
