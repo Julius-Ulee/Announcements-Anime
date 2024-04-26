@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Apr 26, 2024, 7:51:33 AM</em></p>
+<p align="center"><em>Updated on: Apr 26, 2024, 7:20:24 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">A Salad Bowl of Eccentrics (Hindi Dub) - Episode 1 - Awaiting Kirin (From Another World)</h3></th>
+<th><h3 align="center">Assassination Classroom (Tamil Dub) - Episode 11 - Transfer Student Time/2nd Period</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a80ff9147153c9ce6a492eb9572f2a2c1712253100_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e053cc8a5a0ced5d53d45517d90756ea1472889584_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,85 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/25/2024</td>
+<td align="center">4/26/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGV8Z/awaiting-kirin-from-another-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGV0Z/transfer-student-time2nd-period">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sosuke is a hardworking private detective who's down on his luck, but he'll be working<br>even harder after he catches an (un)lucky break—an otherworldly princess who falls from the sky<br>and takes an interest in his occupation.</p>
+<p align="center">Another new student throws everyone for a loop. His raw power is one thing, but<br>what's with these mysterious ties he claims to have with Koro Sensei?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Assassination Classroom (Telugu Dub) - Episode 11 - Transfer Student Time/2nd Period</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e053cc8a5a0ced5d53d45517d90756ea1472889584_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/26/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMVPX/transfer-student-time2nd-period">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Another new student throws everyone for a loop. His raw power is one thing, but<br>what's with these mysterious ties he claims to have with Koro Sensei?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Fairies Album (Season 4) - Episode 11 - Dun Fish's Illusion Collapses</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f8b4b4c1113663d001c258e0d94b849d1714083191_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">4/26/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU41XQ5/dun-fishs-illusion-collapses">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Swords are wielded to clear illusions, and the genuine and the fake are hard to<br>distinguish.</p>
 </td>
 </tr>
 </table>
@@ -615,74 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Sara takes an interest in all things preteen on Earth, while Sosuke begins to wonder<br>what exactly she's doing on Earth. But the case at hand comes first! Can he<br>puzzle out both at the same time?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Genesis Climber MOSPEADA - Episode 25 - Symphony of Light</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/03adaaeb69fa0786ae662f718b02a40d1714048872_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/25/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU828GJ/symphony-of-light">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">In the MOSPEADA finale, Stig faces Batra while Refles intensifies her tactics. Sorji and Aisha,<br>reconciling their emotions, fully join the freedom fighters.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Genesis Climber MOSPEADA - Episode 24 - Darkness' Finale</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/26a6ea16ca43d9c92f2e7b88bafa7e061714048583_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/25/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMVDX/darkness-finale">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As Earth's final battle begins, Stig's group, reinforced by new human troops, prepares to attack.<br>Love declarations and secret protections intertwine with battle strategies.</p>
 </td>
 </tr>
 </table>
