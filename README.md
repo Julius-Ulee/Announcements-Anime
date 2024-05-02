@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: May 1, 2024, 7:21:24 PM</em></p>
+<p align="center"><em>Updated on: May 2, 2024, 7:51:23 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,618 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">BARTENDER Glass of God (Hindi Dub) - Episode 2 - Old Pal/One for the Road</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/88f978b4c931f2d34500a4017bc3ae811712760933_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK98MW/old-palone-for-the-road">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Ryu encounters an impossibly difficult-to-please customer while he's helping out at another bar. When a<br>foul-mouthed customer wanders into Edenhall, Ryu will have to think outside the box and even<br>the bar to serve her.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Many Sides of Voice Actor Radio (Hindi Dub) - Episode 1 - Yuhi and Yasumi Can't Keep It Hidden?</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2a430b6a21c5c83cc271d2935abca4e01712750256_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M81G/yuhi-and-yasumi-cant-keep-it-hidden">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A new radio show starring the two high schooler voice actresses Utatane Yasumi and Yugure<br>Yuhi who coincidentally are in the same class has started. The show is known for<br>its cozy atmosphere, but Yasumi has a huge secret. Yasumi is actually a gyaru.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Date A Live V (English Dub) - Episode 2 - Final Respite</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/88ec7a3f4db43b3a59ea17d6d22831861713357330_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JXX8/final-respite">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The crew of Fraxinus sets about preparing for their battle against DEM with haste and<br>high morale. The Spirits work hard to prepare snacks in order to encourage Shido and<br>everyone else as the decisive battle draws closer by the hour...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Date A Live V (Portuguese Dub) - Episode 1 - Beginnings of War</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a39f7649c49ffe6491c9a32a2e27760d1712750337_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2MM8/beginnings-of-war">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kotori and the others gathered on the bridge of Fraxinus learn that Kurumi has traveled<br>back in time over 204 times to try and save Shido. Shido also tries to<br>search his memories to learn who Mio Takamiya is, but...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Date A Live V (Spanish Dub) - Episode 1 - Beginnings of War</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a39f7649c49ffe6491c9a32a2e27760d1712750337_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7WWN/beginnings-of-war">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kotori and the others gathered on the bridge of Fraxinus learn that Kurumi has traveled<br>back in time over 204 times to try and save Shido. Shido also tries to<br>search his memories to learn who Mio Takamiya is, but...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Viral Hit (English Dub) - Episode 2 - I Have to Become Stronger</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00ed0487b23ad76461754b33afcbce341713366793_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0MM9/i-have-to-become-stronger">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After tasting viral success, Hobin and Snapper try to come up with ways to keep<br>their new audience interested. However, when Hobin calls out Pakgo live on stream, he finds<br>out he's not as ready for a fight as he thought he was.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Viral Hit (German Dub) - Episode 1 - First Upload</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b8bf242593f0f0fa1abee4f1d1aed7f81712763536_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK988W/first-upload">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With his mother in the hospital, Hobin Yu can only look on in envy as<br>his classmates make obscene amounts of money from live streaming on NewTubu, but when he<br>accidentally goes viral, a new world of possibilites opens up to him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Viral Hit (French Dub) - Episode 1 - First Upload</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b8bf242593f0f0fa1abee4f1d1aed7f81712763536_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07NN2/first-upload">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With his mother in the hospital, Hobin Yu can only look on in envy as<br>his classmates make obscene amounts of money from live streaming on NewTubu, but when he<br>accidentally goes viral, a new world of possibilites opens up to him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Viral Hit (Hindi Dub) - Episode 1 - First Upload</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b8bf242593f0f0fa1abee4f1d1aed7f81712763536_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJ772/first-upload">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With his mother in the hospital, Hobin Yu can only look on in envy as<br>his classmates make obscene amounts of money from live streaming on NewTubu, but when he<br>accidentally goes viral, a new world of possibilites opens up to him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 (English Dub) - Episode 2 - A Smile for This Dour Girl!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2c94e5e64e2e8aaa2e6ec3cac426545a1713357363_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M88G/a-smile-for-this-dour-girl">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kazuma and the gang receive a letter from Princess Iris. She wants to share a<br>meal with them while hearing about their adventures. While Kazuma is giddy with wonderment of<br>her beauty, Darkness is terrified of heads rolling in the event of any rudeness.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 (Portuguese Dub) - Episode 1 - God's Blessings on This Bright Future!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/02bcf0f608cb254fe5ff9c96fc0b58ad1712760879_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WQQ1/gods-blessings-on-this-bright-future">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After defeating Sylvia at the Crimson Demon Village, Kazuma and his party look forward to<br>receiving a reward that could mean freedom from the grind of having to fulfill quests.<br>Kazuma himself, however, seems to be having nightmares and bouts of paranoia.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 (Spanish Dub) - Episode 1 - God's Blessings on This Bright Future!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/02bcf0f608cb254fe5ff9c96fc0b58ad1712760879_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMNND/gods-blessings-on-this-bright-future">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After defeating Sylvia at the Crimson Demon Village, Kazuma and his party look forward to<br>receiving a reward that could mean freedom from the grind of having to fulfill quests.<br>Kazuma himself, however, seems to be having nightmares and bouts of paranoia.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Viral Hit - Episode 4 - Humiliation</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f7d35064dc83114678bde2c1edaa7bef1714581377_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGQ23/humiliation">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Munseong's arrival leaves Hobin feeling like a third wheel, so he makes his excuses and<br>leaves. But after a pep talk from Snapper, he returns with the intention of telling<br>Bomi exactly how he feels.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">BARTENDER Glass of God - Episode 5 - The First Drop</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d3fc7f9538608b15e920e97001055b9b1714557650_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZD7V2/the-first-drop">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Ryu, Kyoko, Yuri, Miwa, and Chen get together to visit the "holy ground of Japanese<br>whisky," Yamazaki Distillery. While they're there, they learn about Chen's past and his relationship to<br>the area.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 - Episode 4 - Divine Punishment for This Handsome Gentleman Thief!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e5a73116a50d7acb883e7e9c47a84b911714556352_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JWZP/divine-punishment-for-this-handsome-gentleman-thief">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kazuma thinks of a way to stay in the capital for Iris's sake, and declares<br>that he will capture the thief who's causing a stir in the streets! Since the<br>thief targets nobles with bad behavior, Kazuma and his friends decide to stay at Alderp's<br>mansion.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Date A Live V - Episode 4 - The Spirit of Origin</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b4bc5dfed130950aeb4ff24d209a7b9a1714555850_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JWG9/the-spirit-of-origin">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A certain time, a certain place. Shinji Takamiya encounters a spatial earthquake, but finds a<br>girl at the scene. She remembers almost nothing about herself. Shinji gives her the name<br>Mio and she goes to live with him and his younger sister, Mana.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mysterious Disappearances - Episode 4 - A Bath, Cleaning, and a Surprise</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4f8aab779ab8466a15fbaba9e879e9521714555570_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMX4J/a-bath-cleaning-and-a-surprise">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The cuckoo known as Adashino cries in the deserted Midori Bookshop once more. Sumireko intends<br>to spend her day off writing. As she's admiring the sakura outside her window, she<br>gets a text from Adashino asking her to look after Oto for two or three<br>days.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Many Sides of Voice Actor Radio - Episode 4 - Yuhi and Yasumi Can't Keep It Hidden</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fbba8d78f5f5306241ccf2601cee07e91714555304_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM95W/yuhi-and-yasumi-cant-keep-it-hidden">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Chika is MIA after rumors make the rounds that she was on the director's casting<br>couch. Yugure's Knight bust into the class and begins to interrogate Chika on his live<br>stream. When he almost reveals Yumiko's identity as well, Chika's anger explodes!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Fire Force Season 2 (Telugu Dub) - Episode 13 - A Pair of One-Eyes</h3></th>
 </tr>
@@ -71,618 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Burns confronts Joker and Benimaru, then offers them the scant leads he has uncovered during<br>his own personal probe of the Holy Sol Temple. Konro reports Benimaru's findings to the<br>8th, and the target of their next investigation becomes clear.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime (Tamil Dub) - Episode 11 - Gabiru Is Here!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/53ed1f86bbc90ae002347d55ce259cd01544415358_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7WQ0/gabiru-is-here">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Rimuru's village has gained Benimaru and the other five Ogres as its newest allies. Soon<br>after, the Lizardman Gabiru visits the village, having heard rumors about it. Gabiru has been<br>visiting Goblin villages throughout the Great Forest of Jura to enlist their aid in fighting<br>off the Orc army. When he faces Ranga with an attitude of provocation, Ranga tells<br>him that if he can defeat Gobta, they'll hear what he has to say...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime (Telugu Dub) - Episode 11 - Gabiru Is Here!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/53ed1f86bbc90ae002347d55ce259cd01544415358_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU473DN/gabiru-is-here">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Rimuru's village has gained Benimaru and the other five Ogres as its newest allies. Soon<br>after, the Lizardman Gabiru visits the village, having heard rumors about it. Gabiru has been<br>visiting Goblin villages throughout the Great Forest of Jura to enlist their aid in fighting<br>off the Orc army. When he faces Ranga with an attitude of provocation, Ranga tells<br>him that if he can defeat Gobta, they'll hear what he has to say...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! (French Dub) - Episode 25 - The Third Day</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d258e179e65ce1694dac6ca2df38e4741411173894_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMNDG/the-third-day">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Miyagi Prefecture Inter-High is now over. Hinata, Kageyama, and the other members of Karasuno<br>have a lot on their minds...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! (French Dub) - Episode 24 - Removing "The Lonely King"</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/89c087546222b8e28fc81d2505e895bc1410567449_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5WQ3/removing-the-lonely-king">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">In the final set against Seijoh, with the combo play by Hinata and Kageyama, they<br>somehow are able to somehow tie up the score. Despite the pressure, Oikawa is able<br>to bring out the best in Kageyama's former teammate, Kunimi. Seeing this, Kageyama...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! (French Dub) - Episode 23 - The Point that Changes the Momentum</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0c01d2ff88757abdc737a826ac4cb8b81409953648_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE3QN/the-point-that-changes-the-momentum">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">They finally approach the final set of match and Hinata and Karasuno are fired up.<br>However, since Seijoh are so tight as a team, they start to take the lead.<br>At this rate, Seijoh will leave them in the dust. To change the flow of<br>the game, the coach decides to...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! (French Dub) - Episode 22 - Evolution</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8aa3e0dd63e200a1e2c6769d5a7bf05f1409339896_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7WZ0/evolution">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">In the second set, Kageyama goes back to the court and starts paying more attention<br>to his teammates. He tries to get a bit closer to Tsukishima, who he had<br>been awkward with this whole time. Karasuno finally starts to fight back, using their special<br>quick attack. Meanwhile, Oikawa remembers his junior high days...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! (French Dub) - Episode 21 - Senpai's True Abilities</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/599000b02013281c61878b3da8b418251408769240_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2MNM/senpais-true-abilities">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Because Karasuno's plays become messy and the match's rhythm gets thrown off, they change setters.<br>Sugawara goes onto the court in place of Kageyama and because he's always seen things<br>from outside the court, he says he knows what's going on, and Karasuno starts their<br>counterattack. Meanwhile, after seeing the match from the outside, there's a change in Kageyama as<br>well.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! (French Dub) - Episode 20 - Oikawa Toru is Not a Genius</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cd58e75cb55967035be333bd8c4fe0df1408145589_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07NVD/oikawa-toru-is-not-a-genius">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The 3rd round Inter-High match against Aoba Johsai has begun. Without wasting any time, Kageyama<br>and Oikawa start a setter battle. Well-experienced as a team, Aoba Johsai scores point after<br>point against Karasuno with Oikawa's serves. Kageyama starts to panic. It's then that Karasuno's mood-maker,<br>Tanak gets riled up. After seeing that, Oikawa...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! (French Dub) - Episode 19 - Conductors</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/964986ca7b29f7565374074351986ddf1407639838_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK98XG/conductors">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Karasuno's volleyball team makes it to the third round and they'll be facing off with<br>Aoba Johsai. Seijoh, led by Oikawa, shows even more combination plays than they did in<br>their practice match together. Meanwhile, the coach comes up with a formation to stop Oikawa's<br>powerful serve. And before their match, Kageyama, who is Oikawa's junior from junior high, decides<br>to...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! (French Dub) - Episode 18 - Guarding Your Back</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4a84863fc55f695f9393ddfce35667d01406926316_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNV2G/guarding-your-back">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Thanks to Hinata and Kageyama's cornerstone "freak quicks," Karasuno is in the lead against Date<br>Tech. But with Aone blocking, Date Tech starts catching up to Karasuno. This is when<br>the ace Azumane must prove his worth. Will Azumane blast through Date's iron wall?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! (French Dub) - Episode 17 - The Iron Wall</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f573f6a0bdd4cba45346aeacb8a68eb91406315371_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M82E/the-iron-wall">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The second match of Interhigh preliminaries has begun. Azumane has a history with Date Kogyo,<br>but he is determined to rise to the occasion. Dateko's tactic is to throw their<br>opponent off kilter with their serves - but Karasuno focuses on receives. The wall of<br>Dateko looms high; what will Karasuno do?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! (French Dub) - Episode 16 - Winners and Losers</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f1ab7d185fa35bc19ecf2f248749b7711405718603_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1E37/winners-and-losers">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Karasuno is winning the first round of Interhigh against Tokonami. But though Tokonami knows they're<br>outclassed, they don't give up, they keep the ball in play. On another court, in<br>spite of Michimiya's encouragement, the Karasuno girls' team is having a rough battle. Everyone is<br>immersed in thought, but there can only be one winner!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! (French Dub) - Episode 15 - Revival</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6d4aa8869742fb103ef42521a948b5491405201427_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EGN5/revival">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The much awaited day of Interhigh preliminaries has come. Karasuno's first match is against Tokonami<br>High School. Sawamura battles against a former teammate in junior high, Ikejiri. The tournament is<br>now official; one loss and you're out of the running. It's time for Karasuno's revival.<br>Onward to the battle!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! (French Dub) - Episode 14 - Formidable Opponents</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a693606f73a1a157237c002e49c4cecf1404629951_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMNJG/formidable-opponents">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Interhigh is coming up next month. The Karasuno volleyball club is pensive, tension rises. They<br>endeavor in training individually and with clearer vision as a team, as they get more<br>inspired. In the meantime, pairings of the preliminaries get announced...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Unnamed Memory (German Dub) - Episode 1 - Cursed Words and the Azure Tower</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b0f3cb4aae962fc06e2368bbdd6324f61712670581_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/30/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGD3E/cursed-words-and-the-azure-tower">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Prince Oscar, heir to the throne of Farsas, was cursed in his childhood - a<br>curse that prevents him from producing an heir. His last chance is the help of<br>the Witch of the Azure Moon, but she lives in a gigantic azure tower that<br>harbors many dangers...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions (German Dub) - Episode 12 - The Case of the Yadagami-sama Murders (Part 1)</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0f30f35a3018a8f0c4d3f252b13bca1f1702888434_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/30/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07N1D/the-case-of-the-yadagami-sama-murders-part-1">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ron agrees to take on Spitz's search request in exchange for his obtaining a file<br>on the Bloody Training Incident. Spitz accepts Ron's terms and takes Ron and Toto to<br>Yadamura, a village in Yamanashi prefecture where his ethnologist brother disappeared.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Log Horizon (German Dub) - Episode 12 - The Forest of Lagranda</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1506808725b7ee022cb41ed7798dbe0a1387402935_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/30/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M8XE/the-forest-of-lagranda">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The young players travel the Xantleaf peninsula at the camp. Minori, Touya and Serara meet<br>up with new players Isuzu the bard and Rundel Haus the sorcerer.  They head<br>into the "La Granda Forest" dungeon, where skeletons await them.  The easily-spooked Serara, the<br>strong-willed Touya, and the proud Rundel Haus... will the five of them be able to<br>work together in their first party fight?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The God of High School (French Dub) - Episode 13 - GOD/GOD</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b6933fed9a1aed4787ad8f3f08853c271601284886_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">4/30/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMNKG/godgod">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The god that appeared over the arena has been shot down by Jaesan's technique. Mori<br>and the rest have fallen into a huge cave, where they battle against Jegal, who<br>has transformed into a god after absorbing the Key. Mori, Daewi, and Mira face him<br>together, but their attacks don't even reach him, and Daewi is severely wounded protecting Mori<br>from Jegal's vicious onslaught. As the situation grows desperate, a memory that had remained dormant<br>in Mori's mind all this time reawakens...</p>
 </td>
 </tr>
 </table>
