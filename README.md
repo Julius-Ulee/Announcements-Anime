@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: May 8, 2024, 7:42:38 AM</em></p>
+<p align="center"><em>Updated on: May 8, 2024, 7:21:34 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,142 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Fire Force Season 2 (Telugu Dub) - Episode 14 - The Ashen Reaper</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b11623c2f196891ea96adc93406d7b5d1601625452_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1E19/the-ashen-reaper">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Licht reveals to the other members of the 8th that he has been spying on<br>them for Haijima. Licht and Shinra come up with a plan to get inside the<br>child pyrokinesis lab where Shinra was institutionalized as a child to uncover some dirt on<br>Haijima.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Fire Force Season 2 (Tamil Dub) - Episode 14 - The Ashen Reaper</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b11623c2f196891ea96adc93406d7b5d1601625452_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EGKE/the-ashen-reaper">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Licht reveals to the other members of the 8th that he has been spying on<br>them for Haijima. Licht and Shinra come up with a plan to get inside the<br>child pyrokinesis lab where Shinra was institutionalized as a child to uncover some dirt on<br>Haijima.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Tamil Dub) - Episode 12 - The Gears Spin Out of Control</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/86d3a9773aa96a2a63379e8ea5b91ce01545057836_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EWVQ/the-gears-spin-out-of-control">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Orc army, led by the Orc Lord, continues its conquest throughout the Great Forest<br>of Jura. The crisis has spurred Treyni of the Dryads, the caretakers of the forest,<br>to take action. She has had her eye on Rimuru after noticing his rise to<br>prominence in the forest, and she wants Rimuru to defeat the Orc Lord.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Telugu Dub) - Episode 12 - The Gears Spin Out of Control</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/86d3a9773aa96a2a63379e8ea5b91ce01545057836_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1098/the-gears-spin-out-of-control">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Orc army, led by the Orc Lord, continues its conquest throughout the Great Forest<br>of Jura. The crisis has spurred Treyni of the Dryads, the caretakers of the forest,<br>to take action. She has had her eye on Rimuru after noticing his rise to<br>prominence in the forest, and she wants Rimuru to defeat the Orc Lord.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Tribe Nine (Russian Dub) - Episode 12 - PLAY BALL</h3></th>
 </tr>
@@ -556,142 +692,6 @@ When Shanks leaves the village, he leaves his straw hat with Luffy.
 <tr>
 <td colspan="2">
 <p align="center">Luffy and the rest of the Straw Hats continue their adventure in the New World.<br>Along the way, they get drawn into a revenge match of a Davy Back Fight<br>by the Foxy Pirates led by Foxy. The Foxy Pirates have added three new subordinates;<br>Komei as a military tactician, Dojaku, and Kansho. Ignoring his crew’s objection, Luffy accepts the<br>challenge to a Davy Back Fight.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">One Piece - Episode of Sabo (English Dub) - The Three Brothers' Bond - The Miraculous Reunion and the Inherited Will</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/767a5aff83f50078356c570630c26ac71715033583_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/7/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE305/the-three-brothers-bond-the-miraculous-reunion-and-the-inherited-will">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After two years of training, the Straw Hats reunited at Sabaody Archipelago. Getting past the<br>Fish-Man Island, they finally made it to the final sea – the New World. At<br>Punk Hazard Island, they met Trafalgar Law again by accident who suggested them to form<br>a “pirate alliance” with him in order to take down the Four Emperors, which they<br>accepted, and together with Law, they went for Doflamingo who is connected to the Four<br>Emperors. They entered Dressrosa, the country Doflamingo reigns over, and got into action according to<br>Law’s instruction but Luffy suddenly decided to enter a competition which prize was his late<br>brother Ace’s Flare-Flare Fruit under the name Lucy, and made it to the final. Meanwhile,<br>Law fell for Doflamingo’s trap and got captured. At the same time, the Straw Hats<br>learned the “darkness” of the country from a toy soldier who they met on their<br>way. Becoming furious about Doflamingo’s dirty trick, they joined the Little People to fight to<br>take back freedom. Luffy was competing in the Colosseum but to rescue Law, he was<br>trying to get out of there and that’s when Sabo who he thought was dead,<br>showed up…</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">One Piece "3D2Y" (English Dub) - The 15th Anniversary Special Episode</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cd37f472d16cb2529e913f8885f4c44d1715033660_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/7/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE093J/the-15th-anniversary-special-episode">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Taking place two years before the Straw Hats reunite at Sabody, while training Hancock’s sisters,<br>Marigold and Sandersonia are kidnapped by Byrnndi World, a level 6 inmate of Impel Down.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Unnamed Memory (German Dub) - Episode 2 - The Past Recalled Once Again</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9dd07c937f557432f8f42433ccb645601713252817_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/7/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMEM1/the-past-recalled-once-again">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Tinasha has just arrived at Farsas Castle, when she finds that she must set off<br>for the border. There, she confronts her past memories, as well as a foe who<br>has been biding time for seventy years.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions (German Dub) - Episode 13 - The Case of the Yadagami-sama Murders (Part 2)</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0c5887ffa90de33d1e5173519528235f1703513078_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/7/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJ7J5/the-case-of-the-yadagami-sama-murders-part-2">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Toto reveals the truth of the case and the culprit admits to their crimes. Ron's<br>disorder triggers, putting the culprit in danger, but help comes from an unexpected source. Who<br>is their last minute savior, and how are they connected to everything?</p>
 </td>
 </tr>
 </table>
