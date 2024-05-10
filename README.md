@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: May 9, 2024, 7:20:35 PM</em></p>
+<p align="center"><em>Updated on: May 10, 2024, 7:52:32 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride (Tamil Dub) - Episode 13 - East, west, home's best.</h3></th>
+<th><h3 align="center">A Salad Bowl of Eccentrics (Hindi Dub) - Episode 3 - The Homeless Gourmet</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/52470dc6b0791b671c006b6562fdd3971515223630_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/355c8ec1c9d61b4f837f5f52f96f278f1713459075_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9MXP/east-west-homes-best">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU0799Z/the-homeless-gourmet">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chise is attacked by yukimushi, briefly making her dangerously ill. She and Elias discuss the<br>nature of their relationship.</p>
+<p align="center">Livia faces a desperate struggle concerning her diet. A certain organization also takes an interest<br>in her. But surely they can't win her over with the promise of food and<br>housing... can they?</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride (Telugu Dub) - Episode 13 - East, west, home's best.</h3></th>
+<th><h3 align="center">WIND BREAKER (English Dub) - Episode 4 - CLASH</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/52470dc6b0791b671c006b6562fdd3971515223630_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b25bd2536f6120b2cb3b5d2c065d59a11714059108_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU079VQ/east-west-homes-best">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM00J/clash">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chise is attacked by yukimushi, briefly making her dangerously ill. She and Elias discuss the<br>nature of their relationship.</p>
+<p align="center">A fight breaks out between Bofurin and Shishitoren as Bofurin tries to protect the town's<br>middle schoolers. Sakura receives a declaration of war from the group's second-in-command, Jo Togame. Sakura<br>and one of the Four Kings of Bofurin, Toma Hiragi, tell Umemiya what happened.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Natsume Yujin-cho 5 (English Dub) - Episode 1 - Unchanging Form</h3></th>
+<th><h3 align="center">WIND BREAKER (Portuguese Dub) - Episode 3 - THE MAN WHO STANDS AT THE TOP</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e6dc22bf7dd9c6448b956148c2af1ac01475597057_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/73fbf1b383eacfcfb7d9677f0fa07f381713452990_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,20 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M125/unchanging-form">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU4783J/the-man-who-stands-at-the-top">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsume continues to spend his days giving back Youkai their names from the book of<br>friends.  One day, as he's heading home, he finds himself chased by a giant,<br>rolling pot.  The youkai in the pot insists that his grandmother Reiko stole a<br>doll from her.  When she threatens to hurt his family, however, he's forced to<br>go out and find it.  But would his kind, smiling grandmother Reiko really steal<br>a doll from someone?</p>
+<p align="center">Furin High School's first-year Class 1 is infamous for its group of strong fighters. 
+One<br>of the students in the class, Kyotaro Sugishita, becomes furious with what Sakura said and<br>throws a punch at him. The two begin a spectacular fight, ignoring an aloof Hayato<br>Suo, who's carefully watching the fight, and Nirei, who's now panicking. 
+
+A tremendously loud voice<br>echoes throughout the school, interrupting the fight between the two young men. The owner of<br>that voice that instantly changed the mood of the entire school is none other than<br>Umemiya, the Representative of Bofurin. Sakura and the rest look nervously up at the speakers<br>to hear Umemiya say something completely unexpected.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +117,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Many Sides of Voice Actor Radio (Hindi Dub) - Episode 2 - Yuhi and Yasumi and the Group and</h3></th>
+<th><h3 align="center">WIND BREAKER (German Dub) - Episode 3 - THE MAN WHO STANDS AT THE TOP</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f8fbb56d2c76fe2cbcd910d07aaa9ff41713342851_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/73fbf1b383eacfcfb7d9677f0fa07f381713452990_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +131,20 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U475P3/yuhi-and-yasumi-and-the-group-and">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0495/the-man-who-stands-at-the-top">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On today's High School Radio, Yuhi embarrasses herself by not knowing the butcher shop sells<br>croquettes. Yumiko also lands a big role in an anime, and the main cast is<br>getting together to sing the opening theme, but...</p>
+<p align="center">Furin High School's first-year Class 1 is infamous for its group of strong fighters. 
+One<br>of the students in the class, Kyotaro Sugishita, becomes furious with what Sakura said and<br>throws a punch at him. The two begin a spectacular fight, ignoring an aloof Hayato<br>Suo, who's carefully watching the fight, and Nirei, who's now panicking. 
+
+A tremendously loud voice<br>echoes throughout the school, interrupting the fight between the two young men. The owner of<br>that voice that instantly changed the mood of the entire school is none other than<br>Umemiya, the Representative of Bofurin. Sakura and the rest look nervously up at the speakers<br>to hear Umemiya say something completely unexpected.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +154,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V (English Dub) - Episode 3 - The Spirit's Resurrection</h3></th>
+<th><h3 align="center">WIND BREAKER (Spanish Dub) - Episode 3 - THE MAN WHO STANDS AT THE TOP</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/76d2034457dd8e128667cace58f25aee1713965881_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/73fbf1b383eacfcfb7d9677f0fa07f381713452990_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +168,20 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE042V/the-spirits-resurrection">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE23W/the-man-who-stands-at-the-top">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A full-scale confrontation between Shido and his friends Ratatoskr and DEM has begun. Kurumi and<br>her clone, AST led by Ryoko Kusabe, join them, and as the battle intensifies, Shido<br>confronts a horde of pseudo-Spirits, Nibeelcole.</p>
+<p align="center">Furin High School's first-year Class 1 is infamous for its group of strong fighters. 
+One<br>of the students in the class, Kyotaro Sugishita, becomes furious with what Sakura said and<br>throws a punch at him. The two begin a spectacular fight, ignoring an aloof Hayato<br>Suo, who's carefully watching the fight, and Nirei, who's now panicking. 
+
+A tremendously loud voice<br>echoes throughout the school, interrupting the fight between the two young men. The owner of<br>that voice that instantly changed the mood of the entire school is none other than<br>Umemiya, the Representative of Bofurin. Sakura and the rest look nervously up at the speakers<br>to hear Umemiya say something completely unexpected.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +191,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V (Portuguese Dub) - Episode 2 - Final Respite</h3></th>
+<th><h3 align="center">WIND BREAKER (French Dub) - Episode 3 - THE MAN WHO STANDS AT THE TOP</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/88ec7a3f4db43b3a59ea17d6d22831861713357330_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/73fbf1b383eacfcfb7d9677f0fa07f381713452990_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +205,20 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU8203M/final-respite">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EWW3/the-man-who-stands-at-the-top">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The crew of Fraxinus sets about preparing for their battle against DEM with haste and<br>high morale. The Spirits work hard to prepare snacks in order to encourage Shido and<br>everyone else as the decisive battle draws closer by the hour...</p>
+<p align="center">Furin High School's first-year Class 1 is infamous for its group of strong fighters. 
+One<br>of the students in the class, Kyotaro Sugishita, becomes furious with what Sakura said and<br>throws a punch at him. The two begin a spectacular fight, ignoring an aloof Hayato<br>Suo, who's carefully watching the fight, and Nirei, who's now panicking. 
+
+A tremendously loud voice<br>echoes throughout the school, interrupting the fight between the two young men. The owner of<br>that voice that instantly changed the mood of the entire school is none other than<br>Umemiya, the Representative of Bofurin. Sakura and the rest look nervously up at the speakers<br>to hear Umemiya say something completely unexpected.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +228,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V (Spanish Dub) - Episode 2 - Final Respite</h3></th>
+<th><h3 align="center">WIND BREAKER (Hindi Dub) - Episode 3 - THE MAN WHO STANDS AT THE TOP</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/88ec7a3f4db43b3a59ea17d6d22831861713357330_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/73fbf1b383eacfcfb7d9677f0fa07f381713452990_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +242,20 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J1VV/final-respite">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX100E/the-man-who-stands-at-the-top">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The crew of Fraxinus sets about preparing for their battle against DEM with haste and<br>high morale. The Spirits work hard to prepare snacks in order to encourage Shido and<br>everyone else as the decisive battle draws closer by the hour...</p>
+<p align="center">Furin High School's first-year Class 1 is infamous for its group of strong fighters. 
+One<br>of the students in the class, Kyotaro Sugishita, becomes furious with what Sakura said and<br>throws a punch at him. The two begin a spectacular fight, ignoring an aloof Hayato<br>Suo, who's carefully watching the fight, and Nirei, who's now panicking. 
+
+A tremendously loud voice<br>echoes throughout the school, interrupting the fight between the two young men. The owner of<br>that voice that instantly changed the mood of the entire school is none other than<br>Umemiya, the Representative of Bofurin. Sakura and the rest look nervously up at the speakers<br>to hear Umemiya say something completely unexpected.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +265,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit (English Dub) - Episode 3 - The Date</h3></th>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Telugu Dub) - Episode 43 - Right and Wrong, Part 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0303663930ae44bb70301b64f87f8b3a1713971398_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3073deb26318122557c7c664444aeceb1701363495_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +279,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG932/the-date">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2ZM7/right-and-wrong-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In an attempt to get back his phone that has Bomi's precious contact info on<br>it, Hobin confronts the couple who mugged him in a karaoke booth live on stream.</p>
+<p align="center">Itadori launches into a back-and-forth battle against Mahito, but he struggles against Mahito's ploy of<br>using average people against him. Meanwhile, Kugisaki encounters one of Mahito's separated bodies as she<br>returns to the battlefield.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +299,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit (German Dub) - Episode 2 - I Have to Become Stronger</h3></th>
+<th><h3 align="center">Laid-Back Camp Season 3 (English Dub) - Episode 4 - Hatanagi Attack! Death Road from Hell</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00ed0487b23ad76461754b33afcbce341713366793_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9e13e742389572b26d4f4d15731808211714031402_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +313,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU0791Q/i-have-to-become-stronger">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU8207W/hatanagi-attack-death-road-from-hell">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After tasting viral success, Hobin and Snapper try to come up with ways to keep<br>their new audience interested. However, when Hobin calls out Pakgo live on stream, he finds<br>out he's not as ready for a fight as he thought he was.</p>
+<p align="center">Rin and Ayano bike their way up treacherous mountain roads and cross terrifying swinging bridges<br>to make it to the campsite. While she waits for them, Nadeshiko takes in the<br>sights and manages to find a scare of her own...</p>
 </td>
 </tr>
 </table>
@@ -318,12 +333,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit (French Dub) - Episode 2 - I Have to Become Stronger</h3></th>
+<th><h3 align="center">Laid-Back Camp Season 3 (Portuguese Dub) - Episode 3 - We're Off! Land of Suspension Bridges</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00ed0487b23ad76461754b33afcbce341713366793_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/acebaba8890561fec9269c7283549a931713439252_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +347,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM7Z3/i-have-to-become-stronger">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U475V3/were-off-land-of-suspension-bridges">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After tasting viral success, Hobin and Snapper try to come up with ways to keep<br>their new audience interested. However, when Hobin calls out Pakgo live on stream, he finds<br>out he's not as ready for a fight as he thought he was.</p>
+<p align="center">On their way to meet up with Nadeshiko for a three-girl camping trip, Rin and<br>Ayano bike their way around Ikawa to see the area's impressive array of suspension bridges.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +367,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit (Hindi Dub) - Episode 2 - I Have to Become Stronger</h3></th>
+<th><h3 align="center">Laid-Back Camp Season 3 (Spanish Dub) - Episode 3 - We're Off! Land of Suspension Bridges</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00ed0487b23ad76461754b33afcbce341713366793_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/acebaba8890561fec9269c7283549a931713439252_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +381,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5W05/i-have-to-become-stronger">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EWGQ/were-off-land-of-suspension-bridges">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After tasting viral success, Hobin and Snapper try to come up with ways to keep<br>their new audience interested. However, when Hobin calls out Pakgo live on stream, he finds<br>out he's not as ready for a fight as he thought he was.</p>
+<p align="center">On their way to meet up with Nadeshiko for a three-girl camping trip, Rin and<br>Ayano bike their way around Ikawa to see the area's impressive array of suspension bridges.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +401,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 (English Dub) - Episode 3 - A Re-education for This Bright Little Girl!</h3></th>
+<th><h3 align="center">A Condition Called Love (English Dub) - Episode 4 - Our First Shrine Visit</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8bca12c75928f2d044f80f5fccc48d111713969805_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/50520b349c6522c12162ff1b672932da1714057543_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +415,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M1X5/a-re-education-for-this-bright-little-girl">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5DWP/our-first-shrine-visit">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">What started as dinner at Darkness's mansion with Princess Iris has turned into Kazuma being<br>dragged back to the castle! Rain explains the situation, and Kazuma agrees to keep Iris<br>company. His wild stories leave the princess with stars in her eyes.</p>
+<p align="center">Hotaru is still puzzling out her feelings, but she has an eye-opening moment when she<br>and Hananoi-kun reunite for the first shrine visit of the year. Afterward, her desire to<br>learn more about him just may draw them closer together.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +435,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 (Portuguese Dub) - Episode 2 - A Smile for This Dour Girl!</h3></th>
+<th><h3 align="center">A Condition Called Love (Portuguese Dub) - Episode 3 - Our First Christmas</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2c94e5e64e2e8aaa2e6ec3cac426545a1713357363_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2523aa42c3518281f9435bdff7c384371713452942_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +449,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM0K7/a-smile-for-this-dour-girl">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJ5N0/our-first-christmas">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kazuma and the gang receive a letter from Princess Iris. She wants to share a<br>meal with them while hearing about their adventures. While Kazuma is giddy with wonderment of<br>her beauty, Darkness is terrified of heads rolling in the event of any rudeness.</p>
+<p align="center">Hotaru and Hananoi-kun's trial dating period is set to expire on Christmas, and Hananoi-kun has<br>promised her a Christmas Eve to remember. But now he isn't responding to her and<br>Hotaru's not sure how to face him, if she ever sees him again at all.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +469,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 (Spanish Dub) - Episode 2 - A Smile for This Dour Girl!</h3></th>
+<th><h3 align="center">A Condition Called Love (Spanish Dub) - Episode 3 - Our First Christmas</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2c94e5e64e2e8aaa2e6ec3cac426545a1713357363_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2523aa42c3518281f9435bdff7c384371713452942_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +483,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EW2Q/a-smile-for-this-dour-girl">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG9V2/our-first-christmas">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kazuma and the gang receive a letter from Princess Iris. She wants to share a<br>meal with them while hearing about their adventures. While Kazuma is giddy with wonderment of<br>her beauty, Darkness is terrified of heads rolling in the event of any rudeness.</p>
+<p align="center">Hotaru and Hananoi-kun's trial dating period is set to expire on Christmas, and Hananoi-kun has<br>promised her a Christmas Eve to remember. But now he isn't responding to her and<br>Hotaru's not sure how to face him, if she ever sees him again at all.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +503,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit - Episode 5 - Friends</h3></th>
+<th><h3 align="center">A Condition Called Love (French Dub) - Episode 3 - Our First Christmas</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/da07ec22c74bb9d1becdd86c7fa48d0e1715181079_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2523aa42c3518281f9435bdff7c384371713452942_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +517,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM9QG/friends">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2ZMN/our-first-christmas">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Hotaru and Hananoi-kun's trial dating period is set to expire on Christmas, and Hananoi-kun has<br>promised her a Christmas Eve to remember. But now he isn't responding to her and<br>Hotaru's not sure how to face him, if she ever sees him again at all.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +537,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BARTENDER Glass of God - Episode 6 - The True Face</h3></th>
+<th><h3 align="center">A Condition Called Love (Hindi Dub) - Episode 3 - Our First Christmas</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ee8aa8d4614643120bc32dc111328cc21715179679_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2523aa42c3518281f9435bdff7c384371713452942_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +551,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU417NE/the-true-face">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47838/our-first-christmas">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Hotaru and Hananoi-kun's trial dating period is set to expire on Christmas, and Hananoi-kun has<br>promised her a Christmas Eve to remember. But now he isn't responding to her and<br>Hotaru's not sure how to face him, if she ever sees him again at all.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +571,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 - Episode 5 - Nefarious Friends for This Sheltered Princess!</h3></th>
+<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride (English Dub) - Episode 5 - Heartbreak Can Be Literally, Physically Painful</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/582b4b10dfc79ff9451462a0dc9657b71715178913_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/526def6a606ee31c4d5868f940f8159f1714057227_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +585,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2GJV/nefarious-friends-for-this-sheltered-princess">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU0790Q/heartbreak-can-be-literally-physically-painful">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Devil King's army attack alarm rings in the royal capital! The adventurer's guild calls<br>on high-level adventurers to join the battle. Having failed to capture the thief at Alderp's<br>mansion, Kazuma joins the fight in order to redeem his reputation.</p>
+<p align="center">Devastated and alone, Nephy is found by the people of Kianoides and comforted by Chastille<br>and Manuela. Just as Nephy steels her resolve and decides to return to Zagan, she's<br>spirited away by magic from an unknown source.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +605,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V - Episode 5 - Mother Mio</h3></th>
+<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride (Hindi Dub) - Episode 3 - The Quieter They Are, The Devastatingly Scarier They Are When Mad</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d23fa432956ca9283f74265ddc8dbe5f1715174636_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d4335afffc454583472afc5bf8f9229b1712842330_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +619,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2G87/mother-mio">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M105/the-quieter-they-are-the-devastatingly-scarier-they-are-when-mad">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shido is flooded with memories as the girl named Mio Takamiya stands before him. She<br>was the person with whom Shido once shared his feelings when he was Shinji Takamiya.<br>Meanwhile, Kotori and the others learn of Reine's true identity.</p>
+<p align="center">Chastille and several other Angelic Knights assault Zagan's castle, but he's unwilling to start stacking<br>up bodies with Nephy around. When his hesitation puts him in danger, Nephy unleashes her<br>own power to save him.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +639,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mysterious Disappearances - Episode 5 - Underwear, Snacks, and Scarlet Clothes</h3></th>
+<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride (Tamil Dub) - Episode 3 - The Quieter They Are, The Devastatingly Scarier They Are When Mad</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/56d9b07e82fcf8ab30cdaf474972cdc91715160187_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d4335afffc454583472afc5bf8f9229b1712842330_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +653,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EVX3/underwear-snacks-and-scarlet-clothes">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN8X1/the-quieter-they-are-the-devastatingly-scarier-they-are-when-mad">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sumireko looks after Oto while Adashino is away. They go to Oto's school where Sumireko<br>revels in the joys of youth. She and Oto run into Uname and spend the<br>evening with her. But their peace is short-lived as the shadow of a new Curiosity<br>draws near.</p>
+<p align="center">Chastille and several other Angelic Knights assault Zagan's castle, but he's unwilling to start stacking<br>up bodies with Nephy around. When his hesitation puts him in danger, Nephy unleashes her<br>own power to save him.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +673,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Many Sides of Voice Actor Radio - Episode 5 - Yuhi and Yasumi Will Definitely Keep Going?</h3></th>
+<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride (Telugu Dub) - Episode 3 - The Quieter They Are, The Devastatingly Scarier They Are When Mad</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1124f1ba1fefe7ae52a9a37ba5492f9a1715159344_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d4335afffc454583472afc5bf8f9229b1712842330_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +687,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/8/2024</td>
+<td align="center">5/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5NK7/yuhi-and-yasumi-will-definitely-keep-going">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9MKP/the-quieter-they-are-the-devastatingly-scarier-they-are-when-mad">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yumiko and Kagasaki go to Yuhi's agency to apologize. But there they find out that<br>Yuhi could have continued as an idol VA even without Yumiko's intervention. When Yumiko says<br>that she doesn't regret what she did, President Kashima scowls and...</p>
+<p align="center">Chastille and several other Angelic Knights assault Zagan's castle, but he's unwilling to start stacking<br>up bodies with Nephy around. When his hesitation puts him in danger, Nephy unleashes her<br>own power to save him.</p>
 </td>
 </tr>
 </table>
