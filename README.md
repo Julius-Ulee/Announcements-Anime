@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: May 15, 2024, 7:53:11 AM</em></p>
+<p align="center"><em>Updated on: May 15, 2024, 7:23:00 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,142 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Fire Force Season 2 (Telugu Dub) - Episode 15 - A Three-Way Melee</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fb6bc7707850a5a428ad58280db199e61602225409_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/15/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WKEE/a-three-way-melee">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">At Licht's signal, the rest of the 8th breaks into the Haijima compound, where Vulcan<br>and Maki confront an overpowered puppeteer. The rest of the company meets up with Shinra<br>and Licht, who are facing Kurono, when a third party shows up!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Fire Force Season 2 (Tamil Dub) - Episode 15 - A Three-Way Melee</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fb6bc7707850a5a428ad58280db199e61602225409_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/15/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U475GM/a-three-way-melee">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">At Licht's signal, the rest of the 8th breaks into the Haijima compound, where Vulcan<br>and Maki confront an overpowered puppeteer. The rest of the company meets up with Shinra<br>and Licht, who are facing Kurono, when a third party shows up!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Tamil Dub) - Episode 13 - The Great Clash</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4fbfedc219a7ef7cf2974e2104ad880d1545643129_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/15/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM7Q0/the-great-clash">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rimuru and his Goblin riders set out for the marshlands to finalize their alliance with<br>the Lizardmen. On the way, they save a Lizardman who'd been attacked by the Orcs.<br>The victim turns out to be Gabiru's younger sister, who reveals that Gabiru led an<br>insurrection and left to fight the Orc Lord without waiting for the alliance. She also<br>pleads with Rimuru to save Gabiru and the rest of her clan. Meanwhile, Gabiru faces<br>the massive Orc army and is shocked when he witnesses the power of their unique<br>skill, Starved.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Telugu Dub) - Episode 13 - The Great Clash</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4fbfedc219a7ef7cf2974e2104ad880d1545643129_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/15/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5WVX/the-great-clash">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rimuru and his Goblin riders set out for the marshlands to finalize their alliance with<br>the Lizardmen. On the way, they save a Lizardman who'd been attacked by the Orcs.<br>The victim turns out to be Gabiru's younger sister, who reveals that Gabiru led an<br>insurrection and left to fight the Orc Lord without waiting for the alliance. She also<br>pleads with Rimuru to save Gabiru and the rest of her clan. Meanwhile, Gabiru faces<br>the massive Orc army and is shocked when he witnesses the power of their unique<br>skill, Starved.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Unnamed Memory (German Dub) - Episode 3 - What the Forest Dreams Of</h3></th>
 </tr>
@@ -547,142 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Only 3 Areas of the Digital World remain unscanned.  As the Royal Knights go<br>to Seraphimon's castle, Gottsumon and Kouji reunite.  Gottsumon begs to be allowed to help<br>them fight back as everyone works to protect the Forest Area's data!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Frontier - Episode 43 - The Erasure of a Hometown! SkullSatamon, Emissary of Hell</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/387c6a5924252b3b1681a9d305c064291715564766_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/14/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2Z1K/the-erasure-of-a-hometown-skullsatamon-emissary-of-hell">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Town of Flame, Bokomon and Neamon's hometown is under attack! SkullSatamon torments the residents<br>to learn where the area's data is hidden as KaiserGreymon and MagnaGarurumon fight back. But<br>their problems are about to multiply...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Frontier - Episode 42 - Protect the DigiEggs! The Vanishing Miracle of Life</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/109e44358b59ce27b606c4ec3413f3341715564706_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/14/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU820WQ/protect-the-digieggs-the-vanishing-miracle-of-life">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Town of Beginnings is where all Digimon are born and where DigiEggs are sent<br>to. Swanmon bravely protects the DigiEggs within the town but the Royal Knights now have<br>their sights set on it.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Frontier - Episode 41 - Don't Let Them Scan It! The Beanstalk of Friendship</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6ed9f72cb5d20303a663d0d661a39d9d1715564648_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/14/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5W1K/dont-let-them-scan-it-the-beanstalk-of-friendship">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">In Beanstalk Village, the 4 kids recognize the Mamemon as a group they helped when<br>they first got to the Digital World.  Tomoki tries to protect them from the<br>Royal Knights while the others make their way to the village. However, Beanstalk Village has<br>a legend about the beanstalk the children helped plant...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Frontier - Episode 40 - The Destined?! The Boy Who Controls Angemon!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a00d04c0028c81a07d1e06e39869924a1715564590_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/14/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM7JK/the-destined-the-boy-who-controls-angemon">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After being saved by a Trailmon, the kids arrive at the Steel Area to find<br>an Angemon... and four other children!  Tomoki recognizes them as a group that bullied<br>him on the train to the Digital World.  Angemon guards the 4 children on<br>orders from the late Ofanimon, but can he protect them from the Royal Knights?</p>
 </td>
 </tr>
 </table>
