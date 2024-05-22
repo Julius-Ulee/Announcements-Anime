@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: May 21, 2024, 7:21:31 PM</em></p>
+<p align="center"><em>Updated on: May 22, 2024, 7:53:47 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,380 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">BONES 25: DREAMING FORWARD (French Dub) - Episode 4 - Metallic Rouge - The Future of BONES</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1d21daeeb32a64ecdfa50ed77343f53f1709072862_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG5GD/metallic-rouge-the-future-of-bones">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">In its 25th year, BONES is producing an original title, returning to its origin in<br>action-driven science fiction. Peek behind the scenes on the BONES staff at work, to learn<br>how the title Metallic Rouge was developed and has been brought to life by the<br>studio and creators.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">BONES 25: DREAMING FORWARD (French Dub) - Episode 3 - Successful Adaptation</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/198a976eda99107430964f1b70611f391708486805_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJQJN/successful-adaptation">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Bones strengthened its creative capability through producing original titles and utilized that strength when producing<br>adaptations of beloved manga. Discover how Fullmetal Alchemist became the turning point for Bones and<br>how it led to their subsequent iconic hits.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">BONES 25: DREAMING FORWARD (French Dub) - Episode 1 - The History of BONES</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2272c2959a53d4e3cea7f8ed3a6823c41708015746_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK929J/the-history-of-bones">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Follow the early days of BONES after its founding, how the studio created a new<br>definition of mecha anime, and gained its creative capability.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">BONES 25: DREAMING FORWARD (French Dub) - Episode 2 - Style and Originality</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/14d4692dca253adedb4a30e54a77b3631708468507_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07P7V/style-and-originality">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Find out how BONES expanded its creativity by aggressively producing original titles not based on<br>existing IPs, and what it means to produce original titles for the studio and the<br>creators</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Unnamed Memory (German Dub) - Episode 4 - A Breath of Life into Image</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b7872a1e2d006040e7c4f32fabf0093a1714483144_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1DPP/a-breath-of-life-into-image">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A foreign envoy shows up at Farsas Castle, demanding an audience with Tinasha. As Oscar<br>is about to send him away, the mysterious envoy utters a name that changes his<br>mind.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Log Horizon (German Dub) - Episode 15 - Attack</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e276f067200ad730547d8382d38c4e7c1389143383_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM31V/attack">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Touya and Minori and the rest of the players in the training camp are hitting<br>a wall with the way they fight.  And Minori's suggestion is that they introduce<br>themselves to one another!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Yashahime: Princess Half-Demon (German Dub) - Episode 34 - Battle on the New Moon, Part 1</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/161c6ad277f1dd22d23304a641e21b8f1638585464_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7VDG/battle-on-the-new-moon-part-1">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Moroha learns about her parents’ battle against Shogen Mamiana, the sealing of the Full Moon<br>Raccoon Dog, and Takechiyo’s exile from his clan. Setsuna is attacked by the snow demon<br>Yukinyudo. Zero targets Towa on the new moon.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">RoOT - Route of OddTaxi - - Episode 8 - The Trajectory of a Fall</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/44736138156dbe3348c8181598e8654d1716307469_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZV0ME/the-trajectory-of-a-fall">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A look back in time at the events that set everyone on their current paths.<br>Rena's envy for Yuki drives her to a desperate impulse. Manager Yamamoto and Nikaido Rui<br>race to hide a corpse.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Oblivion Battery - Episode 7 - Interesting Guys</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/207b56a6cb1237629366ce1bd24895ae1716303532_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5KE5/interesting-guys">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Todo volunteers to step down from shortstop due to his yips. But inspired by Kei's<br>words, Todo decides to try practicing throwing to first. However, when his training hits a<br>snag, Haruka says something that could ruin everything.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TOUKEN RANBU KAI KYODEN - Episode 8 - Honnoji In Flames</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8deaf1da1a7a217ec22d21105d86ea231716303489_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU823W2/honnoji-in-flames">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Fudou Yukimitsu goes after Mitsuhide in a bid to carry out Ranmaru's wish as the<br>Honnoji Incident comes to a close.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Unnamed Memory - Episode 7 - The End of the Dream</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/94b19f622b6ede3b6ef6ab7b5a87cbbf1716297774_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5KEP/the-end-of-the-dream">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Tinasha leaves Farsas to defect to Cuscull at Lanak's side. Something about her actions, however,<br>don't quite add up, which does not escape the notice of Cuscull's chief mage.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Ranking of Kings: The Treasure Chest of Courage (Telugu Dub) - Episode 5 - The Law of the Underworld | A White Horse in Love | The Gentle Soldier, Hokuro</h3></th>
 </tr>
@@ -309,380 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">When Takato tries to call Juri's family, he learns that she's gone missing, but he<br>keeps seeing her at various places around town. When the Tamers come across another girl<br>who's been searching for them, she and her Digimon bring a power to help them<br>fight the D-Reaper in the Real World!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Tamers - Episode 43 - Connection of Hearts. The Resurrected Beelzebumon</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9835033ecfc44fde5975c5b15fb9d3d01716214058_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07PQ3/connection-of-hearts-the-resurrected-beelzebumon">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Impmon makes his way to see Ai and Mako, the children that formerly fought over<br>him. But when he sees the Tamers fighting in Nishi-Shinjuku, he realizes that he still<br>has things he can do in this fight!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Tamers - Episode 42 - The City Attacked by the D-Reaper. The Tamers' Determination</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f504b4acd6875717cf42d89e56c5f8001716214027_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MG9D/the-city-attacked-by-the-d-reaper-the-tamers-determination">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The kids are horrified to learn that the D-Reaper has arrived in the Real World.<br>Leaving their families behind, Takato, Jian and Ruki head for the tunnel underneath the city<br>and towards the D-Reaper.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Tamers - Episode 41 - Return to the Real World!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c4926b979f2d6b5ac3bbe8defa93ae9e1716213926_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EPXP/return-to-the-real-world">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As the children begin to board the Ark, Ruki and Renamon look like they'll miss<br>the ride back. Guilmon's plea to the Ark allows them to catch up and board,<br>sending them all back to the Real World safely. Takato, Guilmon and Juri take a<br>train to meet Juri's dad but when they return...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Tamers - Episode 40 - The Spark of Evolution. Shining Evolution</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2e0aa6e6e692d970ddfe6af3504af7d21716213907_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM340/the-spark-of-evolution-shining-evolution">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Mysterious earthquakes are shaking Nishi-Shinjuku as the team rushes to complete the Ark.  Culumon<br>is granted a wish that calls many Ultimate-level Digimon to fight the growing threat of<br>the D-Reaper. The clock ticks down to their return to the Real World!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Tamers - Episode 39 - Dance, Petals of the Ultimate Flower! Digivolve to Sakuyamon</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2d8c592a25b6247be5dddde197f920a91716213791_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5427/dance-petals-of-the-ultimate-flower-digivolve-to-sakuyamon">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The enemy of the Digital World, the D-Reaper is coming for Culumon! When the D-Reaper's<br>bubbles threaten to annihiliate everyone around them, Ruki and Renamon...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Tamers - Episode 38 - The True Enemy Sets Forth! The Four Holy Beasts' Battle</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7344be284e6f1cba8d15000b3857b3af1716213748_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE80M/the-true-enemy-sets-forth-the-four-holy-beasts-battle">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The adults back in the Real World work together to create a transport to retrieve<br>the kids from the Digital World. While expecting to fight Zhuqiaomon, another Holy Beast, Qinglongmon,<br>arrives to reveal the true enemy of the Digital World!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Tamers - Episode 37 - Versus Zhuqiaomon! Ultimate Digivolution to SaintGalgomon</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/82d81dfbd6150e98f9282f3fe152a13b1716213738_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47NQ7/versus-zhuqiaomon-ultimate-digivolution-to-saintgalgomon">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Jian pushes for the group to head toward Zhuqiaomon and free Culumon, but he seems<br>more impulsive than usual.  Trying to protect his sister and free Culumon, he's overlooking<br>the fact that they're a team and that he's not just fighting by himself.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Tamers - Episode 36 - Showdown! Dukemon vs. Beelzebumon</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5a5104300237aa9a4f804d24ea53e7571716213619_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2E7D/showdown-dukemon-vs-beelzebumon">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Takato and Guilmon unite to form a brand-new Digimon, Dukemon! Determined to defeat Beelzebumon, a<br>fierce battle ensues but when Dukemon looks the land the final blow...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Tamers - Episode 35 - His Name is Dukemon! The True Ultimate Digivolution</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e32574394d45a699bbf8725f7c0dce581716213607_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ03QQ/his-name-is-dukemon-the-true-ultimate-digivolution">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Takato and Guilmon's anger joined together to unleash a new evolution, but something seems very<br>wrong.  Destruction seems to abound on all sides as Beelzebumon threatens to load everyone,<br>human and Digimon alike.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Tamers - Episode 34 - The Death of the Kind Hero, Leomon!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9b4c2082c06a6c59be56c7499be36d541716213487_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG58KJ/the-death-of-the-kind-hero-leomon">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Shaochung's partner, Lopmon, reveals the location of the missing Culumon: the Suzaku Gate. While Beelzebumon,<br>eager to eliminate those he was asked to destroy, confronts the team as they reunite!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Tamers - Episode 33 - Where is Terriermon? Shaochung Comes to the Digital World</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2a3617235f457047dac614ccbd93a5921716213392_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG5Z0/where-is-terriermon-shaochung-comes-to-the-digital-world">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Yamaki and Zhenyu meet in the park but when they do, Jian's sister, Shaochung, is<br>transported away to the Digital World!  There she soon discovers a guardian Digimon -<br>Andiramon!</p>
 </td>
 </tr>
 </table>
