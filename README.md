@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: May 27, 2024, 7:22:02 PM</em></p>
+<p align="center"><em>Updated on: May 28, 2024, 7:54:06 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Vampire Dormitory (English Dub) - Episode 6 - Love 6. The pretty boy is heartbroken?!</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (English Dub) - Episode 7 - Scale of God and Sorcerer of the Grasslands</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e7ae2ec5c203cb1f96eb6614d15ee46f1715495497_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bda25d6732a0d4eab9e7185e2449f2de1715625892_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU824X8/love-6-the-pretty-boy-is-heartbroken">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJKMW/scale-of-god-and-sorcerer-of-the-grasslands">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After angering Ruka, Mito is whisked away to the beach by Takara and Juri. While<br>there, Mito steels herself to apologize to Ruka. Meanwhile, Ruka decides to make something as<br>an apology to Mito, but Maina stops by and dramatic events unfold.</p>
+<p align="center">Lawrence and Holo continue on to the next city to sell the pepper and pick<br>up their next goods on the long journey north. Holo puts her nose to good<br>use, once again.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Vampire Dormitory (Hindi Dub) - Episode 5 - Love 5. The pretty boy runs away from home.</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (German Dub) - Episode 6 - Merchant and Unreasonable God</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7321065fdae58c5d770a8295e8e7c64c1714892660_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/177d4c70a0598b0ea64e302b9c0a0bae1715011712_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ08PD/love-5-the-pretty-boy-runs-away-from-home">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK93GQ/merchant-and-unreasonable-god">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maina's confession and Ren's odd behavior puts Mito in emotional turmoil. After nearly outing herself,<br>a conversation with Ruka sends her running away from home! Mito runs into Ren again<br>after some trouble on the streets, and finds out his secret.</p>
+<p align="center">Holo and Lawrence are trapped in the tunnels below the city, with hunters searching for<br>them in all directions.  When danger comes, how far will they go to protect<br>each other?</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Duke of Death and His Maid Season 3 (English Dub) - Episode 30 - Dance Party (Part 2)</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (French Dub) - Episode 6 - Merchant and Unreasonable God</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/21d43f71c68fa7c9bbe7c566d580cf011715495432_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/177d4c70a0598b0ea64e302b9c0a0bae1715011712_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07MW4/dance-party-part-2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07MQ5/merchant-and-unreasonable-god">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Daleth tells Walter that she wants to become human, and Nico arrives to tell the<br>group that final preparations are complete.</p>
+<p align="center">Holo and Lawrence are trapped in the tunnels below the city, with hunters searching for<br>them in all directions.  When danger comes, how far will they go to protect<br>each other?</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Duke of Death and His Maid Season 3 (Portuguese Dub) - Episode 29 - Dance Party (Part 1)</h3></th>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (English Dub) - Episode 7 - I'm Going to Battle Some Assassins</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3d0acd4c6f6982b5b98ba671d007a62a1714892639_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a3c49b57dc69e1070abc771e15a15f6e1715615588_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN5D9/dance-party-part-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M393/im-going-to-battle-some-assassins">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Duke and Alice visit the family mansion, where a fancy ball is about to<br>take place.</p>
+<p align="center">The kingdom has been infiltrated by a girl named Ren from the Assassin's Guild.. Upon<br>learning of her special ability as the Poison Blighted, Lloyd tracks her back to her<br>hideout, sneaks in, and is attacked by a group of assassins with unique abilities.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Duke of Death and His Maid Season 3 (Spanish Dub) - Episode 29 - Dance Party (Part 1)</h3></th>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (German Dub) - Episode 5 - The Demon Is Angry</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3d0acd4c6f6982b5b98ba671d007a62a1714892639_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/30f614a5a1b382c69ab26a5e45740f541714403363_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK934D/dance-party-part-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5G20/the-demon-is-angry">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Duke and Alice visit the family mansion, where a fancy ball is about to<br>take place.</p>
+<p align="center">Just when it seemed Sylpha was able to overpower the pack of bearwolves, the demon<br>Pazuzu emits a miasma that has the knights collapsing to the ground. Once even Sylpha<br>and Tao are rendered unable to retaliate, Lloyd finally makes his move.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (German Dub) - Episode 5 - The Storm Arrives!</h3></th>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (French Dub) - Episode 5 - The Demon Is Angry</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a1bebbcc521b00ad3914a2e110cf5ac91714914417_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/30f614a5a1b382c69ab26a5e45740f541714403363_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M35K/the-storm-arrives">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47KMP/the-demon-is-angry">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Things are looking grim around the Louvent estate as the political situation continues to deteriorate,<br>but nothing could prepare Ars for the storm that's about to blow in—the fiancée he<br>didn't know he had!</p>
+<p align="center">Just when it seemed Sylpha was able to overpower the pack of bearwolves, the demon<br>Pazuzu emits a miasma that has the knights collapsing to the ground. Once even Sylpha<br>and Tao are rendered unable to retaliate, Lloyd finally makes his move.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (English Dub) - Episode 18 - Turning Point 3</h3></th>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (Hindi Dub) - Episode 5 - The Demon Is Angry</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7c1f508d81ceff0428474dd6b1b2391a1715526458_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/30f614a5a1b382c69ab26a5e45740f541714403363_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5GJM/turning-point-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WPV2/the-demon-is-angry">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Life is looking up for Rudeus. His sisters are settling in, and he has plenty<br>of time for friends and family... until an announcement from Sylphie and an unexpected letter<br>upend his idyllic school life.</p>
+<p align="center">Just when it seemed Sylpha was able to overpower the pack of bearwolves, the demon<br>Pazuzu emits a miasma that has the knights collapsing to the ground. Once even Sylpha<br>and Tao are rendered unable to retaliate, Lloyd finally makes his move.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Portuguese Dub) - Episode 17 - My Older Brother's Feelings</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (English Dub) - Episode 19 - The Unruly Merchant</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2eaaf4e0383ee7ab92029508b17c5d691714914456_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c752e074624fa4be0ab9390380fce3371715600642_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJK41/my-older-brothers-feelings">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ719X/the-unruly-merchant">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Norn shuts herself in her dorm room and refuses to attend classes. Haunted by the<br>specter of his past life, Rudeus sets out to solve his sister's problems, only to<br>discover that he is the cause.</p>
+<p align="center">The mutant turmoil shows no signs of ending. At the evacuation center, people who've transformed<br>into new mutants have appeared, anxiety and fatigue have reached their peak. To change the<br>situation, Misumi's group joins the mutant subjugation force.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (French Dub) - Episode 17 - My Older Brother's Feelings</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Portuguese Dub) - Episode 18 - Fall of the Academy City</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2eaaf4e0383ee7ab92029508b17c5d691714914456_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b60afd55589f631bf5133eb4e25ea5e81714995597_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM1J9/my-older-brothers-feelings">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JK8G/fall-of-the-academy-city">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Norn shuts herself in her dorm room and refuses to attend classes. Haunted by the<br>specter of his past life, Rudeus sets out to solve his sister's problems, only to<br>discover that he is the cause.</p>
+<p align="center">Rotsgard's turmoil continues. Numerous mutants have appeared in the city and Jin and his friends<br>attempt to subjugate them. Meanwhile, Mio, who has been ordered by Makoto to protect the<br>shelter, detects a strange smell from Makoto during her mission.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (German Dub) - Episode 17 - My Older Brother's Feelings</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Spanish Dub) - Episode 18 - Fall of the Academy City</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2eaaf4e0383ee7ab92029508b17c5d691714914456_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b60afd55589f631bf5133eb4e25ea5e81714995597_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ089D/my-older-brothers-feelings">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2V7J/fall-of-the-academy-city">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Norn shuts herself in her dorm room and refuses to attend classes. Haunted by the<br>specter of his past life, Rudeus sets out to solve his sister's problems, only to<br>discover that he is the cause.</p>
+<p align="center">Rotsgard's turmoil continues. Numerous mutants have appeared in the city and Jin and his friends<br>attempt to subjugate them. Meanwhile, Mio, who has been ordered by Makoto to protect the<br>shelter, detects a strange smell from Makoto during her mission.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Spanish Dub) - Episode 17 - My Older Brother's Feelings</h3></th>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (English Dub) - Episode 6 - Hiya, Djinn of Light and Darkness</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2eaaf4e0383ee7ab92029508b17c5d691714914456_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b3a54214707530c3ce91c428bedbbf9e1715600511_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JKQX/my-older-brothers-feelings">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK93PQ/hiya-djinn-of-light-and-darkness">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Norn shuts herself in her dorm room and refuses to attend classes. Haunted by the<br>specter of his past life, Rudeus sets out to solve his sister's problems, only to<br>discover that he is the cause.</p>
+<p align="center">Hiya, the djinn who commands the origin of light and darkness, appears out of nowhere<br>and attacks Flio. Fenrys is gravely injured protecting him, sending the normally peaceful Flio into<br>a rage as he unleashes his own immense power upon Hiya.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Castilian Dub) - Episode 17 - My Older Brother's Feelings</h3></th>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Portuguese Dub) - Episode 5 - Until My Life Ends</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2eaaf4e0383ee7ab92029508b17c5d691714914456_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/af092af5e2bffb83f0196e7414b1df751714995417_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2V1Z/my-older-brothers-feelings">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E91W/until-my-life-ends">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Norn shuts herself in her dorm room and refuses to attend classes. Haunted by the<br>specter of his past life, Rudeus sets out to solve his sister's problems, only to<br>discover that he is the cause.</p>
+<p align="center">As Flio and company are beginning their new life near the town of Houghtow, an<br>all-out attack by the Dark Army endangers the very existence of Klyrode, forcing the king<br>to make a decision.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Italian Dub) - Episode 17 - My Older Brother's Feelings</h3></th>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (German Dub) - Episode 5 - Until My Life Ends</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2eaaf4e0383ee7ab92029508b17c5d691714914456_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/af092af5e2bffb83f0196e7414b1df751714995417_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ712V/my-older-brothers-feelings">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1NKD/until-my-life-ends">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Norn shuts herself in her dorm room and refuses to attend classes. Haunted by the<br>specter of his past life, Rudeus sets out to solve his sister's problems, only to<br>discover that he is the cause.</p>
+<p align="center">As Flio and company are beginning their new life near the town of Houghtow, an<br>all-out attack by the Dark Army endangers the very existence of Klyrode, forcing the king<br>to make a decision.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (Portuguese Dub) - Episode 25 - Those Who Illuminate The World's Darkness</h3></th>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Tamil Dub) - Episode 5 - Until My Life Ends</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/54f4c62d7db8031daa874b0c66e213c51711857151_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/af092af5e2bffb83f0196e7414b1df751714995417_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M3QK/those-who-illuminate-the-worlds-darkness">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M3K3/until-my-life-ends">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Bilac finds jewelry among Sunraku's loot. In order to show them to a jeweler, she<br>introduces Sunraku to Aramiys, the swordsman of Cazzeria, and vice captain of the Musketeers in<br>Boots. Later they head to Eighthold where they encounter the Professor.</p>
+<p align="center">As Flio and company are beginning their new life near the town of Houghtow, an<br>all-out attack by the Dark Army endangers the very existence of Klyrode, forcing the king<br>to make a decision.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (Portuguese Dub) - Episode 24 - Rare Items, Worth More Than Life Itself</h3></th>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (French Dub) - Episode 5 - Until My Life Ends</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/efd4a6f29ce3b03a6f9d14d818b804bf1711265548_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/af092af5e2bffb83f0196e7414b1df751714995417_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E950/rare-items-worth-more-than-life-itself">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN5GM/until-my-life-ends">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku returns to the Canyon Ancient Souls, where he encounters a swarm of Crystal Scorpions<br>that are over level 100. Struggling to acquire the rare materials he seeks, Sunraku watches<br>the scorpions' movements and comes up with a secret plan...</p>
+<p align="center">As Flio and company are beginning their new life near the town of Houghtow, an<br>all-out attack by the Dark Army endangers the very existence of Klyrode, forcing the king<br>to make a decision.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (Portuguese Dub) - Episode 23 - Bird with Rabbits vs. Skeletal Choir</h3></th>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Telugu Dub) - Episode 5 - Until My Life Ends</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/decc594d791590285a8ce914f25b32cc1710662311_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/af092af5e2bffb83f0196e7414b1df751714995417_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47KWE/bird-with-rabbits-vs-skeletal-choir">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJKZW/until-my-life-ends">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku, Emul, and Bilac face off against the area boss the Humming Lich in the<br>Canyon of Ancient Souls. Struggling to inflict damage, Bilac rushes to rework the Dullahan General's<br>Decapitator into a holy-attribute weapon.</p>
+<p align="center">As Flio and company are beginning their new life near the town of Houghtow, an<br>all-out attack by the Dark Army endangers the very existence of Klyrode, forcing the king<br>to make a decision.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (Portuguese Dub) - Episode 22 - The Walking Air Purifier</h3></th>
+<th><h3 align="center">The Banished Former Hero Lives as He Pleases - Episode 10 - A Cry for Help</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/880eb051934c25a1bc7a871d98c4445d1710058232_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/97595f579459e067600e881b177e542d1716830849_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEVPD/the-walking-air-purifier">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2GE4/a-cry-for-help">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Bilac accepts Sanraku's proposal and they head to the Canyon of Ancient Souls to obtain<br>the magic operations unit necessary for becoming an Ancient Craftsman. Lycagon's Mark causes weak monsters<br>to flee, then they encounter the rare Dullahan General.</p>
+<p align="center">With the blockades lifted, Alan and the others are free to return to their kingdom.<br>Just as they're about to leave, a stranger runs up, asking for help with a<br>story they can't afford to ignore. The question is, is the peril real, or is<br>it all a trap?</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (Portuguese Dub) - Episode 21 - Errands, Cultivation, and Game Progress</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF - Episode 9 - Sweet Honey and Bitter Armor</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/54775bb5f30ff151e3e8f8b3f6915c371709452693_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ab9c622c48eaa305251016c6cf90be151716830734_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47GXG/errands-cultivation-and-game-progress">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UX449N/sweet-honey-and-bitter-armor">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">"Unique monsters make money" Pencilgon suggests forming a clan with Sunraku and Oikatzo. After temporarily<br>splitting, Sunraku returns to the Palace of Rabituza with the Non-Standard Ether Reactor he received<br>from Oikatzo and comes up with a great idea."</p>
+<p align="center">Lawrence is ready to sell the armor for a great profit and Holo wants her<br>peaches.  But when things don't go to plan, will either get what they want?</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (Portuguese Dub) - Episode 20 - Current Situations and Next Steps</h3></th>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability - Episode 9 - The Cataclysm Named Guisarme</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/94a03db22a5fb3b1ec0342f0a5c7c0491708846470_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/40500e80d6171df7199e8be5f75e00f11716821060_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ714V/current-situations-and-next-steps">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU200EZ/the-cataclysm-named-guisarme">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Utopia, SLF's development company, is in a tizzy over the defeat of Wethermon the Tombguard.<br>Sunraku is excited to kick off his bonus unique scenario Vorpal Epic. He then decides<br>to check out the loot he received from defeating Wethermon.</p>
+<p align="center">Ren is confronted by the demon lord Guisarme, who has stolen Jade's body and teleportation<br>power. Guisarme is intent on seizing the bodies of the Assassin's Guild as well, when<br>Lloyd arrives in the neck of time to defend them.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier (Portuguese Dub) - Episode 19 - The World Progresses, the Heroes Are Revealed</h3></th>
+<th><h3 align="center">Tadaima, Okaeri - Episode 8 - Interweaving</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/51efec384f26a6a279c6e2ffb609f0981708212091_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5cd6d74a81d84b37a7d24703b68b6c291716820997_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/26/2024</td>
+<td align="center">5/27/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2V5Z/the-world-progresses-the-heroes-are-revealed">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2G0N/interweaving">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wethermon falls into a slumber and Setsuna of Bygone Days leaves behind a hint that<br>will lead to the truth about SLF. Wethermon's subjugation is reported to all players in<br>game. Now, standing before the battle-weary trio are angry members of Ashura Kai...</p>
+<p align="center">Hikari wants to befriend the new neighbor's dog, but first he has to stop being<br>scared of him. The family visits Masaki's uncle again, and Kazuhiko awkwardly tries to make<br>conversation with Hiromu.</p>
 </td>
 </tr>
 </table>
