@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jun 8, 2024, 7:20:06 PM</em></p>
+<p align="center"><em>Updated on: Jun 9, 2024, 8:00:12 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Natsume Yujin-cho 5 (English Dub) - Episode 4 - Shadow Linked Chains</h3></th>
+<th><h3 align="center">Black Butler -Public School Arc- (English Dub) - Episode 7 - His Butler, Final Match</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7117ab1857d83a0c5288ce956065784b1477372144_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d0f5160c27ba989eeb402990b8e053291716625422_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG549D/shadow-linked-chains">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U4737Q/his-butler-final-match">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">An inexperienced exorcist tries and fails to completely seal a youkai near Natsume's school. <br>Natsume decides to take the pot the youkai is sealed in to Natori, in hopes<br>that it can be disposed of properly. While he's there, he learns that there is<br>an ongoing feud between exorcists lately, and that one exorcist in particular is attacking his<br>rivals.  When Natsume gets home, he finds that Matoba, another exorcist who's tried to<br>take advantage of him in the past, wants his help dealing with just that particular<br>problem...</p>
+<p align="center">Ciel and the rest of Sapphire Owl House have won their way into the deciding<br>match. As the cricketers exercise their talents to the fullest, Sebastian pursues the Head Master,<br>who has appeared at last.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BARTENDER Glass of God (Hindi Dub) - Episode 6 - The True Face</h3></th>
+<th><h3 align="center">Black Butler -Public School Arc- (Spanish Dub) - Episode 6 - His Butler, Scheming</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ee8aa8d4614643120bc32dc111328cc21715179679_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1f84223fba76b039600d7b4a7b8181011716036391_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGNXW/the-true-face">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU829JW/his-butler-scheming">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Ciel is chosen to play cricket, but the boys of Sapphire Owl House are the<br>perennial wooden spooners. They've had just one victory in the history of the tournament. Ciel<br>resolves to wrest another victory for his House—without any miracles.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Many Sides of Voice Actor Radio (Hindi Dub) - Episode 5 - Yuhi and Yasumi Will Definitely Keep Going?</h3></th>
+<th><h3 align="center">Black Butler -Public School Arc- (German Dub) - Episode 6 - His Butler, Scheming</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1124f1ba1fefe7ae52a9a37ba5492f9a1715159344_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1f84223fba76b039600d7b4a7b8181011716036391_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07Z39/yuhi-and-yasumi-will-definitely-keep-going">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JMN9/his-butler-scheming">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yumiko and Kagasaki go to Yuhi's agency to apologize. But there they find out that<br>Yuhi could have continued as an idol VA even without Yumiko's intervention. When Yumiko says<br>that she doesn't regret what she did, President Kashima scowls and...</p>
+<p align="center">Ciel is chosen to play cricket, but the boys of Sapphire Owl House are the<br>perennial wooden spooners. They've had just one victory in the history of the tournament. Ciel<br>resolves to wrest another victory for his House—without any miracles.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V (English Dub) - Episode 6 - The Three Magi</h3></th>
+<th><h3 align="center">Black Butler -Public School Arc- (French Dub) - Episode 6 - His Butler, Scheming</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/39402ac0e251bb89cb9c0301bd18b50b1715782897_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1f84223fba76b039600d7b4a7b8181011716036391_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1J4M/the-three-magi">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0XM5/his-butler-scheming">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Shido rushes to the Spirits' side, Westcott blocks his path. Meanwhile, Tohka and the<br>others find themselves overwhelmed and powerless before Mio's manifested Angel, Ein Sof Ohr.</p>
+<p align="center">Ciel is chosen to play cricket, but the boys of Sapphire Owl House are the<br>perennial wooden spooners. They've had just one victory in the history of the tournament. Ciel<br>resolves to wrest another victory for his House—without any miracles.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V (Portuguese Dub) - Episode 5 - Mother Mio</h3></th>
+<th><h3 align="center">Black Butler -Public School Arc- (Hindi Dub) - Episode 6 - His Butler, Scheming</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d23fa432956ca9283f74265ddc8dbe5f1715174636_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1f84223fba76b039600d7b4a7b8181011716036391_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM5WM/mother-mio">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEDWW/his-butler-scheming">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shido is flooded with memories as the girl named Mio Takamiya stands before him. She<br>was the person with whom Shido once shared his feelings when he was Shinji Takamiya.<br>Meanwhile, Kotori and the others learn of Reine's true identity.</p>
+<p align="center">Ciel is chosen to play cricket, but the boys of Sapphire Owl House are the<br>perennial wooden spooners. They've had just one victory in the history of the tournament. Ciel<br>resolves to wrest another victory for his House—without any miracles.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V (Spanish Dub) - Episode 5 - Mother Mio</h3></th>
+<th><h3 align="center">Black Butler -Public School Arc- (Tamil Dub) - Episode 6 - His Butler, Scheming</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d23fa432956ca9283f74265ddc8dbe5f1715174636_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1f84223fba76b039600d7b4a7b8181011716036391_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E74V/mother-mio">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ53V5/his-butler-scheming">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shido is flooded with memories as the girl named Mio Takamiya stands before him. She<br>was the person with whom Shido once shared his feelings when he was Shinji Takamiya.<br>Meanwhile, Kotori and the others learn of Reine's true identity.</p>
+<p align="center">Ciel is chosen to play cricket, but the boys of Sapphire Owl House are the<br>perennial wooden spooners. They've had just one victory in the history of the tournament. Ciel<br>resolves to wrest another victory for his House—without any miracles.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit (English Dub) - Episode 6 - The Devil</h3></th>
+<th><h3 align="center">Black Butler -Public School Arc- (Telugu Dub) - Episode 6 - His Butler, Scheming</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6d05bdc1f0a8b02677a4fac672414dce1715790762_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1f84223fba76b039600d7b4a7b8181011716036391_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0WD8/the-devil">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MVM1/his-butler-scheming">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With Pakgo finally out of the picture and a new video editor on board, Hobin<br>and Snapper turn their attentions to the next bully they are going to challenge.</p>
+<p align="center">Ciel is chosen to play cricket, but the boys of Sapphire Owl House are the<br>perennial wooden spooners. They've had just one victory in the history of the tournament. Ciel<br>resolves to wrest another victory for his House—without any miracles.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit (German Dub) - Episode 5 - Friends</h3></th>
+<th><h3 align="center">Black Butler -Public School Arc- (Spanish Dub) - Episode 5 - His Butler, Gaining Admittance</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/da07ec22c74bb9d1becdd86c7fa48d0e1715181079_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/00fbecb7336c646687549ec82418e8ca1715422758_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2Q95/friends">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ02V7/his-butler-gaining-admittance">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Ciel hears some promising information: the ever-busy Head Master will be attending Weston's traditional cricket<br>tournament, and evidently the student who exhibits the most sportsmanlike behaviour will be invited to<br>the Head Master's "midnight tea party."</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit (French Dub) - Episode 5 - Friends</h3></th>
+<th><h3 align="center">MASHLE: MAGIC AND MUSCLES The Divine Visionary Candidate Exam Arc (English Dub) - Episode 24 - Mash Burnedead and His Good Friends</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/da07ec22c74bb9d1becdd86c7fa48d0e1715181079_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7de3ca56809ca9b1ceafce17ac69fe2b1711807810_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7582/friends">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMN3W/mash-burnedead-and-his-good-friends">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Innocent Zero leaves a fusion of dead monster bodies that form a giant in his<br>wake. Seeing Mash fight against this monster in a trapped, hopeless situation where all magic<br>has become ineffective, the students from the school start to cheer him on.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit (Hindi Dub) - Episode 5 - Friends</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (English Dub) - Episode 142 - The Story of How We All Became Heroes</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/da07ec22c74bb9d1becdd86c7fa48d0e1715181079_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6244b3a159abc4814a1bb6886bf2811f1716612557_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQENK0/friends">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNP4J/the-story-of-how-we-all-became-heroes">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Due to his relationship with All For One, Yuga Aoyama calls himself a villain, but<br>Deku tells him that he can still be a hero and reaches a hand out<br>to him.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 (English Dub) - Episode 6 - A Farewell to This Lavish Lifestyle!</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (Portuguese Dub) - Episode 141 - Villain</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3a0bc79d4adc301a436448fa87733d071715782957_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bdd9342225fc75811450ce9f2702995d1716017961_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0JEE/a-farewell-to-this-lavish-lifestyle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5315/villain">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chris tells Kazuma that the necklace he and Iris swapped bodies with is a sacred<br>treasure, and it is dangerous and can threaten lives depending on its use. Princess Iris<br>is in danger! Two robbers dressed in black sneak into the royal castle at night!</p>
+<p align="center">After failing to steal Star's Quirk, New Order, and losing many other Quirks, Shigaraki and<br>All For One prepare for their next move. Who is the traitor at U.A.?!</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 (Portuguese Dub) - Episode 5 - Nefarious Friends for This Sheltered Princess!</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (German Dub) - Episode 141 - Villain</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/582b4b10dfc79ff9451462a0dc9657b71715178913_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bdd9342225fc75811450ce9f2702995d1716017961_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGNPW/nefarious-friends-for-this-sheltered-princess">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U4731Q/villain">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Devil King's army attack alarm rings in the royal capital! The adventurer's guild calls<br>on high-level adventurers to join the battle. Having failed to capture the thief at Alderp's<br>mansion, Kazuma joins the fight in order to redeem his reputation.</p>
+<p align="center">After failing to steal Star's Quirk, New Order, and losing many other Quirks, Shigaraki and<br>All For One prepare for their next move. Who is the traitor at U.A.?!</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 (Spanish Dub) - Episode 5 - Nefarious Friends for This Sheltered Princess!</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (French Dub) - Episode 141 - Villain</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/582b4b10dfc79ff9451462a0dc9657b71715178913_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bdd9342225fc75811450ce9f2702995d1716017961_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM424/nefarious-friends-for-this-sheltered-princess">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WM07/villain">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Devil King's army attack alarm rings in the royal capital! The adventurer's guild calls<br>on high-level adventurers to join the battle. Having failed to capture the thief at Alderp's<br>mansion, Kazuma joins the fight in order to redeem his reputation.</p>
+<p align="center">After failing to steal Star's Quirk, New Order, and losing many other Quirks, Shigaraki and<br>All For One prepare for their next move. Who is the traitor at U.A.?!</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit - Episode 8 - A Real Fight</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (Italian Dub) - Episode 141 - Villain</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d9cf60cd35a72f64281433f5d4c747ce1716999350_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bdd9342225fc75811450ce9f2702995d1716017961_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82VE0/a-real-fight">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMZ1J/villain">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a month of training, Hobin feels he is ready to take on taekwondo specialist,<br>Taehun. But despite much of the early sparring going his way, Hobin quickly realizes how<br>big the gulf in skill is between them.</p>
+<p align="center">After failing to steal Star's Quirk, New Order, and losing many other Quirks, Shigaraki and<br>All For One prepare for their next move. Who is the traitor at U.A.?!</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BARTENDER Glass of God - Episode 9 - North Wind</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (Spanish Dub) - Episode 139 - In the Nick of Time! A Big-Time Maverick from the West</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/18ae821abc5d3c082bee755070ee8c4d1716999192_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dea3db6993a42fdc04bb28348093f9e91714791613_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQV548/north-wind">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EZK3/in-the-nick-of-time-a-big-time-maverick-from-the-west">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Miwa asks Ryu to accompany her to a bar, but when they stumble into another<br>one on accident, Ryu encounters someone very important from his past.</p>
+<p align="center">As jailbreakers run rampant in Japan, Star and Stripe flies from the U.S. to Japan<br>to help and finds Shigaraki waiting for her in the middle of her flight path.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 - Episode 8 - Rest for the Master of This Lake!</h3></th>
+<th><h3 align="center">Tonari no Yokai-san - Episode 10 - Episode 10</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9f70da09b000c96b6f4b9f449bbe49881716985603_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d9cda293bd9d55e087982badd5accb551717869634_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0ZGD/rest-for-the-master-of-this-lake">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN22P/episode-10">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kazuma and the gang fail to defeat the hydra in the lake near Axel. The<br>gang hopes to rely on knights from the capital, but they've been delayed due to<br>a bandit disturbance for which a bounty has been issued. Darkness, however, is obsessed with<br>the hydra.</p>
+<p align="center">A strange shadow appears near the Sugimoto house and nearly swallows Mutsumi. Jiro and Tazenbo<br>manage to save her at the last moment. As Mutsumi recovers, they question the shadow<br>about its obsession with her.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V - Episode 8 - The One Who Pulled the Trigger</h3></th>
+<th><h3 align="center">YATAGARASU: The Raven Does Not Choose Its Master - Episode 10 - Assassinating the Prince</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e59f9305df307d70ceb1c1f47d6ed17f1716985545_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/021766c12cc68a11262e9795f20dee581717869595_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0Z35/the-one-who-pulled-the-trigger">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE02EZ/assassinating-the-prince">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shido is shocked when Mio tells him that all the Spirits are dead. Stunned and<br>unable to move, Mio nearly wipes his memories as Shido, but there is still one<br>Spirit who's survived.</p>
+<p align="center">A wounded Atsufusa calls for the Prince, offering vital intelligence. But what could be worth<br>risking another ambush to hear? When the Prince ignores Sumio's adivce, Yukiya's wits become his<br>only lifeline.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mysterious Disappearances - Episode 8 - A Book, an Affair, and a Mermaid</h3></th>
+<th><h3 align="center">THE NEW GATE - Episode 9 - The Princess of Bayrelicht</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/15f584b9caf295c0bc6043614712b9b21716985321_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/feddcbfbfe15441d7141810dcda7a2d21717863578_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNK9J/a-book-an-affair-and-a-mermaid">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMJK9/the-princess-of-bayrelicht">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Shin decides it's time to raise his adventurer rank, but waiting for him at the<br>guild is royal summons from Bayrelicht.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Many Sides of Voice Actor Radio - Episode 8 - Yuhi and Yasumi and Displeasure </h3></th>
+<th><h3 align="center">Dragon Raja -The Blazing Dawn- (Japanese Audio) - Episode 13 - Escape from the Labyrinth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/77f99935aa8776b4204867cfd6252a761716984485_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/91b1cae4156d3929e357918b1f37047f1717863491_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JW89/yuhi-and-yasumi-and-displeasure-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7V7G/escape-from-the-labyrinth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A few weeks after they won that bet, the outcry about Yuhi and Yasumi has<br>died down. Both of them are also auditioning for roles in an upcoming anime, however<br>when it's her turn, the director asks Yasumi to read a totally different role...</p>
+<p align="center">Nono and Lu Mingfei try to escape from the Dragon Emperor's palace after planting a<br>devastating bomb, but the dragons won't let them escape easily...</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fire Force Season 2 (Telugu Dub) - Episode 17 - Boys, Be Weak</h3></th>
+<th><h3 align="center">Dragon Raja -The Blazing Dawn- - Episode 13 - Escape from the Labyrinth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7cbd6a55adf19566f3e25513e9de1ed71603426407_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/55b98f0eee70a8f38afea485c2b6633d1717863528_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/29/2024</td>
+<td align="center">6/8/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEVEP/boys-be-weak">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WDWV/escape-from-the-labyrinth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Nataku continues to rampage, Shinra Adolla Links with him, revealing the pressure his parents<br>placed on him to succeed. When the threat Nataku poses comes to a head, his<br>protection as one of the Pillars comes from an unlikely source.</p>
+<p align="center">Nono and Lu Mingfei try to escape from the Dragon Emperor's palace after planting a<br>devastating bomb, but the dragons won't let them escape easily...</p>
 </td>
 </tr>
 </table>
