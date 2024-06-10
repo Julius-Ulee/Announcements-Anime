@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jun 9, 2024, 7:21:18 PM</em></p>
+<p align="center"><em>Updated on: Jun 10, 2024, 7:57:08 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,652 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Vampire Dormitory (English Dub) - Episode 8 - Love 8. The pretty boy has a fateful encounter.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2a626fa632b1b0273f7c8e8d82cad92b1716728988_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47XQW/love-8-the-pretty-boy-has-a-fateful-encounter">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Back at home, an elder reads Ruka's fortune and shows him his soulmate, predicting he<br>will meet her that night. Despite knowing Mito's secret, Ren continues to act the same<br>towards her, letting her dress as a girl while out in town, but...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Vampire Dormitory (Hindi Dub) - Episode 7 - Love 7. The pretty boy goes on a date.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9cd4f6b76425b6da1fc9a05254f112e81716125882_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEK17/love-7-the-pretty-boy-goes-on-a-date">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Before his date with Mito, Ruka is confronted by cohorts who've come to harass him.<br>Ruka's feelings for Mito and his need to protect her are making him disregard the<br>search for his destined partner. Trouble arrives when Mito is unexpectedly targeted.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Duke of Death and His Maid Season 3 (English Dub) - Episode 32 - Persuasion</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c7f2a2d6d89ec8eb03f73947a473bc2a1716728958_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN29GV/persuasion">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Duke and his friends go back into the past and try to persuade Sade<br>to break the curse.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Duke of Death and His Maid Season 3 (Portuguese Dub) - Episode 31 - Coming Together</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e681b23403c40125efe99ce48130dfc21716125357_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82PV0/coming-together">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Duke enjoys his last few days before going back into the past to meet<br>Sade.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Duke of Death and His Maid Season 3 (Spanish Dub) - Episode 31 - Coming Together</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e681b23403c40125efe99ce48130dfc21716125357_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JDWP/coming-together">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Duke enjoys his last few days before going back into the past to meet<br>Sade.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (German Dub) - Episode 7 - Succession</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e2576903f223e58f41b948a978bb96a81716127265_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E8V3/succession">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Raven returns from the most recent campaign in dire shape. At the doctor's behest, House<br>Louvent braces itself for a great loss. Thankfully, with Ars to succeed his father, not<br>all hope is lost.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (French Dub) - Episode 1 - To Defeat Muzan Kibutsuji</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e1d8ccfc15ca27c76720a1a9a7c5688d1715535130_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7P7E/to-defeat-muzan-kibutsuji">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Hashira, Sanemi and Iguro, along with their comrades head to an abandoned castle on<br>top of a mountain for a mission, while Tanjiro is being treated at the Butterfly<br>Mansion for the wounds he suffered at the Swordsmith Village. Later on, the Hashira gather<br>at the Ubuyashiki Mansion to hold a Hashira meeting, where Muichiro reveals how the marks<br>manifested. In an effort to strengthen the entire Demon Slayer Corps from the bottom up,<br>the Hashira Training begins...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Hindi Dub) - Episode 1 - To Defeat Muzan Kibutsuji</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e1d8ccfc15ca27c76720a1a9a7c5688d1715535130_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU4757J/to-defeat-muzan-kibutsuji">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Hashira, Sanemi and Iguro, along with their comrades head to an abandoned castle on<br>top of a mountain for a mission, while Tanjiro is being treated at the Butterfly<br>Mansion for the wounds he suffered at the Swordsmith Village. Later on, the Hashira gather<br>at the Ubuyashiki Mansion to hold a Hashira meeting, where Muichiro reveals how the marks<br>manifested. In an effort to strengthen the entire Demon Slayer Corps from the bottom up,<br>the Hashira Training begins...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Tamil Dub) - Episode 1 - To Defeat Muzan Kibutsuji</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e1d8ccfc15ca27c76720a1a9a7c5688d1715535130_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0X05/to-defeat-muzan-kibutsuji">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Hashira, Sanemi and Iguro, along with their comrades head to an abandoned castle on<br>top of a mountain for a mission, while Tanjiro is being treated at the Butterfly<br>Mansion for the wounds he suffered at the Swordsmith Village. Later on, the Hashira gather<br>at the Ubuyashiki Mansion to hold a Hashira meeting, where Muichiro reveals how the marks<br>manifested. In an effort to strengthen the entire Demon Slayer Corps from the bottom up,<br>the Hashira Training begins...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Telugu Dub) - Episode 1 - To Defeat Muzan Kibutsuji</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e1d8ccfc15ca27c76720a1a9a7c5688d1715535130_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEDEW/to-defeat-muzan-kibutsuji">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Hashira, Sanemi and Iguro, along with their comrades head to an abandoned castle on<br>top of a mountain for a mission, while Tanjiro is being treated at the Butterfly<br>Mansion for the wounds he suffered at the Swordsmith Village. Later on, the Hashira gather<br>at the Ubuyashiki Mansion to hold a Hashira meeting, where Muichiro reveals how the marks<br>manifested. In an effort to strengthen the entire Demon Slayer Corps from the bottom up,<br>the Hashira Training begins...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (English Dub) - Episode 19 - Desert Journey</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/42b45148482221f5091f70cbabeda6941716736482_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JMJ9/desert-journey">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With Nanahoshi's help, Rudeus gains a way to shorten his journey, but he and Elinalise<br>will still need to hurry if they hope to return before Sylphie gives birth. Their<br>first obstacle: the harsh desert of Begaritt and its monstrous denizens.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc - Episode 5 - I Even Ate Demons</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/747cbcb38cf5fb7b236d533b715f48551717933803_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7V09/i-even-ate-demons">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 - Episode 21 - Magic Circle to the Sixth Stratum</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/038c3730a007adf3612afa74d56dfc611717933566_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7JPW/magic-circle-to-the-sixth-stratum">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With Roxy's rescue, the search for Zenith resumes in earnest. Rudeus reconnects with his mentor<br>amid the perils of the labyrinth. But why does she seem a little more awkward<br>around him than before?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World - Episode 10 - Couran Salamakhia</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/87e26507eda2bc4cac66d326b1b276411717933541_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WNQ9/couran-salamakhia">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Ars receives a personal invitation to a party hosted by Couran Salamakhia, the elder of<br>the late governor's two sons. Ars hardly knows what to make of the situation, much<br>less the big ideas Couran is about to share with him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Grandpa and Grandma Turn Young Again - Episode 10 - Grandpa and Grandma's Daily Life</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/10cb6d48f98b6f6b335fbf8e626836e01717933508_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNKX3/grandpa-and-grandmas-daily-life">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Daily life continues for Shouzou and Ine. Mino convinces them to try their hand at<br>Halloween costumes. Shouzou patrols the orchard. A rainy day brings back old memories. Ine does<br>a few small things that make a big difference in other peoples' lives.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Vampire Dormitory - Episode 10 - Love 10. The pretty boy transforms.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e3ca3e13485580aad82be453227230341717931408_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WNQD/love-10-the-pretty-boy-transforms">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With Mito as a boy, her relationship with Ruka and Ren takes a turn as<br>Hijirigaoka hosts its school cultural festival. After the event, Juri coordinates a mixer for Takara’s<br>sake when an unexpected person arrives for the date.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Duke of Death and His Maid Season 3 - Episode 34 - Victor's Grandson. Sharon's Daughter</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e7f30295e6605cbfa283a054c00adba61717931180_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82V3E/victors-grandson-sharons-daughter">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Alice goes inside Sade to help heal her loneliness.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">CHIBI MARUKO-CHAN - Episode 1434 - Maruko Gives in to the Cold</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d151efe943378fe343248f868c708ebe1717927328_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J15V/maruko-gives-in-to-the-cold">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">It's too cold outside, so Maruko turns down Tama-chan's invitation to play outside. Later that<br>day, she has to handle being cold again. But she is too lazy to deal<br>with it, and...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Sound! Euphonium 3 - Episode 10 - Expressing Arpeggios</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8291acf4f738b2e70010ba1f3380faa71717920464_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WN1D/expressing-arpeggios">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Kansai competition is right around the corner, and the band's dissent about Taki-sensei's decisions<br>only continues to grow. Kumiko goes to speak with him, and she has to decide<br>whether to speak her mind.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Portuguese Dub) - Episode 31</h3></th>
 </tr>
@@ -37,652 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Spanish Dub) - Episode 31</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ede9c9c0f8e9230f098773b686b7b47e1717920439_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/9/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU820P0">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc - Episode 36 - A Promise to the Heavens</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/55a9386bf2a20f41b440e4c86eebfae81717920395_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/9/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK93NJ/a-promise-to-the-heavens">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Japan is world champion! Elated, Tsubasa and his teammates converge on the pitch. Meanwhile, Schneider<br>has something to say to Tsubasa. Through his interviewers, Tsubasa tells the world about the<br>dream he’s held dear since childhood.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (English Dub) - Episode 31 - The Most Powerful Shot in History</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ede9c9c0f8e9230f098773b686b7b47e1717920359_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/9/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U4753W/the-most-powerful-shot-in-history">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Schneider’s Fire Shot may’ve dashed Japan’s hopes of a first point, but Hyuga is already<br>devising a comeback. With Tsubasa’s help, he is about to unleash something no one could<br>have anticipated—the fiercest kick in soccer history!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">One Piece: Egghead Island (1089-Current) - Episode 1108 - Incomprehensible! The Seraphim's Rebellion!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8d8e41ab3fb22261f5f7c55a5fb334c11717896918_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/9/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEV9D/incomprehensible-the-seraphims-rebellion">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Seraphim suddenly start attacking the Straw Hats and the Vegapunk Satellites. They are not<br>stopping even when the Satellites order them to. When Luffy and Zoro are cornered, Lucci<br>and Kaku wake up and make them a surprising offer.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Wonderful Precure! - Episode 19 - The Birth of Cure Lillian</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5cbac035ad61a7eaba5819bfc7ce39611717892781_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/9/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM0ZJ/the-birth-of-cure-lillian">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Mayu worries about Yuki, who has left home and not come back. Near Pretty Holic,<br>Yuki is watching over Mayu from afar when the same Garugaru as last time appears<br>before her once again.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (English Dub) - Episode 7 - His Butler, Final Match</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d0f5160c27ba989eeb402990b8e053291716625422_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U4737Q/his-butler-final-match">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ciel and the rest of Sapphire Owl House have won their way into the deciding<br>match. As the cricketers exercise their talents to the fullest, Sebastian pursues the Head Master,<br>who has appeared at last.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (Spanish Dub) - Episode 6 - His Butler, Scheming</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1f84223fba76b039600d7b4a7b8181011716036391_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU829JW/his-butler-scheming">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ciel is chosen to play cricket, but the boys of Sapphire Owl House are the<br>perennial wooden spooners. They've had just one victory in the history of the tournament. Ciel<br>resolves to wrest another victory for his House—without any miracles.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (German Dub) - Episode 6 - His Butler, Scheming</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1f84223fba76b039600d7b4a7b8181011716036391_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JMN9/his-butler-scheming">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ciel is chosen to play cricket, but the boys of Sapphire Owl House are the<br>perennial wooden spooners. They've had just one victory in the history of the tournament. Ciel<br>resolves to wrest another victory for his House—without any miracles.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (French Dub) - Episode 6 - His Butler, Scheming</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1f84223fba76b039600d7b4a7b8181011716036391_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0XM5/his-butler-scheming">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ciel is chosen to play cricket, but the boys of Sapphire Owl House are the<br>perennial wooden spooners. They've had just one victory in the history of the tournament. Ciel<br>resolves to wrest another victory for his House—without any miracles.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (Hindi Dub) - Episode 6 - His Butler, Scheming</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1f84223fba76b039600d7b4a7b8181011716036391_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEDWW/his-butler-scheming">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ciel is chosen to play cricket, but the boys of Sapphire Owl House are the<br>perennial wooden spooners. They've had just one victory in the history of the tournament. Ciel<br>resolves to wrest another victory for his House—without any miracles.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (Tamil Dub) - Episode 6 - His Butler, Scheming</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1f84223fba76b039600d7b4a7b8181011716036391_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ53V5/his-butler-scheming">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ciel is chosen to play cricket, but the boys of Sapphire Owl House are the<br>perennial wooden spooners. They've had just one victory in the history of the tournament. Ciel<br>resolves to wrest another victory for his House—without any miracles.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (Telugu Dub) - Episode 6 - His Butler, Scheming</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1f84223fba76b039600d7b4a7b8181011716036391_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MVM1/his-butler-scheming">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ciel is chosen to play cricket, but the boys of Sapphire Owl House are the<br>perennial wooden spooners. They've had just one victory in the history of the tournament. Ciel<br>resolves to wrest another victory for his House—without any miracles.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (Spanish Dub) - Episode 5 - His Butler, Gaining Admittance</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/00fbecb7336c646687549ec82418e8ca1715422758_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ02V7/his-butler-gaining-admittance">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ciel hears some promising information: the ever-busy Head Master will be attending Weston's traditional cricket<br>tournament, and evidently the student who exhibits the most sportsmanlike behaviour will be invited to<br>the Head Master's "midnight tea party."</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">MASHLE: MAGIC AND MUSCLES The Divine Visionary Candidate Exam Arc (English Dub) - Episode 24 - Mash Burnedead and His Good Friends</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7de3ca56809ca9b1ceafce17ac69fe2b1711807810_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMN3W/mash-burnedead-and-his-good-friends">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Innocent Zero leaves a fusion of dead monster bodies that form a giant in his<br>wake. Seeing Mash fight against this monster in a trapped, hopeless situation where all magic<br>has become ineffective, the students from the school start to cheer him on.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Hero Academia Season 7 (English Dub) - Episode 142 - The Story of How We All Became Heroes</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6244b3a159abc4814a1bb6886bf2811f1716612557_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNP4J/the-story-of-how-we-all-became-heroes">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Due to his relationship with All For One, Yuga Aoyama calls himself a villain, but<br>Deku tells him that he can still be a hero and reaches a hand out<br>to him.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Hero Academia Season 7 (Portuguese Dub) - Episode 141 - Villain</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bdd9342225fc75811450ce9f2702995d1716017961_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5315/villain">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After failing to steal Star's Quirk, New Order, and losing many other Quirks, Shigaraki and<br>All For One prepare for their next move. Who is the traitor at U.A.?!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Hero Academia Season 7 (German Dub) - Episode 141 - Villain</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bdd9342225fc75811450ce9f2702995d1716017961_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U4731Q/villain">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After failing to steal Star's Quirk, New Order, and losing many other Quirks, Shigaraki and<br>All For One prepare for their next move. Who is the traitor at U.A.?!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Hero Academia Season 7 (French Dub) - Episode 141 - Villain</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bdd9342225fc75811450ce9f2702995d1716017961_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WM07/villain">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After failing to steal Star's Quirk, New Order, and losing many other Quirks, Shigaraki and<br>All For One prepare for their next move. Who is the traitor at U.A.?!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Hero Academia Season 7 (Italian Dub) - Episode 141 - Villain</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bdd9342225fc75811450ce9f2702995d1716017961_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMZ1J/villain">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After failing to steal Star's Quirk, New Order, and losing many other Quirks, Shigaraki and<br>All For One prepare for their next move. Who is the traitor at U.A.?!</p>
 </td>
 </tr>
 </table>
