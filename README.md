@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jun 13, 2024, 7:22:37 PM</em></p>
+<p align="center"><em>Updated on: Jun 14, 2024, 7:55:29 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride (Tamil Dub) - Episode 18 - Forgive and forget</h3></th>
+<th><h3 align="center">WIND BREAKER (English Dub) - Episode 9 - UMEMIYA'S STYLE</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/766056cd86cb210652251846fbf077421518260669_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5c7e1a1d19144d1538a924531caf51821717081096_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0E2J/forgive-and-forget">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0DPQ/umemiyas-style">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having made friends with Chise, Stella visits the Ainsworths’ home. Meanwhile, Elias’ behavior takes a<br>troubling turn.</p>
+<p align="center">It's now time for a one-on-one fight between Umemiya and Tomiyama.  Tomiyama believed that<br>by winning against Umemiya, he would obtain Furin High School, freedom, and a sense of<br>fun that would rival no other.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride (Telugu Dub) - Episode 18 - Forgive and forget</h3></th>
+<th><h3 align="center">WIND BREAKER (Portuguese Dub) - Episode 8 - SUCCEEDING THE PAST</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/766056cd86cb210652251846fbf077421518260669_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25b6f0806f05b367beafc1e5dee26dcc1716482747_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82P99/forgive-and-forget">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM2W0/succeeding-the-past">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having made friends with Chise, Stella visits the Ainsworths’ home. Meanwhile, Elias’ behavior takes a<br>troubling turn.</p>
+<p align="center">Togame can no longer hide the fact he's feeling lost. He remembers when he met<br>Tomiyama, the fun days he had with Shishitoren, how the team changed when Tomiyama became<br>the leader, and the things he's done himself.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Natsume Yujin-cho 5 (English Dub) - Episode 6 - Soundless Valley</h3></th>
+<th><h3 align="center">WIND BREAKER (Spanish Dub) - Episode 8 - SUCCEEDING THE PAST</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5540aadb089bb641b13908cb53c652e21478564616_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25b6f0806f05b367beafc1e5dee26dcc1716482747_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ78PK/soundless-valley">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5E9X/succeeding-the-past">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsume's friend Taki lives in a house filled with traps and mazes for youkai. She<br>can't see the youkai herself without the aid of a special circle, but she can<br>hear them when they're trapped in her house. She saves one of them, but it<br>refuses to leave her home. Natsume suspects that there may be danger involved, and visits<br>her to make sure that everything is okay.</p>
+<p align="center">Togame can no longer hide the fact he's feeling lost. He remembers when he met<br>Tomiyama, the fun days he had with Shishitoren, how the team changed when Tomiyama became<br>the leader, and the things he's done himself.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BARTENDER Glass of God (Hindi Dub) - Episode 8 - A Challenge</h3></th>
+<th><h3 align="center">WIND BREAKER (German Dub) - Episode 8 - SUCCEEDING THE PAST</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ce412031221807e6cd0900739b73fd631716388557_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25b6f0806f05b367beafc1e5dee26dcc1716482747_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WJMK/a-challenge">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0E4J/succeeding-the-past">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Cocktail Award finals have come, and the bartenders have gathered to test their mettle.<br>Each of the competitors brings not only their cocktails to compete but their stories as<br>well.</p>
+<p align="center">Togame can no longer hide the fact he's feeling lost. He remembers when he met<br>Tomiyama, the fun days he had with Shishitoren, how the team changed when Tomiyama became<br>the leader, and the things he's done himself.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Many Sides of Voice Actor Radio (Hindi Dub) - Episode 7 - Yuhi and Yasumi Just Can't Give Up</h3></th>
+<th><h3 align="center">WIND BREAKER (French Dub) - Episode 8 - SUCCEEDING THE PAST</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3a5e7a74064f5e27ec87cd88358664a71716357295_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25b6f0806f05b367beafc1e5dee26dcc1716482747_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47X3V/yuhi-and-yasumi-just-cant-give-up">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ78GK/succeeding-the-past">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chika's mother believes her work is putting her in danger, but Chika isn't ready to<br>give up on her dream just yet. Chika's mother thus issues her a challenge that<br>will make or break her voice acting career.</p>
+<p align="center">Togame can no longer hide the fact he's feeling lost. He remembers when he met<br>Tomiyama, the fun days he had with Shishitoren, how the team changed when Tomiyama became<br>the leader, and the things he's done himself.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V (English Dub) - Episode 8 - The One Who Pulled the Trigger</h3></th>
+<th><h3 align="center">WIND BREAKER (Hindi Dub) - Episode 8 - SUCCEEDING THE PAST</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e59f9305df307d70ceb1c1f47d6ed17f1716985545_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25b6f0806f05b367beafc1e5dee26dcc1716482747_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47W5P/the-one-who-pulled-the-trigger">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47WVX/succeeding-the-past">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shido is shocked when Mio tells him that all the Spirits are dead. Stunned and<br>unable to move, Mio nearly wipes his memories as Shido, but there is still one<br>Spirit who's survived.</p>
+<p align="center">Togame can no longer hide the fact he's feeling lost. He remembers when he met<br>Tomiyama, the fun days he had with Shishitoren, how the team changed when Tomiyama became<br>the leader, and the things he's done himself.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V (Portuguese Dub) - Episode 7 - The World Tree Sheds Leaves</h3></th>
+<th><h3 align="center">Laid-Back Camp Season 3 (English Dub) - Episode 9 - Touring and Checking Out the Cherry Blossoms</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c18cc89f642cdfdebefaff2a0769eda91716387247_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/972911996b1406eec455b023305a554e1717029597_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN29QK/the-world-tree-sheds-leaves">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK905X/touring-and-checking-out-the-cherry-blossoms">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Many spirits were exhausted by Mio's Ein Sof Ohr and collapsed. Kotori directs Fraxinus toward<br>Mio and fires her spirit cannon, Gungnir, but...</p>
+<p align="center">Rin takes her first solo camp trip in a while, and Nadeshiko takes an impromptu<br>drive with her sister to see the local cherry blossoms while they're in full bloom.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V (Spanish Dub) - Episode 7 - The World Tree Sheds Leaves</h3></th>
+<th><h3 align="center">Laid-Back Camp Season 3 (Portuguese Dub) - Episode 8 - The Food Porn Begins!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c18cc89f642cdfdebefaff2a0769eda91716387247_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5fe74e8af855c3a5d9828a1da8bb4e9f1716450451_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7857/the-world-tree-sheds-leaves">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MPZN/the-food-porn-begins">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Many spirits were exhausted by Mio's Ein Sof Ohr and collapsed. Kotori directs Fraxinus toward<br>Mio and fires her spirit cannon, Gungnir, but...</p>
+<p align="center">The Outclub girls share the delicious second half of their (somewhat embellished) camp trip story<br>with Nadeshiko.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit (English Dub) - Episode 8 - A Real Fight</h3></th>
+<th><h3 align="center">Laid-Back Camp Season 3 (Spanish Dub) - Episode 8 - The Food Porn Begins!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d9cf60cd35a72f64281433f5d4c747ce1716999350_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5fe74e8af855c3a5d9828a1da8bb4e9f1716450451_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82PNQ/a-real-fight">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN73E/the-food-porn-begins">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a month of training, Hobin feels he is ready to take on taekwondo specialist,<br>Taehun. But despite much of the early sparring going his way, Hobin quickly realizes how<br>big the gulf in skill is between them.</p>
+<p align="center">The Outclub girls share the delicious second half of their (somewhat embellished) camp trip story<br>with Nadeshiko.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit (German Dub) - Episode 7 - Special Training</h3></th>
+<th><h3 align="center">A Condition Called Love (English Dub) - Episode 9 - His First Birthday</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4f4df1eb1b71fe6934bccb937bfd3a351716389487_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7c301434eff096bd947afae63e0588a61717086371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU075ZJ/special-training">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47XXM/his-first-birthday">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Taehun is Hobin's next opponent, but unlike Pakgo, Taehun is a trained martial artist specializing<br>in taekwondo who used to fight in an MMA series. Can Hobin really defeat a<br>former pro?</p>
+<p align="center">Hotaru and Hananoi-kun's plans to spend his birthday together fall through when Hotaru has a<br>family event suddenly crop up. The thing is, even while she's with her family, she<br>just can't stop thinking about him...</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit (French Dub) - Episode 7 - Special Training</h3></th>
+<th><h3 align="center">A Condition Called Love (Portuguese Dub) - Episode 8 - My First Pet</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4f4df1eb1b71fe6934bccb937bfd3a351716389487_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1c820432bcb23d22d1986b999532d65d1716479175_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJ294/special-training">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ788K/my-first-pet">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Taehun is Hobin's next opponent, but unlike Pakgo, Taehun is a trained martial artist specializing<br>in taekwondo who used to fight in an MMA series. Can Hobin really defeat a<br>former pro?</p>
+<p align="center">Hotaru and Hananoi-kun are closer than ever, but in many ways, they're still navigating the<br>twists and turns of their new relationship. Thankfully, an adorable dog just may help them<br>see new sides to each other!</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit (Hindi Dub) - Episode 7 - Special Training</h3></th>
+<th><h3 align="center">A Condition Called Love (Spanish Dub) - Episode 8 - My First Pet</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4f4df1eb1b71fe6934bccb937bfd3a351716389487_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1c820432bcb23d22d1986b999532d65d1716479175_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGPN8/special-training">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47WWX/my-first-pet">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Taehun is Hobin's next opponent, but unlike Pakgo, Taehun is a trained martial artist specializing<br>in taekwondo who used to fight in an MMA series. Can Hobin really defeat a<br>former pro?</p>
+<p align="center">Hotaru and Hananoi-kun are closer than ever, but in many ways, they're still navigating the<br>twists and turns of their new relationship. Thankfully, an adorable dog just may help them<br>see new sides to each other!</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 (English Dub) - Episode 8 - Rest for the Master of This Lake!</h3></th>
+<th><h3 align="center">A Condition Called Love (French Dub) - Episode 8 - My First Pet</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9f70da09b000c96b6f4b9f449bbe49881716985603_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1c820432bcb23d22d1986b999532d65d1716479175_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MPDV/rest-for-the-master-of-this-lake">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5MMN/my-first-pet">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kazuma and the gang fail to defeat the hydra in the lake near Axel. The<br>gang hopes to rely on knights from the capital, but they've been delayed due to<br>a bandit disturbance for which a bounty has been issued. Darkness, however, is obsessed with<br>the hydra.</p>
+<p align="center">Hotaru and Hananoi-kun are closer than ever, but in many ways, they're still navigating the<br>twists and turns of their new relationship. Thankfully, an adorable dog just may help them<br>see new sides to each other!</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 (Portuguese Dub) - Episode 7 - Rest for This Up-And-Coming Adventurer!</h3></th>
+<th><h3 align="center">A Condition Called Love (Hindi Dub) - Episode 8 - My First Pet</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b5e12dd6b2b34493df1545dccee2f2221716388280_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1c820432bcb23d22d1986b999532d65d1716479175_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMW53/rest-for-this-up-and-coming-adventurer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WJJE/my-first-pet">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kazuma and his friends return to Axel and receive 300 million eris as a reward<br>for subjugating Sylvia, an executive of the Devil King's army. Kazuma and Aqua go to<br>high-end restaurants, and Aqua enjoys her long-awaited life as a celebrity.</p>
+<p align="center">Hotaru and Hananoi-kun are closer than ever, but in many ways, they're still navigating the<br>twists and turns of their new relationship. Thankfully, an adorable dog just may help them<br>see new sides to each other!</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 (Spanish Dub) - Episode 7 - Rest for This Up-And-Coming Adventurer!</h3></th>
+<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride (English Dub) - Episode 10 - Of Course Parents Panic When Their Daughter Runs Away From Home</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b5e12dd6b2b34493df1545dccee2f2221716388280_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/968d8f6da21be9815b64377050cf90971717080490_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX15JJ/rest-for-this-up-and-coming-adventurer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGPP9/of-course-parents-panic-when-their-daughter-runs-away-from-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kazuma and his friends return to Axel and receive 300 million eris as a reward<br>for subjugating Sylvia, an executive of the Devil King's army. Kazuma and Aqua go to<br>high-end restaurants, and Aqua enjoys her long-awaited life as a celebrity.</p>
+<p align="center">For investigates the old Archdemon's castle in order to find weapons to wield in her<br>quest for revenge. However, before she can enter the estate, she's beset by Raphael.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Viral Hit - Episode 10 - A New Opponent</h3></th>
+<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride (Hindi Dub) - Episode 8 - I Found a Dragon and I Guess She's My Daughter Now</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2646d866fab32e83e1253908f6d160491718205295_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7da1c490c2712a526cc12256963271401715873256_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2GDV/a-new-opponent">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJ227/i-found-a-dragon-and-i-guess-shes-my-daughter-now">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hobin is reluctant to take on Gaeul's bullies, the Comedy Crew, but when Bomi is<br>hospitalized as a consequence of a prank they pull on her, he sets his sights<br>on taking them down.</p>
+<p align="center">Zagan, Nephy, and For investigate Marchosias' old estate and discover a shocking connection. A veteran<br>Sacred Sword wielder arrives, and Chastille quickly finds herself disagreeing with him, an incredibly dangerous<br>position to take without her sword.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BARTENDER Glass of God - Episode 11 - Bar Kaze - A Heartfelt Recipe</h3></th>
+<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride (Tamil Dub) - Episode 8 - I Found a Dragon and I Guess She's My Daughter Now</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ff72661b0de4f56a17184cfbcc69ae421718205275_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7da1c490c2712a526cc12256963271401715873256_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU20WD0/bar-kaze-a-heartfelt-recipe">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM220/i-found-a-dragon-and-i-guess-shes-my-daughter-now">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kase is temporarily discharged from the hospital for what will likely be the last time.<br>He's determined to stand behind the counter one last time, and his proteges are willing<br>to do everything in their power to make that happen.</p>
+<p align="center">Zagan, Nephy, and For investigate Marchosias' old estate and discover a shocking connection. A veteran<br>Sacred Sword wielder arrives, and Chastille quickly finds herself disagreeing with him, an incredibly dangerous<br>position to take without her sword.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KONOSUBA -God's blessing on this wonderful world! 3 - Episode 10 - Blessings for This Selfish Bride!</h3></th>
+<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride (Telugu Dub) - Episode 8 - I Found a Dragon and I Guess She's My Daughter Now</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2a2c967c4495e5d9eb6e7e977b136b771718202863_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7da1c490c2712a526cc12256963271401715873256_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5K8Z/blessings-for-this-selfish-bride">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5EEX/i-found-a-dragon-and-i-guess-shes-my-daughter-now">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Darkness's wedding to Aldarp is imminent. Despite Aqua's and Megumin's pleas, Kazuma has no intention<br>of intervening. Vanir then visits the mansion and reveals a shocking secret to Kazuma.</p>
+<p align="center">Zagan, Nephy, and For investigate Marchosias' old estate and discover a shocking connection. A veteran<br>Sacred Sword wielder arrives, and Chastille quickly finds herself disagreeing with him, an incredibly dangerous<br>position to take without her sword.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V - Episode 10 - A Battlefield That Shouldn't Be Possible</h3></th>
+<th><h3 align="center">A Salad Bowl of Eccentrics - Episode 11 - Christmas in Gifu</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c17623206ac88469f60c6532a34a493b1718201023_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ac959e89daa44f7c7dd9ddf3c5921a171718302945_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5K25/a-battlefield-that-shouldnt-be-possible">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UD1MWG/christmas-in-gifu">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Shido's date with Reine is winding down, Reine comes to the realization that history<br>has been rewritten. With DEM approaching, Kurumi arrives at their location to aid Shido.</p>
+<p align="center">Sara gets to enjoy her winter break, including (way too many) Christmas parties, a special<br>gift from Livia, and a big trip to the aquarium. Meanwhile, Livia meets up with<br>an old friend, and Brenda prepares for Valentine's Day.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mysterious Disappearances - Episode 10 - A Live Performance, a Curse, and the Person Inside</h3></th>
+<th><h3 align="center">Dragon Ball Z (French Dub) - Episode 194 - Free the Future</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f0878911d952d759bdd3939dae7396f21718185836_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/47983771aaac328fc28e72832c85d5871645101074_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/12/2024</td>
+<td align="center">6/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07XQZ/a-live-performance-a-curse-and-the-person-inside">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5PVK/free-the-future">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yorumun begins hijacking popular streamers' videos, rapidly escalating the commotion around her. Adashino tries to<br>save Nodoka, but Nodoka refuses his help, defending Yorumun instead. Then Uname brings a woman<br>in a wheelchair to meet them.</p>
+<p align="center">Peace and order have been restored on Earth in the present, but Trunks’ future world<br>is still a place of darkness and despair! Once he arrives home, the future will<br>be forever changed!</p>
 </td>
 </tr>
 </table>
