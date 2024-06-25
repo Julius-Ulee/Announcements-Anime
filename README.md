@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jun 25, 2024, 7:55:50 AM</em></p>
+<p align="center"><em>Updated on: Jun 25, 2024, 7:22:35 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,74 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Log Horizon 2 (Hindi Dub) - Episode 4 - Shattered Wings</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/86afaaef8084ce25a5a22639279bd7eb1414093056_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE07X0/shattered-wings">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">It's almost Christmas in Akihabara.  At Lenessia's mansion, Marie and Henriette are all visiting.<br> Lenessia is smiling, but she can't open herself up to the adventurers because of<br>how different they are.  Akatsuki, who has been tasked with guarding the princess, is<br>the only one who isn't having fun.  She thinks of Shiroe and worries about<br>her own powerlessness.  Then, in Akihabara in December, a shocking event occurs.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Ranking of Kings: The Treasure Chest of Courage (Telugu Dub) - Episode 10 - Return of the Sword King</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c929fa055abed6200befa4b1910cecce1686848642_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE9K1/return-of-the-sword-king">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As Bojji and Kage continue their journey together, Despa and the captain are tracking down<br>Ouken's missing head. Meanwhile, Desha enters the Divine Treasure Vault, where he hopes to finally<br>uncover the means to restore Ouken's humanity to him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (German Dub) - Episode 10 - Wisdom of a Wolf and Smooth Talk of a Merchant</h3></th>
 </tr>
@@ -615,74 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">After talking it out with Hiromu, Masaki attempts to reach out to Mochizuki and reach<br>an understanding between them.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 - Episode 25 -  Party Beneath the Moonlight</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bc48978a2b4d8cc7388a0b8359cbef8c1719241328_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UV3M04/-party-beneath-the-moonlight">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After the battle in Limia, Makoto returns to the demiplane where he is welcomed by<br>Tomoe, Mio and the residents of the demiplane. After a short celebration Makoto returns to<br>Rotsgard to wipe out the remaining mutants, ending the days-long turmoil.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers - Episode 12 - A Steamy Hot Spring Trip, Part 2</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0228d51a22fdeaec1baa29b2f089136c1719241439_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47QX3/a-steamy-hot-spring-trip-part-2">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
 </td>
 </tr>
 </table>
