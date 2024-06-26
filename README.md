@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jun 25, 2024, 7:22:35 PM</em></p>
+<p align="center"><em>Updated on: Jun 26, 2024, 7:55:51 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,618 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">GUNMACHAN Season 2 - Episode 13 - Gunma-chan Tries Really, Really Hard and two others</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b07788ae42a473f7a8eb49eb814000901719337086_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J0E7/gunma-chan-tries-really-really-hard-and-two-others">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Gunma-chan, Uncle Akio, Aoma, and Meemi visit Gunma's kofun site and wander into an alternate<br>world beneath Gunma in the Season 2 finale.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">GUNMACHAN Season 2 - Episode 12 - Gunma-chan Struggles Again and two others</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ed57bc895a7f7a9fcfe75a9f3fd673131719301523_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE971/gunma-chan-struggles-again-and-two-others">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Uncle Akio takes Gunma-chan, Aoma, and Meemi snowboarding. Gunma-chan feels lonely and finds solace in<br>his imaginary friend. Gunma-chan visits the Haniwa Animation Studio and learns the ins and outs<br>of creating anime.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">GUNMACHAN Season 2 - Episode 11 - Bing-chan, from a Planet Far, Far Away and two others</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/91cf684c7872c943b3e3b4274090d35e1719301329_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU470W1/bing-chan-from-a-planet-far-far-away-and-two-others">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Gunma-chan, Aoma, and Meemi meet Bing-chan, an alien from a distant planet. Gunma-chan attends the<br>Great Haniwa Gratitude Festival and meets Warrior Haniwa. Gunma-chan, Yuumi, Aoma, and Meemi learn how<br>to make snacks.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">GUNMACHAN Season 2 - Episode 10 - Donuts, Donuts and two others</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a4bbce57b3fa9431f026f75afec16df01719301132_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN249J/donuts-donuts-and-two-others">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Gunma-chan ponders how to share two donuts. Gunma-chan watches an episode of Gun-Gunmer with his<br>mom. Konja Rap makes his second appearance and everyone showcases their musical talent.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">GUNMACHAN Season 2 - Episode 9 - Enter, the Lazy One and two others</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/039b42013919562c888a8edfaf6e25261719300844_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82GP1/enter-the-lazy-one-and-two-others">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Wise One loses motivation and becomes the Lazy One. The Ninja Sisters hit a<br>roadblock and contemplate the future of their careers. Gunma-chan meets Haniwa-san...or does he?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">GUNMACHAN Season 2 - Episode 8 - What's Wrong, Gunma-chan and two others</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2da5e421c9ad4023f2c63a93ff2963141719300767_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0WEP/whats-wrong-gunma-chan-and-two-others">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Meemi finds herself perplexed after Gunma-chan and Aoma throw a fit. Gunma-chan witness rituals by<br>Daruma and Haniwa as things get competitive. Aoma and Meemi corner Gunma-chan for not speaking<br>up enough.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">GUNMACHAN Season 2 - Episode 7 - Off to the Auto Race and two others</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e5ad496e4d5df98b97b541a9aa6c76941719300342_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGJPJ/off-to-the-auto-race-and-two-others">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Uncle Akio takes Gunma-chan to his first Auto Race. Yayoihime goes on a rampage to<br>create a new way to market Yayoihime strawberries. Uncle Akio teaches Gunma-chan how to take<br>it easy.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">GUNMACHAN Season 2 - Episode 6 - Gunma-chan Learns About the Internet and two others</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3bfca93ae6d3220f2f206bb8bd63e1341719299477_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJE2W/gunma-chan-learns-about-the-internet-and-two-others">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Aoma decides to become a manga author and recruits Gunma-chan and Meemi. The Wise One<br>teaches Gunma-chan about the internet. Gunma-chan meets a ghost that lives in his house.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">GUNMACHAN Season 2 - Episode 5 - Meemi Meets the Meows and two others</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/692d1d6d67baf9e72d6d401cfaf121db1719299078_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9E0Q/meemi-meets-the-meows-and-two-others">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Gunma-chan and Yuumi has a different approach on how to solve problems. Gunma-chan goes on<br>a trip to a hot springs inn together with his family. Meemi meets the Meows,<br>her favorite band.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">GUNMACHAN Season 2 - Episode 4 - Ninja Sisters at Work and two others</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/10b8d358cc4702cf0dd341ea10d3c2d81719298792_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MJP3/ninja-sisters-at-work-and-two-others">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Meemi's Dad attempts to solve a mystery surrounding missing puddings. Gunma-chan debates whether the past<br>was better with Kofun-sama and King Daruma. The Ninja Sisters search for a new business<br>venture.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">GUNMACHAN Season 2 - Episode 3 - Jomo Karuta Tournament and two others</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/22c9e079bf61870f706847783d355e781719298599_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EQ8W/jomo-karuta-tournament-and-two-others">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Gunma-chan, Aoma, and Meemi visits the Daruma Shrine and pulls omikuji fortunes. Gunma-chan enters the<br>Jomo Karuta Tournament. Gunma-chan gets a toothache and learns about oral health.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">GUNMACHAN Season 2 - Episode 2 - Udon Is Awesome and two others</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/87c6b28605c8cd7770c6b1b124e2599d1719298011_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMGWN/udon-is-awesome-and-two-others">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Gunma-chan, Aoma, and Meemi visit the Haniwa Art Festival and considers what counts as "art".<br>A look into a day of the life of Gunma-chan's Mom and her many jobs.<br>Uncle Akio takes Gunma-chan, Aoma, and Meemi to eat udon noodles.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">GUNMACHAN Season 2 - Episode 1 - Gunma-chan, To Be Continued! and two others</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a67a1b85eef92e34b061bcacb5b237151719297822_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2W8J2/gunma-chan-to-be-continued-and-two-others">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Gunma-chan contemplates what it means for things to continue. Yuumi is dissatisfied with being a<br>younger sibling while Gunma-chan has similar sentiments about being the eldest. Aoma gets caught in<br>a tough situation after telling a lie.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Unnamed Memory (German Dub) - Episode 9 - The Things Unknown</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b8fa08ac237a7d55ed84ac02d7e6945c1717508899_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU470VV/the-things-unknown">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The kingdom of Farsas enjoys some much-needed peace as the end of the year approaches.<br>Beneath the tranquility, however, a plot is brewing with Farsas Castle as its target.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Log Horizon (German Dub) - Episode 20 - Contract</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e9dcef2e9b0a145eaafd82dd08ddb5101392239089_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7KG8/contract">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rundelhaus hid from his friends that he was one of the land people, but the<br>price of fighting off the dire wolves was that he took a fatal wound. <br>If they can't save him, he'll die and he won't revive.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Yashahime: Princess Half-Demon (German Dub) - Episode 39 - Moroha and Family, Together Again</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b34ef49d7fb3763b0b18b7df787f28cb1642226131_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0W43/moroha-and-family-together-again">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Inside the Black Pearl, Moroha is finally reunited with her parents, Inuyasha and Kagome. Inuyasha<br>begins to see a way out of the Black Pearl. Meanwhile, Kirinmaru’s attack leaves Sesshomaru<br>gravely injured.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Oblivion Battery - Episode 11 - I'm a Liar</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b98b587b83f598e1bb6803a563fb2a531719313105_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EV03/im-a-liar">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kei's Commander mode comes to an end, and the despondent Kotesashi team allows Hikawa to<br>take the lead. Kei tries to lift the mood of the team, but Chihaya seems<br>to be struggling with a "wall" he has to overcome.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Unnamed Memory - Episode 12 - Two Joined Memories</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/682b0523943e86b6313184cae1848cef1719312713_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">6/25/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0K77/two-joined-memories">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">One day, as Oscar is helping Tinasha clean up around the tower, he finds himself<br>mysteriously drawn in by a familiar-looking orb.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Log Horizon 2 (Hindi Dub) - Episode 4 - Shattered Wings</h3></th>
 </tr>
@@ -71,618 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">As Bojji and Kage continue their journey together, Despa and the captain are tracking down<br>Ouken's missing head. Meanwhile, Desha enters the Divine Treasure Vault, where he hopes to finally<br>uncover the means to restore Ouken's humanity to him.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (German Dub) - Episode 10 - Wisdom of a Wolf and Smooth Talk of a Merchant</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c3a8789e3c46e88755d4fdb62d886e1b1717435672_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0W2P/wisdom-of-a-wolf-and-smooth-talk-of-a-merchant">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Desperate for money, the wise Wolf proposes a dangerous new plan.  But even more<br>dangerous are Holo's emotions, when Lawrence is being rather dense...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (French Dub) - Episode 10 - Wisdom of a Wolf and Smooth Talk of a Merchant</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c3a8789e3c46e88755d4fdb62d886e1b1717435672_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82G91/wisdom-of-a-wolf-and-smooth-talk-of-a-merchant">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Desperate for money, the wise Wolf proposes a dangerous new plan.  But even more<br>dangerous are Holo's emotions, when Lawrence is being rather dense...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (English Dub) - Episode 10 - Wisdom of a Wolf and Smooth Talk of a Merchant</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c3a8789e3c46e88755d4fdb62d886e1b1717435672_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7KPX/wisdom-of-a-wolf-and-smooth-talk-of-a-merchant">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Desperate for money, the wise Wolf proposes a dangerous new plan.  But even more<br>dangerous are Holo's emotions, when Lawrence is being rather dense...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (English Dub) - Episode 11 - Jade's Last Words</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b27a617b7c8c653f51c12f917b7105af1718026645_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07J25/jades-last-words">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Guisarme's teleportation-powered offensive barrage leaves Lloyd perplexed. Having come to a realization, he attempts a<br>physical attack with a magic-absorbing sword named Spelltaker, aiming to decipher the nature of Jade's<br>stolen power.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (German Dub) - Episode 9 - The Cataclysm Named Guisarme</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/40500e80d6171df7199e8be5f75e00f11716821060_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1WZD/the-cataclysm-named-guisarme">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ren is confronted by the demon lord Guisarme, who has stolen Jade's body and teleportation<br>power. Guisarme is intent on seizing the bodies of the Assassin's Guild as well, when<br>Lloyd arrives in the neck of time to defend them.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (French Dub) - Episode 9 - The Cataclysm Named Guisarme</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/40500e80d6171df7199e8be5f75e00f11716821060_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MJV3/the-cataclysm-named-guisarme">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ren is confronted by the demon lord Guisarme, who has stolen Jade's body and teleportation<br>power. Guisarme is intent on seizing the bodies of the Assassin's Guild as well, when<br>Lloyd arrives in the neck of time to defend them.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (Hindi Dub) - Episode 9 - The Cataclysm Named Guisarme</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/40500e80d6171df7199e8be5f75e00f11716821060_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNQPM/the-cataclysm-named-guisarme">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ren is confronted by the demon lord Guisarme, who has stolen Jade's body and teleportation<br>power. Guisarme is intent on seizing the bodies of the Assassin's Guild as well, when<br>Lloyd arrives in the neck of time to defend them.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (English Dub) - Episode 23 - Rival Revenge Match</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3443eb4d510e6ea9b163c2cdf232b1d41718005443_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMGZN/rival-revenge-match">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sofia suddenly barges into the battle between Makoto and Io. Having longed for a rematch<br>with Makoto, Sofia launches a fierce attack on her nemesis as soon as she steps<br>onto the battlefield. Despite being outnumbered, Makoto appears unfazed.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Portuguese Dub) - Episode 22 - Fight On, Hero!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/00f5d561ce155200fff9cdda3493be9b1717422503_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5Z30/fight-on-hero">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Makoto is shaken by the revelation that the hero he meets on the battlefield is<br>his high school senior, Hibiki Otonashi. Unable to dwell on it, Makoto enters a battle<br>with Io to whom he suggests the demons retreat, in order to avoid a pointless<br>battle.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Spanish Dub) - Episode 22 - Fight On, Hero!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/00f5d561ce155200fff9cdda3493be9b1717422503_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U4723P/fight-on-hero">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Makoto is shaken by the revelation that the hero he meets on the battlefield is<br>his high school senior, Hibiki Otonashi. Unable to dwell on it, Makoto enters a battle<br>with Io to whom he suggests the demons retreat, in order to avoid a pointless<br>battle.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (English Dub) - Episode 10 - A New Housemate</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/330526461c656f6f234533b2f1db41941718005408_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7K5X/a-new-housemate">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Gholl's younger brother, Yuigarde, has staged an insurrection. At his castle, Gholl learns that even<br>the Infernal Four are dissatisfied with his recent actions, and Yuigarde challenges him to a<br>duel with the Dark One's throne on the line.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Portuguese Dub) - Episode 9 - Wolf and Adventurer</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0bb562aa4f7caeb0b9c837a0ff44bf8c1717422068_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJE9W/wolf-and-adventurer">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The princess has learned that Flio's true identity is Banaza. She pays him a visit<br>to apologize for the unfair treatment he's received from the kingdom, and to ask him<br>to protect small towns from the Dark Army as the true hero.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (German Dub) - Episode 9 - Wolf and Adventurer</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0bb562aa4f7caeb0b9c837a0ff44bf8c1717422068_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGJNJ/wolf-and-adventurer">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The princess has learned that Flio's true identity is Banaza. She pays him a visit<br>to apologize for the unfair treatment he's received from the kingdom, and to ask him<br>to protect small towns from the Dark Army as the true hero.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Tamil Dub) - Episode 9 - Wolf and Adventurer</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0bb562aa4f7caeb0b9c837a0ff44bf8c1717422068_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMD4P/wolf-and-adventurer">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The princess has learned that Flio's true identity is Banaza. She pays him a visit<br>to apologize for the unfair treatment he's received from the kingdom, and to ask him<br>to protect small towns from the Dark Army as the true hero.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (French Dub) - Episode 9 - Wolf and Adventurer</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0bb562aa4f7caeb0b9c837a0ff44bf8c1717422068_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5741/wolf-and-adventurer">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The princess has learned that Flio's true identity is Banaza. She pays him a visit<br>to apologize for the unfair treatment he's received from the kingdom, and to ask him<br>to protect small towns from the Dark Army as the true hero.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Telugu Dub) - Episode 9 - Wolf and Adventurer</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0bb562aa4f7caeb0b9c837a0ff44bf8c1717422068_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0WJP/wolf-and-adventurer">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The princess has learned that Flio's true identity is Banaza. She pays him a visit<br>to apologize for the unfair treatment he's received from the kingdom, and to ask him<br>to protect small towns from the Dark Army as the true hero.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF - Episode 13 - Supper of Three and Afternoon of Two</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d134e10f5d707e967a7741fb6734bc61719245892_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVEE1V/supper-of-three-and-afternoon-of-two">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Holo, Lawrence, and Nora sit down for a much deserved meal, but Holo's not her<br>usual self.  Holo remembers the past and contemplates the future...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tadaima, Okaeri - Episode 12 - See You Tomorrow</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c3afdfe2fe3904615f57059a069685731719241488_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">6/24/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE17V/see-you-tomorrow">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After talking it out with Hiromu, Masaki attempts to reach out to Mochizuki and reach<br>an understanding between them.</p>
 </td>
 </tr>
 </table>
