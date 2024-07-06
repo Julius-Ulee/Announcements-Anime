@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 5, 2024, 7:22:09 PM</em></p>
+<p align="center"><em>Updated on: Jul 6, 2024, 7:55:00 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom (Tamil Dub) - Episode 21 - XX Time</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (English Dub) - Episode 60 - Festival Preparations</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f9518fcb743621be2e45e1f19ef5e1b01472895840_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/01e5093fa300ed29006353cd4dbd4cf01718967501_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM9X1/xx-time">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U470GV/festival-preparations">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The students take on one last assassin opponent before meeting the shadowy figure who's holding<br>the virus remedy hostage in exhange for Koro Sensei.</p>
+<p align="center">Everyone in Tempest is busy preparing for the festival to celebrate the country's opening. Rimuru<br>visits Mjöllmile to share ideas on forms of entertainment that will keep people coming back<br>for more.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom (Telugu Dub) - Episode 21 - XX Time</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Portuguese Dub) - Episode 59 - Reconciliation and Agreement</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f9518fcb743621be2e45e1f19ef5e1b01472895840_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/26d29edbd5350954adca252bc5f910b31718356094_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E0VE/xx-time">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM94E/reconciliation-and-agreement">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The students take on one last assassin opponent before meeting the shadowy figure who's holding<br>the virus remedy hostage in exhange for Koro Sensei.</p>
+<p align="center">The Seven Days Clergy have been purged, and the battle is over. Rimuru and Hinata<br>hold a meeting to discuss future relations between their two nations, and the masterminds behind<br>the whole conflict, the Eastern merchants, are revealed.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEAD DEAD DEMONS DEDEDEDE DESTRUCTION (English Dub) - Episode 6 - Episode 6</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (German Dub) - Episode 59 - Reconciliation and Agreement</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/61c6914b4dc6c167722ffade2f8eaf271720143625_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/26d29edbd5350954adca252bc5f910b31718356094_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEVQ2/episode-6">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0955/reconciliation-and-agreement">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kadode decides to use the tools of an "invader" to help people in trouble. During<br>the hot summer, he tries to help a pregnant woman who is stuck at a<br>closed railway crossing, but accidentally causes a train derailment. Shocked that his good intentions ended<br>up hurting people, Kadode resolves never to fail again...</p>
+<p align="center">The Seven Days Clergy have been purged, and the battle is over. Rimuru and Hinata<br>hold a meeting to discuss future relations between their two nations, and the masterminds behind<br>the whole conflict, the Eastern merchants, are revealed.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEAD DEAD DEMONS DEDEDEDE DESTRUCTION - Episode 6 - Episode 6</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Spanish Dub) - Episode 59 - Reconciliation and Agreement</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5ef54faab8597068c766bce9cf5f1e8f1720143673_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/26d29edbd5350954adca252bc5f910b31718356094_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM1G8/episode-6">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JQG4/reconciliation-and-agreement">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kadode decides to use the tools of an "invader" to help people in trouble. During<br>the hot summer, he tries to help a pregnant woman who is stuck at a<br>closed railway crossing, but accidentally causes a train derailment. Shocked that his good intentions ended<br>up hurting people, Kadode resolves never to fail again...</p>
+<p align="center">The Seven Days Clergy have been purged, and the battle is over. Rimuru and Hinata<br>hold a meeting to discuss future relations between their two nations, and the masterminds behind<br>the whole conflict, the Eastern merchants, are revealed.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Salad Bowl of Eccentrics (Hindi Dub) - Episode 11 - Christmas in Gifu</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Italian Dub) - Episode 59 - Reconciliation and Agreement</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ac959e89daa44f7c7dd9ddf3c5921a171718302945_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/26d29edbd5350954adca252bc5f910b31718356094_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG51D7/christmas-in-gifu">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ72E7/reconciliation-and-agreement">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sara gets to enjoy her winter break, including (way too many) Christmas parties, a special<br>gift from Livia, and a big trip to the aquarium. Meanwhile, Livia meets up with<br>an old friend, and Brenda prepares for Valentine's Day.</p>
+<p align="center">The Seven Days Clergy have been purged, and the battle is over. Rimuru and Hinata<br>hold a meeting to discuss future relations between their two nations, and the masterminds behind<br>the whole conflict, the Eastern merchants, are revealed.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER (English Dub) - Episode 12 - THE DEPENDABLE ONE</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Castilian Dub) - Episode 59 - Reconciliation and Agreement</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f6fe1d8479879debd584aab60216c2121718900079_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/26d29edbd5350954adca252bc5f910b31718356094_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNDPJ/the-dependable-one">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47ZJP/reconciliation-and-agreement">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ren Kaji, Yuto Kusumi, and Takeshi Enomoto, second-year students from the Tamon Team, start their<br>ruling on who will be Grade Captain for first-year Class 1. Suo is the first<br>to raise his hand, immediately nominating Sakura as the other classmates vote for him one<br>after the other.</p>
+<p align="center">The Seven Days Clergy have been purged, and the battle is over. Rimuru and Hinata<br>hold a meeting to discuss future relations between their two nations, and the masterminds behind<br>the whole conflict, the Eastern merchants, are revealed.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER (Portuguese Dub) - Episode 11 - NEW CLASSMATES</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (French Dub) - Episode 57 - The Scheming of the Seven Days</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a2c46f8183fad88ee00ebf4482c04f5a1718298945_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3a27c35e3247b59a01bde08f447f96d01717159427_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5JP5/new-classmates">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM9V3/the-scheming-of-the-seven-days">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the fights against Shishitoren over, Class 1 enthusiastically welcomes Sakura, Nirei, and Suo's return.<br>Their classmates, brimming with interest in the details of the fights, surround them, asking questions.<br>Sakura can't hide his bashfulness.</p>
+<p align="center">Diablo descends before the enemy, King Edward of Falmuth. Also present are Saare and Glenda,<br>two of the three Battlesages who are regarded as the most brilliant among the Master<br>Rooks.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER (German Dub) - Episode 11 - NEW CLASSMATES</h3></th>
+<th><h3 align="center">The Irregular at Magic High School Season 3 (English Dub) - Episode 8 - Steeplechase Part IV</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a2c46f8183fad88ee00ebf4482c04f5a1718298945_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/41163f069c01793460000110cb9bc7281716562386_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U4703Q/new-classmates">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WGVG/steeplechase-part-iv">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the fights against Shishitoren over, Class 1 enthusiastically welcomes Sakura, Nirei, and Suo's return.<br>Their classmates, brimming with interest in the details of the fights, surround them, asking questions.<br>Sakura can't hide his bashfulness.</p>
+<p align="center">The women's division of the Steeplechase Cross-country Event has finally begun. Tatsuya has Pixie figure<br>out the location of all the parasite dolls and tries to eliminate them before they<br>come into contact with the players. However, the parasite dolls unleash their magic at speeds<br>that exceed Tatsuya's imagination. Though it is difficult, he manages to seal away the first<br>parasite doll. Tatsuya goes on to seal away the remaining parasite dolls one after another,<br>but the highest-performance models, the Prime Four, now stand in his way.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER (Spanish Dub) - Episode 11 - NEW CLASSMATES</h3></th>
+<th><h3 align="center">The Misfit of Demon King Academy Ⅱ (French Dub) - Episode 20 - Kingdom of the Dragon God</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a2c46f8183fad88ee00ebf4482c04f5a1718298945_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cf0ce572959016c56c7e61fca144d0a51717774072_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,21 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WGM7/new-classmates">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U470MW/kingdom-of-the-dragon-god">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the fights against Shishitoren over, Class 1 enthusiastically welcomes Sakura, Nirei, and Suo's return.<br>Their classmates, brimming with interest in the details of the fights, surround them, asking questions.<br>Sakura can't hide his bashfulness.</p>
+<p align="center">Arriving in Giorhaze, capital of the Underground World Giordal, Anos follows a 
+wary Erdomaid to<br>a church. There, they obtain a Pledge Jewel which summons 
+dragons. Furthermore, Erdomaid sees Naya’s<br>aptitude and makes a pack with 
+her after learning her plan. Anos hears about Ahide’s<br>actions from the bishop of 
+the church and decides to catch him before he meets<br>the pope.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +322,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER (French Dub) - Episode 11 - NEW CLASSMATES</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (Tamil Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a2c46f8183fad88ee00ebf4482c04f5a1718298945_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/37492a41b0d27b917603bf0afb936a071720196233_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +336,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M5V1/new-classmates">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM9EE">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the fights against Shishitoren over, Class 1 enthusiastically welcomes Sakura, Nirei, and Suo's return.<br>Their classmates, brimming with interest in the details of the fights, surround them, asking questions.<br>Sakura can't hide his bashfulness.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -352,12 +356,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER (Hindi Dub) - Episode 11 - NEW CLASSMATES</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (Telugu Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a2c46f8183fad88ee00ebf4482c04f5a1718298945_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/37492a41b0d27b917603bf0afb936a071720198891_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +370,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK94Q3/new-classmates">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JQ8P">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the fights against Shishitoren over, Class 1 enthusiastically welcomes Sakura, Nirei, and Suo's return.<br>Their classmates, brimming with interest in the details of the fights, surround them, asking questions.<br>Sakura can't hide his bashfulness.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -386,12 +390,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Laid-Back Camp Season 3 (English Dub) - Episode 12 - April 2nd: Cherry Blossom Camp Trip</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (Arabic Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f7624236c6ed2f7375a045ab88b0fabc1718874731_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f432fbb823ced146b99371b26dfa9461720195830_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +404,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN21Q7/april-2nd-cherry-blossom-camp-trip">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEGG7">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The entire gang finally gets together for their much-awaited cherry blossom camp trip, and there's<br>plenty of good food and good memories to go around!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -420,12 +424,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Laid-Back Camp Season 3 (Portuguese Dub) - Episode 11 - Scenery from Way Back</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (Hindi Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7f2db305a28d777394a0873c3da5ab0f1718267864_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/37492a41b0d27b917603bf0afb936a071720196077_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +438,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM957/scenery-from-way-back">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMJKG">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chiaki comes to find out that her surprise encounter with Aoi ahead of their cherry<br>blossom camp trip is thanks to a sudden (and speedy) gift. Meanwhile, Rin joins up<br>with Nadeshiko and her sister to take in some nostalgic scenery.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -454,12 +458,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Laid-Back Camp Season 3 (Spanish Dub) - Episode 11 - Scenery from Way Back</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (French Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7f2db305a28d777394a0873c3da5ab0f1718267864_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/418f5a41c546ba536574ee09cc6824331720198749_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +472,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ09J7/scenery-from-way-back">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN215V">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chiaki comes to find out that her surprise encounter with Aoi ahead of their cherry<br>blossom camp trip is thanks to a sudden (and speedy) gift. Meanwhile, Rin joins up<br>with Nadeshiko and her sister to take in some nostalgic scenery.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -488,12 +492,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Condition Called Love (English Dub) - Episode 12 - My First Love</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (German Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/253375c49a4e903054c42c713940c3f61718896040_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f432fbb823ced146b99371b26dfa9461720195936_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +506,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0QWV/my-first-love">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK941V">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hotaru and Hananoi-kun both reflect on where they are and how far they've come, from<br>the past to the present.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -522,12 +526,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Condition Called Love (Portuguese Dub) - Episode 11 - Our First Campus Expedition</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (Spanish Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/04898d2f2035396417888ffc36d8de981718267908_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/802fb9c1e9fc6cf230f46f71f199b7071720196929_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +540,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG51X5/our-first-campus-expedition">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E0Q3">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hotaru spends the day with the bookstore crew, including Hananoi and Yao, who don't see<br>eye to eye about the past. Perhaps a little nudge is just what Hananoi needs<br>to be more open with Hotaru...</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -556,12 +560,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Condition Called Love (Spanish Dub) - Episode 11 - Our First Campus Expedition</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (Portuguese Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/04898d2f2035396417888ffc36d8de981718267908_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6f8a9b8f5fe0f2d5617391669fe082921720195784_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +574,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ09JK/our-first-campus-expedition">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2147">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hotaru spends the day with the bookstore crew, including Hananoi and Yao, who don't see<br>eye to eye about the past. Perhaps a little nudge is just what Hananoi needs<br>to be more open with Hotaru...</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -590,12 +594,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Condition Called Love (French Dub) - Episode 11 - Our First Campus Expedition</h3></th>
+<th><h3 align="center">Quality Assurance in Another World - Episode 1 - Nikola the Servant Girl</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/04898d2f2035396417888ffc36d8de981718267908_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/98a2c963039e59e6f2ccb7bd98f760091720195756_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +608,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN21QN/our-first-campus-expedition">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5JM5/nikola-the-servant-girl">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hotaru spends the day with the bookstore crew, including Hananoi and Yao, who don't see<br>eye to eye about the past. Perhaps a little nudge is just what Hananoi needs<br>to be more open with Hotaru...</p>
+<p align="center">Nikola is content to live a normal life in her small, tranquil village... until the<br>day a curious man named Haga arrives. Haga claims to be "investigating" the world, and<br>his quest to do so will open Nikola's eyes to all kinds of unseen wonders!</p>
 </td>
 </tr>
 </table>
@@ -624,12 +628,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Condition Called Love (Hindi Dub) - Episode 11 - Our First Campus Expedition</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (English Dub) - Episode 1 - Nikola the Servant Girl</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/04898d2f2035396417888ffc36d8de981718267908_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b453e19aee2df0e9b8d3b523e0752e551720199175_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +642,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47ZK8/our-first-campus-expedition">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5197/nikola-the-servant-girl">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hotaru spends the day with the bookstore crew, including Hananoi and Yao, who don't see<br>eye to eye about the past. Perhaps a little nudge is just what Hananoi needs<br>to be more open with Hotaru...</p>
+<p align="center">Nikola is content to live a normal life in her small, tranquil village... until the<br>day a curious man named Haga arrives. Haga claims to be "investigating" the world, and<br>his quest to do so will open Nikola's eyes to all kinds of unseen wonders!</p>
 </td>
 </tr>
 </table>
@@ -658,12 +662,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">An Archdemon's Dilemma: How to Love Your Elf Bride (Tamil Dub) - Episode 11 - It's Still Apparently an Angelic Knight's Duty To Slay Wicked Beasts</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a - Episode 13 - reckless bra[V]ery</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ae93aaccdf02f447e1d00f90fac40fc21717686332_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/abe9eef38109190a948a0a4cad66b9e21720193819_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +676,30 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/4/2024</td>
+<td align="center">7/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJ8K0/its-still-apparently-an-angelic-knights-duty-to-slay-wicked-beasts">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UV45VP/reckless-bravery">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Heavily wounded, Raphael warns Chastille of treacherous threats lurking within the Church. As For learns<br>more about the man she has carried such hatred for, she must decide if revenge<br>is truly something she wants anymore.</p>
+<p align="center">Synopsis
+▶▶ Pod 042 - Report:
+
+5012 AD.
+Lifeforms from outer space, otherwise known as , suddenly begin<br>their invasion of Earth. 
+Mankind escapes to the moon, and the ground battle between the<br> and the  has continued for a long time.
+
+11945 AD.
+The  has commenced.
+ Soldiers<br> and  now engage in the plan to recapture Earth.
+
+While on a mission near<br>the City Ruins, they receive a request from the Resistance to find a missing android.<br>
+Both 2B and 9S consider that the missing android may be related to their current<br>investigation ordered by Command. 
+Proposal: Begin the search for relevant android.</p>
 </td>
 </tr>
 </table>
