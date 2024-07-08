@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 8, 2024, 7:58:17 AM</em></p>
+<p align="center"><em>Updated on: Jul 8, 2024, 7:24:02 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream - Episode 1 - I Forgot To Turn My Stream Off, And Became a Legend</h3></th>
+<th><h3 align="center">Vampire Dormitory (Hindi Dub) - Episode 11 - Love 11. The pretty boy drowns.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bde92ca5ef6c3980f524e2ae9dbe21c21720362796_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d7600e0339d1fb416c2ab7e20929c7da1718536561_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMED2/i-forgot-to-turn-my-stream-off-and-became-a-legend">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0JDG/love-11-the-pretty-boy-drowns">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The top-tier VTuber management company in the country, "Live On." Among their third generation talents<br>is Kokorone Awayuki, who struggles to stand out and grow among the countless VTubers.</p>
+<p align="center">A mysterious figure saves the heartbroken Mito and brings her to Ren's house, where she<br>asks Ren for a favor. Meanwhile, the Founder urges Ruka to marry Miko. Conflicted, Ruka<br>goes along with the plan, until Miko gets handed the sang sucre...</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Deer Friend Nokotan - Episode 1 - GIRL MEETS DEER</h3></th>
+<th><h3 align="center">The Duke of Death and His Maid Season 3 (Portuguese Dub) - Episode 35 - Friends, a Broken Curse, And Then...</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e3f8c7ef8be25af0dd794c610cbdfa791720362660_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f388d250cebd68a6520ae6b435ec8feb1718532687_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2PM0/girl-meets-deer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J9DQ/friends-a-broken-curse-and-then">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hiding her past as a former delinquent and living as an honor student, Torako Koshi<br>encounters a mysterious girl with horns hanging from a telephone pole. This mysterious girl, Noko<br>Shikanoko, becomes the source of turmoil that disrupts Torako's life.</p>
+<p align="center">The battle with Sade ends as Alice decides what decision she'll make about her future.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 - Episode 1 - Last Chance</h3></th>
+<th><h3 align="center">The Duke of Death and His Maid Season 3 (Spanish Dub) - Episode 35 - Friends, a Broken Curse, And Then...</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dfc5cfbad1125d00217c4747dbe033fa1720362572_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f388d250cebd68a6520ae6b435ec8feb1718532687_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07K9E/last-chance">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2P9P/friends-a-broken-curse-and-then">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On the twentieth level, there is another test to determine who may continue to climb<br>the tower. Many who have failed and buried their dreams gather there. However, Ja Wangnan<br>does not want to give up and puts everything on one last chance.</p>
+<p align="center">The battle with Sade ends as Alice decides what decision she'll make about her future.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">CHIBI MARUKO-CHAN - Episode 1438 - Sakura Family's Summer Fair / Maruko Is Concerned About the Weather Forecast</h3></th>
+<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (German Dub) - Episode 11 - Mireille Grangeon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d63083928a81358ef4ca1d708fbec6ee1720340315_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/362bc5e911008e4bd7deba040efc59d31718535709_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU073DK/sakura-familys-summer-fair-maruko-is-concerned-about-the-weather-forecast">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5JE9/mireille-grangeon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maruko plans to have a summer fair at home, and Tomozou creates a homemade goldfish<br>scoop. Later, Maruko and Tamae promise to go to a park on Sunday, but the<br>weather forecast says it will be rainy.</p>
+<p align="center">Mireille is making a real impression at House Louvent... and it's not a good one.<br>Ars believes in her potential, however, leaving him at a crossroads when the complaints start<br>coming in about her. Thankfully, Mireille has an unconventional solution!</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword - Episode 1 - Like a Lone Sword</h3></th>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (French Dub) - Episode 5 - I Even Ate Demons</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d57d957e583291381275cb5f717107d91720342930_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/747cbcb38cf5fb7b236d533b715f48551717933803_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMKG0/like-a-lone-sword">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47E59/i-even-ate-demons">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Driven by a childhood promise, Will Serfort is determined to rise to the top of<br>Magical Academy Rigarden and become one of the greatest mages the world has ever seen.<br>There's just one problem... Will can't use magic.</p>
+<p align="center">After completing Mitsuri's training, Tanjiro heads to train with Iguro. When he arrives at the<br>training site, Iguro is waiting for him, visibly angry. Will he be able to complete<br>this horrifying training where he'll have to fix his sword skills?</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Spanish Dub) - Episode 35</h3></th>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Hindi Dub) - Episode 5 - I Even Ate Demons</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9d950e2ad3df69f5ef60885a716394571720340244_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/747cbcb38cf5fb7b236d533b715f48551717933803_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,7 +200,415 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJ4VQ">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEXDJ/i-even-ate-demons">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After completing Mitsuri's training, Tanjiro heads to train with Iguro. When he arrives at the<br>training site, Iguro is waiting for him, visibly angry. Will he be able to complete<br>this horrifying training where he'll have to fix his sword skills?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Tamil Dub) - Episode 5 - I Even Ate Demons</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/747cbcb38cf5fb7b236d533b715f48551717933803_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ593V/i-even-ate-demons">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After completing Mitsuri's training, Tanjiro heads to train with Iguro. When he arrives at the<br>training site, Iguro is waiting for him, visibly angry. Will he be able to complete<br>this horrifying training where he'll have to fix his sword skills?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Telugu Dub) - Episode 5 - I Even Ate Demons</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/747cbcb38cf5fb7b236d533b715f48551717933803_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJX29/i-even-ate-demons">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After completing Mitsuri's training, Tanjiro heads to train with Iguro. When he arrives at the<br>training site, Iguro is waiting for him, visibly angry. Will he be able to complete<br>this horrifying training where he'll have to fix his sword skills?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (German Dub) - Episode 2 - Water Hashira Giyu Tomioka's Pain</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8574844365f3fa27e473506189d30ce81716133688_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7MP9/water-hashira-giyu-tomiokas-pain">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kagaya's Kasugai Crow suddenly appears in front of Tamayo and invites her to the Demon<br>Slayer headquarters — even though she is a demon. Meanwhile, after receiving a letter from<br>Kagaya at the Butterfly Mansion, Tanjiro pays a visit to Giyu, who is not participating<br>in the Hashira Training. At first, Tanjiro is rejected by Giyu but patiently continues to<br>try to talk to him. Giyu, who gives in to Tanjiro's persistence, begins to share<br>the reason why he won't participate in the training.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (English Dub) - Episode 2 - Water Hashira Giyu Tomioka's Pain</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8574844365f3fa27e473506189d30ce81716133688_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EJ8N/water-hashira-giyu-tomiokas-pain">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kagaya's Kasugai Crow suddenly appears in front of Tamayo and invites her to the Demon<br>Slayer headquarters — even though she is a demon. Meanwhile, after receiving a letter from<br>Kagaya at the Butterfly Mansion, Tanjiro pays a visit to Giyu, who is not participating<br>in the Hashira Training. At first, Tanjiro is rejected by Giyu but patiently continues to<br>try to talk to him. Giyu, who gives in to Tanjiro's persistence, begins to share<br>the reason why he won't participate in the training.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Portuguese Dub) - Episode 2 - Water Hashira Giyu Tomioka's Pain</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8574844365f3fa27e473506189d30ce81716133688_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MEP8/water-hashira-giyu-tomiokas-pain">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kagaya's Kasugai Crow suddenly appears in front of Tamayo and invites her to the Demon<br>Slayer headquarters — even though she is a demon. Meanwhile, after receiving a letter from<br>Kagaya at the Butterfly Mansion, Tanjiro pays a visit to Giyu, who is not participating<br>in the Hashira Training. At first, Tanjiro is rejected by Giyu but patiently continues to<br>try to talk to him. Giyu, who gives in to Tanjiro's persistence, begins to share<br>the reason why he won't participate in the training.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Spanish Dub) - Episode 2 - Water Hashira Giyu Tomioka's Pain</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8574844365f3fa27e473506189d30ce81716133688_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN178/water-hashira-giyu-tomiokas-pain">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kagaya's Kasugai Crow suddenly appears in front of Tamayo and invites her to the Demon<br>Slayer headquarters — even though she is a demon. Meanwhile, after receiving a letter from<br>Kagaya at the Butterfly Mansion, Tanjiro pays a visit to Giyu, who is not participating<br>in the Hashira Training. At first, Tanjiro is rejected by Giyu but patiently continues to<br>try to talk to him. Giyu, who gives in to Tanjiro's persistence, begins to share<br>the reason why he won't participate in the training.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Portuguese Dub) - Episode 22 - Parents</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be84508fa9367d60e2fd4970267388141718536033_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEXD8/parents">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The rescue party reaches the heart of the Teleporter Labyrinth and confronts its guardian. But<br>when the monster shrugs off Rudeus's magic, they realize they may have bitten off more<br>than they can chew.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (French Dub) - Episode 22 - Parents</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be84508fa9367d60e2fd4970267388141718536033_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ593G/parents">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The rescue party reaches the heart of the Teleporter Labyrinth and confronts its guardian. But<br>when the monster shrugs off Rudeus's magic, they realize they may have bitten off more<br>than they can chew.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Spanish Dub) - Episode 22 - Parents</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be84508fa9367d60e2fd4970267388141718536033_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47D38/parents">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The rescue party reaches the heart of the Teleporter Labyrinth and confronts its guardian. But<br>when the monster shrugs off Rudeus's magic, they realize they may have bitten off more<br>than they can chew.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Italian Dub) - Episode 22 - Parents</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be84508fa9367d60e2fd4970267388141718536033_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2W3MM/parents">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The rescue party reaches the heart of the Teleporter Labyrinth and confronts its guardian. But<br>when the monster shrugs off Rudeus's magic, they realize they may have bitten off more<br>than they can chew.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Castilian Dub) - Episode 22 - Parents</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be84508fa9367d60e2fd4970267388141718536033_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMEZW/parents">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The rescue party reaches the heart of the Teleporter Labyrinth and confronts its guardian. But<br>when the monster shrugs off Rudeus's magic, they realize they may have bitten off more<br>than they can chew.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Portuguese Dub) - Episode 2</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/64bdffb5eca21030e3c97d2a63628cda1720371396_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/7/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9737">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -216,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Portuguese Dub) - Episode 35</h3></th>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (German Dub) - Episode 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9d950e2ad3df69f5ef60885a716394571720340273_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b32fa998a22c735b6b7d67ae0bd03e721720371452_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,7 +642,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J350">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEXN8">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -250,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST - Episode 1 - The "First" Guild and the "Strongest" Guild</h3></th>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Spanish Dub) - Episode 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7731de10ae9f73720d1b5001e1b2f1fb1720340795_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c34af556daaa5e8e658b7f414a0454171720371146_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,421 +676,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1231/the-first-guild-and-the-strongest-guild">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2PVX">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsu and friends visit the very first Wizard Guild to take a quest that no<br>one has ever completed: the “100 Years Quest". Meanwhile, new recruits join Fairy Tail, but<br>one of them is a little odder than usual…</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (English Dub) - Episode 35 - It's Done!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9d950e2ad3df69f5ef60885a716394571720340221_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/7/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5E08/its-done">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Schneider evens the score with only seven minutes to go. Now it’s an all-out war.<br>Tsubasa tries to break through by dribbling, but is brutally tackled by Kaltz midair, sending<br>Tsubasa crashing to the ground. The tournament ends now!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">One Piece: Egghead Island (1089-Current) - Episode 1111 - The Second Ohara! The Mastermind's Ambition!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/da62c29ead92aac2cd8b16b60f8e5ccb1720316256_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/7/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM8GP/the-second-ohara-the-masterminds-ambition">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Stussy and Sentomaru discuss how big the threat that closes in on Egghead is as<br>Luffy and the others keep fighting the uncontrollable Seraphim. Meanwhile, in an underground lab, someone<br>approaches Vegapunk, who is being held captive.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Wonderful Precure! - Episode 23 - Making Wishes! Waon!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/db8aa0211a48ab67d1d85c910f0d1d8f1720312691_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/7/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J1MP/making-wishes-waon">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">During an afternoon nap, Komugi dreams about a lonely wolf howling. After that, she goes<br>out to the Star Festival and learns that Japanese wolves once lived near Animal Town.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (English Dub) - Episode 11 - His Butler, Taking Off</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/478c80ecb20ea00251d5d658f6a1aaea1719043895_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK97XX/his-butler-taking-off">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">His duty as the Queen's guard dog complete, Ciel and his servants take a trip<br>to London to inspect new Funtom Company goods. Later, Sebastian is reunited with someone unexpected.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (Hindi Dub) - Episode 10 - His Butler, Assenting</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/faaa2984be9c8b5355c7c97c45670b101718445191_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7M3K/his-butler-assenting">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The truth behind the disappearances of Derrick Arden and the others comes to light. What's<br>more, Ciel discovers that a former Phantomhive ally has been involved all along.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (Telugu Dub) - Episode 10 - His Butler, Assenting</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/faaa2984be9c8b5355c7c97c45670b101718445191_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47E2X/his-butler-assenting">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The truth behind the disappearances of Derrick Arden and the others comes to light. What's<br>more, Ciel discovers that a former Phantomhive ally has been involved all along.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (Tamil Dub) - Episode 10 - His Butler, Assenting</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/faaa2984be9c8b5355c7c97c45670b101718445191_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEXMX/his-butler-assenting">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The truth behind the disappearances of Derrick Arden and the others comes to light. What's<br>more, Ciel discovers that a former Phantomhive ally has been involved all along.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (Spanish Dub) - Episode 10 - His Butler, Assenting</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/faaa2984be9c8b5355c7c97c45670b101718445191_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ590N/his-butler-assenting">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The truth behind the disappearances of Derrick Arden and the others comes to light. What's<br>more, Ciel discovers that a former Phantomhive ally has been involved all along.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (German Dub) - Episode 10 - His Butler, Assenting</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/faaa2984be9c8b5355c7c97c45670b101718445191_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47DJM/his-butler-assenting">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The truth behind the disappearances of Derrick Arden and the others comes to light. What's<br>more, Ciel discovers that a former Phantomhive ally has been involved all along.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Butler -Public School Arc- (French Dub) - Episode 10 - His Butler, Assenting</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/faaa2984be9c8b5355c7c97c45670b101718445191_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN12E/his-butler-assenting">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The truth behind the disappearances of Derrick Arden and the others comes to light. What's<br>more, Ciel discovers that a former Phantomhive ally has been involved all along.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Hero Academia Season 7 (English Dub) - Episode 146 - Two Flashfires</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5cc00774053582f64dead342d366b5521719043772_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2PW0/two-flashfires">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Even though Shigaraki's Quirks are sealed, he attacks Bakugo and the others with a strange<br>new appearance and power. Meanwhile, Deku is pulled to where Toga was warped and Todoroki<br>and Dabi face off!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Hero Academia Season 7 (Portuguese Dub) - Episode 145 - Inflation</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2923db55047b97b0316d36af017285711718434964_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN1EE/inflation">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Even though Shigaraki's Quirks are sealed, he attacks Bakugo and the others with a strange<br>new appearance and power. Meanwhile, Deku is pulled to where Toga was warped and Todoroki<br>and Dabi face off!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
