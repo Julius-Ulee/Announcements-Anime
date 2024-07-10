@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 9, 2024, 7:24:22 PM</em></p>
+<p align="center"><em>Updated on: Jul 10, 2024, 7:57:44 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Log Horizon 2 (Hindi Dub) - Episode 6 - A Lost Child at Dawn</h3></th>
+<th><h3 align="center">Unnamed Memory (German Dub) - Episode 11 - Castle of Sand</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a8036ba9fa033a3eb21b38906d44661e1415307608_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fa1886326b0ff75e1eea97111cd7eb6c1718702540_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMKP2/a-lost-child-at-dawn">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0J8X/castle-of-sand">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akatsuki is defeated by the murderer on Christmas Eve.  She awakens to find herself<br>in bustling Shibuya station in the real world.  She wanders through the city as<br>if escaping from something, and then appears on a quiet beach.  Shiroe is there.</p>
+<p align="center">Oscar and Tinasha venture out to Yarda to find its missing princess, and to put<br>an end to the escalating civil conflict orchestrated by the Witch Who Cannot Be Summoned.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (German Dub) - Episode 12 - Price of Betrayal and Price of Gold</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1085 - The Last Curtain! Luffy and Momonosuke's Vow</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/01a784cf7ea16056a13cd1405f6fc7041718639779_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7729c3a285f8c79f38936841504c630b1700962864_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MEQ8/price-of-betrayal-and-price-of-gold">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MEE9/the-last-curtain-luffy-and-momonosukes-vow">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Betrayed and left for dead, Lawrence waits for Holo's return. Holo is no weak wolf<br>to run off with her tail between her legs, and Lawrence the merchant won't lose<br>his profit either. But will a wolf be willing to save a shepherd?</p>
+<p align="center">Angered by Luffy's attempt to leave without saying goodbye, Momonosuke rushes with Kin’emon and Yamato<br>to the port from where the Straw Hats are about to leave, thinking back on<br>his days with Luffy.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (French Dub) - Episode 12 - Price of Betrayal and Price of Gold</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1084 - Time to Depart - The Land of Wano and the Straw Hats</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/01a784cf7ea16056a13cd1405f6fc7041718639779_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1038e5651994c79a249161f149ffc2401700357429_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN108/price-of-betrayal-and-price-of-gold">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX122K/time-to-depart-the-land-of-wano-and-the-straw-hats">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Betrayed and left for dead, Lawrence waits for Holo's return. Holo is no weak wolf<br>to run off with her tail between her legs, and Lawrence the merchant won't lose<br>his profit either. But will a wolf be willing to save a shepherd?</p>
+<p align="center">An untold story from before the Straw Hats’ departure. Luffy visits the ruins of Oden<br>Castle where Oden’s grave once was and Zoro visits Yasuie’s grave where he meets Hiyori.<br>Later, Luffy and Tama eat red-bean soup together for the last time and share their<br>feelings with each other.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (English Dub) - Episode 12 - Price of Betrayal and Price of Gold</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1083 - The World That Moves On! A New Organization, Cross Guild</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/01a784cf7ea16056a13cd1405f6fc7041718639779_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/828472bfbb7fa64e00ad09a743beea771699753186_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9712/price-of-betrayal-and-price-of-gold">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2W335/the-world-that-moves-on-a-new-organization-cross-guild">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Betrayed and left for dead, Lawrence waits for Holo's return. Holo is no weak wolf<br>to run off with her tail between her legs, and Lawrence the merchant won't lose<br>his profit either. But will a wolf be willing to save a shepherd?</p>
+<p align="center">Momonosuke and Hiyori are happy to see their grandfather who was supposed to be dead<br>and the Straw Hats are surprised when Robin tells them about Pluton the Ancient Weapon.<br>Meanwhile, Momonosuke is kept busy in his role as the new Shogun.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (German Dub) - Episode 11 - Jade's Last Words</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1082 - The Coming of the New Era! The Red-Haired's Imperial Rage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b27a617b7c8c653f51c12f917b7105af1718026645_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/46280629f9e56594db267f553c5ae5771699148983_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ59ZV/jades-last-words">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ599X/the-coming-of-the-new-era-the-red-haireds-imperial-rage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Guisarme's teleportation-powered offensive barrage leaves Lloyd perplexed. Having come to a realization, he attempts a<br>physical attack with a magic-absorbing sword named Spelltaker, aiming to decipher the nature of Jade's<br>stolen power.</p>
+<p align="center">Navy Admiral Ryokugyu keeps up a savage assault against the Akazaya samurai who are still<br>recovering from the last battle. Momonosuke tries to defend the Land of Wano with all<br>his might, but he gets driven into a corner.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (French Dub) - Episode 11 - Jade's Last Words</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1081 - The World Will Burn! The Onslaught of a Navy Admiral!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b27a617b7c8c653f51c12f917b7105af1718026645_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e28b705687f6a3daee74dca807eee6251698542815_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47D27/jades-last-words">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEXXK/the-world-will-burn-the-onslaught-of-a-navy-admiral">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Guisarme's teleportation-powered offensive barrage leaves Lloyd perplexed. Having come to a realization, he attempts a<br>physical attack with a magic-absorbing sword named Spelltaker, aiming to decipher the nature of Jade's<br>stolen power.</p>
+<p align="center">As the Navy Admiral Ryokugyu comes to strike the Flower Capital, the Akazaya samurai notice<br>and try to stop him, but his Woods-Woods Fruit power overwhelms them. Meanwhile, another formidable,<br>yet friendly, guest approaches the Land of Wano</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (Hindi Dub) - Episode 11 - Jade's Last Words</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1080 - A Celebration Banquet! The New Emperors of the Sea!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b27a617b7c8c653f51c12f917b7105af1718026645_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/50d8537549b21200720fcc1c4c953a6e1697938084_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EJ5N/jades-last-words">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47EEK/a-celebration-banquet-the-new-emperors-of-the-sea">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Guisarme's teleportation-powered offensive barrage leaves Lloyd perplexed. Having come to a realization, he attempts a<br>physical attack with a magic-absorbing sword named Spelltaker, aiming to decipher the nature of Jade's<br>stolen power.</p>
+<p align="center">The news of the defeat of the Emperors of the Sea spreads across the world.<br>Luffy enjoys the banquet but just as he is about to make a toast, an<br>enraged Kid comes in to strike him. The reason behind his action surprises Luffy</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Portuguese Dub) - Episode 24 - Sorcerer vs. Draconid</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1079 - The Morning Comes! Luffy and the Others Rest!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d9282afba4167a87ea11f1eece5ffebe1718633528_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ea275c8faff6f5feb910c484f847b08f1697332988_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK97E2/sorcerer-vs-draconid">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J991/the-morning-comes-luffy-and-the-others-rest">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Outside Limia's royal castle, a fierce battle between Shiki and Mitsurugi unfolds. Meanwhile, inside the<br>castle, the battle between Makoto and Sofia continues. Sofia, at a loss, unleashes her secret<br>weapon.</p>
+<p align="center">The Land of Wano is in a celebratory mood now that the years of tyranny<br>are over. However, Yamato is holding back his hunger alone until Hiyori arrives with the<br>news he was waiting for. Meanwhile, some unknown figure approaches the Land of Wano.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Spanish Dub) - Episode 24 - Sorcerer vs. Draconid</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Luffy-senpai Support Project! Barto's Secret Room 4!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d9282afba4167a87ea11f1eece5ffebe1718633528_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9c32f6d456f8a79e3afbf778b0cde3941696729922_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07KJM/sorcerer-vs-draconid">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMK5Z/luffy-senpai-support-project-bartos-secret-room-4">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Outside Limia's royal castle, a fierce battle between Shiki and Mitsurugi unfolds. Meanwhile, inside the<br>castle, the battle between Makoto and Sofia continues. Sofia, at a loss, unleashes her secret<br>weapon.</p>
+<p align="center">Bartolomeo and Tama look back on Luffy’s attainment of Gear Five and the battle against<br>the formidable Kaido. They talk about the surprising features of Luffy’s new power and how<br>the fierce battle reached its climax.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Portuguese Dub) - Episode 11 - A Steamy Hot Spring Trip, Part 1</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1078 - He Returns! The Shogun of the Land of Wano, Kozuki Momonosuke</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c3101973e4056a0b6030e754d7c8b1b51718620662_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b3c7ba0c382a687e52cc31517cf642371696123904_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMKD2/a-steamy-hot-spring-trip-part-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5JJZ/he-returns-the-shogun-of-the-land-of-wano-kozuki-momonosuke">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fenrys wins a hot springs resort trip in the town lottery, so Flio and company<br>head to the hot springs. They all enjoy the resort in their own way without<br>realizing that the Dark Army's top officials are staying there as well...</p>
+<p align="center">The people of the Flower Capital get flustered when Kin’emon and the other Akazaya samurai<br>who were supposed to be dead appear from the smoke. However, the last one who<br>walks out of the smoke, and what he says, confuses the people even more.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (German Dub) - Episode 11 - A Steamy Hot Spring Trip, Part 1</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1077 - The Curtain Falls! The Winner, Straw Hat Luffy!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c3101973e4056a0b6030e754d7c8b1b51718620662_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/06c57c634d8d4b29da994544d3d8c9a41695518711_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5J79/a-steamy-hot-spring-trip-part-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMKKZ/the-curtain-falls-the-winner-straw-hat-luffy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fenrys wins a hot springs resort trip in the town lottery, so Flio and company<br>head to the hot springs. They all enjoy the resort in their own way without<br>realizing that the Dark Army's top officials are staying there as well...</p>
+<p align="center">The samurai and the Straw Hats shout for joy as they hear that Luffy defeated<br>Kaido. Meanwhile, Momonosuke informs Zunesha of a major decision that he made. However, when Yamato<br>calls on the Animal Kingdom Pirates to stop fighting, the earth trembles.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Tamil Dub) - Episode 11 - A Steamy Hot Spring Trip, Part 1</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1076 - The World That Luffy Wants!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c3101973e4056a0b6030e754d7c8b1b51718620662_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e027ebd1192e13d089fae8a48ba3e1c21694914752_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0PWW/a-steamy-hot-spring-trip-part-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGKKQ/the-world-that-luffy-wants">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fenrys wins a hot springs resort trip in the town lottery, so Flio and company<br>head to the hot springs. They all enjoy the resort in their own way without<br>realizing that the Dark Army's top officials are staying there as well...</p>
+<p align="center">Kaido remembers how he was treated unfairly in the past and how he believes the<br>world should be. While his friends struggle to survive on Onigashima, Luffy is asked by<br>Kaido to picture his ideal world as he throws a destructive punch.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (French Dub) - Episode 11 - A Steamy Hot Spring Trip, Part 1</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1075 - 20 Years' Worth of Prayers! Take Back the Land of Wano</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c3101973e4056a0b6030e754d7c8b1b51718620662_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/55f2bb5bffd8655f7a67acd6835860431694311115_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82XG5/a-steamy-hot-spring-trip-part-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07KWG/20-years-worth-of-prayers-take-back-the-land-of-wano">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fenrys wins a hot springs resort trip in the town lottery, so Flio and company<br>head to the hot springs. They all enjoy the resort in their own way without<br>realizing that the Dark Army's top officials are staying there as well...</p>
+<p align="center">When Oden died 20 years ago, Orochi took over the Land of Wano. People were<br>separated from their loved ones, forced into labor, and starved. Now they pray that Kaido<br>will vanish as Luffy’s battle against him reaches a climax.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Telugu Dub) - Episode 11 - A Steamy Hot Spring Trip, Part 1</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Episode 1074 - I Trust Momo - Luffy’s Final Powerful Technique!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c3101973e4056a0b6030e754d7c8b1b51718620662_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9425dd3316e20ef0161a351d5834f0cc1693704742_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J90Q/a-steamy-hot-spring-trip-part-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK974Z/i-trust-momo-luffys-final-powerful-technique">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fenrys wins a hot springs resort trip in the town lottery, so Flio and company<br>head to the hot springs. They all enjoy the resort in their own way without<br>realizing that the Dark Army's top officials are staying there as well...</p>
+<p align="center">Momonosuke struggles to create Flame Clouds to sustain Onigashima which is in free fall. In<br>the Flower Capital, the Fire Festival is ending with people flying their Sky Boats in<br>the air. To fulfill the promise to free the Land of Wano, Luffy inflates his<br>fist to strike Kaido.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF - Episode 15 - Bird Feather and Mysterious Ore</h3></th>
+<th><h3 align="center">One Piece: WANO KUNI (892-Current) (English Dub) - Luffy-senpai Support Project! Barto's Secret Room 3!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b1a1e49b949b3650d51e751cab522d811720425839_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bb366399f9d155ec17748e283e9deda11693099947_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN24K5/bird-feather-and-mysterious-ore">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGKZQ/luffy-senpai-support-project-bartos-secret-room-3">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With no real information on how to get to Yoitsu, Lawrence uses all his resources<br>to find more information. Will pagan stories of the North yield any clues?</p>
+<p align="center">Bartolomeo and Tama look back on Luffy’s battle against Kaido, one of the Four Emperors<br>of the Sea. They explain how Luffy got knocked out, got back on his feet,<br>and became stronger to take down Kaido and free the Land of Wano.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible - Episode 2 - Number 4242's E-rank Promotion Exam </h3></th>
+<th><h3 align="center">Tasuketsu -Fate of the Majority- - Episode 2 - Good Intentions</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1ab017e83768fc2001e14131e075d3151720425794_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1d9bb3981ac6458d29f9abe2b28b463d1720543676_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2W533/number-4242s-e-rank-promotion-exam-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ74NJ/good-intentions">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Rick awaits his initial exam results, Raster, an examiner for the upcoming section, appears.<br>Rick stops him from hitting on Reanette and earns the examiner's hatred. Raster isn't one<br>to be thwarted, and he isn't called the F-rank Crusher for nothing.</p>
+<p align="center">Saneatsu and all the males are dead?! The survivors move forward, looking for post boxes,<br>Rights, and hope.  Meanwhile, those who have Rights begin to make their moves... But<br>what even are these "Rights" and "Prime Rights"?</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY - Episode 14 - Wind Coming from the West</h3></th>
+<th><h3 align="center">Log Horizon (German Dub) - Episode 22 - Swallow and Young Starling</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/73954a994e56d8979bcfaa64ac5328d01720425716_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad7309273e6c713399f2196a6da1dfb51393367393_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMJG1/wind-coming-from-the-west">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2P7E/swallow-and-young-starling">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A sudden thunderstorm and a forgotten umbrella trap Momijiyama at school, where she joins the<br>hunt for one of the Seven Wonders of Tanpopo First Middle School. A young woman<br>with a Kansai accent proves to be more capable than expected.</p>
+<p align="center">Fall has come to Akihabara.  After defeating the monsters, Shiroe is fighting a losing<br>battle against paperwork, but the town is filled with cheer as the first event the<br>Adventurers have ever had, the "Scales Festival", is approaching.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">MAYONAKA PUNCH - Episode 1 - The Canceled Girl and the Sleepy Vampire</h3></th>
+<th><h3 align="center">Yashahime: Princess Half-Demon (German Dub) - Episode 41 - Akuru's Pinwheel</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1d8e5c135d337788fcc8dbbd1c0656b21720425695_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/72852883ac713c79d081e7d5b409acf11643419089_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/8/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47DX7/the-canceled-girl-and-the-sleepy-vampire">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82X17/akurus-pinwheel">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After an on-stream altercation, Masaki is unceremoniously booted from her group NewTube channel. Now her<br>fate lies with a vampire who has just awoken from a deep slumber.</p>
+<p align="center">In the present day, Osamu Kirin sees the Grim Comet approaching. Meanwhile, in the feudal<br>era, Towa’s life is in danger after she uses her Zanseiken. The Spirit of the<br>Tree of Ages orders the half-demon princesses to go destroy the Grim Comet.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Vampire Dormitory (Hindi Dub) - Episode 11 - Love 11. The pretty boy drowns.</h3></th>
+<th><h3 align="center">No Longer Allowed in Another World - Episode 1 - I Must Commit Double-Suicide!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d7600e0339d1fb416c2ab7e20929c7da1718536561_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/37a16e58c47a78bba94f50a7cd10482c1720537160_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/7/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0JDG/love-11-the-pretty-boy-drowns">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J9Q1/i-must-commit-double-suicide">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A mysterious figure saves the heartbroken Mito and brings her to Ren's house, where she<br>asks Ren for a favor. Meanwhile, the Founder urges Ruka to marry Miko. Conflicted, Ruka<br>goes along with the plan, until Miko gets handed the sang sucre...</p>
+<p align="center">Sensei, a depressed writer, fails to commit double-suicide when he is instead hit by a<br>random truck. He wakes up in another world, where he refuses to obey the trope<br>and become a hero. Will he find another way to die or a reason to<br>live?</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Duke of Death and His Maid Season 3 (Portuguese Dub) - Episode 35 - Friends, a Broken Curse, And Then...</h3></th>
+<th><h3 align="center">The Magical Girl and the Evil Lieutenant Used to Be Archenemies - Episode 1 - Won't Kill For Love</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f388d250cebd68a6520ae6b435ec8feb1718532687_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d4d27a5a2f60825b63222c314f675ed31720534801_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/7/2024</td>
+<td align="center">7/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J9DQ/friends-a-broken-curse-and-then">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82X55/wont-kill-for-love">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The battle with Sade ends as Alice decides what decision she'll make about her future.</p>
+<p align="center">The brilliant officer, strategist, and right-hand of the dark lord, Mira, is part of a<br>villainous organization that aims for nothing but chaos and destruction. However, while a perfect elite<br>villain career lay ahead of him, everything changes when one day he meets a girl<br>who wants to stop him...</p>
 </td>
 </tr>
 </table>
