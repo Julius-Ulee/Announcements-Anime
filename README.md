@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 12, 2024, 7:23:59 PM</em></p>
+<p align="center"><em>Updated on: Jul 13, 2024, 7:57:28 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom (Tamil Dub) - Episode 22 - Nagisa Time</h3></th>
+<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez Season 2 - Episode 2 - Infinity vs Zero</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/67d1bae7dbe92b41adbc57baf7f393a91472895221_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/aee0511980a3f43558c703cd3a9928d21720823765_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0QPD/nagisa-time">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07W5Z/infinity-vs-zero">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's a showdown on the roof of the Fukuma Denjo Hotel with the lives of<br>half the E Class in the balance. Can Nagisa find a way to come out<br>on top?</p>
+<p align="center">Sybilt declares the start of the Destined Showdown. Standing in their way are the six<br>Destined Ones who have been mentally corrupted. To free those who share a deep connection<br>with Akina and friends, they must be defeated in a fight! The first battle is<br>Suo vs. Kuon. The clash between Zero and Infinity begins.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom (Telugu Dub) - Episode 22 - Nagisa Time</h3></th>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 22 - LiSA Reveals Her Music Journey, New Concert Film and Comic-Con Plans</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/67d1bae7dbe92b41adbc57baf7f393a91472895221_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/559d06dcf63a2e6bc35c1320ec6259d21720823200_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU821X8/nagisa-time">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47Z95/lisa-reveals-her-music-journey-new-concert-film-and-comic-con-plans">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's a showdown on the roof of the Fukuma Denjo Hotel with the lives of<br>half the E Class in the balance. Can Nagisa find a way to come out<br>on top?</p>
+<p align="center">J-Pop global sensation LiSA is here! Before her latest film premiere and headlining her first<br>concert in America in 10 years, LiSA is joining The Anime Effect to share about<br>her music journey. LiSA reveals behind-the-scenes details of her concert film LiVE is SMiLE ALWAYS<br>-LANDER-, which premieres August 19, gets help from Nick and LeAlec to design her July<br>26 San Diego Comic-Con concert set list, and of course gushes over why she loves<br>the Minions so much.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEAD DEAD DEMONS DEDEDEDE DESTRUCTION - Episode 7 - Episode 7</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Portuguese Dub) - Episode 60 - Festival Preparations</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d5145cafc964a066f2b98dd90f7774101720740758_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/01e5093fa300ed29006353cd4dbd4cf01718967501_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5XZV/episode-7">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MKKK/festival-preparations">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ai goes on a bus tour through Tokyo with an admirer. Meanwhile, the company SES<br>continues to work on innovative weapons systems that are intended to ensure that Japan will<br>no longer be dependent on other countries.</p>
+<p align="center">Everyone in Tempest is busy preparing for the festival to celebrate the country's opening. Rimuru<br>visits Mjöllmile to share ideas on forms of entertainment that will keep people coming back<br>for more.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEAD DEAD DEMONS DEDEDEDE DESTRUCTION (English Dub) - Episode 7 - Episode 7</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (German Dub) - Episode 60 - Festival Preparations</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e39f93f13b033f43e4a8277f9f1477331720739742_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/01e5093fa300ed29006353cd4dbd4cf01718967501_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5GQ4/episode-7">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNGG9/festival-preparations">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ai goes on a bus tour through Tokyo with an admirer. Meanwhile, the company SES<br>continues to work on innovative weapons systems that are intended to ensure that Japan will<br>no longer be dependent on other countries.</p>
+<p align="center">Everyone in Tempest is busy preparing for the festival to celebrate the country's opening. Rimuru<br>visits Mjöllmile to share ideas on forms of entertainment that will keep people coming back<br>for more.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 131 - The Miraculous Conclusion! Farewell, Goku! Until We Meet Again!!</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Spanish Dub) - Episode 60 - Festival Preparations</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0bcaa34d54ffaaf92debcc5f84ad7d9a1521938730_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/01e5093fa300ed29006353cd4dbd4cf01718967501_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN27QW/the-miraculous-conclusion-farewell-goku-until-we-meet-again">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM5X9/festival-preparations">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goku and Jiren are at the end of their ropes as the clock winds down!<br>Will the 7th Universe finally emerge victorious?!</p>
+<p align="center">Everyone in Tempest is busy preparing for the festival to celebrate the country's opening. Rimuru<br>visits Mjöllmile to share ideas on forms of entertainment that will keep people coming back<br>for more.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 130 - The Greatest Showdown of all Time! The Ultimate Survival Battle!!</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Italian Dub) - Episode 60 - Festival Preparations</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/23bae74ef5e1a4b38ab76a54a86593bc1521333951_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/01e5093fa300ed29006353cd4dbd4cf01718967501_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82142/the-greatest-showdown-of-all-time-the-ultimate-survival-battle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5K20/festival-preparations">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goku fights for everyone dear to him. Jiren fights only for himself. Overwhelmed and on<br>the verge of defeat, Jiren’s resolve is reignited. He’ll stop at nothing to prevent his<br>past from repeating!</p>
+<p align="center">Everyone in Tempest is busy preparing for the festival to celebrate the country's opening. Rimuru<br>visits Mjöllmile to share ideas on forms of entertainment that will keep people coming back<br>for more.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 129 - Limits Super Surpassed! Ultra Instinct Mastered!!</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Castilian Dub) - Episode 60 - Festival Preparations</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/01a7193a4c9b3dd78d08b60054252fc91520124335_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/01e5093fa300ed29006353cd4dbd4cf01718967501_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5KXV/limits-super-surpassed-ultra-instinct-mastered">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0Q5D/festival-preparations">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Once again, Goku ascends to new heights. As Ultra Instinct takes over, now it’s a<br>matter of whether surpassing his own limits is enough to surpass Jiren!</p>
+<p align="center">Everyone in Tempest is busy preparing for the festival to celebrate the country's opening. Rimuru<br>visits Mjöllmile to share ideas on forms of entertainment that will keep people coming back<br>for more.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 128 - Noble Pride To The End! Vegeta Falls!!</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (French Dub) - Episode 58 - God and Demon Lord</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/782e52bd5958cf0436a5639f377907801518914939_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a10408a9e5446745f32552e582ec1c5f1717756051_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM518/noble-pride-to-the-end-vegeta-falls">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9PPD/god-and-demon-lord">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Following Android 17’s sacrifice, the remaining Saiyans need time to recover. As Goku rests, Vegeta<br>takes it upon himself to challenge Jiren one on one!</p>
+<p align="center">Just after the end of Hinata and Rimuru's duel, Hinata's sword moves on its own<br>and targets Rimuru. Hinata jumps in its way to protect him and is gravely injured.<br>Then the masterminds behind the whole conflict show up...</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 127 - The Approaching Wall! The Final Barrier Of Hope!!</h3></th>
+<th><h3 align="center">The Irregular at Magic High School Season 3 (English Dub) - Episode 9 - Ancient City Insurrection Part I</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6d77f9afe61f0b0b2fe863b864b5d8831518309916_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/577ea909742f68db07edcdbf209e09841717168492_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07EMK/the-approaching-wall-the-final-barrier-of-hope">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E110/ancient-city-insurrection-part-i">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jiren is all that remains between the 7th Universe and victory. But with Frieza out<br>for the count and Vegeta low on stamina, how will they compare to one who<br>values strength above all else?</p>
+<p align="center">The Nine Schools Competition has ended, and it is now the second semester. Ayako and<br>Fumiya visit Tatsuya to deliver a letter they were entrusted directly from Maya. The letter<br>was a request asking for Tatsuya's cooperation in capturing Gongjin Zhou. The Kurobas were also<br>pursuing him but lost sight of him in the Kyoto area. It seems Gongjin Zhou<br>has been receiving help from the Traditionalists, a faction of Ancient Magicians, in his escape.<br>The Traditionalists and the Kudou Family have been in conflict with each other for many<br>years. So, Tatsuya decides to reach out to Fujibayashi, Retsu Kudou's granddaughter, to ask for<br>Retsu's cooperation in capturing Gongjin Zhou.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 126 - Surpass Even A God! Vegeta's Desperate Blow!!</h3></th>
+<th><h3 align="center">The Misfit of Demon King Academy Ⅱ (French Dub) - Episode 21 - Demon King Hymn No. 6 "Neighbors"</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/577c9a9776b9cfdf3cdbac8758a2d1b01517705416_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f6da069163af96fe8cd533eac8919b3b1718374871_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNG50/surpass-even-a-god-vegetas-desperate-blow">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WZZ8/demon-king-hymn-no-6-neighbors">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Both sides are becoming more and more desperate. Top has given up everything to survive!<br>Vegeta gives up nothing! In the end, who will be looking down on whom?!</p>
+<p align="center">The sacred Sojourner’s Psalm to be performed at the Divine Dragon Festival is in danger<br>of being cancelled due to Ahide’s schemes! Ellen and the Anos Fan Union are asked<br>to take the stage instead as the Dilhade Demon King Choir. The Draconids are drawn<br>in by their song and begin to sing along. Meanwhile, while trying to pursue and<br>capture Ahide, Anos encounters Dietrich, the King of Agatha, who has received a prophecy from<br>the Goddess of the Future Naphta.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 125 - With Imposing Presence! God of Destruction Toppo Descends!!</h3></th>
+<th><h3 align="center">The Misfit of Demon King Academy Ⅱ(English Dub) - Episode 19 - The Great Demon King Drills</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1982ff5bc5be4b63fb644c786c87a2681517100225_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cd18b1f789d483ce2ff5a22d80be0e501717171249_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1KN4/with-imposing-presence-god-of-destruction-toppo-descends">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5NNM/the-great-demon-king-drills">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Because of the 7th Universe’s numbers advantage, Android 17 hopes to run out the clock.<br>When Frieza comes over to provide support, Top is forced to rethink his motivations and<br>will unleash a familiar destructive power!</p>
+<p align="center">That day, Anos had a dream about a time that he lived together with a<br>young girl. The young girl is strangely also named Arcana…. Furthermore, the fact that the<br>Draconids called the fusion of Sasha and Misha the Goddess of Absurdity, Genedonov, was also<br>a problem. To investigate the piling mysteries, Anos decides to take a special class in<br>the Underground World. And as a special lecturer, Anos teaches the student of Demon King<br>Academy himself!?</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 124 - The Fiercely Overwhelming Assault! Gohan's Last Stand!!</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (Tamil Dub) - Episode 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/46937331b12f66c47f4dfcb49533de1c1516495579_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/00c50cb75740c0a5579444a20193a8f91720796119_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMQ8Z/the-fiercely-overwhelming-assault-gohans-last-stand">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E0J1">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Frieza and Dyspo’s duel is accelerating out of control! As Frieza gets pushed back, Gohan<br>enters the mix in hopes of getting a quick elimination.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 123 - Body and Soul, Full Power Release! Goku and Vegeta!!</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (Telugu Dub) - Episode 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cfa573811dca02d031262948e418f8f71515890754_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/00c50cb75740c0a5579444a20193a8f91720796146_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47NKK/body-and-soul-full-power-release-goku-and-vegeta">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN217V">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jiren shrugs off even the strongest individual attacks! However, can the combined strength of Goku<br>and Vegeta stand up against his immense power?</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 122 - With His Pride on the Line! Vegeta's Challenge to Be the Strongest!!</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (Arabic Dub) - Episode 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0f516c561c86307c42141a63c338fb761515286550_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/45095f4e541980e11d9a56c2c9c58a951720801296_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE08K9/with-his-pride-on-the-line-vegetas-challenge-to-be-the-strongest">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5JJZ">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Only two universes remain! The strongest of the 7th Universe are pitted against the strongest<br>of the 11th Universe. As the tournament nears its end, it’s time for the combatants<br>to push themselves above and beyond!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 121 - All-Out War! The Ultimate Quadruple Merge vs Universe 7's Full-Scale Attack!!</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (Hindi Dub) - Episode 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6493f738f3e325688852f4b34dcd4b0e1514076495_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/00c50cb75740c0a5579444a20193a8f91720795739_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN27VW/all-out-war-the-ultimate-quadruple-merge-vs-universe-7s-full-scale-attack">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG51JG">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The 3rd Universe activates its secret final weapon! The 7th Universe will need to combine<br>all their strength if they hope to defeat this quadruple-fused foe!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 120 - The Perfect Survival Tactic! Universe 3's Menacing Assassin!!</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (French Dub) - Episode 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1fbd0685638b12093056c987573a076f1513472254_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dd24d80142417f70c72b3d82e087c9791720795426_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU821Z2/the-perfect-survival-tactic-universe-3s-menacing-assassin">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7245">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">There are three universes left! The 3rd Universe’s strategy has worked well thus far, but<br>how will it fare against Gohan, Goku, and Vegeta?!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 119 - Unavoidable?! The Ferocity of a Stealth Attack!</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (German Dub) - Episode 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e28c682651cf515f2e4f5cf7912983fb1512866960_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/45095f4e541980e11d9a56c2c9c58a951720795461_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0Q3V/unavoidable-the-ferocity-of-a-stealth-attack">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07W87">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As more and more universes drop out of existence, most of the remaining combatants are<br>either strong or deceptive. The warriors from the 7th Universe are taken by surprise by<br>hidden threats that are finally making themselves known!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 118 - Accelerated Tragedy - Vanishing Universes</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (Spanish Dub) - Episode 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/195e23ef2443ea1adb49f89f4332dd461512261950_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e66beef89be45c4a2f86a2c23855a4191720795388_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM508/accelerated-tragedy-vanishing-universes">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX17WE">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On the verge of annihilation and with only a few warriors left, the 2nd and<br>6th Universes are reinvigorated. Desire to win will push their fighters to new heights!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 117 - Showdown of Love! Androids VS Universe 2!!</h3></th>
+<th><h3 align="center">Quality Assurance in Another World (Portuguese Dub) - Episode 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ed2c70cd1cd2a98287a7937cd302ddee1511657068_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c84c619123658af64543be83331a19841720795247_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGZ54/showdown-of-love-androids-vs-universe-2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ72KE">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With most of Goku’s stamina spent, fighters from the other universes rush to knock him<br>out of the tournament. The 2nd Universe’s warriors of love are out for blood, and<br>it’s up to the androids of the 7th Universe to stop them!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball Super (French Dub) - Episode 116 - The Sign of a Comeback! Ultra Instinct's Huge Explosion!!</h3></th>
+<th><h3 align="center">Quality Assurance in Another World - Episode 2 - Haga Makoto</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c3b95f1d1cc4241dc1ebcb3eec9649201511052731_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c8683324f8919c9d1dfa96281c1c92901720795000_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/11/2024</td>
+<td align="center">7/12/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9P24/the-sign-of-a-comeback-ultra-instincts-huge-explosion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U470EQ/haga-makoto">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goku and Kefla’s battle comes to a head! With Goku’s Ultra Instinct kicking in, Kefla<br>must risk it all if she has any hope of defeating her opponent! Who will<br>come out on top?!</p>
+<p align="center">After what she's been through, Nikola is now determined to join Haga on his quest<br>to debug the world and become a King's Seeker herself! Haga has no idea what<br>to make of this development, so he reluctantly agrees to take her with him.</p>
 </td>
 </tr>
 </table>
