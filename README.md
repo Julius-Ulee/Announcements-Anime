@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 13, 2024, 7:20:37 PM</em></p>
+<p align="center"><em>Updated on: Jul 14, 2024, 8:02:14 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia Season 7 - Episode 148 - Wounded Hero, Burning Bright and True!!</h3></th>
+<th><h3 align="center">Black Butler -Public School Arc- (Spanish Dub) - Episode 11 - His Butler, Taking Off</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e919fb518287b54a2fb5d9c2e025c82f1720853935_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/478c80ecb20ea00251d5d658f6a1aaea1719043895_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2NJ5/wounded-hero-burning-bright-and-true">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1KPD/his-butler-taking-off">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before the threat of All For One, Endeavor falls, and Hawks, Jiro, and Tokoyami are<br>also cornered. Even so, Jiro acts like a hero! Endeavor is also encouraged after looking<br>back at his own life.</p>
+<p align="center">His duty as the Queen's guard dog complete, Ciel and his servants take a trip<br>to London to inspect new Funtom Company goods. Later, Sebastian is reunited with someone unexpected.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shadowverse Flame - Episode 88 - I Only See the Future!</h3></th>
+<th><h3 align="center">Black Butler -Public School Arc- (German Dub) - Episode 11 - His Butler, Taking Off</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/89273bf83373cb34f9c98a0cb0e12ee01720838561_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/478c80ecb20ea00251d5d658f6a1aaea1719043895_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGMPD/i-only-see-the-future">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MK73/his-butler-taking-off">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Arc Ruler believes his victory over Light is assured. Can Light beat the odds once<br>more and turn the tide of the battle?</p>
+<p align="center">His duty as the Queen's guard dog complete, Ciel and his servants take a trip<br>to London to inspect new Funtom Company goods. Later, Sebastian is reunited with someone unexpected.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez Season 2 - Episode 2 - Infinity vs Zero</h3></th>
+<th><h3 align="center">Black Butler -Public School Arc- (Tamil Dub) - Episode 11 - His Butler, Taking Off</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/aee0511980a3f43558c703cd3a9928d21720823765_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/478c80ecb20ea00251d5d658f6a1aaea1719043895_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07W5Z/infinity-vs-zero">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9PVQ/his-butler-taking-off">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sybilt declares the start of the Destined Showdown. Standing in their way are the six<br>Destined Ones who have been mentally corrupted. To free those who share a deep connection<br>with Akina and friends, they must be defeated in a fight! The first battle is<br>Suo vs. Kuon. The clash between Zero and Infinity begins.</p>
+<p align="center">His duty as the Queen's guard dog complete, Ciel and his servants take a trip<br>to London to inspect new Funtom Company goods. Later, Sebastian is reunited with someone unexpected.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 22 - LiSA Reveals Her Music Journey, New Concert Film and Comic-Con Plans</h3></th>
+<th><h3 align="center">Black Butler -Public School Arc- (French Dub) - Episode 11 - His Butler, Taking Off</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/559d06dcf63a2e6bc35c1320ec6259d21720823200_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/478c80ecb20ea00251d5d658f6a1aaea1719043895_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47Z95/lisa-reveals-her-music-journey-new-concert-film-and-comic-con-plans">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07EG5/his-butler-taking-off">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">J-Pop global sensation LiSA is here! Before her latest film premiere and headlining her first<br>concert in America in 10 years, LiSA is joining The Anime Effect to share about<br>her music journey. LiSA reveals behind-the-scenes details of her concert film LiVE is SMiLE ALWAYS<br>-LANDER-, which premieres August 19, gets help from Nick and LeAlec to design her July<br>26 San Diego Comic-Con concert set list, and of course gushes over why she loves<br>the Minions so much.</p>
+<p align="center">His duty as the Queen's guard dog complete, Ciel and his servants take a trip<br>to London to inspect new Funtom Company goods. Later, Sebastian is reunited with someone unexpected.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Portuguese Dub) - Episode 60 - Festival Preparations</h3></th>
+<th><h3 align="center">Black Butler -Public School Arc- (Telugu Dub) - Episode 11 - His Butler, Taking Off</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/01e5093fa300ed29006353cd4dbd4cf01718967501_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/478c80ecb20ea00251d5d658f6a1aaea1719043895_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MKKK/festival-preparations">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGZEJ/his-butler-taking-off">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Everyone in Tempest is busy preparing for the festival to celebrate the country's opening. Rimuru<br>visits Mjöllmile to share ideas on forms of entertainment that will keep people coming back<br>for more.</p>
+<p align="center">His duty as the Queen's guard dog complete, Ciel and his servants take a trip<br>to London to inspect new Funtom Company goods. Later, Sebastian is reunited with someone unexpected.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (German Dub) - Episode 60 - Festival Preparations</h3></th>
+<th><h3 align="center">Black Butler -Public School Arc- (Hindi Dub) - Episode 11 - His Butler, Taking Off</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/01e5093fa300ed29006353cd4dbd4cf01718967501_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/478c80ecb20ea00251d5d658f6a1aaea1719043895_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNGG9/festival-preparations">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM53P/his-butler-taking-off">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Everyone in Tempest is busy preparing for the festival to celebrate the country's opening. Rimuru<br>visits Mjöllmile to share ideas on forms of entertainment that will keep people coming back<br>for more.</p>
+<p align="center">His duty as the Queen's guard dog complete, Ciel and his servants take a trip<br>to London to inspect new Funtom Company goods. Later, Sebastian is reunited with someone unexpected.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Spanish Dub) - Episode 60 - Festival Preparations</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (English Dub) - Episode 147 - Extras</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/01e5093fa300ed29006353cd4dbd4cf01718967501_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0f8413f50d02d4d4f1a51d42cb2f58781719640420_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM5X9/festival-preparations">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0850/extras">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Everyone in Tempest is busy preparing for the festival to celebrate the country's opening. Rimuru<br>visits Mjöllmile to share ideas on forms of entertainment that will keep people coming back<br>for more.</p>
+<p align="center">Shoto Todoroki stopped Dabi with his Great Glacial Aegir, and reports of that bolstered the<br>spirits of the heroes fighting in other locations. And Shoto and Dabi's father, Endeavor, is<br>facing the greatest evil, All For One, with Hawks!</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Italian Dub) - Episode 60 - Festival Preparations</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (Portuguese Dub) - Episode 146 - Two Flashfires</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/01e5093fa300ed29006353cd4dbd4cf01718967501_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5cc00774053582f64dead342d366b5521719043772_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5K20/festival-preparations">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU821E1/two-flashfires">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Everyone in Tempest is busy preparing for the festival to celebrate the country's opening. Rimuru<br>visits Mjöllmile to share ideas on forms of entertainment that will keep people coming back<br>for more.</p>
+<p align="center">Even though Shigaraki's Quirks are sealed, he attacks Bakugo and the others with a strange<br>new appearance and power. Meanwhile, Deku is pulled to where Toga was warped and Todoroki<br>and Dabi face off!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Castilian Dub) - Episode 60 - Festival Preparations</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (German Dub) - Episode 146 - Two Flashfires</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/01e5093fa300ed29006353cd4dbd4cf01718967501_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5cc00774053582f64dead342d366b5521719043772_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0Q5D/festival-preparations">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J84G/two-flashfires">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Everyone in Tempest is busy preparing for the festival to celebrate the country's opening. Rimuru<br>visits Mjöllmile to share ideas on forms of entertainment that will keep people coming back<br>for more.</p>
+<p align="center">Even though Shigaraki's Quirks are sealed, he attacks Bakugo and the others with a strange<br>new appearance and power. Meanwhile, Deku is pulled to where Toga was warped and Todoroki<br>and Dabi face off!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (French Dub) - Episode 58 - God and Demon Lord</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (French Dub) - Episode 146 - Two Flashfires</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a10408a9e5446745f32552e582ec1c5f1717756051_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5cc00774053582f64dead342d366b5521719043772_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9PPD/god-and-demon-lord">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN27DJ/two-flashfires">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Just after the end of Hinata and Rimuru's duel, Hinata's sword moves on its own<br>and targets Rimuru. Hinata jumps in its way to protect him and is gravely injured.<br>Then the masterminds behind the whole conflict show up...</p>
+<p align="center">Even though Shigaraki's Quirks are sealed, he attacks Bakugo and the others with a strange<br>new appearance and power. Meanwhile, Deku is pulled to where Toga was warped and Todoroki<br>and Dabi face off!</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Irregular at Magic High School Season 3 (English Dub) - Episode 9 - Ancient City Insurrection Part I</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (Italian Dub) - Episode 146 - Two Flashfires</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/577ea909742f68db07edcdbf209e09841717168492_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5cc00774053582f64dead342d366b5521719043772_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E110/ancient-city-insurrection-part-i">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47QM1/two-flashfires">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Nine Schools Competition has ended, and it is now the second semester. Ayako and<br>Fumiya visit Tatsuya to deliver a letter they were entrusted directly from Maya. The letter<br>was a request asking for Tatsuya's cooperation in capturing Gongjin Zhou. The Kurobas were also<br>pursuing him but lost sight of him in the Kyoto area. It seems Gongjin Zhou<br>has been receiving help from the Traditionalists, a faction of Ancient Magicians, in his escape.<br>The Traditionalists and the Kudou Family have been in conflict with each other for many<br>years. So, Tatsuya decides to reach out to Fujibayashi, Retsu Kudou's granddaughter, to ask for<br>Retsu's cooperation in capturing Gongjin Zhou.</p>
+<p align="center">Even though Shigaraki's Quirks are sealed, he attacks Bakugo and the others with a strange<br>new appearance and power. Meanwhile, Deku is pulled to where Toga was warped and Todoroki<br>and Dabi face off!</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Misfit of Demon King Academy Ⅱ (French Dub) - Episode 21 - Demon King Hymn No. 6 "Neighbors"</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (Spanish Dub) - Episode 144 - Division</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f6da069163af96fe8cd533eac8919b3b1718374871_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ac8e49f90cd580fa5d1562a640af2a7d1717835394_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WZZ8/demon-king-hymn-no-6-neighbors">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ79XX/division">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The sacred Sojourner’s Psalm to be performed at the Divine Dragon Festival is in danger<br>of being cancelled due to Ahide’s schemes! Ellen and the Anos Fan Union are asked<br>to take the stage instead as the Dilhade Demon King Choir. The Draconids are drawn<br>in by their song and begin to sing along. Meanwhile, while trying to pursue and<br>capture Ahide, Anos encounters Dietrich, the King of Agatha, who has received a prophecy from<br>the Goddess of the Future Naphta.</p>
+<p align="center">It's finally time for the decisive battle between heroes and villains! The plan by All<br>Might, Aizawa, and the others has them start their fights in various places around Japan!</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Misfit of Demon King Academy Ⅱ(English Dub) - Episode 19 - The Great Demon King Drills</h3></th>
+<th><h3 align="center">SHOSHIMIN: How to become Ordinary - Episode 2 - How to Make Delicious Hot Cocoa</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cd18b1f789d483ce2ff5a22d80be0e501717171249_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d668d392f0dfd1afafc0042c0cf107531720884272_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5NNM/the-great-demon-king-drills">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ59KQ/how-to-make-delicious-hot-cocoa">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">That day, Anos had a dream about a time that he lived together with a<br>young girl. The young girl is strangely also named Arcana…. Furthermore, the fact that the<br>Draconids called the fusion of Sasha and Misha the Goddess of Absurdity, Genedonov, was also<br>a problem. To investigate the piling mysteries, Anos decides to take a special class in<br>the Underground World. And as a special lecturer, Anos teaches the student of Demon King<br>Academy himself!?</p>
+<p align="center">Kobato and Osanai are invited to Dojima's house, where he makes them cocoa using his<br>special method. When Osanai leaves, Dojima asks Kobato about her change in personality.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (Tamil Dub) - Episode 2</h3></th>
+<th><h3 align="center">Makeine: Too Many Losing Heroines! - Episode 1 - Professional Childhood Friend Yanami Anna's Style of Losing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/00c50cb75740c0a5579444a20193a8f91720796119_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ab0f8a610587215a5cd9ea6249980f9c1720884504_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E0J1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGZ4G/professional-childhood-friend-yanami-annas-style-of-losing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Nukumizu Kazuhiko, a loner with a love for light novels, accidentally sees popular Yanami Anna<br>being rejected by her childhood friend. This leads to unexpected interactions with other seemingly defeated<br>girls like clufrom the track team and Chika Komari from the literature club.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (Telugu Dub) - Episode 2</h3></th>
+<th><h3 align="center">ATRI -My Dear Moments- - Episode 1 - To the Cradle in the Ocean</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/00c50cb75740c0a5579444a20193a8f91720796146_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/78cc5a5b830a0de626609e28c4a7e75e1720883433_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN217V">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE083W/to-the-cradle-in-the-ocean">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">In the near future, much of the world has been forgotten at the bottom of<br>the ocean due to rising sea levels. Natsuki Ikaruga, who lives in a small town<br>surrounded and stranded by the sea, is invited by a mysterious woman, Catherine, to search<br>for a treasure in his grandmother's house who was a marine geologist. One day, he<br>dives to the bottom of the ocean in a submarine and encounters a mysterious capsule<br>with a girl sleeping inside. The girl was a humanoid so sophisticated that she could<br>be mistaken for a human.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (Arabic Dub) - Episode 2</h3></th>
+<th><h3 align="center">The Elusive Samurai - Episode 2 - The Gentle Uncle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/45095f4e541980e11d9a56c2c9c58a951720801296_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a86c8d8bbf8286fb52985b37052b09961720878584_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5JJZ">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07W7J/the-gentle-uncle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Takauji Ashikaga, once considered the guardian of the Kamakura shogunate, stages a rebellion that led<br>to its quick destruction.  Tokiyuki’s older brother, Kunitoki, successfully evades the eyes of the<br>warriors loyal to Takauji, and he is placed under the care of their uncle, Muneshige<br>Godaiin.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (Hindi Dub) - Episode 2</h3></th>
+<th><h3 align="center">Sakuna: Of Rice and Ruin - Episode 2 - Life on Hinoe Island</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/00c50cb75740c0a5579444a20193a8f91720795739_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8672abb94765c24575ddb9119cf1dcc01720877806_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG51JG">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEGJ4/life-on-hinoe-island">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Amidst the raging sea, Sakuna and her companions finally reach the island and head towards<br>the mountain pass where her mother, Toyohana, once lived.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (French Dub) - Episode 2</h3></th>
+<th><h3 align="center">Why Does Nobody Remember Me in This World? - Episode 1 - The Boy Forgotten by the World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dd24d80142417f70c72b3d82e087c9791720795426_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/384ec924c0a53c39135a74205490614a1720879842_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7245">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E1D0/the-boy-forgotten-by-the-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Kai's duty as a member of the Human Protection Agency is to ensure that the<br>four races from The Great War are kept sealed in their graveyards. Humanity has been<br>at peace for 100 years, until one day a portal opens and the world he's<br>known ceases to exist.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (German Dub) - Episode 2</h3></th>
+<th><h3 align="center">My Wife Has No Emotion - Episode 3 - My Wife Met My Sister</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/45095f4e541980e11d9a56c2c9c58a951720795461_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6a92fcc58fecae7e598e3310378da2131720877783_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07W87">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47XPE/my-wife-met-my-sister">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Akari can't believe her big brother Takuma suddenly has a wife from out of nowhere,<br>and her mission to screen this new addition to the family results in some unexpected<br>twists.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (Spanish Dub) - Episode 2</h3></th>
+<th><h3 align="center">Kaiju No. 8 (Tamil Dub) - Episode 12</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e66beef89be45c4a2f86a2c23855a4191720795388_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c9733890ad106be024d12dfbb98a64ab1720877186_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,11 +672,11 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/12/2024</td>
+<td align="center">7/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX17WE">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J5KD">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
