@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 14, 2024, 7:31:41 PM</em></p>
+<p align="center"><em>Updated on: Jul 15, 2024, 7:59:19 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">CHIBI MARUKO-CHAN - Episode 1439 - Maruko is Scared of the Cursed Poster / Maruko Wants to Get a Perfect Suntan</h3></th>
+<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (German Dub) - Episode 12 - Oath</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5c6628aa1586ee87cf535c8f5cb61d2c1720947220_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d3ce283e1b948937c240d94ac1f5d8c91719138831_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJW0Z/maruko-is-scared-of-the-cursed-poster-maruko-wants-to-get-a-perfect-suntan">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU479DV/oath">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maruko gets a scary book when she visits the library, and then she learns about<br>a cursed poster in town.  Then, Maruko and friends compete to get the perfect<br>suntan.</p>
+<p align="center">The mock battle to decide Mierille's fate and the future of House Louvent is on!</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword - Episode 2 - As Though Undaunted</h3></th>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (French Dub) - Episode 6 - The Strongest of the Demon Slayer Corps</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c388af996e8805bdba22f50d5915f3b61720940871_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/28e1dd5a66e30154d12ab458465ebd831718544107_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5JZX/as-though-undaunted">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN28WJ/the-strongest-of-the-demon-slayer-corps">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sion's defeat of a formidable monster is the talk of the academy, but only he<br>and a few teachers know the truth. Edward in particular can't accept it, so, as<br>a teacher at the academy, he prepares a special lesson for a particular student.</p>
+<p align="center">Tanjiro and Zenitsu head to Himejima's training site deep in the mountains and reunite with<br>Inosuke and Murata. Tanjiro first starts the training by being hit by a waterfall but<br>struggles with the coldness and weight of the water.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Spanish Dub) - Episode 36</h3></th>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Tamil Dub) - Episode 6 - The Strongest of the Demon Slayer Corps</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2c2fe16645f43f6c048d105abfae858a1720939834_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/28e1dd5a66e30154d12ab458465ebd831718544107_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG03W">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE03N0/the-strongest-of-the-demon-slayer-corps">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Tanjiro and Zenitsu head to Himejima's training site deep in the mountains and reunite with<br>Inosuke and Murata. Tanjiro first starts the training by being hit by a waterfall but<br>struggles with the coldness and weight of the water.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Portuguese Dub) - Episode 36</h3></th>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Hindi Dub) - Episode 6 - The Strongest of the Demon Slayer Corps</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2c2fe16645f43f6c048d105abfae858a1720939866_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/28e1dd5a66e30154d12ab458465ebd831718544107_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN25W5">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82D34/the-strongest-of-the-demon-slayer-corps">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Tanjiro and Zenitsu head to Himejima's training site deep in the mountains and reunite with<br>Inosuke and Murata. Tanjiro first starts the training by being hit by a waterfall but<br>struggles with the coldness and weight of the water.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST - Episode 2 - The Sea of Dragons</h3></th>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (German Dub) - Episode 3 - Fully Recovered Tanjiro Joins the Hashira Training!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/95b3bd93ac46b52b80ece149d53c22441720939820_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8e14b24e4098d6b52f0adeb1de742fef1716740901_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0ME0N/the-sea-of-dragons">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JG5G/fully-recovered-tanjiro-joins-the-hashira-training">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The town of Ermina turns out to be a city for fish, where the whole<br>town is submerged in water during high tide. The moment the party mentions Water God<br>Dragon, the fish turn hostile.</p>
+<p align="center">Tanjiro's wounds have healed, so he first visits the former Hashira, Uzui, to join the<br>Hashira Training. Tanjiro's joy for the reunion with Uzui is short-lived, however, as he will<br>now undergo basic training to boost his physical stamina.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (English Dub) - Episode 36 - A Promise to the Heavens</h3></th>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (English Dub) - Episode 3 - Fully Recovered Tanjiro Joins the Hashira Training!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2c2fe16645f43f6c048d105abfae858a1720939772_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8e14b24e4098d6b52f0adeb1de742fef1716740901_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +200,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47WJ9/a-promise-to-the-heavens">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WV12/fully-recovered-tanjiro-joins-the-hashira-training">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Japan is world champion! Elated, Tsubasa and his teammates converge on the pitch. Meanwhile, Schneider<br>has something to say to Tsubasa. Through his interviewers, Tsubasa tells the world about the<br>dream he’s held dear since childhood.</p>
+<p align="center">Tanjiro's wounds have healed, so he first visits the former Hashira, Uzui, to join the<br>Hashira Training. Tanjiro's joy for the reunion with Uzui is short-lived, however, as he will<br>now undergo basic training to boost his physical stamina.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1089-Current) - Episode 1112 - Clash! Shanks vs. Eustass Kid</h3></th>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Portuguese Dub) - Episode 3 - Fully Recovered Tanjiro Joins the Hashira Training!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/27c699aa3dd8dfe6a8c9e8f04bfa1db61720920283_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8e14b24e4098d6b52f0adeb1de742fef1716740901_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +234,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E9Q0/clash-shanks-vs-eustass-kid">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM4JN/fully-recovered-tanjiro-joins-the-hashira-training">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kid gives his crew a pep talk before the battle with Shanks. And Shanks also<br>prepares for the battle but learns how his own subordinates do as they like to<br>protect their beloved boss. Finally, Kid has his Damned Punk ready to shoot.</p>
+<p align="center">Tanjiro's wounds have healed, so he first visits the former Hashira, Uzui, to join the<br>Hashira Training. Tanjiro's joy for the reunion with Uzui is short-lived, however, as he will<br>now undergo basic training to boost his physical stamina.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wonderful Precure! - Episode 24 - A Very Strange Egg</h3></th>
+<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Spanish Dub) - Episode 3 - Fully Recovered Tanjiro Joins the Hashira Training!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/01c9403bba3d01b87fdb8557e182736d1720917571_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8e14b24e4098d6b52f0adeb1de742fef1716740901_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +268,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2Z3V/a-very-strange-egg">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EXNW/fully-recovered-tanjiro-joins-the-hashira-training">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">All of the Kirarin Animals have returned, and Niko Garden is restored. The maker of<br>the garden, Niko-sama, appears in egg form, and for some reason the egg comes to<br>Iroha’s room.</p>
+<p align="center">Tanjiro's wounds have healed, so he first visits the former Hashira, Uzui, to join the<br>Hashira Training. Tanjiro's joy for the reunion with Uzui is short-lived, however, as he will<br>now undergo basic training to boost his physical stamina.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler -Public School Arc- (Spanish Dub) - Episode 11 - His Butler, Taking Off</h3></th>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 13 - Episode 1 - Elevator Attendant</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/478c80ecb20ea00251d5d658f6a1aaea1719043895_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ffd44cdda5f6821e9cb44a310ad0e9201720985841_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/13/2024</td>
+<td align="center">7/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1KPD/his-butler-taking-off">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WVN2/elevator-attendant">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">His duty as the Queen's guard dog complete, Ciel and his servants take a trip<br>to London to inspect new Funtom Company goods. Later, Sebastian is reunited with someone unexpected.</p>
+<p align="center">This is the story of a girl who dreams of being an elevator attendant...</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler -Public School Arc- (German Dub) - Episode 11 - His Butler, Taking Off</h3></th>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Portuguese Dub) - Episode 23 - Let's Go Home</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/478c80ecb20ea00251d5d658f6a1aaea1719043895_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f13b15afa7a8d18c8b3c3aa3f115de5f1719138936_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/13/2024</td>
+<td align="center">7/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MK73/his-butler-taking-off">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82DV1/lets-go-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">His duty as the Queen's guard dog complete, Ciel and his servants take a trip<br>to London to inspect new Funtom Company goods. Later, Sebastian is reunited with someone unexpected.</p>
+<p align="center">Roxy makes a desperate move to pull Rudeus out of his depression. As the group<br>journeys home, both of them must face their feelings and negotiate the consequences.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler -Public School Arc- (Tamil Dub) - Episode 11 - His Butler, Taking Off</h3></th>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Spanish Dub) - Episode 23 - Let's Go Home</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/478c80ecb20ea00251d5d658f6a1aaea1719043895_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f13b15afa7a8d18c8b3c3aa3f115de5f1719138936_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/13/2024</td>
+<td align="center">7/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9PVQ/his-butler-taking-off">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JGWG/lets-go-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">His duty as the Queen's guard dog complete, Ciel and his servants take a trip<br>to London to inspect new Funtom Company goods. Later, Sebastian is reunited with someone unexpected.</p>
+<p align="center">Roxy makes a desperate move to pull Rudeus out of his depression. As the group<br>journeys home, both of them must face their feelings and negotiate the consequences.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler -Public School Arc- (French Dub) - Episode 11 - His Butler, Taking Off</h3></th>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (French Dub) - Episode 23 - Let's Go Home</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/478c80ecb20ea00251d5d658f6a1aaea1719043895_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f13b15afa7a8d18c8b3c3aa3f115de5f1719138936_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/13/2024</td>
+<td align="center">7/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07EG5/his-butler-taking-off">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN28GJ/lets-go-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">His duty as the Queen's guard dog complete, Ciel and his servants take a trip<br>to London to inspect new Funtom Company goods. Later, Sebastian is reunited with someone unexpected.</p>
+<p align="center">Roxy makes a desperate move to pull Rudeus out of his depression. As the group<br>journeys home, both of them must face their feelings and negotiate the consequences.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler -Public School Arc- (Telugu Dub) - Episode 11 - His Butler, Taking Off</h3></th>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Castilian Dub) - Episode 23 - Let's Go Home</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/478c80ecb20ea00251d5d658f6a1aaea1719043895_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f13b15afa7a8d18c8b3c3aa3f115de5f1719138936_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/13/2024</td>
+<td align="center">7/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGZEJ/his-butler-taking-off">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7EJX/lets-go-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">His duty as the Queen's guard dog complete, Ciel and his servants take a trip<br>to London to inspect new Funtom Company goods. Later, Sebastian is reunited with someone unexpected.</p>
+<p align="center">Roxy makes a desperate move to pull Rudeus out of his depression. As the group<br>journeys home, both of them must face their feelings and negotiate the consequences.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Black Butler -Public School Arc- (Hindi Dub) - Episode 11 - His Butler, Taking Off</h3></th>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Italian Dub) - Episode 23 - Let's Go Home</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/478c80ecb20ea00251d5d658f6a1aaea1719043895_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f13b15afa7a8d18c8b3c3aa3f115de5f1719138936_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/13/2024</td>
+<td align="center">7/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM53P/his-butler-taking-off">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU479P1/lets-go-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">His duty as the Queen's guard dog complete, Ciel and his servants take a trip<br>to London to inspect new Funtom Company goods. Later, Sebastian is reunited with someone unexpected.</p>
+<p align="center">Roxy makes a desperate move to pull Rudeus out of his depression. As the group<br>journeys home, both of them must face their feelings and negotiate the consequences.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia Season 7 (English Dub) - Episode 147 - Extras</h3></th>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (English Dub) - Episode 23 - Let's Go Home</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0f8413f50d02d4d4f1a51d42cb2f58781719640420_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f13b15afa7a8d18c8b3c3aa3f115de5f1719138936_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/13/2024</td>
+<td align="center">7/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0850/extras">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM4KN/lets-go-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shoto Todoroki stopped Dabi with his Great Glacial Aegir, and reports of that bolstered the<br>spirits of the heroes fighting in other locations. And Shoto and Dabi's father, Endeavor, is<br>facing the greatest evil, All For One, with Hawks!</p>
+<p align="center">Roxy makes a desperate move to pull Rudeus out of his depression. As the group<br>journeys home, both of them must face their feelings and negotiate the consequences.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia Season 7 (Portuguese Dub) - Episode 146 - Two Flashfires</h3></th>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (German Dub) - Episode 23 - Let's Go Home</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5cc00774053582f64dead342d366b5521719043772_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f13b15afa7a8d18c8b3c3aa3f115de5f1719138936_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/13/2024</td>
+<td align="center">7/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU821E1/two-flashfires">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9GJQ/lets-go-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Even though Shigaraki's Quirks are sealed, he attacks Bakugo and the others with a strange<br>new appearance and power. Meanwhile, Deku is pulled to where Toga was warped and Todoroki<br>and Dabi face off!</p>
+<p align="center">Roxy makes a desperate move to pull Rudeus out of his depression. As the group<br>journeys home, both of them must face their feelings and negotiate the consequences.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia Season 7 (German Dub) - Episode 146 - Two Flashfires</h3></th>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (German Dub) - Episode 22 - Parents</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5cc00774053582f64dead342d366b5521719043772_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be84508fa9367d60e2fd4970267388141718536033_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/13/2024</td>
+<td align="center">7/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J84G/two-flashfires">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN9EM/parents">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Even though Shigaraki's Quirks are sealed, he attacks Bakugo and the others with a strange<br>new appearance and power. Meanwhile, Deku is pulled to where Toga was warped and Todoroki<br>and Dabi face off!</p>
+<p align="center">The rescue party reaches the heart of the Teleporter Labyrinth and confronts its guardian. But<br>when the monster shrugs off Rudeus's magic, they realize they may have bitten off more<br>than they can chew.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia Season 7 (French Dub) - Episode 146 - Two Flashfires</h3></th>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (German Dub) - Episode 21 - Magic Circle to the Sixth Stratum</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5cc00774053582f64dead342d366b5521719043772_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/038c3730a007adf3612afa74d56dfc611717933566_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/13/2024</td>
+<td align="center">7/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN27DJ/two-flashfires">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M9X3/magic-circle-to-the-sixth-stratum">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Even though Shigaraki's Quirks are sealed, he attacks Bakugo and the others with a strange<br>new appearance and power. Meanwhile, Deku is pulled to where Toga was warped and Todoroki<br>and Dabi face off!</p>
+<p align="center">With Roxy's rescue, the search for Zenith resumes in earnest. Rudeus reconnects with his mentor<br>amid the perils of the labyrinth. But why does she seem a little more awkward<br>around him than before?</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia Season 7 (Italian Dub) - Episode 146 - Two Flashfires</h3></th>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (German Dub) - Episode 20 - Into the Labyrinth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5cc00774053582f64dead342d366b5521719043772_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f3d1f2181bbd69ec8ccb464222d5744b1717323822_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/13/2024</td>
+<td align="center">7/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47QM1/two-flashfires">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1VMD/into-the-labyrinth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Even though Shigaraki's Quirks are sealed, he attacks Bakugo and the others with a strange<br>new appearance and power. Meanwhile, Deku is pulled to where Toga was warped and Todoroki<br>and Dabi face off!</p>
+<p align="center">Rudeus and Elinalise reach Rapan and soon reunite with Paul, only to learn that a<br>deadly labyrinth has claimed both Zenith and Roxy. The fruits of Rudeus's studies offer a<br>last, faint hope to reach his mother and his mentor in time.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia Season 7 (Spanish Dub) - Episode 144 - Division</h3></th>
+<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (German Dub) - Episode 19 - Desert Journey</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ac8e49f90cd580fa5d1562a640af2a7d1717835394_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/42b45148482221f5091f70cbabeda6941716736482_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/13/2024</td>
+<td align="center">7/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ79XX/division">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EX2W/desert-journey">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's finally time for the decisive battle between heroes and villains! The plan by All<br>Might, Aizawa, and the others has them start their fights in various places around Japan!</p>
+<p align="center">With Nanahoshi's help, Rudeus gains a way to shorten his journey, but he and Elinalise<br>will still need to hurry if they hope to return before Sylphie gives birth. Their<br>first obstacle: the harsh desert of Begaritt and its monstrous denizens.</p>
 </td>
 </tr>
 </table>
