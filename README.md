@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 15, 2024, 7:24:33 PM</em></p>
+<p align="center"><em>Updated on: Jul 16, 2024, 7:58:16 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Vampire Dormitory (Hindi Dub) - Episode 12 - Love 12. The pretty boy vows?!</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (English Dub) - Episode 14 - New Town and Nostalgic Feeling</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/04a05fcefb07cc252697f6e7cb9d81001719130188_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d2c9c8ce7b0befe74fd3051c7641326d1719854636_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1V3Q/love-12-the-pretty-boy-vows">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WVQZ/new-town-and-nostalgic-feeling">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With Mito and Ren's marriage underway, Ruka takes a final shot to tell Mito how<br>he feels. He hands her the sang sucre as a last gift, but will it<br>be enough to restore Mito's memories of her beautiful life at the dorm?</p>
+<p align="center">Lawrence and Holo continue their long journey north, reaching the town of Kumerson, where they<br>see the first northern pagans of their journey.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Vampire Dormitory (English Dub) - Episode 12 - Love 12. The pretty boy vows?!</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (German Dub) - Episode 13 - Supper of Three and Afternoon of Two</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/04a05fcefb07cc252697f6e7cb9d81001719130188_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d134e10f5d707e967a7741fb6734bc61719245892_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M927/love-12-the-pretty-boy-vows">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JGX7/supper-of-three-and-afternoon-of-two">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With Mito and Ren's marriage underway, Ruka takes a final shot to tell Mito how<br>he feels. He hands her the sang sucre as a last gift, but will it<br>be enough to restore Mito's memories of her beautiful life at the dorm?</p>
+<p align="center">Holo, Lawrence, and Nora sit down for a much deserved meal, but Holo's not her<br>usual self.  Holo remembers the past and contemplates the future...</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Duke of Death and His Maid Season 3 (Portuguese Dub) - Episode 36 - The Duke of Death and His Maid</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (French Dub) - Episode 13 - Supper of Three and Afternoon of Two</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/449cd1e763f7b9af0fdc15d6b9834d311719130130_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d134e10f5d707e967a7741fb6734bc61719245892_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE04P/the-duke-of-death-and-his-maid">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7EW8/supper-of-three-and-afternoon-of-two">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the curse broken, the Duke, Alice, and everyone else move on to the next<br>stage of their lives.</p>
+<p align="center">Holo, Lawrence, and Nora sit down for a much deserved meal, but Holo's not her<br>usual self.  Holo remembers the past and contemplates the future...</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Duke of Death and His Maid Season 3 (Spanish Dub) - Episode 36 - The Duke of Death and His Maid</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (English Dub) - Episode 13 - Supper of Three and Afternoon of Two</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/449cd1e763f7b9af0fdc15d6b9834d311719130130_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d134e10f5d707e967a7741fb6734bc61719245892_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ527J/the-duke-of-death-and-his-maid">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0397/supper-of-three-and-afternoon-of-two">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the curse broken, the Duke, Alice, and everyone else move on to the next<br>stage of their lives.</p>
+<p align="center">Holo, Lawrence, and Nora sit down for a much deserved meal, but Holo's not her<br>usual self.  Holo remembers the past and contemplates the future...</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Duke of Death and His Maid Season 3 (English Dub) - Episode 36 - The Duke of Death and His Maid</h3></th>
+<th><h3 align="center">SHY (English Dub) - Episode 13 - Hero's High</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/449cd1e763f7b9af0fdc15d6b9834d311719130130_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/85f757e68fa7ece9aa2a433de70245521719843451_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47MPD/the-duke-of-death-and-his-maid">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82D74/heros-high">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the curse broken, the Duke, Alice, and everyone else move on to the next<br>stage of their lives.</p>
+<p align="center">We revisit our heroes and see them going about their daily lives after the incidents<br>with Amarariruku. A young reporter, Tojiko Asuka, crosses paths with Shy and is suddenly inspired<br>to write an article interviewing her.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (German Dub) - Episode 12 - Oath</h3></th>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (German Dub) - Episode 12 - Lloyd's Answer</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d3ce283e1b948937c240d94ac1f5d8c91719138831_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5b975b2d98521587270cfba56f99afd01718639710_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU479DV/oath">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJM7P/lloyds-answer">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The mock battle to decide Mierille's fate and the future of House Louvent is on!</p>
+<p align="center">Guided by Jade's will, Lloyd deciphers the spell for teleportation. Pushed to the brink, Guisarme<br>unleashes an attack powerful enough to reduce anything to oblivion, the Mortal Dark Sphere. At<br>long last, this climactic magic battle comes to a conclusion.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (French Dub) - Episode 6 - The Strongest of the Demon Slayer Corps</h3></th>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (French Dub) - Episode 12 - Lloyd's Answer</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/28e1dd5a66e30154d12ab458465ebd831718544107_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5b975b2d98521587270cfba56f99afd01718639710_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN28WJ/the-strongest-of-the-demon-slayer-corps">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG4DV/lloyds-answer">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tanjiro and Zenitsu head to Himejima's training site deep in the mountains and reunite with<br>Inosuke and Murata. Tanjiro first starts the training by being hit by a waterfall but<br>struggles with the coldness and weight of the water.</p>
+<p align="center">Guided by Jade's will, Lloyd deciphers the spell for teleportation. Pushed to the brink, Guisarme<br>unleashes an attack powerful enough to reduce anything to oblivion, the Mortal Dark Sphere. At<br>long last, this climactic magic battle comes to a conclusion.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Tamil Dub) - Episode 6 - The Strongest of the Demon Slayer Corps</h3></th>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (Hindi Dub) - Episode 12 - Lloyd's Answer</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/28e1dd5a66e30154d12ab458465ebd831718544107_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5b975b2d98521587270cfba56f99afd01718639710_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE03N0/the-strongest-of-the-demon-slayer-corps">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMXEE/lloyds-answer">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tanjiro and Zenitsu head to Himejima's training site deep in the mountains and reunite with<br>Inosuke and Murata. Tanjiro first starts the training by being hit by a waterfall but<br>struggles with the coldness and weight of the water.</p>
+<p align="center">Guided by Jade's will, Lloyd deciphers the spell for teleportation. Pushed to the brink, Guisarme<br>unleashes an attack powerful enough to reduce anything to oblivion, the Mortal Dark Sphere. At<br>long last, this climactic magic battle comes to a conclusion.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Hindi Dub) - Episode 6 - The Strongest of the Demon Slayer Corps</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Portuguese Dub) - Episode 25 - Party Beneath the Moonlight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/28e1dd5a66e30154d12ab458465ebd831718544107_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bc48978a2b4d8cc7388a0b8359cbef8c1719241328_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82D34/the-strongest-of-the-demon-slayer-corps">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EX3D/party-beneath-the-moonlight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tanjiro and Zenitsu head to Himejima's training site deep in the mountains and reunite with<br>Inosuke and Murata. Tanjiro first starts the training by being hit by a waterfall but<br>struggles with the coldness and weight of the water.</p>
+<p align="center">After the battle in Limia, Makoto returns to the demiplane where he is welcomed by<br>Tomoe, Mio and the residents of the demiplane. After a short celebration Makoto returns to<br>Rotsgard to wipe out the remaining mutants, ending the days-long turmoil.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (German Dub) - Episode 3 - Fully Recovered Tanjiro Joins the Hashira Training!!</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Spanish Dub) - Episode 25 - Party Beneath the Moonlight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8e14b24e4098d6b52f0adeb1de742fef1716740901_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bc48978a2b4d8cc7388a0b8359cbef8c1719241328_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JG5G/fully-recovered-tanjiro-joins-the-hashira-training">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1VXQ/party-beneath-the-moonlight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tanjiro's wounds have healed, so he first visits the former Hashira, Uzui, to join the<br>Hashira Training. Tanjiro's joy for the reunion with Uzui is short-lived, however, as he will<br>now undergo basic training to boost his physical stamina.</p>
+<p align="center">After the battle in Limia, Makoto returns to the demiplane where he is welcomed by<br>Tomoe, Mio and the residents of the demiplane. After a short celebration Makoto returns to<br>Rotsgard to wipe out the remaining mutants, ending the days-long turmoil.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (English Dub) - Episode 3 - Fully Recovered Tanjiro Joins the Hashira Training!!</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (English Dub) - Episode 25 - Party Beneath the Moonlight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8e14b24e4098d6b52f0adeb1de742fef1716740901_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bc48978a2b4d8cc7388a0b8359cbef8c1719241328_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WV12/fully-recovered-tanjiro-joins-the-hashira-training">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN9XN/party-beneath-the-moonlight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tanjiro's wounds have healed, so he first visits the former Hashira, Uzui, to join the<br>Hashira Training. Tanjiro's joy for the reunion with Uzui is short-lived, however, as he will<br>now undergo basic training to boost his physical stamina.</p>
+<p align="center">After the battle in Limia, Makoto returns to the demiplane where he is welcomed by<br>Tomoe, Mio and the residents of the demiplane. After a short celebration Makoto returns to<br>Rotsgard to wipe out the remaining mutants, ending the days-long turmoil.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Portuguese Dub) - Episode 3 - Fully Recovered Tanjiro Joins the Hashira Training!!</h3></th>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Portuguese Dub) - Episode 12 - A Steamy Hot Spring Trip, Part 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8e14b24e4098d6b52f0adeb1de742fef1716740901_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0228d51a22fdeaec1baa29b2f089136c1719241439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM4JN/fully-recovered-tanjiro-joins-the-hashira-training">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ05Z3/a-steamy-hot-spring-trip-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tanjiro's wounds have healed, so he first visits the former Hashira, Uzui, to join the<br>Hashira Training. Tanjiro's joy for the reunion with Uzui is short-lived, however, as he will<br>now undergo basic training to boost his physical stamina.</p>
+<p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc (Spanish Dub) - Episode 3 - Fully Recovered Tanjiro Joins the Hashira Training!!</h3></th>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (German Dub) - Episode 12 - A Steamy Hot Spring Trip, Part 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8e14b24e4098d6b52f0adeb1de742fef1716740901_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0228d51a22fdeaec1baa29b2f089136c1719241439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EXNW/fully-recovered-tanjiro-joins-the-hashira-training">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82D84/a-steamy-hot-spring-trip-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tanjiro's wounds have healed, so he first visits the former Hashira, Uzui, to join the<br>Hashira Training. Tanjiro's joy for the reunion with Uzui is short-lived, however, as he will<br>now undergo basic training to boost his physical stamina.</p>
+<p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Theatre of Darkness: Yamishibai 13 - Episode 1 - Elevator Attendant</h3></th>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Telugu Dub) - Episode 12 - A Steamy Hot Spring Trip, Part 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ffd44cdda5f6821e9cb44a310ad0e9201720985841_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0228d51a22fdeaec1baa29b2f089136c1719241439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WVN2/elevator-attendant">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JG27/a-steamy-hot-spring-trip-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">This is the story of a girl who dreams of being an elevator attendant...</p>
+<p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Portuguese Dub) - Episode 23 - Let's Go Home</h3></th>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Tamil Dub) - Episode 12 - A Steamy Hot Spring Trip, Part 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f13b15afa7a8d18c8b3c3aa3f115de5f1719138936_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0228d51a22fdeaec1baa29b2f089136c1719241439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82DV1/lets-go-home">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN28N3/a-steamy-hot-spring-trip-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Roxy makes a desperate move to pull Rudeus out of his depression. As the group<br>journeys home, both of them must face their feelings and negotiate the consequences.</p>
+<p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Spanish Dub) - Episode 23 - Let's Go Home</h3></th>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (French Dub) - Episode 12 - A Steamy Hot Spring Trip, Part 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f13b15afa7a8d18c8b3c3aa3f115de5f1719138936_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0228d51a22fdeaec1baa29b2f089136c1719241439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JGWG/lets-go-home">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU4794V/a-steamy-hot-spring-trip-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Roxy makes a desperate move to pull Rudeus out of his depression. As the group<br>journeys home, both of them must face their feelings and negotiate the consequences.</p>
+<p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (French Dub) - Episode 23 - Let's Go Home</h3></th>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (English Dub) - Episode 12 - A Steamy Hot Spring Trip, Part 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f13b15afa7a8d18c8b3c3aa3f115de5f1719138936_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0228d51a22fdeaec1baa29b2f089136c1719241439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN28GJ/lets-go-home">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE03E7/a-steamy-hot-spring-trip-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Roxy makes a desperate move to pull Rudeus out of his depression. As the group<br>journeys home, both of them must face their feelings and negotiate the consequences.</p>
+<p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Castilian Dub) - Episode 23 - Let's Go Home</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF - Episode 16 - Night of the Festival and Misaligned Gear</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f13b15afa7a8d18c8b3c3aa3f115de5f1719138936_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4b620934bdc7c1fc97df400d652ce8241721062243_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7EJX/lets-go-home">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7KD2/night-of-the-festival-and-misaligned-gear">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Roxy makes a desperate move to pull Rudeus out of his depression. As the group<br>journeys home, both of them must face their feelings and negotiate the consequences.</p>
+<p align="center">Amati learns about Holo's debt to Lawrence and announces that he will take on the<br>debt and ask Holo to marry him.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Italian Dub) - Episode 23 - Let's Go Home</h3></th>
+<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible - Episode 3 - A Super First-Rate Elite vs an F-Rank Ossan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f13b15afa7a8d18c8b3c3aa3f115de5f1719138936_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3c339b7fef4880462ad84f4a43cc06df1721062107_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU479P1/lets-go-home">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMPEQ/a-super-first-rate-elite-vs-an-f-rank-ossan">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Roxy makes a desperate move to pull Rudeus out of his depression. As the group<br>journeys home, both of them must face their feelings and negotiate the consequences.</p>
+<p align="center">Rick begins his mock battle with the F-rank Crusher, Raster Diarmut. Raster thinks the gap<br>in ability between him, a genius, and Rick, a late-starting newbie, is all too clear.<br>But as the battle progresses, Rick's training begins to show through.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (English Dub) - Episode 23 - Let's Go Home</h3></th>
+<th><h3 align="center">SHY - Episode 15 - Heartblade</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f13b15afa7a8d18c8b3c3aa3f115de5f1719138936_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cab139b8fbea2aa79ac42dd2ce5dc3b61721049263_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/14/2024</td>
+<td align="center">7/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM4KN/lets-go-home">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG51Z4/heartblade">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Roxy makes a desperate move to pull Rudeus out of his depression. As the group<br>journeys home, both of them must face their feelings and negotiate the consequences.</p>
+<p align="center">Ai showcases her skills by swiftly defeating her busybody pursuer. She then decides that Momijiyama<br>will help her out by giving her a place to stay while she pursues her<br>goals outside of her village.</p>
 </td>
 </tr>
 </table>
