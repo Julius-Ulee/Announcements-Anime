@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 17, 2024, 7:57:55 AM</em></p>
+<p align="center"><em>Updated on: Jul 17, 2024, 7:23:38 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Unnamed Memory (German Dub) - Episode 12 - Two Joined Memories</h3></th>
+<th><h3 align="center">Fire Force Season 2 (Telugu Dub) - Episode 24 - Signs of Upheaval</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/682b0523943e86b6313184cae1848cef1719312713_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d23e991fa2536eb8a952dea71f8513271607658255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/16/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN28Z3/two-joined-memories">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M9DZ/signs-of-upheaval">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">One day, as Oscar is helping Tinasha clean up around the tower, he finds himself<br>mysteriously drawn in by a familiar-looking orb.</p>
+<p align="center">Benimaru continues to push Shinra and Arthur to their limits in order to unlock their<br>Hysterical Strength. Captain Huang examines Konro at Hibana's request, as she tries to uncover the<br>mysteries of those who have been touched by Adolla.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TASUKETSU -Fate of the Majority- - Episode 3</h3></th>
+<th><h3 align="center">Fire Force Season 2 (Tamil Dub) - Episode 24 - Signs of Upheaval</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3f24c681d6fa9513addbb9004bb9783e1721147952_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d23e991fa2536eb8a952dea71f8513271607658255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/16/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47XJ2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1VJ5/signs-of-upheaval">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Benimaru continues to push Shinra and Arthur to their limits in order to unlock their<br>Hysterical Strength. Captain Huang examines Konro at Hibana's request, as she tries to uncover the<br>mysteries of those who have been touched by Adolla.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Log Horizon (German Dub) - Episode 23 - Student of the Mage</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Tamil Dub) - Episode 22 - Conquering the Labyrinth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4cb9f300d408191105ab8b5db581b5771393979623_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e84669c3947281aab679fbe7223c2d151551706893_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/16/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82D04/student-of-the-mage">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0533/conquering-the-labyrinth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The second day of the Scales Festival in Akihabara arrives.  Akatsuki has gotten closer<br>to Shiroe, and so is very happy all day, and even seems to be enjoying<br>her fights with Naotsugu.  Meanwhile, Minori is uncertain with how to deal with her<br>feelings towards him, and goes to speed to Karashin. Karashin is overloaded with paperwork so<br>she decides to help.  It seems like a lot of land people merchants have<br>come to Akihabara...</p>
+<p align="center">Rimuru tries to think of a way to save the children of Freedom Academy who<br>are fated to die. The idea he comes up with is to have superior spirits<br>inhabit each of them, as Shizu had, so their lives won't end prematurely. Determined to<br>whatever it takes to save them, Rimuru leads the children to the Dwelling of Spirits,<br>where superior spirits can be found. But as they make their way further inside, a<br>Golem made of magisteel and controlled by the fairy Ramiris stands in their path.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Yashahime: Princess Half-Demon (German Dub) - Episode 42 - The Collapse of the Windmill of Time</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Telugu Dub) - Episode 22 - Conquering the Labyrinth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/80096e7e7c7c9b28caaa6fbe1f93ca681644023730_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e84669c3947281aab679fbe7223c2d151551706893_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/16/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG52WW/the-collapse-of-the-windmill-of-time">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN28E3/conquering-the-labyrinth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To destroy the Grim Comet, Towa, Moroha, and Setsuna must travel to the present day<br>using the Windmill of Time, but Meidomaru stands in their way. Kirinmaru takes Rion and<br>tries to travel across time by force.</p>
+<p align="center">Rimuru tries to think of a way to save the children of Freedom Academy who<br>are fated to die. The idea he comes up with is to have superior spirits<br>inhabit each of them, as Shizu had, so their lives won't end prematurely. Determined to<br>whatever it takes to save them, Rimuru leads the children to the Dwelling of Spirits,<br>where superior spirits can be found. But as they make their way further inside, a<br>Golem made of magisteel and controlled by the fairy Ramiris stands in their path.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">No Longer Allowed in Another World - Episode 2 - Shall I Tell You How It Feels to Sleep in a Coffin?</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Tamil Dub) - Episode 15 - The Immortal King At A Loss</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bded50032c52e3d2c9cc623fc5825ef11721133487_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4e34ea16a07878f7cd4d6d30b2ce69361658433656_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/16/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2P1E/shall-i-tell-you-how-it-feels-to-sleep-in-a-coffin">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EXPD/the-immortal-king-at-a-loss">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The group arrives in the next town. During an audience with the king, Sensei is<br>asked to decide on the future husband of the princess. That night, he meets with<br>the princess and has a serious conversation with her.</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Magical Girl and the Evil Lieutenant Used to Be Archenemies - Episode 2 - The (taking down of the) magical girl belongs to (no one but) me</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Telugu Dub) - Episode 15 - The Immortal King At A Loss</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fbcb70082859a6ee804ddfe7d4e867691721133456_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4e34ea16a07878f7cd4d6d30b2ce69361658433656_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,18 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/16/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J93Q/the-taking-down-of-the-magical-girl-belongs-to-no-one-but-me">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47M8Z/the-immortal-king-at-a-loss">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having tea in the park is becoming a daily routine for them. Noticing that the<br>sleeve of Mira's coat is burned, Byakuya sews an applique.
-"The work of a magical girl<br>isn't as tough as I thought. I'm sure it's thanks to a kind strategist..." says<br>Byakuya.</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -217,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Log Horizon 2 (Hindi Dub) - Episode 7 - The Maidens of Watermaple</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Tamil Dub) - Episode 14 - Almost Perfect</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1a290b3d54a293fe5853f1d8d3e9edc41416033506_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/423b175a46f36a202e2bd521ff520e281658433544_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -231,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/16/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EXGD/the-maidens-of-watermaple">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ524J/almost-perfect">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akatsuki revives at the Cathedral and asks the others for help to defeated the murderer.<br> She trains with teh top members of D.D.D. and the West Wind Brigade in<br>an attempt to learn the Teachings.</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -251,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (English Dub) - Episode 14 - New Town and Nostalgic Feeling</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Telugu Dub) - Episode 14 - Almost Perfect</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d2c9c8ce7b0befe74fd3051c7641326d1719854636_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/423b175a46f36a202e2bd521ff520e281658433544_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -265,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WVQZ/new-town-and-nostalgic-feeling">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE0N3/almost-perfect">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lawrence and Holo continue their long journey north, reaching the town of Kumerson, where they<br>see the first northern pagans of their journey.</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -285,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (German Dub) - Episode 13 - Supper of Three and Afternoon of Two</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Tamil Dub) - Episode 13 - Let Us Burn!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d134e10f5d707e967a7741fb6734bc61719245892_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/de0556df6f7b2c33e71c641df40944fa1658433527_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -299,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JGX7/supper-of-three-and-afternoon-of-two">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE08P/let-us-burn">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Holo, Lawrence, and Nora sit down for a much deserved meal, but Holo's not her<br>usual self.  Holo remembers the past and contemplates the future...</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -319,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (French Dub) - Episode 13 - Supper of Three and Afternoon of Two</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Telugu Dub) - Episode 13 - Let Us Burn!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d134e10f5d707e967a7741fb6734bc61719245892_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/de0556df6f7b2c33e71c641df40944fa1658433527_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -333,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7EW8/supper-of-three-and-afternoon-of-two">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU479KD/let-us-burn">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Holo, Lawrence, and Nora sit down for a much deserved meal, but Holo's not her<br>usual self.  Holo remembers the past and contemplates the future...</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -353,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (English Dub) - Episode 13 - Supper of Three and Afternoon of Two</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Tamil Dub) - Episode 12 - Dogs Are The Best Friends of Humans</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d134e10f5d707e967a7741fb6734bc61719245892_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dbf0ce322482a211983dbeaaf4d93daa1658433498_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -367,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0397/supper-of-three-and-afternoon-of-two">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU479NV/dogs-are-the-best-friends-of-humans">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Holo, Lawrence, and Nora sit down for a much deserved meal, but Holo's not her<br>usual self.  Holo remembers the past and contemplates the future...</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -387,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY (English Dub) - Episode 13 - Hero's High</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Telugu Dub) - Episode 12 - Dogs Are The Best Friends of Humans</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/85f757e68fa7ece9aa2a433de70245521719843451_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dbf0ce322482a211983dbeaaf4d93daa1658433498_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -401,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82D74/heros-high">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN28QG/dogs-are-the-best-friends-of-humans">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">We revisit our heroes and see them going about their daily lives after the incidents<br>with Amarariruku. A young reporter, Tojiko Asuka, crosses paths with Shy and is suddenly inspired<br>to write an article interviewing her.</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -421,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (German Dub) - Episode 12 - Lloyd's Answer</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Tamil Dub) - Episode 11 - Ocean Dance</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5b975b2d98521587270cfba56f99afd01718639710_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/20007622087285ce0f6dc299e04212d21658433512_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -435,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJM7P/lloyds-answer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82DZ4/ocean-dance">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Guided by Jade's will, Lloyd deciphers the spell for teleportation. Pushed to the brink, Guisarme<br>unleashes an attack powerful enough to reduce anything to oblivion, the Mortal Dark Sphere. At<br>long last, this climactic magic battle comes to a conclusion.</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -455,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (French Dub) - Episode 12 - Lloyd's Answer</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Telugu Dub) - Episode 11 - Ocean Dance</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5b975b2d98521587270cfba56f99afd01718639710_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/20007622087285ce0f6dc299e04212d21658433512_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -469,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG4DV/lloyds-answer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82D4J/ocean-dance">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Guided by Jade's will, Lloyd deciphers the spell for teleportation. Pushed to the brink, Guisarme<br>unleashes an attack powerful enough to reduce anything to oblivion, the Mortal Dark Sphere. At<br>long last, this climactic magic battle comes to a conclusion.</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -489,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (Hindi Dub) - Episode 12 - Lloyd's Answer</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Tamil Dub) - Episode 10 - Set Off, Old Driver!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5b975b2d98521587270cfba56f99afd01718639710_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1eea9f78454784f036cfb644795b653c1658433487_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -503,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMXEE/lloyds-answer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG528W/set-off-old-driver">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Guided by Jade's will, Lloyd deciphers the spell for teleportation. Pushed to the brink, Guisarme<br>unleashes an attack powerful enough to reduce anything to oblivion, the Mortal Dark Sphere. At<br>long last, this climactic magic battle comes to a conclusion.</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -523,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Portuguese Dub) - Episode 25 - Party Beneath the Moonlight</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Telugu Dub) - Episode 10 - Set Off, Old Driver!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bc48978a2b4d8cc7388a0b8359cbef8c1719241328_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1eea9f78454784f036cfb644795b653c1658433487_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -537,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EX3D/party-beneath-the-moonlight">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG52XQ/set-off-old-driver">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After the battle in Limia, Makoto returns to the demiplane where he is welcomed by<br>Tomoe, Mio and the residents of the demiplane. After a short celebration Makoto returns to<br>Rotsgard to wipe out the remaining mutants, ending the days-long turmoil.</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -557,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Spanish Dub) - Episode 25 - Party Beneath the Moonlight</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Tamil Dub) - Episode 9 - Boss of Shadow Faction</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bc48978a2b4d8cc7388a0b8359cbef8c1719241328_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4e27e438fb7f77eafb13643ee52bc6bc1658433400_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -571,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1VXQ/party-beneath-the-moonlight">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG45V/boss-of-shadow-faction">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After the battle in Limia, Makoto returns to the demiplane where he is welcomed by<br>Tomoe, Mio and the residents of the demiplane. After a short celebration Makoto returns to<br>Rotsgard to wipe out the remaining mutants, ending the days-long turmoil.</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -591,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (English Dub) - Episode 25 - Party Beneath the Moonlight</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Telugu Dub) - Episode 9 - Boss of Shadow Faction</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bc48978a2b4d8cc7388a0b8359cbef8c1719241328_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4e27e438fb7f77eafb13643ee52bc6bc1658433400_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -605,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN9XN/party-beneath-the-moonlight">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJMKX/boss-of-shadow-faction">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After the battle in Limia, Makoto returns to the demiplane where he is welcomed by<br>Tomoe, Mio and the residents of the demiplane. After a short celebration Makoto returns to<br>Rotsgard to wipe out the remaining mutants, ending the days-long turmoil.</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -625,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Portuguese Dub) - Episode 12 - A Steamy Hot Spring Trip, Part 2</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Tamil Dub) - Episode 8 - Perfect Match</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0228d51a22fdeaec1baa29b2f089136c1719241439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9ac8df30e4ccf989f388ffb383f421611658433376_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -639,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ05Z3/a-steamy-hot-spring-trip-part-2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07QP1/perfect-match">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
@@ -659,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (German Dub) - Episode 12 - A Steamy Hot Spring Trip, Part 2</h3></th>
+<th><h3 align="center">The Daily Life of the Immortal King (Telugu Dub) - Episode 8 - Perfect Match</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0228d51a22fdeaec1baa29b2f089136c1719241439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9ac8df30e4ccf989f388ffb383f421611658433376_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -673,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
+<td align="center">7/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82D84/a-steamy-hot-spring-trip-part-2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN95Q/perfect-match">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
+<p align="center">For cultivation prodigy Wang Ling, defeating a demon king at age 6 is nothing compared<br>to fitting in at highschool. And now with supernatural threats on the rise, Wang may<br>have to put his magic studies on hold to save the world!</p>
 </td>
 </tr>
 </table>
