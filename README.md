@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 16, 2024, 7:24:44 PM</em></p>
+<p align="center"><em>Updated on: Jul 17, 2024, 7:57:55 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,211 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Unnamed Memory (German Dub) - Episode 12 - Two Joined Memories</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/682b0523943e86b6313184cae1848cef1719312713_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/16/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN28Z3/two-joined-memories">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">One day, as Oscar is helping Tinasha clean up around the tower, he finds himself<br>mysteriously drawn in by a familiar-looking orb.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TASUKETSU -Fate of the Majority- - Episode 3</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3f24c681d6fa9513addbb9004bb9783e1721147952_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/16/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47XJ2">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Log Horizon (German Dub) - Episode 23 - Student of the Mage</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4cb9f300d408191105ab8b5db581b5771393979623_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/16/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82D04/student-of-the-mage">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The second day of the Scales Festival in Akihabara arrives.  Akatsuki has gotten closer<br>to Shiroe, and so is very happy all day, and even seems to be enjoying<br>her fights with Naotsugu.  Meanwhile, Minori is uncertain with how to deal with her<br>feelings towards him, and goes to speed to Karashin. Karashin is overloaded with paperwork so<br>she decides to help.  It seems like a lot of land people merchants have<br>come to Akihabara...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Yashahime: Princess Half-Demon (German Dub) - Episode 42 - The Collapse of the Windmill of Time</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/80096e7e7c7c9b28caaa6fbe1f93ca681644023730_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/16/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG52WW/the-collapse-of-the-windmill-of-time">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">To destroy the Grim Comet, Towa, Moroha, and Setsuna must travel to the present day<br>using the Windmill of Time, but Meidomaru stands in their way. Kirinmaru takes Rion and<br>tries to travel across time by force.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">No Longer Allowed in Another World - Episode 2 - Shall I Tell You How It Feels to Sleep in a Coffin?</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bded50032c52e3d2c9cc623fc5825ef11721133487_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/16/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2P1E/shall-i-tell-you-how-it-feels-to-sleep-in-a-coffin">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The group arrives in the next town. During an audience with the king, Sensei is<br>asked to decide on the future husband of the princess. That night, he meets with<br>the princess and has a serious conversation with her.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Magical Girl and the Evil Lieutenant Used to Be Archenemies - Episode 2 - The (taking down of the) magical girl belongs to (no one but) me</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fbcb70082859a6ee804ddfe7d4e867691721133456_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/16/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J93Q/the-taking-down-of-the-magical-girl-belongs-to-no-one-but-me">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Having tea in the park is becoming a daily routine for them. Noticing that the<br>sleeve of Mira's coat is burned, Byakuya sews an applique.
+"The work of a magical girl<br>isn't as tough as I thought. I'm sure it's thanks to a kind strategist..." says<br>Byakuya.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Log Horizon 2 (Hindi Dub) - Episode 7 - The Maidens of Watermaple</h3></th>
 </tr>
@@ -479,210 +684,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Telugu Dub) - Episode 12 - A Steamy Hot Spring Trip, Part 2</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0228d51a22fdeaec1baa29b2f089136c1719241439_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JG27/a-steamy-hot-spring-trip-part-2">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Tamil Dub) - Episode 12 - A Steamy Hot Spring Trip, Part 2</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0228d51a22fdeaec1baa29b2f089136c1719241439_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN28N3/a-steamy-hot-spring-trip-part-2">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (French Dub) - Episode 12 - A Steamy Hot Spring Trip, Part 2</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0228d51a22fdeaec1baa29b2f089136c1719241439_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU4794V/a-steamy-hot-spring-trip-part-2">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (English Dub) - Episode 12 - A Steamy Hot Spring Trip, Part 2</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0228d51a22fdeaec1baa29b2f089136c1719241439_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE03E7/a-steamy-hot-spring-trip-part-2">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF - Episode 16 - Night of the Festival and Misaligned Gear</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4b620934bdc7c1fc97df400d652ce8241721062243_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7KD2/night-of-the-festival-and-misaligned-gear">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Amati learns about Holo's debt to Lawrence and announces that he will take on the<br>debt and ask Holo to marry him.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible - Episode 3 - A Super First-Rate Elite vs an F-Rank Ossan</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3c339b7fef4880462ad84f4a43cc06df1721062107_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/15/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMPEQ/a-super-first-rate-elite-vs-an-f-rank-ossan">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Rick begins his mock battle with the F-rank Crusher, Raster Diarmut. Raster thinks the gap<br>in ability between him, a genius, and Rick, a late-starting newbie, is all too clear.<br>But as the battle progresses, Rick's training begins to show through.</p>
 </td>
 </tr>
 </table>
