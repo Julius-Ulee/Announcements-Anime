@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 18, 2024, 7:56:46 AM</em></p>
+<p align="center"><em>Updated on: Jul 18, 2024, 7:24:35 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">The Strongest Magician in the Demon Lord's Army Was a Human (Hindi Dub) - Episode 1 - Ike, Commander of the Undying Brigade</h3></th>
+<th><h3 align="center">The Ancient Magus' Bride (Tamil Dub) - Episode 23 - Nothing seek, nothing find.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/51322ede89d203e2106a588de369108a1719407750_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/569a590833b86722d320d767a035ed251521299079_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82DKK/ike-commander-of-the-undying-brigade">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47ME9/nothing-seek-nothing-find">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Demon King's army continues to fight against humans. Ike, the leader of the Undying<br>Brigade, is the grandson of the great magician Romberg. Despite being respected, Ike hides his<br>human identity, fearing the disaster it would cause should it be known.</p>
+<p align="center">Elias earns the help of many, and they form a search party for Chise. Meanwhile,<br>Chise and Cartaphilus relive his past together.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Magician in the Demon Lord's Army Was a Human (Tamil Dub) - Episode 1 - Ike, Commander of the Undying Brigade</h3></th>
+<th><h3 align="center">The Ancient Magus' Bride (Telugu Dub) - Episode 23 - Nothing seek, nothing find.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/51322ede89d203e2106a588de369108a1719407750_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/569a590833b86722d320d767a035ed251521299079_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JGE0/ike-commander-of-the-undying-brigade">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WVX0/nothing-seek-nothing-find">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Demon King's army continues to fight against humans. Ike, the leader of the Undying<br>Brigade, is the grandson of the great magician Romberg. Despite being respected, Ike hides his<br>human identity, fearing the disaster it would cause should it be known.</p>
+<p align="center">Elias earns the help of many, and they form a search party for Chise. Meanwhile,<br>Chise and Cartaphilus relive his past together.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Magician in the Demon Lord's Army Was a Human (Telugu Dub) - Episode 1 - Ike, Commander of the Undying Brigade</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Tamil Dub) - Episode 12 - Hometown of the Dead III</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/51322ede89d203e2106a588de369108a1719407750_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/302c77203089922a2924a088d7bdee2b1703520565_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2805/ike-commander-of-the-undying-brigade">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMXK4/hometown-of-the-dead-iii">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Demon King's army continues to fight against humans. Ike, the leader of the Undying<br>Brigade, is the grandson of the great magician Romberg. Despite being respected, Ike hides his<br>human identity, fearing the disaster it would cause should it be known.</p>
+<p align="center">In order to save his father, Akira has to become a zombie. Faced with the<br>ultimate choice, what will he choose to do? Will Akira and his friends have to<br>give up on their list of 100 things they want to do before becoming zombies?</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (English Dub) - Episode 12 - Untitled</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Telugu Dub) - Episode 12 - Hometown of the Dead III</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d3e3a3f5fd2760d5ae2d61805c3edd1b1711549271_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/302c77203089922a2924a088d7bdee2b1703520565_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WVXP/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47MNX/hometown-of-the-dead-iii">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Adachi loses his powers after his night with Kurosawa. After accepting the Nagasaki transfer, he<br>and Kurosawa both struggle with being apart. But Adachi is filled with new determination to<br>make things work out, and has an idea...</p>
+<p align="center">In order to save his father, Akira has to become a zombie. Faced with the<br>ultimate choice, what will he choose to do? Will Akira and his friends have to<br>give up on their list of 100 things they want to do before becoming zombies?</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (English Dub) - Episode 11 - Untitled</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Tamil Dub) - Episode 11 - Hometown of the Dead II</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8174af33e0474a0021b263dcf191c3d51710941844_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d7819feceffbcda1f1af42033ac461881703513284_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47MEZ/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJMXQ/hometown-of-the-dead-ii">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">"I have to tell him." Adachi writes Kurosawa a letter to lay out his feelings<br>as clearly as he can. Tsuge tries to be content to cheer Minato on from<br>the shadows, but loneliness gets the better of him.</p>
+<p align="center">Akira and his friends split up to save the villagers from the massive swarm of<br>zombies. But zombies aren’t their only concern as Higurashi and his gang stand in their<br>way!</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (English Dub) - Episode 10 - Untitled</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Telugu Dub) - Episode 11 - Hometown of the Dead II</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/53beddf4f6f6836422141567a28dcc641710345314_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d7819feceffbcda1f1af42033ac461881703513284_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ52XD/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE038K/hometown-of-the-dead-ii">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Adachi tries to figure out how to mend his relationship with Kurosawa. As Minato tries<br>to chase his dream of being a professional dancer, Tsuge does his best to support<br>him.</p>
+<p align="center">Akira and his friends split up to save the villagers from the massive swarm of<br>zombies. But zombies aren’t their only concern as Higurashi and his gang stand in their<br>way!</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (English Dub) - Episode 9 - Untitled</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Tamil Dub) - Episode 10 - Hometown of the Dead I</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e27e1d3ddfd51324826fb38207fc8f7a1709741404_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4cfa44b7945ea122085c7547b87abbeb1703513032_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JGDJ/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9G78/hometown-of-the-dead-i">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsuge tries to mitigate the awkwardness between Minato and Rokkaku. Adachi gets an offer to<br>transfer to their company's newly-established Nagasaki branch, but worries about moving far away from Kurosawa<br>when they've only just started dating.</p>
+<p align="center">Together with the villagers and the people who escaped from Tokyo, Akira and his friends<br>help each other out while enjoying a brief moment of happiness.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (English Dub) - Episode 8 - Untitled</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Telugu Dub) - Episode 10 - Hometown of the Dead I</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5d6dfcfd0c8d191cfb4c76ed57c4b4271709139862_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4cfa44b7945ea122085c7547b87abbeb1703513032_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ05EX/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU479QN/hometown-of-the-dead-i">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Adachi agonizes over whether to tell Kurosawa the truth about his powers, Tsuge accompanies Minato<br>to a club and struggles with feeling out of place, and Kurosawa's jealousy gets the<br>better of him again at a work event.</p>
+<p align="center">Together with the villagers and the people who escaped from Tokyo, Akira and his friends<br>help each other out while enjoying a brief moment of happiness.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (English Dub) - Episode 7 - Untitled</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Tamil Dub) - Episode 9 - Treehouse of the Dead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3a6e47cf9aa1c2818e05ea62288929ba1708529591_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a04c5bed427321f3267b3dd07850319a1695623056_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG52EQ/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M9E2/treehouse-of-the-dead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kurosawa and Adachi go out on their first date together, and Adachi tries not to<br>let his nerves get the better of him.</p>
+<p align="center">With the only tunnel to the village sealed off, Akira and the others decide to<br>cut through the forest and cross the mountain. Along the way, they run into a<br>man who is constructing a treehouse. Akira’s eyes sparkle as he offers his assistance.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (English Dub) - Episode 6 - Untitled</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Telugu Dub) - Episode 9 - Treehouse of the Dead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3fffe3301d36cb1b4eabd39a2c2261ae1707919143_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a04c5bed427321f3267b3dd07850319a1695623056_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMX2X/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7E90/treehouse-of-the-dead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Spending time at work with Fujisaki makes Adachi finally come to a decision about his<br>feelings for Kurosawa. Meanwhile, as Tsuge agonizes over his crush on the deliveryman, they run<br>into each other out on the street.</p>
+<p align="center">With the only tunnel to the village sealed off, Akira and the others decide to<br>cut through the forest and cross the mountain. Along the way, they run into a<br>man who is constructing a treehouse. Akira’s eyes sparkle as he offers his assistance.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (English Dub) - Episode 5 - Untitled</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Tamil Dub) - Episode 8 - Sushi & Hot Springs of the Dead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5cbdf4d9958ea776ab063c17e98c33a81707315260_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eac66c867c0fca2ce17f21faf27613b21695035113_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG4PZ/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EXJV/sushi-hot-springs-of-the-dead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">"So much love for Adachi-san." As if things weren't messy enough after he impulsively invited<br>Rokkaku over to put a buffer between himself and Kurosawa, Adachi catches a glimpse of<br>Fujisaki's inner thoughts while at work.</p>
+<p align="center">With only a little farther to go until they reach Akira’s hometown in Gunma, the<br>gang runs into a German college student named Beatrix. Despite the zombie pandemic, she says<br>that she is determined to make her dream come true while she’s in Japan.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (English Dub) - Episode 4 - Untitled</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Telugu Dub) - Episode 8 - Sushi & Hot Springs of the Dead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/706fd2dfbf9daf10e1e5451cc0b239aa1706713501_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eac66c867c0fca2ce17f21faf27613b21695035113_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJM2X/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82D13/sushi-hot-springs-of-the-dead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsuge gets a surprise when he brushes hands with the new deliveryman and realizes he<br>too has mind-reading powers. Later, Adachi sees Kurosawa out with a girl and falls ill<br>after moping in the rain, but Kurosawa arrives to care for him.</p>
+<p align="center">With only a little farther to go until they reach Akira’s hometown in Gunma, the<br>gang runs into a German college student named Beatrix. Despite the zombie pandemic, she says<br>that she is determined to make her dream come true while she’s in Japan.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (English Dub) - Episode 3 - Untitled</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Tamil Dub) - Episode 7 - Truck Stop of the Dead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/03063d787138a89cec6d9aab1d23ac901706116581_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0891700be9736a3461d6b4365f72a6701693809265_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M9PZ/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ52J8/truck-stop-of-the-dead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Interactions with their coworkers at a company party cause Kurosawa's jealousy and Adachi's insecurity to<br>rear their heads. After an awkward visit to a sauna, Kurosawa reflects on how his<br>crush on Adachi started.</p>
+<p align="center">Robbed of his freedom, Akira’s mind stops functioning, similar to his time working at the<br>corporation. Seeing this, Shizuka is reminded of her own past. On the final day, with<br>Kosugi in complete control of his mind, Akira makes an astonishing decision.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (English Dub) - Episode 2 - Untitled</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Telugu Dub) - Episode 7 - Truck Stop of the Dead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/235d815eeee5f169c541a8eeb1bdf0981705506195_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0891700be9736a3461d6b4365f72a6701693809265_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1V55/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EX1V/truck-stop-of-the-dead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Adachi runs to his friend, romance novelist Masato Tsuge, for advice on his predicament, but<br>discovers a secret Tsuge's been hiding. Adachi uses his power to help Kurosawa at work,<br>but a drunken King's Game puts them in an awkward position.</p>
+<p align="center">Robbed of his freedom, Akira’s mind stops functioning, similar to his time working at the<br>corporation. Seeing this, Shizuka is reminded of her own past. On the final day, with<br>Kosugi in complete control of his mind, Akira makes an astonishing decision.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (English Dub) - Episode 1 - Untitled</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Tamil Dub) - Episode 6 - RV of the Dead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bb47f1ef3415fe7f75731d151d8c93361704905609_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b3bd1252f51a1a926526cd0cee6421081693216990_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EX8Z/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE0G0/rv-of-the-dead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">30-year-old virgin Kiyoshi Adachi discovers he has the ability to hear people's thoughts when he<br>touches them. It's mostly a daily annoyance, until his powers reveal that his handsome and<br>popular coworker Yuichi Kurosawa only has eyes for him!</p>
+<p align="center">Akira bids farewell to Tokyo and starts the journey back to his hometown, Gunma. But<br>first, he stops by a showroom in Saitama to get an RV. There he is<br>reunited with Shizuka. Akira tries to convince her to join up with him, but...</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Natsume Yujin-cho 5 (English Dub) - Episode 11 - To The Ephemeral Ones</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Telugu Dub) - Episode 6 - RV of the Dead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5d1ef79d35a53436534ba3a5181387591482225896_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b3bd1252f51a1a926526cd0cee6421081693216990_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WVJP/to-the-ephemeral-ones">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WV30/rv-of-the-dead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsume has come down with a cold after adventuring in the hills.  All of<br>his friends, both human and youkai, do their best to make him feel better. <br>As he lies in bed, he begins to realize how much the people around him<br>care for him, and how valuable the bonds he's established are.</p>
+<p align="center">Akira bids farewell to Tokyo and starts the journey back to his hometown, Gunma. But<br>first, he stops by a showroom in Saitama to get an RV. There he is<br>reunited with Shizuka. Akira tries to convince her to join up with him, but...</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Many Sides of Voice Actor Radio (Hindi Dub) - Episode 12 - Yuhi and Yasumi Want to Break Through</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Tamil Dub) - Episode 5 - Hero of the Dead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/063b9e4c652b61a5440f0bca757c7df71719385665_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d62f7af5600986dd7256be3a7aea98491691888978_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE03DE/yuhi-and-yasumi-want-to-break-through">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE03Q8/hero-of-the-dead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yumiko faces her final recording session, the biggest performance of her life, and her inner<br>conflict all at the same time... with a little help from someone special.</p>
+<p align="center">After remembering his childhood dream, Akira goes to the aquarium to grab an important item<br>he needs. Having found what he'd been searching for, he encounters a group of survivors<br>who are being chased by zombies. Among them is Miss Risk Analysis</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V (Portuguese Dub) - Episode 12 - And The One She Chooses Is</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Telugu Dub) - Episode 5 - Hero of the Dead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c201a8175db2351901de63617357bda71719407771_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d62f7af5600986dd7256be3a7aea98491691888978_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG52DQ/and-the-one-she-chooses-is">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5298/hero-of-the-dead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Shido and Mio face each other and convey their feelings, Westcott activates his terrifying<br>ritual. Can Shido and the others stop his plot from achieving fruition?</p>
+<p align="center">After remembering his childhood dream, Akira goes to the aquarium to grab an important item<br>he needs. Having found what he'd been searching for, he encounters a group of survivors<br>who are being chased by zombies. Among them is Miss Risk Analysis</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V (Spanish Dub) - Episode 12 - And The One She Chooses Is</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Tamil Dub) - Episode 4 - Flight Attendant of the Dead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c201a8175db2351901de63617357bda71719407771_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/feb8095e9ae3d4bbcb62ee1fa075eb7d1690791988_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ052X/and-the-one-she-chooses-is">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU479ZE/flight-attendant-of-the-dead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Shido and Mio face each other and convey their feelings, Westcott activates his terrifying<br>ritual. Can Shido and the others stop his plot from achieving fruition?</p>
+<p align="center">Akira and Kencho take a trip to Ikebukuro to snag a big-screen TV.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Date A Live V (English Dub) - Episode 12 - And The One She Chooses Is</h3></th>
+<th><h3 align="center">Zom 100: Bucket List of the Dead (Telugu Dub) - Episode 4 - Flight Attendant of the Dead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c201a8175db2351901de63617357bda71719407771_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/feb8095e9ae3d4bbcb62ee1fa075eb7d1690791988_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/17/2024</td>
+<td align="center">7/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7E83/and-the-one-she-chooses-is">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE0X0/flight-attendant-of-the-dead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Shido and Mio face each other and convey their feelings, Westcott activates his terrifying<br>ritual. Can Shido and the others stop his plot from achieving fruition?</p>
+<p align="center">Akira and Kencho take a trip to Ikebukuro to snag a big-screen TV.</p>
 </td>
 </tr>
 </table>
