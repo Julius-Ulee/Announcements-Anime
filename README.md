@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 24, 2024, 7:58:31 AM</em></p>
+<p align="center"><em>Updated on: Jul 24, 2024, 7:23:02 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,74 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Tamil Dub) - Episode 23 - Saved Souls</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/da52aef2d8bd20395e9f71f123838d4b1552295169_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M45X/saved-souls">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rimuru and the children reach the deepest level of the Dwelling of Spirits, where they<br>stand on a pedestal bathed in light to summon superior spirits. Will their summoning be<br>successful? Amidst the uncertainty, the first to attempt the summoning is Gale, followed by Alice,<br>Kenya, Ryota, and finally Chloe. But instead of a spirit, Chloe's summoning brings forth an<br>unknown spiritual form with an immense amount of energy. Just what is this spiritual being?<br>Ramiris seems to sense something about it...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Telugu Dub) - Episode 23 - Saved Souls</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/da52aef2d8bd20395e9f71f123838d4b1552295169_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">7/24/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNZD2/saved-souls">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rimuru and the children reach the deepest level of the Dwelling of Spirits, where they<br>stand on a pedestal bathed in light to summon superior spirits. Will their summoning be<br>successful? Amidst the uncertainty, the first to attempt the summoning is Gale, followed by Alice,<br>Kenya, Ryota, and finally Chloe. But instead of a spirit, Chloe's summoning brings forth an<br>unknown spiritual form with an immense amount of energy. Just what is this spiritual being?<br>Ramiris seems to sense something about it...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">TASUKETSU -Fate of the Majority- - Episode 4 - Transition</h3></th>
 </tr>
@@ -619,74 +687,6 @@ At a party for<br>the crown prince's birthday, assassin's make an attempt on his
 <tr>
 <td colspan="2">
 <p align="center">A massive flock of wyverns suddenly attacks the town of Saphir!  The party tries<br>their best to protect the town, but the Odyssey knights are constantly flinging themselves to<br>their deaths.  Meanwhile, Roe-2 looks at the brutal combat and doesn't even blink an<br>eye...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Log Horizon 2 (Spanish Dub) - Episode 19 - The Red Night</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5533244d1389a01796183bcabeddaeee1423768788_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/23/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WE89/the-red-night">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">A massive flock of wyverns suddenly attacks the town of Saphir!  The party tries<br>their best to protect the town, but the Odyssey knights are constantly flinging themselves to<br>their deaths.  Meanwhile, Roe-2 looks at the brutal combat and doesn't even blink an<br>eye...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Log Horizon 2 (Portugese Dub) - Episode 18 - When the Concert Ends</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c792cd468ad372868076438ea1e29ab81423281052_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">7/23/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNZ73/when-the-concert-ends">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Dareila joins the party at the Boxurt mountains, and the group stops at the town<br>of Saphir.  Isuzu learns that the reason the land people enjoy her songs so<br>much is because the world only has 42 songs in total.  She gets very<br>sad and stays in her room, but then a giant flock of wyverns descend upon<br>the town.</p>
 </td>
 </tr>
 </table>
