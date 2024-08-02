@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Aug 1, 2024, 7:24:00 PM</em></p>
+<p align="center"><em>Updated on: Aug 2, 2024, 7:57:53 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,516 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">The Café Terrace and Its Goddesses (German Dub) - Episode 14 - A Bolt from the Blue</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b315a14d7b410a5aa58c10f97308a7811720707716_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMQ3Q/a-bolt-from-the-blue">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Ouka realizes that all six of the current Familia staff are the grandkids of the<br>six waitresses who once worked at Hayato's grandpa's coffee shop. Could it really be just<br>a coincidence? Meanwhile, Fuwa opens a new café restaurant called Family...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Café Terrace and Its Goddesses (Spanish Dub) - Episode 14 - A Bolt from the Blue</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b315a14d7b410a5aa58c10f97308a7811720707716_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5V33/a-bolt-from-the-blue">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Ouka realizes that all six of the current Familia staff are the grandkids of the<br>six waitresses who once worked at Hayato's grandpa's coffee shop. Could it really be just<br>a coincidence? Meanwhile, Fuwa opens a new café restaurant called Family...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">BARTENDER Glass of God (English Dub) - Episode 2 - Old Pal/One for the Road</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/88f978b4c931f2d34500a4017bc3ae811712760933_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJG1M/old-palone-for-the-road">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Ryu encounters an impossibly difficult-to-please customer while he's helping out at another bar. When a<br>foul-mouthed customer wanders into Edenhall, Ryu will have to think outside the box and even<br>the bar to serve her.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Senpai is an Otokonoko - Episode 5 - Special</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d6c2251567431e8ec3fb60282b36b4321722538766_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK948P/special">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Saki and Ryuji attend a basketball game that Makoto is playing in. While watching, Ryuji<br>asks Saki if she really loves Makoto. When she asks him the same question, Ryuji<br>says...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Pseudo Harem (Portuguese Dub) - Episode 2 - Confession?</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2df624018ff8e79ac476e76ac1b5a7591720707698_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1QPW/confession">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The number of characters Rin plays in front of Eiji keeps increasing. When it is<br>revealed that Rin has a younger sister, she plays a little sister character. During the<br>cultural festival, strange characters also begin to emerge.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Pseudo Harem (Spanish Dub) - Episode 2 - Confession?</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2df624018ff8e79ac476e76ac1b5a7591720707698_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MW7Q/confession">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The number of characters Rin plays in front of Eiji keeps increasing. When it is<br>revealed that Rin has a younger sister, she plays a little sister character. During the<br>cultural festival, strange characters also begin to emerge.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Twilight Out of Focus (English Dub) - Episode 3 - Our Feelings Aren't Always Pretty</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8cd34278abf2098654d80c9bac31198c1721290255_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM21W/our-feelings-arent-always-pretty">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Preoccupied with their fragile promises, Mao tries to film Hisashi's kiss scene but gets distracted<br>and is injured on set. Hisashi carries Mao to the nurse's office and, when alone,<br>asks Mao to express his true feelings. Mao opens his heart to Hisashi...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Twilight Out of Focus (Hindi Dub) - Episode 2 - Pick Me</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a4b356e7d934004059e2106ac8cd43fe1720704678_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ51VG/pick-me">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mao prepares to shoot the BL movie for his film club. Hisashi gets ready to<br>play the handsome, troubled, gay lead. Mao starts to feel something beyond friendship toward Hisashi,<br>but is bound by their promise. However, the night before the shoot begins...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Days with My Stepsister (Hindi Dub) - Episode 2 - A Deal and a Fried Egg</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8d71733f0cf0c3253a40d226a0aab9af1720687799_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEJW8/a-deal-and-a-fried-egg">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">At school, Yuta notices that there are some sensational rumors circulating about Saki due to<br>her striking appearance. When he tries to talk to her about it, it quickly becomes<br>clear that there is much more to the story than the rumors suggest.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells - Episode 5 - The Chain Known as Trust</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/68e082bc20a1fd6b3bc7ecbb0a5a69151722533703_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M5G5/the-chain-known-as-trust">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Touka asks Seras to guard him on his way to the Land of Golden-Eyed Monsters.<br>They agree to meet after the reward ceremony for conquering the ruins, but Seras doesn't<br>show even long afte the appointed time...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Café Terrace and Its Goddesses - Episode 17 - A Hot Spring Trip for the Familia Party</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/49329a4b2ba5221bdfaf2ced80ef2e261722533668_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47EPX/a-hot-spring-trip-for-the-familia-party">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Café Restaurant Family reopens as Chiyoda Diner, and the Familia crew are among the first<br>to sample its Japanese-style cuisine. As they're leaving, Ririka gives Riho a ticket for two<br>to a hot spring inn. Will Riho finally get some alone time with Hayato?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Pseudo Harem - Episode 5 - Summer Vacation</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f7ca6e810394c9bfc80107b02bc412b51722513252_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47ZG8/summer-vacation">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Eiji meets Rin's younger sister Ayaka, who sheds some interesting new insights about her big<br>sister right before summer vacation begins.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Ramen Akaneko - Episode 5 - Brushing Makes a Cat Talkative / The Calm Superior / Way To Go!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/916f402e39754cf55d983cf11e10fce71722513216_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82WZM/brushing-makes-a-cat-talkative-the-calm-superior-way-to-go">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Tamako brushes Krishna, who is irritable lately due to shedding season. Bunzo, Sasaki and Sabu<br>share old stories about the staff with Tamako, who expresses that she wants to get<br>to know everyone better.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Twilight Out of Focus - Episode 5 - Kikuchihara Jin's Troubles</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/60dd846a3b885aa6a80c59964b7106591722503133_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEG2V/kikuchihara-jins-troubles">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Popular film club president Kikuchihara Jin is regularly berated by his younger rival, Ichikawa Giichi.<br>During a violent argument one day, the two accidentally kiss. Due to an unexpected family<br>issue, Giichi is then assigned to become Jin's new roommate.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Days with My Stepsister - Episode 5 - A Late Show and the Real Deal</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1115d788a4132e7eca3d481a75a048db1722503019_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82W7M/a-late-show-and-the-real-deal">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Shiori invites Yuta to a late showing of a movie adaptation of a book she<br>enjoys. Saki takes an interest and goes to the bookstore the next day, where she<br>meets Shiori for the first time.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Digimon Savers - Episode 48 - A Final Finish!  Farewell, Fighting Bancho</h3></th>
 </tr>
@@ -173,516 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Masaru is determined to get by Craniummon to confront Yggdrasil once again, but he'll have<br>to contend with the warrior's unbreakable shield.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 43 - Might Makes Right!  Beast Knight Duftmon</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cf10e931a4ac92271751eaa5a9f2903f1722387487_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2D80/might-makes-right-beast-knight-duftmon">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The disaster sweeps a group of Baby Digimon into the Human World, where Yoshino, Ikuto,<br>and the Daimon family attempt to take care of them.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 42 - My Dad's Feelings  Touma's Burst Mode of Determination</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a7aa858184ae0633ecb237ef2a0e08051722387365_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82ED9/my-dads-feelings-toumas-burst-mode-of-determination">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Royal Knights' attacks leave Touma's family under direct threat. Touma struggles to keep them<br>safe, while dealing with his resentment of his nobleman father.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 41 - I'll Find Out With My Fists!  My Dad's Feelings</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8333da1ed24a8eae541bc93f62f80b3c1722387252_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5V2X/ill-find-out-with-my-fists-my-dads-feelings">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Yggdrasil's revelations leave Masaru feeling shaken. While the Royal Knights commence their attack on the<br>Human World, he reflects on the last day he saw his father.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 40 - The Strongest Warriors  Royal Knights, Assemble!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d540bb537c7238df1b552c364618926a1722387133_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG249/the-strongest-warriors-royal-knights-assemble">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The team attempts to meet with Yggdrasil, but they are stopped by Craniummon, one of<br>the Royal Knight protectors of the Digital World's god.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 39 - Annihilate the Human World!  Yggdrasil's Decision</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c362d574f03e8e30df03b908164ef1481722387005_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU074Q0/annihilate-the-human-world-yggdrasils-decision">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The aftermath of the battle with Belphemon leaves both worlds in peril. The Digital World's<br>god, Yggdrasil, reviews past events and considers its stance on humanity.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 38 - Burst Mode  A Power Beyond Ultimate</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0371b037d110af7f883b0199c4a73fd61722386889_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNW9E/burst-mode-a-power-beyond-ultimate">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The battle with Belphemon reaches its climax, with the fate of the Human World on<br>the line. Will Agumon wake up in time? And will their power be enough?!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 37 - Awaken, Agumon  Defeat Belphemon!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/28aaa34afb06d87ead3c92635ca0a5671722386766_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1QK1/awaken-agumon-defeat-belphemon">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With Belphemon's power wreaking havoc on the city, it's an all-hands-on-deck situation... but Agumon is<br>still trapped in a DigiEgg. Can the others save the day without him?!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 36 - Demon Lord Belphemon Revives</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dbd394303e084fb4d88b78f1aa6470fe1722386646_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM2Q2/demon-lord-belphemon-revives">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">While Yushima investigates the reasons for Touma's betrayal, Kurata enacts his own endgame: the revival<br>of Demon Lord Belphemon!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 35 - The Power of Destruction  ShineGreymon's Rampage</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d2df5caea9398dd140bbfd0b559038561722386527_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U479NM/the-power-of-destruction-shinegreymons-rampage">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Masaru fights Touma, enraged by the latters betrayal. His unchecked anger allows ShineGreymon to achieve<br>a more powerful evolution, but...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 34 - Day of Farewell  Touma, the Ultimate Foe!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3a00aacb1cadd82e1a651a3ad638772a1722386356_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEJ5X/day-of-farewell-touma-the-ultimate-foe">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Touma, beginning to doubt DATS's cause, returns to his family home, where he's offered a<br>devil's bargain to save his ailing sister.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 33 - The Final Battle!  Kouki's Ultimate Digivolution</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0d3add028d137e830757d6c748aeba701722386226_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47MQX/the-final-battle-koukis-ultimate-digivolution">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With the fight dragged back into the Human World, Masaru and ShineGreymon face down against<br>Kouki, an arrogant brawler who uses innocents as shields.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 32 - Kurata's Army Surges  Protect the Holy Capital</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b060ff9e025fd469548d2f02cfb4d1e81722386114_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2D70/kuratas-army-surges-protect-the-holy-capital">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">While the battle for the Holy Capital rages, Yoshino attempts to defend the fortress from<br>Ivan, who has no qualms with the work Kurata has hired him to do.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 31 - Genius Battle!  Touma vs Nanami</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/129463a5aba6375586ca3ca552c6d45a1722385993_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82E19/genius-battle-touma-vs-nanami">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">While leading the defense of the Holy Capital, Touma encounters Nanami, who has a proposal<br>to make for him...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 30 - Masaru Imprisoned  The Holy Capital Trap</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/757af8126e72971418a00c68e2a971491722385871_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5VKX/masaru-imprisoned-the-holy-capital-trap">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The DATS team arrives at the Holy Capital, the last bastion of Digimon resistance against<br>Kurata's army. But the reception they get is less than welcoming...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Digimon Savers - Episode 29 - Digivices Revived  A New Shine</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b0c8b6d77454182b801f05f507d7b6ed1722385754_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG2Z9/digivices-revived-a-new-shine">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The team seeks out Strangers' Cape, the only lead they have for restoring their digivices.<br>But in place of the researchers' mansion, they find a dojo run by BanchoLeomon.</p>
 </td>
 </tr>
 </table>
