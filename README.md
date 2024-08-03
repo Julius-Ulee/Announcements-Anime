@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Aug 3, 2024, 7:57:26 AM</em></p>
+<p align="center"><em>Updated on: Aug 3, 2024, 7:21:20 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,176 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Case Closed (Detective Conan) - Episode 1131 - The Suspected Infidelity of the Triple Collab (Part Two)</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e53f95f15fad25361d2705cd8e16a9d61722684025_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/3/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1VZ5/the-suspected-infidelity-of-the-triple-collab-part-two">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A poisoning occurs at the restaurant where Conan and the Detective Boys are dining, but<br>without knowing how to plant the poison, the investigation grinds to a halt. Detective Kobayashi<br>looks to Conan for advice…</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">My Hero Academia Season 7 - Episode 150 - Those Who Defend, Those Who Violate</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/65ad614940fb037c58a3ff0b8b33e0831722671283_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/3/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM273/those-who-defend-those-who-violate">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Bakugo surprised Shigaraki/All For One with Cluster but was then cruelly pierced through. The heroes<br>in all the different locations are getting pushed back... But even so, they will not<br>give up!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Assassination Classroom Second Season (Tamil Dub) - Episode 3 - Itona Horibe Time</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7a2705234cab6d42b59c9453ec7a4ff11499221752_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/3/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2DKX/itona-horibe-time">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Koro Sensei faces off against the powerful, tentacled Itona and his handler Shiro yet again,<br>revealing more of his teaching philosophy along the way.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Assassination Classroom Second Season (Telugu Dub) - Episode 3 - Itona Horibe Time</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7a2705234cab6d42b59c9453ec7a4ff11499221752_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/3/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7XDZ/itona-horibe-time">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Koro Sensei faces off against the powerful, tentacled Itona and his handler Shiro yet again,<br>revealing more of his teaching philosophy along the way.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shadowverse Flame - Episode 91 - Destruction is All That Awaits You</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b48d9f24e24ba5404ce0c973ac746b0f1722634120_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/3/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07QED/destruction-is-all-that-awaits-you">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">CARDFIGHT!! VANGUARD Divinez Season 2 - Episode 5 - Supreme Love For The Ever-changing You</h3></th>
 </tr>
@@ -525,205 +695,6 @@ Machine lifeforms are currently confirmed to be in temporary confusion<br>and ch
 Seeing this as an opportunity to annihilate the enemy, the  issues an<br>order for all YoRHa units to commence an all-out attack on the machine lifeforms.
 
 This unit,<br>in collaboration with 9S, the designated partner of this tactical support unit, will begin its<br>mission to oversee the Type S models in a coordinated mission.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">NieR:Automata Ver1.1a (English Dub) - Episode 13 - reckless bra[V]ery</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/abe9eef38109190a948a0a4cad66b9e21720193819_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JNW5/reckless-bravery">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Synopsis
-▶▶ Pod 042 - Report:
-
-5012 AD.
-Lifeforms from outer space, otherwise known as , suddenly begin<br>their invasion of Earth. 
-Mankind escapes to the moon, and the ground battle between the<br> and the  has continued for a long time.
-
-11945 AD.
-The  has commenced.
- Soldiers<br> and  now engage in the plan to recapture Earth.
-
-While on a mission near<br>the City Ruins, they receive a request from the Resistance to find a missing android.<br>
-Both 2B and 9S consider that the missing android may be related to their current<br>investigation ordered by Command. 
-Proposal: Begin the search for relevant android.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">NieR:Automata Ver1.1a - Episode 17 - bad [J]udgment</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7d12dcc032884c2896a5f3f03b6e11c41722610982_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47EV9/bad-judgment">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">▶▶ Pod 042 - Report:
-
-A damaged sector of the memory area found in subject of<br>this unit's support.
-Commence restoration of remaining data. 
-___________________________________________________________________________________________________________
-December 8th, 11941. 
-It was decided that a<br>combat mission would be carried out by  Soldiers which is comprised of newer models.
-As<br>we descend down into Earth, machine lifeforms suddenly attacked us, but we were saved by<br>older models of android. 
-
-■■■■
-■■■■■■■■
-■■■■
-■■■■■■■■■■■■■■■■ 
-
-……I will never forget this. 
-The comrades I fought alongside,<br>my ■■ .
-___________________________________________________</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 - Episode 65 - The Lightspeed Hero</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b44699c45d3eac808aad31851567231c1722608548_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0PKJ/the-lightspeed-hero">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After learning about an elf slave trade, Rimuru had Soei investigate, but it turns out<br>the slave traders have already been shut down by Masayuki, the Lightspeed Hero. Word is<br>now spreading that the Hero is headed to Tempest to slay a Demon Lord...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Bye Bye, Earth - Episode 4 - Spell of Proof Still Distant</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3145c9e3c017222940fc557e1d879f431722605790_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WZ38/spell-of-proof-still-distant">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With her first divinely appointed duty behind her, Belle waits impatiently for a second call<br>to arms. She explores Park City in the meantime, until a chance meeting with the<br>enigmatic solist Adonis piques her curiosity.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">2.5 Dimensional Seduction - Episode 5</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0817405557c9d5dd422ede36f3372f971722601723_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0QX5">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
 </td>
 </tr>
 </table>
