@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Aug 2, 2024, 7:23:12 PM</em></p>
+<p align="center"><em>Updated on: Aug 3, 2024, 7:57:26 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">DEAD DEAD DEMONS DEDEDEDE DESTRUCTION - Episode 10 - Episode 10</h3></th>
+<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez Season 2 - Episode 5 - Supreme Love For The Ever-changing You</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/12b088cff2bac14897361f3aa35fa8ba1722564275_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd20d6aca833229cd5e6e60c661485681722630326_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JGZ2/episode-10">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMJ2W/supreme-love-for-the-ever-changing-you">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Oran encounters the invader who has taken over Oba's body and decides to temporarily house<br>him with Kadode. Meanwhile, the JSDF and other organizations begin a public hunt for the<br>invaders after their existence is announced to the public.</p>
+<p align="center">Yuna Saionji, a strong player in Net Vanguard, has an intense admiration for the supreme<br>idol "Mi-tan." The incredible wish that Yuna wants is...!? Will victory go to the Supreme<br>or the Ever-changing?!</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEAD DEAD DEMONS DEDEDEDE DESTRUCTION (English Dub) - Episode 10 - Episode 10</h3></th>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 25 - The One Piece Effect at SDCC 2024 </h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f4de4d3025478111702241d7c14d66511722564297_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/89cb61a3fd110ed2ffeda033258a4f4b1722636429_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG2VP/episode-10">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5J2Z/the-one-piece-effect-at-sdcc-2024-">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Oran encounters the invader who has taken over Oba's body and decides to temporarily house<br>him with Kadode. Meanwhile, the JSDF and other organizations begin a public hunt for the<br>invaders after their existence is announced to the public.</p>
+<p align="center">We’re celebrating 25 years of One Piece with the English voices of some of your<br>favorite One Piece villains at SDCC 2024. LeAlec Murray and guest host Josellie Rios discover<br>what it’s like to play the villain from English voice actors Robert McCollum (Donquixote Doflamingo),<br>Chris Rager (Blackbeard & Arlong), and Kent Williams (Kuro & Dr. Vegapunk). PLUS, we hear<br>from Matt Mercer (English voice of Trafalgar Law) and major One Piece fans Julian Brandt<br>and Karim Adeyemi from the professional soccer team Borussia Dortmund.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Café Terrace and Its Goddesses (German Dub) - Episode 14 - A Bolt from the Blue</h3></th>
+<th><h3 align="center">Bye Bye, Earth (English Dub) - Episode 2 - Wherefore in the Earthshine</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b315a14d7b410a5aa58c10f97308a7811720707716_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/64c078a501d14315c5e2d600b0ee94e11721392697_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMQ3Q/a-bolt-from-the-blue">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM3Z2/wherefore-in-the-earthshine">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ouka realizes that all six of the current Familia staff are the grandkids of the<br>six waitresses who once worked at Hayato's grandpa's coffee shop. Could it really be just<br>a coincidence? Meanwhile, Fuwa opens a new café restaurant called Family...</p>
+<p align="center">Belle has arrived in Park City, determined to go on a journey and find her<br>people. But she needs royal permission to leave the country, and a barroom brawl lands<br>her in prison before she even gets a chance to ask for it.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Café Terrace and Its Goddesses (Spanish Dub) - Episode 14 - A Bolt from the Blue</h3></th>
+<th><h3 align="center">Bye Bye, Earth (Portuguese Dub) - Episode 1 - Departure at the Red Hour</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b315a14d7b410a5aa58c10f97308a7811720707716_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bd84a4b66b1e5227fb0625513285d47f1720792680_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5V33/a-bolt-from-the-blue">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5VKV/departure-at-the-red-hour">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ouka realizes that all six of the current Familia staff are the grandkids of the<br>six waitresses who once worked at Hayato's grandpa's coffee shop. Could it really be just<br>a coincidence? Meanwhile, Fuwa opens a new café restaurant called Family...</p>
+<p align="center">Villagers call on a wandering swordsman to rid them of a lake monster, but he<br>sends his apprentice: a girl like none of them have ever seen. She may know<br>how to fight, but can she ever feel at home in a world that sees<br>her as a freak?</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BARTENDER Glass of God (English Dub) - Episode 2 - Old Pal/One for the Road</h3></th>
+<th><h3 align="center">Bye Bye, Earth (Spanish Dub) - Episode 1 - Departure at the Red Hour</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/88f978b4c931f2d34500a4017bc3ae811712760933_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bd84a4b66b1e5227fb0625513285d47f1720792680_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJG1M/old-palone-for-the-road">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U471Q7/departure-at-the-red-hour">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ryu encounters an impossibly difficult-to-please customer while he's helping out at another bar. When a<br>foul-mouthed customer wanders into Edenhall, Ryu will have to think outside the box and even<br>the bar to serve her.</p>
+<p align="center">Villagers call on a wandering swordsman to rid them of a lake monster, but he<br>sends his apprentice: a girl like none of them have ever seen. She may know<br>how to fight, but can she ever feel at home in a world that sees<br>her as a freak?</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Senpai is an Otokonoko - Episode 5 - Special</h3></th>
+<th><h3 align="center">Bye Bye, Earth (German Dub) - Episode 1 - Departure at the Red Hour</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d6c2251567431e8ec3fb60282b36b4321722538766_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bd84a4b66b1e5227fb0625513285d47f1720792680_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK948P/special">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2W07N/departure-at-the-red-hour">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Saki and Ryuji attend a basketball game that Makoto is playing in. While watching, Ryuji<br>asks Saki if she really loves Makoto. When she asks him the same question, Ryuji<br>says...</p>
+<p align="center">Villagers call on a wandering swordsman to rid them of a lake monster, but he<br>sends his apprentice: a girl like none of them have ever seen. She may know<br>how to fight, but can she ever feel at home in a world that sees<br>her as a freak?</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Pseudo Harem (Portuguese Dub) - Episode 2 - Confession?</h3></th>
+<th><h3 align="center">Bye Bye, Earth (Hindi Dub) - Episode 1 - Departure at the Red Hour</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2df624018ff8e79ac476e76ac1b5a7591720707698_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bd84a4b66b1e5227fb0625513285d47f1720792680_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1QPW/confession">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM1KK/departure-at-the-red-hour">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The number of characters Rin plays in front of Eiji keeps increasing. When it is<br>revealed that Rin has a younger sister, she plays a little sister character. During the<br>cultural festival, strange characters also begin to emerge.</p>
+<p align="center">Villagers call on a wandering swordsman to rid them of a lake monster, but he<br>sends his apprentice: a girl like none of them have ever seen. She may know<br>how to fight, but can she ever feel at home in a world that sees<br>her as a freak?</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Pseudo Harem (Spanish Dub) - Episode 2 - Confession?</h3></th>
+<th><h3 align="center">Bye Bye, Earth (Tamil Dub) - Episode 1 - Departure at the Red Hour</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2df624018ff8e79ac476e76ac1b5a7591720707698_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bd84a4b66b1e5227fb0625513285d47f1720792680_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MW7Q/confession">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EK2N/departure-at-the-red-hour">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The number of characters Rin plays in front of Eiji keeps increasing. When it is<br>revealed that Rin has a younger sister, she plays a little sister character. During the<br>cultural festival, strange characters also begin to emerge.</p>
+<p align="center">Villagers call on a wandering swordsman to rid them of a lake monster, but he<br>sends his apprentice: a girl like none of them have ever seen. She may know<br>how to fight, but can she ever feel at home in a world that sees<br>her as a freak?</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Twilight Out of Focus (English Dub) - Episode 3 - Our Feelings Aren't Always Pretty</h3></th>
+<th><h3 align="center">Bye Bye, Earth (Telugu Dub) - Episode 1 - Departure at the Red Hour</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8cd34278abf2098654d80c9bac31198c1721290255_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bd84a4b66b1e5227fb0625513285d47f1720792680_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM21W/our-feelings-arent-always-pretty">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1PMX/departure-at-the-red-hour">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Preoccupied with their fragile promises, Mao tries to film Hisashi's kiss scene but gets distracted<br>and is injured on set. Hisashi carries Mao to the nurse's office and, when alone,<br>asks Mao to express his true feelings. Mao opens his heart to Hisashi...</p>
+<p align="center">Villagers call on a wandering swordsman to rid them of a lake monster, but he<br>sends his apprentice: a girl like none of them have ever seen. She may know<br>how to fight, but can she ever feel at home in a world that sees<br>her as a freak?</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Twilight Out of Focus (Hindi Dub) - Episode 2 - Pick Me</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (English Dub) - Episode 63 - Audience</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a4b356e7d934004059e2106ac8cd43fe1720704678_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3a3694d11da33c947877a487ab9c96e81721392778_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ51VG/pick-me">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0MZG/audience">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Mao prepares to shoot the BL movie for his film club. Hisashi gets ready to<br>play the handsome, troubled, gay lead. Mao starts to feel something beyond friendship toward Hisashi,<br>but is bound by their promise. However, the night before the shoot begins...</p>
+<p align="center">Numerous representatives from across the Great Forest of Jura have assembled in Tempest to congratulate<br>Rimuru on his appointment to Demon Lord. Shuna requests holding a three-day audience to meet<br>with them.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Days with My Stepsister (Hindi Dub) - Episode 2 - A Deal and a Fried Egg</h3></th>
+<th><h3 align="center">The Irregular at Magic High School Season 3 (English Dub) - Episode 12 - Ancient City Insurrection Part IV</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8d71733f0cf0c3253a40d226a0aab9af1720687799_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a32af5078c2fc68de05732e0eb79462c1718983021_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEJW8/a-deal-and-a-fried-egg">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5VKG/ancient-city-insurrection-part-iv">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">At school, Yuta notices that there are some sensational rumors circulating about Saki due to<br>her striking appearance. When he tries to talk to her about it, it quickly becomes<br>clear that there is much more to the story than the rumors suggest.</p>
+<p align="center">As Tatsuya is researching the Traditionalist bases in Kyoto under Minoru's guidance, he meets the<br>owner of a restaurant, who is also a Traditionalist, on the way to Kiyomizu Temple.<br>The shop owner shares that he is concerned about the current state of Nara's Traditionalist<br>sects being absorbed by casters from the Continent and offers to share information with Tatsuya.<br>Based on the restaurant owner's information, Tatsuya narrows down a place in Kyoto where the<br>Traditionalists are hiding. He meets with Mayumi, who wants to find the culprit who killed<br>Nakura, and Masaki, who happened to come across them during a battle against the Traditionalists,<br>and heads to Arashiyama with them.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells - Episode 5 - The Chain Known as Trust</h3></th>
+<th><h3 align="center">The Misfit of Demon King Academy Ⅱ (French Dub) - Episode 23 - The Promise Made in a Dream</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/68e082bc20a1fd6b3bc7ecbb0a5a69151722533703_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d33bb61058605f13d97549aa540138bd1720026077_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M5G5/the-chain-known-as-trust">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU471P3/the-promise-made-in-a-dream">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Touka asks Seras to guard him on his way to the Land of Golden-Eyed Monsters.<br>They agree to meet after the reward ceremony for conquering the ruins, but Seras doesn't<br>show even long afte the appointed time...</p>
+<p align="center">Ceris, commander of the Phantom Knights, who claims to be Anos' father, says that Militia<br>gave Anos false memories. After Ceris leaves, Arcana, unable to recover her memories of Anos,<br>falls into a dream once again. In her memory of 2,000 years ago, Arcana hears<br>a secret about herself from Ceris. Anos reincarnates Arcana to protect her, but his wish<br>for her at the time was…</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Café Terrace and Its Goddesses - Episode 17 - A Hot Spring Trip for the Familia Party</h3></th>
+<th><h3 align="center">The Misfit of Demon King Academy Ⅱ(English Dub) - Episode 21 - Demon King Hymn No. 6 "Neighbors"</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/49329a4b2ba5221bdfaf2ced80ef2e261722533668_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f6da069163af96fe8cd533eac8919b3b1718374871_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47EPX/a-hot-spring-trip-for-the-familia-party">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7DJZ/demon-king-hymn-no-6-neighbors">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Café Restaurant Family reopens as Chiyoda Diner, and the Familia crew are among the first<br>to sample its Japanese-style cuisine. As they're leaving, Ririka gives Riho a ticket for two<br>to a hot spring inn. Will Riho finally get some alone time with Hayato?</p>
+<p align="center">The sacred Sojourner’s Psalm to be performed at the Divine Dragon Festival is in danger<br>of being cancelled due to Ahide’s schemes! Ellen and the Anos Fan Union are asked<br>to take the stage instead as the Dilhade Demon King Choir. The Draconids are drawn<br>in by their song and begin to sing along. Meanwhile, while trying to pursue and<br>capture Ahide, Anos encounters Dietrich, the King of Agatha, who has received a prophecy from<br>the Goddess of the Future Naphta.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Pseudo Harem - Episode 5 - Summer Vacation</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (Portugese Dub) - Episode 14 - mission [F]ailed</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f7ca6e810394c9bfc80107b02bc412b51722513252_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/393abb4497cc077d066a84276367525d1720795348_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,23 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47ZG8/summer-vacation">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMQMQ/mission-failed">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Eiji meets Rin's younger sister Ayaka, who sheds some interesting new insights about her big<br>sister right before summer vacation begins.</p>
+<p align="center">▶▶ Pod 153 - Report:
+
+YoHRa Soldiers 2B and 9S both succeed in destroying machine lifeform<br>core units  and . 
+Machine lifeforms are currently confirmed to be in temporary confusion<br>and chaos. 
+Seeing this as an opportunity to annihilate the enemy, the  issues an<br>order for all YoRHa units to commence an all-out attack on the machine lifeforms.
+
+This unit,<br>in collaboration with 9S, the designated partner of this tactical support unit, will begin its<br>mission to oversee the Type S models in a coordinated mission.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +494,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ramen Akaneko - Episode 5 - Brushing Makes a Cat Talkative / The Calm Superior / Way To Go!</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (Spanish Dub) - Episode 14 - mission [F]ailed</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/916f402e39754cf55d983cf11e10fce71722513216_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/393abb4497cc077d066a84276367525d1720795348_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +508,23 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82WZM/brushing-makes-a-cat-talkative-the-calm-superior-way-to-go">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5V53/mission-failed">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tamako brushes Krishna, who is irritable lately due to shedding season. Bunzo, Sasaki and Sabu<br>share old stories about the staff with Tamako, who expresses that she wants to get<br>to know everyone better.</p>
+<p align="center">▶▶ Pod 153 - Report:
+
+YoHRa Soldiers 2B and 9S both succeed in destroying machine lifeform<br>core units  and . 
+Machine lifeforms are currently confirmed to be in temporary confusion<br>and chaos. 
+Seeing this as an opportunity to annihilate the enemy, the  issues an<br>order for all YoRHa units to commence an all-out attack on the machine lifeforms.
+
+This unit,<br>in collaboration with 9S, the designated partner of this tactical support unit, will begin its<br>mission to oversee the Type S models in a coordinated mission.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +534,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Twilight Out of Focus - Episode 5 - Kikuchihara Jin's Troubles</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (English Dub) - Episode 13 - reckless bra[V]ery</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/60dd846a3b885aa6a80c59964b7106591722503133_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/abe9eef38109190a948a0a4cad66b9e21720193819_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +548,30 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEG2V/kikuchihara-jins-troubles">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JNW5/reckless-bravery">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Popular film club president Kikuchihara Jin is regularly berated by his younger rival, Ichikawa Giichi.<br>During a violent argument one day, the two accidentally kiss. Due to an unexpected family<br>issue, Giichi is then assigned to become Jin's new roommate.</p>
+<p align="center">Synopsis
+▶▶ Pod 042 - Report:
+
+5012 AD.
+Lifeforms from outer space, otherwise known as , suddenly begin<br>their invasion of Earth. 
+Mankind escapes to the moon, and the ground battle between the<br> and the  has continued for a long time.
+
+11945 AD.
+The  has commenced.
+ Soldiers<br> and  now engage in the plan to recapture Earth.
+
+While on a mission near<br>the City Ruins, they receive a request from the Resistance to find a missing android.<br>
+Both 2B and 9S consider that the missing android may be related to their current<br>investigation ordered by Command. 
+Proposal: Begin the search for relevant android.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +581,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Days with My Stepsister - Episode 5 - A Late Show and the Real Deal</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a - Episode 17 - bad [J]udgment</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1115d788a4132e7eca3d481a75a048db1722503019_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7d12dcc032884c2896a5f3f03b6e11c41722610982_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +595,33 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82W7M/a-late-show-and-the-real-deal">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47EV9/bad-judgment">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shiori invites Yuta to a late showing of a movie adaptation of a book she<br>enjoys. Saki takes an interest and goes to the bookstore the next day, where she<br>meets Shiori for the first time.</p>
+<p align="center">▶▶ Pod 042 - Report:
+
+A damaged sector of the memory area found in subject of<br>this unit's support.
+Commence restoration of remaining data. 
+___________________________________________________________________________________________________________
+December 8th, 11941. 
+It was decided that a<br>combat mission would be carried out by  Soldiers which is comprised of newer models.
+As<br>we descend down into Earth, machine lifeforms suddenly attacked us, but we were saved by<br>older models of android. 
+
+■■■■
+■■■■■■■■
+■■■■
+■■■■■■■■■■■■■■■■ 
+
+……I will never forget this. 
+The comrades I fought alongside,<br>my ■■ .
+___________________________________________________</p>
 </td>
 </tr>
 </table>
@@ -590,12 +631,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Digimon Savers - Episode 48 - A Final Finish!  Farewell, Fighting Bancho</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 - Episode 65 - The Lightspeed Hero</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/44e9724bcb94de96d471ef248977b2091722388147_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b44699c45d3eac808aad31851567231c1722608548_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +645,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0X50/a-final-finish-farewell-fighting-bancho">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0PKJ/the-lightspeed-hero">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The battle with Yggdrasil is settled and the fate of both worlds is sealed. The<br>Digimon and the humans make their final decisions for how to live their lives moving<br>on.</p>
+<p align="center">After learning about an elf slave trade, Rimuru had Soei investigate, but it turns out<br>the slave traders have already been shut down by Masayuki, the Lightspeed Hero. Word is<br>now spreading that the Hero is headed to Tempest to slay a Demon Lord...</p>
 </td>
 </tr>
 </table>
@@ -624,12 +665,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Digimon Savers - Episode 47 - Protect the Future!  DATS's Final Battle</h3></th>
+<th><h3 align="center">Bye Bye, Earth - Episode 4 - Spell of Proof Still Distant</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/395497d402be2da2c08eb19655c544cf1722388029_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3145c9e3c017222940fc557e1d879f431722605790_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +679,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM242/protect-the-future-datss-final-battle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WZ38/spell-of-proof-still-distant">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the Human and Digital Worlds still hurtling towards each other, the DATS team struggles<br>against Yggdrasil, igniting the will to live in both human- and Digimon-kind!</p>
+<p align="center">With her first divinely appointed duty behind her, Belle waits impatiently for a second call<br>to arms. She explores Park City in the meantime, until a chance meeting with the<br>enigmatic solist Adonis piques her curiosity.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +699,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Digimon Savers - Episode 46 - Shockwave!  The Truth About BanchoLeomon</h3></th>
+<th><h3 align="center">2.5 Dimensional Seduction - Episode 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e9216f824bd8a388ab843563da3ebc791722387907_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0817405557c9d5dd422ede36f3372f971722601723_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +713,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/1/2024</td>
+<td align="center">8/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U479MM/shockwave-the-truth-about-bancholeomon">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0QX5">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Masaru struggles to get through to Yggdrasil, BanchoLeomon reveals the truth of his own<br>origins and fills in the last of the mystery's pieces.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
