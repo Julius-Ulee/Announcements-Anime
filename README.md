@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Aug 3, 2024, 7:21:20 PM</em></p>
+<p align="center"><em>Updated on: Aug 4, 2024, 8:02:35 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Case Closed (Detective Conan) - Episode 1131 - The Suspected Infidelity of the Triple Collab (Part Two)</h3></th>
+<th><h3 align="center">Why Does Nobody Remember Me in This World? (English Dub) - Episode 2 - Rinne</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e53f95f15fad25361d2705cd8e16a9d61722684025_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9dd17eef969cb211042b95147130dbf21721470089_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1VZ5/the-suspected-infidelity-of-the-triple-collab-part-two">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEW4J/rinne">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A poisoning occurs at the restaurant where Conan and the Detective Boys are dining, but<br>without knowing how to plant the poison, the investigation grinds to a halt. Detective Kobayashi<br>looks to Conan for advice…</p>
+<p align="center">In the graveyard where the demons were entombed in his world, Kai finds a girl<br>whom he cannot identify as any of the known races. When she asks him for<br>help, he doesn't hesitate for long. After freeing her from her chains, mysterious things happen<br>again.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia Season 7 - Episode 150 - Those Who Defend, Those Who Violate</h3></th>
+<th><h3 align="center">Why Does Nobody Remember Me in This World?( (Hindi Dub) - Episode 1 - The Boy Forgotten by the World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/65ad614940fb037c58a3ff0b8b33e0831722671283_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/384ec924c0a53c39135a74205490614a1720879842_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM273/those-who-defend-those-who-violate">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU471D9/the-boy-forgotten-by-the-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Bakugo surprised Shigaraki/All For One with Cluster but was then cruelly pierced through. The heroes<br>in all the different locations are getting pushed back... But even so, they will not<br>give up!</p>
+<p align="center">Kai's duty as a member of the Human Protection Agency is to ensure that the<br>four races from The Great War are kept sealed in their graveyards. Humanity has been<br>at peace for 100 years, until one day a portal opens and the world he's<br>known ceases to exist.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom Second Season (Tamil Dub) - Episode 3 - Itona Horibe Time</h3></th>
+<th><h3 align="center">Makeine: Too Many Losing Heroines! (English Dub) - Episode 2 - The Promised Failure for You</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7a2705234cab6d42b59c9453ec7a4ff11499221752_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/76225a8b58ae4fe72fdb052b83c59fa11721489974_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2DKX/itona-horibe-time">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82J35/the-promised-failure-for-you">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Koro Sensei faces off against the powerful, tentacled Itona and his handler Shiro yet again,<br>revealing more of his teaching philosophy along the way.</p>
+<p align="center">Lemon goes to the gym storage room to talk to Nukumizu. They get locked in<br>but are rescued just before they pass out from the heat. Lemon's crush Mitsuki shows<br>up at the nurse's office with a get well gift. Later, the two visit the<br>lit club together...</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom Second Season (Telugu Dub) - Episode 3 - Itona Horibe Time</h3></th>
+<th><h3 align="center">Makeine: Too Many Losing Heroines! (Hindi Dub) - Episode 1 - Professional Childhood Friend Yanami Anna's Style of Losing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7a2705234cab6d42b59c9453ec7a4ff11499221752_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ab0f8a610587215a5cd9ea6249980f9c1720884504_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7XDZ/itona-horibe-time">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGEM7/professional-childhood-friend-yanami-annas-style-of-losing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Koro Sensei faces off against the powerful, tentacled Itona and his handler Shiro yet again,<br>revealing more of his teaching philosophy along the way.</p>
+<p align="center">Nukumizu Kazuhiko, a loner with a love for light novels, accidentally sees popular Yanami Anna<br>being rejected by her childhood friend. This leads to unexpected interactions with other seemingly defeated<br>girls like clufrom the track team and Chika Komari from the literature club.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shadowverse Flame - Episode 91 - Destruction is All That Awaits You</h3></th>
+<th><h3 align="center">Makeine: Too Many Losing Heroines! (Tamil Dub) - Episode 1 - Professional Childhood Friend Yanami Anna's Style of Losing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b48d9f24e24ba5404ce0c973ac746b0f1722634120_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ab0f8a610587215a5cd9ea6249980f9c1720884504_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07QED/destruction-is-all-that-awaits-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM3G2/professional-childhood-friend-yanami-annas-style-of-losing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Nukumizu Kazuhiko, a loner with a love for light novels, accidentally sees popular Yanami Anna<br>being rejected by her childhood friend. This leads to unexpected interactions with other seemingly defeated<br>girls like clufrom the track team and Chika Komari from the literature club.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez Season 2 - Episode 5 - Supreme Love For The Ever-changing You</h3></th>
+<th><h3 align="center">Makeine: Too Many Losing Heroines! (Telugu Dub) - Episode 1 - Professional Childhood Friend Yanami Anna's Style of Losing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd20d6aca833229cd5e6e60c661485681722630326_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ab0f8a610587215a5cd9ea6249980f9c1720884504_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMJ2W/supreme-love-for-the-ever-changing-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG53Z9/professional-childhood-friend-yanami-annas-style-of-losing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuna Saionji, a strong player in Net Vanguard, has an intense admiration for the supreme<br>idol "Mi-tan." The incredible wish that Yuna wants is...!? Will victory go to the Supreme<br>or the Ever-changing?!</p>
+<p align="center">Nukumizu Kazuhiko, a loner with a love for light novels, accidentally sees popular Yanami Anna<br>being rejected by her childhood friend. This leads to unexpected interactions with other seemingly defeated<br>girls like clufrom the track team and Chika Komari from the literature club.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 25 - The One Piece Effect at SDCC 2024 </h3></th>
+<th><h3 align="center">The Elusive Samurai (Hindi Dub) - Episode 2 - The Gentle Uncle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/89cb61a3fd110ed2ffeda033258a4f4b1722636429_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a86c8d8bbf8286fb52985b37052b09961720878584_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5J2Z/the-one-piece-effect-at-sdcc-2024-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN428/the-gentle-uncle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">We’re celebrating 25 years of One Piece with the English voices of some of your<br>favorite One Piece villains at SDCC 2024. LeAlec Murray and guest host Josellie Rios discover<br>what it’s like to play the villain from English voice actors Robert McCollum (Donquixote Doflamingo),<br>Chris Rager (Blackbeard & Arlong), and Kent Williams (Kuro & Dr. Vegapunk). PLUS, we hear<br>from Matt Mercer (English voice of Trafalgar Law) and major One Piece fans Julian Brandt<br>and Karim Adeyemi from the professional soccer team Borussia Dortmund.</p>
+<p align="center">Takauji Ashikaga, once considered the guardian of the Kamakura shogunate, stages a rebellion that led<br>to its quick destruction.  Tokiyuki’s older brother, Kunitoki, successfully evades the eyes of the<br>warriors loyal to Takauji, and he is placed under the care of their uncle, Muneshige<br>Godaiin.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Bye Bye, Earth (English Dub) - Episode 2 - Wherefore in the Earthshine</h3></th>
+<th><h3 align="center">The Elusive Samurai (English Dub) - Episode 1 - May 22nd</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/64c078a501d14315c5e2d600b0ee94e11721392697_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/951bb075a57703047f1451244fd119111720277693_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM3Z2/wherefore-in-the-earthshine">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07GVM/may-22nd">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Belle has arrived in Park City, determined to go on a journey and find her<br>people. But she needs royal permission to leave the country, and a barroom brawl lands<br>her in prison before she even gets a chance to ask for it.</p>
+<p align="center">The year is 1333, Kamakura.  Tokiyuki Hojo, the rightful heir to the regent who<br>rules the Kamakura shogunate, is a kind boy with a heart of gold who dislikes<br>conflict – even though he’s the son of a warrior.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Bye Bye, Earth (Portuguese Dub) - Episode 1 - Departure at the Red Hour</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (English Dub) - Episode 149 - Light Fades to Rain</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bd84a4b66b1e5227fb0625513285d47f1720792680_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8250f2a458b3184b2875b567504c84b71721465198_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5VKV/departure-at-the-red-hour">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U471J7/light-fades-to-rain">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Villagers call on a wandering swordsman to rid them of a lake monster, but he<br>sends his apprentice: a girl like none of them have ever seen. She may know<br>how to fight, but can she ever feel at home in a world that sees<br>her as a freak?</p>
+<p align="center">Bakugo's Howitzer Impact didn't work against Shigaraki/All For One, either, and Bakugo is pushed into<br>a corner by Shigaraki's power and words. In order to get him out of that<br>predicament, U.A.'s Big Three take a stand!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Bye Bye, Earth (Spanish Dub) - Episode 1 - Departure at the Red Hour</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (Portuguese Dub) - Episode 148 - Wounded Hero, Burning Bright and True!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bd84a4b66b1e5227fb0625513285d47f1720792680_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e919fb518287b54a2fb5d9c2e025c82f1720853935_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U471Q7/departure-at-the-red-hour">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47129/wounded-hero-burning-bright-and-true">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Villagers call on a wandering swordsman to rid them of a lake monster, but he<br>sends his apprentice: a girl like none of them have ever seen. She may know<br>how to fight, but can she ever feel at home in a world that sees<br>her as a freak?</p>
+<p align="center">Before the threat of All For One, Endeavor falls, and Hawks, Jiro, and Tokoyami are<br>also cornered. Even so, Jiro acts like a hero! Endeavor is also encouraged after looking<br>back at his own life.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Bye Bye, Earth (German Dub) - Episode 1 - Departure at the Red Hour</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (German Dub) - Episode 148 - Wounded Hero, Burning Bright and True!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bd84a4b66b1e5227fb0625513285d47f1720792680_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e919fb518287b54a2fb5d9c2e025c82f1720853935_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2W07N/departure-at-the-red-hour">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEWMJ/wounded-hero-burning-bright-and-true">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Villagers call on a wandering swordsman to rid them of a lake monster, but he<br>sends his apprentice: a girl like none of them have ever seen. She may know<br>how to fight, but can she ever feel at home in a world that sees<br>her as a freak?</p>
+<p align="center">Before the threat of All For One, Endeavor falls, and Hawks, Jiro, and Tokoyami are<br>also cornered. Even so, Jiro acts like a hero! Endeavor is also encouraged after looking<br>back at his own life.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Bye Bye, Earth (Hindi Dub) - Episode 1 - Departure at the Red Hour</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (Italian Dub) - Episode 148 - Wounded Hero, Burning Bright and True!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bd84a4b66b1e5227fb0625513285d47f1720792680_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e919fb518287b54a2fb5d9c2e025c82f1720853935_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM1KK/departure-at-the-red-hour">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5V0V/wounded-hero-burning-bright-and-true">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Villagers call on a wandering swordsman to rid them of a lake monster, but he<br>sends his apprentice: a girl like none of them have ever seen. She may know<br>how to fight, but can she ever feel at home in a world that sees<br>her as a freak?</p>
+<p align="center">Before the threat of All For One, Endeavor falls, and Hawks, Jiro, and Tokoyami are<br>also cornered. Even so, Jiro acts like a hero! Endeavor is also encouraged after looking<br>back at his own life.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Bye Bye, Earth (Tamil Dub) - Episode 1 - Departure at the Red Hour</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 (Spanish Dub) - Episode 147 - Extras</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bd84a4b66b1e5227fb0625513285d47f1720792680_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0f8413f50d02d4d4f1a51d42cb2f58781719640420_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EK2N/departure-at-the-red-hour">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0MNG/extras">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Villagers call on a wandering swordsman to rid them of a lake monster, but he<br>sends his apprentice: a girl like none of them have ever seen. She may know<br>how to fight, but can she ever feel at home in a world that sees<br>her as a freak?</p>
+<p align="center">Shoto Todoroki stopped Dabi with his Great Glacial Aegir, and reports of that bolstered the<br>spirits of the heroes fighting in other locations. And Shoto and Dabi's father, Endeavor, is<br>facing the greatest evil, All For One, with Hawks!</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Bye Bye, Earth (Telugu Dub) - Episode 1 - Departure at the Red Hour</h3></th>
+<th><h3 align="center">SHOSHIMIN: How to become Ordinary - Episode 4 - Mind of a Lone Wolf</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bd84a4b66b1e5227fb0625513285d47f1720792680_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a533047100ed5cf0d5b8e028cd35b53a1722700420_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1PMX/departure-at-the-red-hour">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ515G/mind-of-a-lone-wolf">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Villagers call on a wandering swordsman to rid them of a lake monster, but he<br>sends his apprentice: a girl like none of them have ever seen. She may know<br>how to fight, but can she ever feel at home in a world that sees<br>her as a freak?</p>
+<p align="center">Kobato, along with Kengo, tries to get to the bottom of Sakagami's motives. It seems<br>there is more to the case than initially suspected. However, Kobato's concern for Osanai is<br>also growing.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (English Dub) - Episode 63 - Audience</h3></th>
+<th><h3 align="center">Makeine: Too Many Losing Heroines! - Episode 4 - When You Stare into a Losing Heroine, the Losing Heroine Stares Back into You</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3a3694d11da33c947877a487ab9c96e81721392778_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b07b681894d57f5fb86fe5e23a8161b31722699386_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0MZG/audience">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0Q1D/when-you-stare-into-a-losing-heroine-the-losing-heroine-stares-back-into-you">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Numerous representatives from across the Great Forest of Jura have assembled in Tempest to congratulate<br>Rimuru on his appointment to Demon Lord. Shuna requests holding a three-day audience to meet<br>with them.</p>
+<p align="center">Komari confesses to Tamaki and then runs away. Tensions between Tamaki and Koto also flare<br>up. Koto packs her things and leaves the campground.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Irregular at Magic High School Season 3 (English Dub) - Episode 12 - Ancient City Insurrection Part IV</h3></th>
+<th><h3 align="center">ATRI -My Dear Moments- - Episode 4 - Crabs and Electricity are Important</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a32af5078c2fc68de05732e0eb79462c1718983021_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cf72684ebd26c33c699805771799fc1f1722699342_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5VKG/ancient-city-insurrection-part-iv">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U47NME/crabs-and-electricity-are-important">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Tatsuya is researching the Traditionalist bases in Kyoto under Minoru's guidance, he meets the<br>owner of a restaurant, who is also a Traditionalist, on the way to Kiyomizu Temple.<br>The shop owner shares that he is concerned about the current state of Nara's Traditionalist<br>sects being absorbed by casters from the Continent and offers to share information with Tatsuya.<br>Based on the restaurant owner's information, Tatsuya narrows down a place in Kyoto where the<br>Traditionalists are hiding. He meets with Mayumi, who wants to find the culprit who killed<br>Nakura, and Masaki, who happened to come across them during a battle against the Traditionalists,<br>and heads to Arashiyama with them.</p>
+<p align="center">Natsuki sets his heart on creating a tidal power generator that utilizes the ebb and<br>flow of the ocean's tides. He dives back into the ocean to find some materials<br>and salvages some resin from the ruins of Ryuuji's family's factory. As soon as he<br>gets back he gets to work. As they are working, Natsuki and Ryuuji exchange heated<br>opinions over how the generator should be built. Atri intervenes and the two guys become<br>closer friends. Meanwhile, a suspicious-looking character peeks at them from outside of the school....</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Misfit of Demon King Academy Ⅱ (French Dub) - Episode 23 - The Promise Made in a Dream</h3></th>
+<th><h3 align="center">The Elusive Samurai - Episode 5 - Settling the Score! A Dog-Shooting Competition and then…</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d33bb61058605f13d97549aa540138bd1720026077_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0e6501b76d62ee1808d4e133c502b2861722699236_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,18 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU471P3/the-promise-made-in-a-dream">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMJMK/settling-the-score-a-dog-shooting-competition-and-then">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ceris, commander of the Phantom Knights, who claims to be Anos' father, says that Militia<br>gave Anos false memories. After Ceris leaves, Arcana, unable to recover her memories of Anos,<br>falls into a dream once again. In her memory of 2,000 years ago, Arcana hears<br>a secret about herself from Ceris. Anos reincarnates Arcana to protect her, but his wish<br>for her at the time was…</p>
+<p align="center">"Tokiyuki faces off against Sadamune in a dog-shooting competition, even though his opponent excels with<br>the bow and possesses an almost prodigy-like eye for detail.
+With a large lead in points,<br>Tokiyuki faces defeat as he gets hit."</p>
 </td>
 </tr>
 </table>
@@ -590,12 +591,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Misfit of Demon King Academy Ⅱ(English Dub) - Episode 21 - Demon King Hymn No. 6 "Neighbors"</h3></th>
+<th><h3 align="center">Sakuna: Of Rice and Ruin - Episode 5 - Kinta Repays His Debt</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f6da069163af96fe8cd533eac8919b3b1718374871_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/172692596226200f319287be2da632a91722684387_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +605,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7DJZ/demon-king-hymn-no-6-neighbors">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WG9K/kinta-repays-his-debt">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The sacred Sojourner’s Psalm to be performed at the Divine Dragon Festival is in danger<br>of being cancelled due to Ahide’s schemes! Ellen and the Anos Fan Union are asked<br>to take the stage instead as the Dilhade Demon King Choir. The Draconids are drawn<br>in by their song and begin to sing along. Meanwhile, while trying to pursue and<br>capture Ahide, Anos encounters Dietrich, the King of Agatha, who has received a prophecy from<br>the Goddess of the Future Naphta.</p>
+<p align="center">Sakuna tries to set Yui up with Kinta, but when Yui suddenly disappears and a<br>crane appears instead, she and Kinta set out to search for this mysterious creature.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +625,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">NieR:Automata Ver1.1a (Portugese Dub) - Episode 14 - mission [F]ailed</h3></th>
+<th><h3 align="center">Why Does Nobody Remember Me in This World? - Episode 4 - Thus, the World Was Recorded</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/393abb4497cc077d066a84276367525d1720795348_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/803812741a363db09e9923aed7f1860b1722694002_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,23 +639,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMQMQ/mission-failed">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNGZ9/thus-the-world-was-recorded">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">▶▶ Pod 153 - Report:
-
-YoHRa Soldiers 2B and 9S both succeed in destroying machine lifeform<br>core units  and . 
-Machine lifeforms are currently confirmed to be in temporary confusion<br>and chaos. 
-Seeing this as an opportunity to annihilate the enemy, the  issues an<br>order for all YoRHa units to commence an all-out attack on the machine lifeforms.
-
-This unit,<br>in collaboration with 9S, the designated partner of this tactical support unit, will begin its<br>mission to oversee the Type S models in a coordinated mission.</p>
+<p align="center">While Kai and Rinne confront the heroine of the demons, one of those mysterious beings<br>reappears and tries to remove Vanessa from the world. However, Vanessa manages to fight it<br>off. She then turns her attention back to Kai and Rinne.</p>
 </td>
 </tr>
 </table>
@@ -664,12 +659,12 @@ This unit,<br>in collaboration with 9S, the designated partner of this tactical 
 
 <table align="center">
 <tr>
-<th><h3 align="center">NieR:Automata Ver1.1a (Spanish Dub) - Episode 14 - mission [F]ailed</h3></th>
+<th><h3 align="center">My Wife Has No Emotion - Episode 6 - My Wife Left Me (for Two Weeks)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/393abb4497cc077d066a84276367525d1720795348_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/175054a71abc11115f7f7ac8ebb804d31722696247_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -678,23 +673,17 @@ This unit,<br>in collaboration with 9S, the designated partner of this tactical 
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/2/2024</td>
+<td align="center">8/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5V53/mission-failed">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5EK8/my-wife-left-me-for-two-weeks">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">▶▶ Pod 153 - Report:
-
-YoHRa Soldiers 2B and 9S both succeed in destroying machine lifeform<br>core units  and . 
-Machine lifeforms are currently confirmed to be in temporary confusion<br>and chaos. 
-Seeing this as an opportunity to annihilate the enemy, the  issues an<br>order for all YoRHa units to commence an all-out attack on the machine lifeforms.
-
-This unit,<br>in collaboration with 9S, the designated partner of this tactical support unit, will begin its<br>mission to oversee the Type S models in a coordinated mission.</p>
+<p align="center">The proceedings turn out to be something other than business as usual when an Ichijo<br>Robotics employee drops by to collect Mina for her scheduled upgrades and maintenance.</p>
 </td>
 </tr>
 </table>
