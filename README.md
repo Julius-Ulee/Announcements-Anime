@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Aug 13, 2024, 8:00:05 AM</em></p>
+<p align="center"><em>Updated on: Aug 13, 2024, 7:25:20 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (English Dub) - Episode 18 - Goods of Intent and Negotiation of Resolve</h3></th>
+<th><h3 align="center">Log Horizon 2 (Hindi Dub) - Episode 11 - Retry</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f3222cfe9595a6d4f38c37b95a925b1d1722274505_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e2b9e5d0a47d1c1c1e43223c82f0a96b1418427406_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/12/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE00N3/goods-of-intent-and-negotiation-of-resolve">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEEQZ/retry">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lawrence seeks help from Mr. Batos to acquire pyrite from the alchemists. When he speaks<br>with Diana, she makes him an offer...</p>
+<p align="center">With honesty and renewed sense of comradery the team has a small chance of winning<br>an unbeatable raid.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (German Dub) - Episode 17 - Traveling Merchant's Shallow Thinking and Town Merchant's Signboard</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 28 - It Would Be Embarrassing When We Met Again</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e9452ae25688ac30bfb173def97273721721660742_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fccf5fe3454a077e0d68299b7453e5121711114121_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/12/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ773M/traveling-merchants-shallow-thinking-and-town-merchants-signboard">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JJX3/it-would-be-embarrassing-when-we-met-again">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lawrence tries to persuade Amati into a special deal. This could determine the outcome of<br>their agreement...</p>
+<p align="center">As the first-class mage exam concludes and the test-takers go their separate ways, farewell leads<br>to departure - but the next stage of Frieren's journey has only just begun.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (French Dub) - Episode 17 - Traveling Merchant's Shallow Thinking and Town Merchant's Signboard</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 27 - An Era of Humans</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e9452ae25688ac30bfb173def97273721721660742_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/87a75d6cd7468397e75311ed1dee58d31710511818_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/12/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU4772Q/traveling-merchants-shallow-thinking-and-town-merchants-signboard">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG55ME/an-era-of-humans">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lawrence tries to persuade Amati into a special deal. This could determine the outcome of<br>their agreement...</p>
+<p align="center">With the second test behind them, only one remains - but first, Frieren and Fern<br>need to settle an important matter in town. What awaits them in the third test?</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY (English Dub) - Episode 17 - Storming In</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 26 - The Height of Magic</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/258fdd4aad94c7f8a4fdb885cebe4faf1722261106_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8190c1e5388f2f83a19f9fd550d355801709908851_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/12/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ00N4/storming-in">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGGDN/the-height-of-magic">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shy and the team she's put together infiltrate the black orb and begin their rescue<br>mission. They're beset by a member of Amarariku who squares up against Mianlong, man-to-man.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY (Portuguese Dub) - Episode 16 - Cloud in the Dark</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 25 - A Fatal Vulnerability</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9cff11738218d7485edaa02fbbda51881721657163_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56674020dfd38ca7445e9d1c340e81ea1709305367_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/12/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U477JK/cloud-in-the-dark">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK998M/a-fatal-vulnerability">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When an impenetrable black orb completely engulfs the heart of Tokyo, heroes from all over<br>the world are summoned to discuss how to handle it. Shy finds herself thrust into<br>a leadership role and is tasked with organizing a team to infiltrate the orb.</p>
+<p align="center">A perfect imitation of Frieren stands between the test-takers and victory, but Fern believes she<br>knows how to win. Is it time for the student to surpass the master?</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY (German Dub) - Episode 16 - Cloud in the Dark</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 24 - Perfect Replicas</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9cff11738218d7485edaa02fbbda51881721657163_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ddefe54ecd4b64728dd2aebaae6284601708700271_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/12/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WW74/cloud-in-the-dark">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX11E3/perfect-replicas">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When an impenetrable black orb completely engulfs the heart of Tokyo, heroes from all over<br>the world are summoned to discuss how to handle it. Shy finds herself thrust into<br>a leadership role and is tasked with organizing a team to infiltrate the orb.</p>
+<p align="center">Due to the Spiegel, a legendary monster that can create perfect replicas of others, the<br>test-takers who would conquer the Ruins of the King's Tomb must first face the ultimate<br>enemy: themselves.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY (Spanish Dub) - Episode 16 - Cloud in the Dark</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 23 - Conquering the Labyrinth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9cff11738218d7485edaa02fbbda51881721657163_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f3560639fe0f53c64bf6e25cd84fb1e91708082146_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/12/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMMKZ/cloud-in-the-dark">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EEG2/conquering-the-labyrinth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When an impenetrable black orb completely engulfs the heart of Tokyo, heroes from all over<br>the world are summoned to discuss how to handle it. Shy finds herself thrust into<br>a leadership role and is tasked with organizing a team to infiltrate the orb.</p>
+<p align="center">The aspiring first-class mages now face their second test: conquering the Ruins of the King's<br>Tomb. A simple task, or so the proctor claims, but there's a reason this particular<br>dungeon remains unexplored.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF - Episode 19 - God's Unseen Hand and Wolf's Unseen Heart</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 22 - Future Enemies</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d7aaf3cc8ffa16c2dc362eb80ca4e9721723482815_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9c5901edffefae3af8732ebad4a5a51b1707491556_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/12/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE9W0/gods-unseen-hand-and-wolfs-unseen-heart">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WW2W/future-enemies">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The price of pyrite keeps rising, but when Diana's representative appears and informs him of<br>the failed deal, Lawrence's plan collapses. Has he lost the bet against Amati and, consequently,<br>Holo?</p>
+<p align="center">After the conclusion of the first test, the exam participants have some time to kill<br>in town. What do mages get up to on their days off?</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible - Episode 6 - The King of Fists Elimination Tournament</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 21 - The World of Magic</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/440b10b01da13cb5e4d534cc13286edb1723453220_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1bff419f590742822f733d968b2bfece1706866862_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/12/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MQEW/the-king-of-fists-elimination-tournament">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ55Q1/the-world-of-magic">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rick and the others head to Heractopia to look for information on the Six Jewels.<br>A parade for an upcoming tournament makes them realize that what they seek might be<br>closer than they think, but there's only one way to know for sure. Enter the<br>tournament!</p>
+<p align="center">Frieren, Kanne, and Lawine struggle with the 13th party over possession of the Stille, but<br>there'll be more surprises in store before their battle, and the first test, reach their<br>conclusion.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY - Episode 18 - Nothing Is Permanent</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 20 - Necessary Killing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/17908eae35df46d5a8857e070571aea41723453256_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5084aa3fa2b746c4d94ce982a02f53831706275610_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/12/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M7EM/nothing-is-permanent">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU4774Q/necessary-killing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The infiltration team is forced to deal with the trolly problem presented by Kufufu. In<br>the aftermath, Ai reflects on her perception of Amarariruku and shares the details of her<br>relationship with one of its members.</p>
+<p align="center">The first-class mage exam intensifies as fighting breaks out between the participants - and what's<br>at stake might even be worth killing for.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">MAYONAKA PUNCH - Episode 6 - Ichiko's Wish</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 19 - Well-Laid Plans</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/084b81daacd4dc388e922d33aae1cbe91723448957_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/edc57dc72424d622047aa9ff632722d01705668067_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/12/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MEZ8/ichikos-wish">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JJ23/well-laid-plans">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A rowdy night of drinking ends in massive property damage. Now it's up to Ichiko<br>to talk Mother out of tearing down Banpai Manor, their beloved home.</p>
+<p align="center">Frieren and her new teammates hatch a plan to capture a Stille - but are<br>the other teams just going to stand by and let it happen?</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream (English Dub) - Episode 4 - Episode 4</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 18 - First-Class Mage Exam</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c86dd782177732124ae324f0c108bd071722176427_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8b67d3369e6d5cff70354925f129e47a1705032276_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/11/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJJ3Z/episode-4">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU8228G/first-class-mage-exam">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While riding the high of her newfound ability to afford games, Awayuki foolishly orders the<br>instrument of pain known as the bane of many a VTuber... the infamous fitness game.</p>
+<p align="center">Frieren and party finally arrive in Äußerst, ready to undergo the first-class mage exam, and<br>meet a number of colorful characters who are there to do the same.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream (Spanish Dub) - Episode 3 - Episode 3</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 17 - Take Care</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cfea7c7bd334371a28bb331745b3b3da1721571041_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e18f2ee07942246cd068fad9d154adaa1704458527_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/11/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK99N4/episode-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG55GE/take-care">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Now down one working mic, Awayuki drops in on her genmate Chami for a replacement...<br>and also discovers the side of her that she doesn't show on stream.</p>
+<p align="center">Now that Sein finally has a lead on the whereabouts of his long-lost friend, is<br>it time for him and Frieren's party to part ways?</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream (Hindi Dub) - Episode 3 - Episode 3</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 16 - Long-Lived Friends</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cfea7c7bd334371a28bb331745b3b3da1721571041_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/089ef00e4cd07c88f94f19cc748bcb991703259561_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/11/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU077XK/episode-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGGVN/long-lived-friends">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Now down one working mic, Awayuki drops in on her genmate Chami for a replacement...<br>and also discovers the side of her that she doesn't show on stream.</p>
+<p align="center">Frieren pays a visit to Old Man Voll, a long-lived friend of hers, with traveling<br>companions in tow.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream (Portuguese Dub) - Episode 3 - Episode 3</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 15 - Smells Like Trouble</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cfea7c7bd334371a28bb331745b3b3da1721571041_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0632aa850feca384b1586dedbafc75771702649756_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/11/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ00KV/episode-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK99KM/smells-like-trouble">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Now down one working mic, Awayuki drops in on her genmate Chami for a replacement...<br>and also discovers the side of her that she doesn't show on stream.</p>
+<p align="center">When the party happens upon a town whose inhabitants are all mysteriously asleep, it's time<br>for their newest traveling companion to prove his mettle.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Portuguese Dub) - Episode 3 - Order & Watcher</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 14 - Privilege of the Young</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b02cc1f90d5eacc4d4c5c9e9574cde331721550394_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/571e40382b362b8e079a1c1105f9aa121702044026_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/11/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0V0V/order-watcher">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MM00/privilege-of-the-young">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lady Elfaria issues an order to the academy—gather Frost Walker ice cores. Will quickly heads<br>into the dungeon, but it's already full of others trying to fulfill the order. As<br>he looks for a less crowded area, he spots a fellow student under attack!</p>
+<p align="center">The party arrives in a large and lively town with a bustling shopping district that<br>Frieren once visited with Himmel, but something seems to have come up between Fern and<br>Stark.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (German Dub) - Episode 3 - Order & Watcher</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 13 - Aversion to One's Own Kind</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b02cc1f90d5eacc4d4c5c9e9574cde331721550394_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/daec8c87d3d141cb4db3862d6dbce8e61701407594_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/11/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82J22/order-watcher">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX11X3/aversion-to-ones-own-kind">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lady Elfaria issues an order to the academy—gather Frost Walker ice cores. Will quickly heads<br>into the dungeon, but it's already full of others trying to fulfill the order. As<br>he looks for a less crowded area, he spots a fellow student under attack!</p>
+<p align="center">While passing by a village in the woods of the northern lands, Frieren and party<br>meet Sein, a gifted priest who is nonetheless corrupt enough to give even Heiter a<br>run for his money. But what happened in his past?</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (French Dub) - Episode 3 - Order & Watcher</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 12 - A Real Hero</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b02cc1f90d5eacc4d4c5c9e9574cde331721550394_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a4fb43dd94ffef24c89c737cb582d9d71700837484_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/11/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN22GW/order-watcher">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMMDX/a-real-hero">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lady Elfaria issues an order to the academy—gather Frost Walker ice cores. Will quickly heads<br>into the dungeon, but it's already full of others trying to fulfill the order. As<br>he looks for a less crowded area, he spots a fellow student under attack!</p>
+<p align="center">Deep in the mountains of the northern lands, Frieren and her party arrive at the<br>Village of the Sword, where they have another job to do.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Spanish Dub) - Episode 3 - Order & Watcher</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 11 - Winter in the Northern Lands</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b02cc1f90d5eacc4d4c5c9e9574cde331721550394_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1d362c34b136f3d7dae0f8e2483d292c1700200761_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/11/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU477P4/order-watcher">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5571/winter-in-the-northern-lands">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lady Elfaria issues an order to the academy—gather Frost Walker ice cores. Will quickly heads<br>into the dungeon, but it's already full of others trying to fulfill the order. As<br>he looks for a less crowded area, he spots a fellow student under attack!</p>
+<p align="center">Frieren and her companions continue their journey through the northern lands, but obstacles both natural<br>and manmade still stand in their way.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Hindi Dub) - Episode 3 - Order & Watcher</h3></th>
+<th><h3 align="center">Frieren: Beyond Journey's End (Telugu Dub) - Episode 10 - A Powerful Mage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b02cc1f90d5eacc4d4c5c9e9574cde331721550394_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/71a64490900288c051509d5ead8078c81699629921_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">8/11/2024</td>
+<td align="center">8/13/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE00Z9/order-watcher">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEE4Z/a-powerful-mage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lady Elfaria issues an order to the academy—gather Frost Walker ice cores. Will quickly heads<br>into the dungeon, but it's already full of others trying to fulfill the order. As<br>he looks for a less crowded area, he spots a fellow student under attack!</p>
+<p align="center">Frieren's many years of training under her teacher Flamme are tested in her confrontation with<br>Aura the Guillotine. Will Aura's scales find her wanting?</p>
 </td>
 </tr>
 </table>
