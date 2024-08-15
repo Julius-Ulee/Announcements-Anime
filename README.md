@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Aug 15, 2024, 7:56:31 AM</em></p>
+<p align="center"><em>Updated on: Aug 15, 2024, 7:24:28 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -488,6 +488,40 @@
 
 <table align="center">
 <tr>
+<th><h3 align="center">Black Clover (German Dub) - Episode 164 - Battlefield: Heart Kingdom</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ea6235b55fa7acf4e86533f8ae1d5cdf1613468604_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">8/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WWWP/battlefield-heart-kingdom">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Yami continues to fight Dante from the Dark Triad and finally, he deals a fatal<br>blow! However, Dante has horrifying regeneration powers and manages to heal immediately. He then tells<br>the Black Bulls of the Dark Triad's plan to destroy this world. Meanwhile, in the<br>Heart Kingdom, Leopold, Charmy, and Luck go to help the Spirit Guardians, but are also<br>having a hard time.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
 <th><h3 align="center">Black Clover (German Dub) - Episode 163 - Dante VS The Captain of the Black Bulls</h3></th>
 </tr>
 <tr>
@@ -651,40 +685,6 @@ He completely loses himself and relentlessly attacks Dante! But Dante becomes ev
 <tr>
 <td colspan="2">
 <p align="center">For some reason, Charmy, who had tagged along with Asta and the others to train<br>in the Heart Kingdom, keeps trying to eat up all of the food in the<br>Heart Kingdom. Asta tries to take her back and goes to the forest Charmy is<br>last seen. However, Charmy had also trained with the Spirit Guardians and had become even<br>more powerful. Meanwhile, Yuno is contacted by Sister Lily and heads back to his home<br>village of Hage. There, he finds...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Black Clover (German Dub) - Episode 158 - The Beginning of Hope and Despair</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/24a527116b00b58a7fb29953128688e51609832428_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/14/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU4771D/the-beginning-of-hope-and-despair">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Spade Kingdom successfully takes over the Diamond Kingdom and then sets their sights on<br>the Clover Kingdom and Heart Kingdom. The Spade Kingdom troops get through the strong magic<br>region using a mobile fortress which sucks up the mana of the Spade Kingdom citizens<br>who were taken by force. But then Asta, who had finished his training with the<br>Spirit Guardians, comes to the rescue! Meanwhile, Luck and Leopold head to the Spade Kingdom<br>in order to try to take over one of their bases.</p>
 </td>
 </tr>
 </table>
