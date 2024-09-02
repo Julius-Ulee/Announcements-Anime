@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 1, 2024, 7:23:15 PM</em></p>
+<p align="center"><em>Updated on: Sep 2, 2024, 8:02:45 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,652 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (English Dub) - Episode 7 - All's Well That Ends Well</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8c2174d6aff7ddbab2e0c446362d42dc1723965679_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNMXW/alls-well-that-ends-well">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As a thank-you for saving Ermina, Mercphobia gives the group information on the rest of<br>the Five Dragon Gods. And while they’re in the town of Tekka, they encounter someone<br>who looks exactly like Erza...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (German Dub) - Episode 4 - Dyed White</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/db57393dad4e5bdd6db9b5b69a5b9f751722156448_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9E1E/dyed-white">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Natsu, Wendy, and Erza are captured by the Diabolos, and Lucy sets out to go<br>rescue them. On her way, she meets someone unexpected… Meanwhile, Jellal finds out the secret<br>of Touka.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Tower of God Season 2 (English Dub) - Episode 7 - Mazino Magic</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/574b0a69fa16f457102f980c68c6e4281723967095_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU737KP/mazino-magic">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The battle against Urek continues in Zygaena. In a deadly game between Urek and Viole,<br>the stakes are Zygaena's flower. But then, everything takes an unexpected turn.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Tower of God Season 2 (Portuguese Dub) - Episode 6 - Zygaena's Flower</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be8bdf7729c362a27c2939b9c71ecde41723383304_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z9V7/zygaenas-flower">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The team with Viole and Wangnan faces the next test on their journey to the<br>top of the tower. But before that, they are evaluated by Viole's friends from FUG.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Tower of God Season 2 (German Dub) - Episode 6 - Zygaena's Flower</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be8bdf7729c362a27c2939b9c71ecde41723383304_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3138P/zygaenas-flower">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The team with Viole and Wangnan faces the next test on their journey to the<br>top of the tower. But before that, they are evaluated by Viole's friends from FUG.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Tower of God Season 2 (Spanish Dub) - Episode 6 - Zygaena's Flower</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be8bdf7729c362a27c2939b9c71ecde41723383304_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKW4J/zygaenas-flower">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The team with Viole and Wangnan faces the next test on their journey to the<br>top of the tower. But before that, they are evaluated by Viole's friends from FUG.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Tower of God Season 2 (Russian Dub) - Episode 6 - Zygaena's Flower</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be8bdf7729c362a27c2939b9c71ecde41723383304_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQVZD/zygaenas-flower">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The team with Viole and Wangnan faces the next test on their journey to the<br>top of the tower. But before that, they are evaluated by Viole's friends from FUG.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Tower of God Season 2 (Hindi Dub) - Episode 6 - Zygaena's Flower</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be8bdf7729c362a27c2939b9c71ecde41723383304_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNQDZ/zygaenas-flower">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The team with Viole and Wangnan faces the next test on their journey to the<br>top of the tower. But before that, they are evaluated by Viole's friends from FUG.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Tower of God Season 2 (French Dub) - Episode 5 - The Other Team</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/81b3b4302802972dd66cf66e481fd5381722764472_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXN34/the-other-team">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Khun continues to climb the tower, thinking of his best friend Bam. He has assembled<br>a new team and is dragging along the sluggish Rachel. But there's much more going<br>on behind the scenes.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 13 - Episode 8 - Laughing Bag</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2b1f381e0d7823a39534af4ef173d6781725219281_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07QX5/laughing-bag">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">This is the story of a girl who's started a job at an old folks<br>home...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (German Dub) - Episode 10</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bddc73d59b7409d864a8a5233b075db11725206322_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN1MD">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Spanish Dub) - Episode 10</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/940f6c0df7f54fc09d6a85cadaa687231725206282_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDME8W">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Portuguese Dub) - Episode 10</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d496693ffa07586e978920ada27911a21725206302_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J975">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring - Episode 10 - I Hope We Can Make Friends...</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8335d4dd64d228bc2c7e3b3e0034845a1725192547_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQEX88/i-hope-we-can-make-friends">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Takumi has a conversation with Cedric, the lord of Bailey. Cedric shows particular interest in<br>the food that Takumi has introduced to the land. Cedric's sons also seem enthusiastic.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (English Dub) - Episode 10 - I Hope We Can Make Friends...</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4baddf5a95c3a61e94b133baaf70ff981725206347_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMK0Q/i-hope-we-can-make-friends">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Takumi has a conversation with Cedric, the lord of Bailey. Cedric shows particular interest in<br>the food that Takumi has introduced to the land. Cedric's sons also seem enthusiastic.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Narenare -Cheer for you!- - Episode 9 - Rain and Cheer</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2093d78aa4e9fbe0631323e26e1d494a1725192510_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDME0W/rain-and-cheer">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The PoMPoMs are going through a crisis. Megumi confides in Shion and Nodoka and then<br>has the opportunity to have a conversation with Kanata.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream - Episode 9 - Episode 9</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/406034ee6625108a062c8c1468483b251725182420_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVGKD9/episode-9">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Shion hosts a duo improv competition for her fellow VTubers to test their comedy chops,<br>while Eirai suffers through a horror game stream with Awayuki as her emotional support.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Tower of God Season 2 - Episode 9 - One-Winged Devil</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/11d96f5385bb824f818714a4c2e14ecc1725182400_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ797X/one-winged-devil">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kang Horyang shares his past with his teammates and asks Viole about the source of<br>his power.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">CHIBI MARUKO-CHAN - Episode 1445 - There's an Alligator in the Tomoe River / Mom's High Heels</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b800e58352a7a26a8bb3d92e11332a41725179984_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/1/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXNZ12/theres-an-alligator-in-the-tomoe-river-moms-high-heels">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Maruko and her friends investigates the rumor that there is an alligator in the nearby<br>river. Later, Maruko breaks Mom's new high heels by accident and tries to cover it<br>up.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Wistoria: Wand and Sword - Episode 8 - Shall we date?</h3></th>
 </tr>
@@ -37,653 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Students at the academy suddenly see Will in a different light and he receives a<br>flood of invitations to join their parties for the upcoming all-student praxis. Colette panics and<br>arranges a date with Will, but an unexpected third party shows up.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST - Episode 9 - Whiteout</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d249f9b7a506b10913fd4ed1ba69adf81725154763_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5JGX/whiteout">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Touka the White Mage brainwashed the Fairy Tail members. She plans to destroy the orbs<br>of the five towns on Aldoron to defeat him; Natsu and the other must fight<br>their friends to save them from the White Mage and stop her plan.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">One Piece: Egghead Island (1089-Current) - Episode 1117 - Sabo Returns - The Shocking Truth to Be Told!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/db924948c8053a40ed044cec081202901725154737_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MW34/sabo-returns-the-shocking-truth-to-be-told">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sabo returns to Kamabakka Queendom and starts recounting what happened at the Holy Land Mary<br>Geoise. A month ago, during the Reverie, he and the captains of the Revolutionary Army<br>raided the Land of Gods and Sabo witnessed Bartholomew Kuma being the Celestial Dragons’ slave.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Wonderful Precure! - Episode 31 - Nyanfluencer Mayu</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/60378dc9a375a9c0d86c4761871718a01725152778_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN9N5/nyanfluencer-mayu">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Mayu begins uploading photos and videos of Yuki to curesta. When her posts get popular,<br>a friend, Yuma, who she knew from before she changed schools sees her post and<br>comes to Pretty Holic.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Why Does Nobody Remember Me in This World? (English Dub) - Episode 6 - Elven Forest</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7f15128740e32a447c54818d5b5240921723902432_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMGMZJ/elven-forest">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Jeanne and Urza's resistance encounter remnants of the Io resistance in the Elfan Forest. Following<br>the trail, they arrive at the Elf Village, where the leader of the elves is<br>already waiting to present them with a proposal.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Why Does Nobody Remember Me in This World? (Hindi Dub) - Episode 5 - To the East of the World</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/39c034fda626430aecfdaf5fda2945b31723274013_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWX1G/to-the-east-of-the-world">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After finally driving the demons out of the capital, Urza's resistance sets out for the<br>Federation of Io, whose resistance has requested support against the divine beings. However, it quickly<br>becomes clear that not everyone welcomes this support.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Makeine: Too Many Losing Heroines! (English Dub) - Episode 6 - Let Any One of You Who Has Never Been Dumped Be the First to Throw a Stone at the Losing Heroine</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3a506c05f648a849945e27f5d3d9f88e1723902558_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNMW1/let-any-one-of-you-who-has-never-been-dumped-be-the-first-to-throw-a-stone-at-the-losing-heroine">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Nukumizu gets grilled by Ayano after being caught together with Chihaya. Nukumizu clears things up,<br>but then for whatever reason Nukumizu, Ayano, Chihaya, Lemon, and Yanami end up hanging out<br>together.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Makeine: Too Many Losing Heroines! (Hindi Dub) - Episode 5 - Asagumo Chihaya Is Led Astray</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9edb0c2d93b92def809a203d6b73c2fe1723307835_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8N8MQ/asagumo-chihaya-is-led-astray">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Nukumizu endures a chaotic few days of being constantly distracted by his sister Kaju and<br>Yanami. One afternoon, Yanami invites Nukumizu to a café and the two spot Lemon and<br>Ayano hanging out together.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Makeine: Too Many Losing Heroines! (Tamil Dub) - Episode 5 - Asagumo Chihaya Is Led Astray</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9edb0c2d93b92def809a203d6b73c2fe1723307835_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXN95/asagumo-chihaya-is-led-astray">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Nukumizu endures a chaotic few days of being constantly distracted by his sister Kaju and<br>Yanami. One afternoon, Yanami invites Nukumizu to a café and the two spot Lemon and<br>Ayano hanging out together.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Makeine: Too Many Losing Heroines! (Telugu Dub) - Episode 5 - Asagumo Chihaya Is Led Astray</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9edb0c2d93b92def809a203d6b73c2fe1723307835_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7375W/asagumo-chihaya-is-led-astray">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Nukumizu endures a chaotic few days of being constantly distracted by his sister Kaju and<br>Yanami. One afternoon, Yanami invites Nukumizu to a café and the two spot Lemon and<br>Ayano hanging out together.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Elusive Samurai (Hindi Dub) - Episode 6 - Steal the Imperial Command from Ogasawara's Residence at Night</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b45fc904d70b8d1e8f537e878aa43f341723302376_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z990/steal-the-imperial-command-from-ogasawaras-residence-at-night">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Tokiyuki and Genba sneak into the Ogasawara's residence and successfully infiltrate the warehouse where the<br>Emperor’s Imperial Command is kept. However, Sadamune’s subordinate, Sukefusa Ichikawa, catches on and hears what<br>these two are doing…</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Elusive Samurai (English Dub) - Episode 5 - Settling the Score! A Dog-Shooting Competition and then…</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0e6501b76d62ee1808d4e133c502b2861722699236_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXN0N/settling-the-score-a-dog-shooting-competition-and-then">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">"Tokiyuki faces off against Sadamune in a dog-shooting competition, even though his opponent excels with<br>the bow and possesses an almost prodigy-like eye for detail.
-With a large lead in points,<br>Tokiyuki faces defeat as he gets hit."</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Elusive Samurai (French Dub) - Episode 3 - A Forest Inhabited by a God</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/38ba929d7da5b3c383543958bbb61b211721475125_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31321/a-forest-inhabited-by-a-god">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Tokiyuki risks his life and wins a game of tag, defeating the enemy who betrayed<br>his brother, their uncle, Muneshige. As soon as he arrives in Suwa, Yorishige urges him<br>to begin his lessons and training to take back Kamakura.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Elusive Samurai (Spanish Dub) - Episode 2 - The Gentle Uncle</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a86c8d8bbf8286fb52985b37052b09961720878584_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQV5P/the-gentle-uncle">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Takauji Ashikaga, once considered the guardian of the Kamakura shogunate, stages a rebellion that led<br>to its quick destruction.  Tokiyuki’s older brother, Kunitoki, successfully evades the eyes of the<br>warriors loyal to Takauji, and he is placed under the care of their uncle, Muneshige<br>Godaiin.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Elusive Samurai (Portuguese Dub) - Episode 2 - The Gentle Uncle</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a86c8d8bbf8286fb52985b37052b09961720878584_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVGWW/the-gentle-uncle">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Takauji Ashikaga, once considered the guardian of the Kamakura shogunate, stages a rebellion that led<br>to its quick destruction.  Tokiyuki’s older brother, Kunitoki, successfully evades the eyes of the<br>warriors loyal to Takauji, and he is placed under the care of their uncle, Muneshige<br>Godaiin.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Hero Academia Season 7 (English Dub) - Episode 151 - A Chain of Events, Across the Ages</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/265ee80f95475920d949c51bce8ab5c81723879189_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJWWX/a-chain-of-events-across-the-ages">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Deku finally arrives at the Coffin in the Sky! Seeing Bakugo and the others defeated<br>by Shigaraki/All For One, Deku shakes with anger. Can he control his feelings and win<br>against Shigaraki? It's finally time for a showdown!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">YATAGARASU: The Raven Does Not Choose Its Master - Episode 17 - King of the Underground</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/babd099b6b78238a133e52faa34b7b5a1725128037_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNN1P/king-of-the-underground">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Yukiya agrees to accompany Natsuka to the underworld. The negotiation threatens to fall apart when<br>Sakuō appears and offers Yukiya a chance to learn more about the monkeys. However, to<br>do so, he must take a great risk.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">SHOSHIMIN: How to become Ordinary - Episode 8 - C'mere, You Want Some Free Candy?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cf1e0e6d841ef2baeb2e57ee9b642c931725128065_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EME4/cmere-you-want-some-free-candy">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">When Kobato goes to visit Osanai at her home to invite her to eat candied<br>apples, he learns that she has been kidnapped. Just as he leaves the apartment, he<br>receives a mysterious message from Osanai and, with Kengo's help, sets out to find her.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Makeine: Too Many Losing Heroines! - Episode 8 - If You Are In Trouble, Feel Free to Consult</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a4a7e3d49ece9beaad9ea576f26444c51725101428_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ79NV/if-you-are-in-trouble-feel-free-to-consult">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Nukumizu, Yanami, and Komari go to town to research a theme for their Tsuwabuki Festival<br>exhibit. They successfully find a new club advisor and preparations seem to be going smoothly...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">ATRI -My Dear Moments- - Episode 8 - The Rippling Night Has Come</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/07253eaa8ef8c5fe72f9c34f1f5891961725101348_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">8/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1KV2/the-rippling-night-has-come">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Natsuki has been acting strange and seems to have his head in the clouds through<br>everything he does. After being interrogated by Minamo and the others, he reluctantly confesses to<br>them that he kissed Atri in the ocean.</p>
 </td>
 </tr>
 </table>
