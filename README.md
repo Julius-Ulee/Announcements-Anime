@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 9, 2024, 7:26:45 PM</em></p>
+<p align="center"><em>Updated on: Sep 10, 2024, 8:02:37 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream (English Dub) - Episode 8 - Episode 8</h3></th>
+<th><h3 align="center">BLUE LOCK (Hindi Dub) - Episode 24 - The Time Has Come</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/43c44b160c7736ccc1949bf7250b75451724590967_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b6b6da00ae91ecd53281243f992b25f21679759917_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMGZ84/episode-8">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNW34/the-time-has-come">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After an incident at her local supermarket, Awayuki gets even closer to Mashiro offline.</p>
+<p align="center">Chosen by Rin, Isagi clears the second selection with Bachira. The next challenge for Isagi<br>and his team of five is a match against the world-level super star players. Isagi<br>and his team manages to steal the first goal with the link-up play by Isagi,<br>Bachira, and Rin, but the World Five overwhelms them in no time. They try desperately<br>to catch up, fighting till the last second as they clash their ego. And Blue<br>Lock project which was created to produce the world's best striker enters the new phase.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream (Portuguese Dub) - Episode 7 - Episode 7</h3></th>
+<th><h3 align="center">BLUE LOCK (Tamil Dub) - Episode 24 - The Time Has Come</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/903eec307a5d886003e07f3b7bd3ad7a1723985247_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b6b6da00ae91ecd53281243f992b25f21679759917_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ945/episode-7">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVWEQ/the-time-has-come">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Awayuki runs into Kaeru at the Live-On office, learns more about her past, and one<br>thing leads to another... namely a collab with Kaeru and amusement park visit with Chami.</p>
+<p align="center">Chosen by Rin, Isagi clears the second selection with Bachira. The next challenge for Isagi<br>and his team of five is a match against the world-level super star players. Isagi<br>and his team manages to steal the first goal with the link-up play by Isagi,<br>Bachira, and Rin, but the World Five overwhelms them in no time. They try desperately<br>to catch up, fighting till the last second as they clash their ego. And Blue<br>Lock project which was created to produce the world's best striker enters the new phase.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream (Spanish Dub) - Episode 7 - Episode 7</h3></th>
+<th><h3 align="center">BLUE LOCK (Telugu Dub) - Episode 24 - The Time Has Come</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/903eec307a5d886003e07f3b7bd3ad7a1723985247_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b6b6da00ae91ecd53281243f992b25f21679759917_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE97X1/episode-7">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKJK1/the-time-has-come">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Awayuki runs into Kaeru at the Live-On office, learns more about her past, and one<br>thing leads to another... namely a collab with Kaeru and amusement park visit with Chami.</p>
+<p align="center">Chosen by Rin, Isagi clears the second selection with Bachira. The next challenge for Isagi<br>and his team of five is a match against the world-level super star players. Isagi<br>and his team manages to steal the first goal with the link-up play by Isagi,<br>Bachira, and Rin, but the World Five overwhelms them in no time. They try desperately<br>to catch up, fighting till the last second as they clash their ego. And Blue<br>Lock project which was created to produce the world's best striker enters the new phase.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream (Hindi Dub) - Episode 7 - Episode 7</h3></th>
+<th><h3 align="center">BLUE LOCK (Hindi Dub) - Episode 23 - Luck</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/903eec307a5d886003e07f3b7bd3ad7a1723985247_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/941fbe49ed8aa8e19121520aa997dbae1679156201_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNW24/episode-7">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ9E5/luck">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Awayuki runs into Kaeru at the Live-On office, learns more about her past, and one<br>thing leads to another... namely a collab with Kaeru and amusement park visit with Chami.</p>
+<p align="center">Bachira shakes off the monster which occupied his mind as an ideal, and he awakens<br>his ego. He's been searching for someone in his play, but now he forges on<br>for his own goal. At the end of the play is Isagi, who's been waiting<br>for him because he believed in Bachira's ego. Isagi succeeds in a desperate interception, but<br>the ball flies up and lands mercilessly and cruelly on the winner. It's the final<br>showdown for 8 egoists. The team to clear the second selection's rivalry battle is...</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (English Dub) - Episode 7 - Twelve Secret Ice Magics, El Glace Frosse</h3></th>
+<th><h3 align="center">BLUE LOCK (Tamil Dub) - Episode 23 - Luck</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8d95de6f75b9c7e4d106901f15f1043e1724578750_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/941fbe49ed8aa8e19121520aa997dbae1679156201_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N19X/twelve-secret-ice-magics-el-glace-frosse">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNKWJ/luck">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Will is under attack. Julius is using one of the Twelve Secret Ice Magics invented<br>by the genius mage Elfaria. The arena falls silent in shock and admiration. But no<br>one knows Elfaria's magic better than Will and his counterattack starts now.</p>
+<p align="center">Bachira shakes off the monster which occupied his mind as an ideal, and he awakens<br>his ego. He's been searching for someone in his play, but now he forges on<br>for his own goal. At the end of the play is Isagi, who's been waiting<br>for him because he believed in Bachira's ego. Isagi succeeds in a desperate interception, but<br>the ball flies up and lands mercilessly and cruelly on the winner. It's the final<br>showdown for 8 egoists. The team to clear the second selection's rivalry battle is...</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Portuguese Dub) - Episode 6 - Between Pride and Passion</h3></th>
+<th><h3 align="center">BLUE LOCK (Telugu Dub) - Episode 23 - Luck</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1d1b8ece6261f867e4652cbaccdd21691723967043_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/941fbe49ed8aa8e19121520aa997dbae1679156201_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V01P/between-pride-and-passion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9D98/luck">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sion suddenly attacks Will in the middle of their event at the Grand Magic Festival.<br>Sion's emotions fuel his magic as Will struggles to understand Sion's actions. Meanwhile, Julius draws<br>ever closer to the stadium and winning the event.</p>
+<p align="center">Bachira shakes off the monster which occupied his mind as an ideal, and he awakens<br>his ego. He's been searching for someone in his play, but now he forges on<br>for his own goal. At the end of the play is Isagi, who's been waiting<br>for him because he believed in Bachira's ego. Isagi succeeds in a desperate interception, but<br>the ball flies up and lands mercilessly and cruelly on the winner. It's the final<br>showdown for 8 egoists. The team to clear the second selection's rivalry battle is...</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (German Dub) - Episode 6 - Between Pride and Passion</h3></th>
+<th><h3 align="center">BLUE LOCK (Hindi Dub) - Episode 22 - Voice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1d1b8ece6261f867e4652cbaccdd21691723967043_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f1825087d94d51b21998f7f5235277ff1678560650_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXW18E/between-pride-and-passion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX9GN/voice">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sion suddenly attacks Will in the middle of their event at the Grand Magic Festival.<br>Sion's emotions fuel his magic as Will struggles to understand Sion's actions. Meanwhile, Julius draws<br>ever closer to the stadium and winning the event.</p>
+<p align="center">Monsters with absolute talents that Bachira has finally found... he barely has time to rejoice<br>the encounter, because he realizes that he is left behind by Isagi and Rin. In<br>the meantime, the game has entered its final phase, going through a seesaw struggle with<br>Barou as a joker in the play. In the extreme condition, Isagi continues to be<br>awakened, and Bachira faces his own ego.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Spanish Dub) - Episode 6 - Between Pride and Passion</h3></th>
+<th><h3 align="center">BLUE LOCK (Tamil Dub) - Episode 22 - Voice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1d1b8ece6261f867e4652cbaccdd21691723967043_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f1825087d94d51b21998f7f5235277ff1678560650_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMGZ74/between-pride-and-passion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ573/voice">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sion suddenly attacks Will in the middle of their event at the Grand Magic Festival.<br>Sion's emotions fuel his magic as Will struggles to understand Sion's actions. Meanwhile, Julius draws<br>ever closer to the stadium and winning the event.</p>
+<p align="center">Monsters with absolute talents that Bachira has finally found... he barely has time to rejoice<br>the encounter, because he realizes that he is left behind by Isagi and Rin. In<br>the meantime, the game has entered its final phase, going through a seesaw struggle with<br>Barou as a joker in the play. In the extreme condition, Isagi continues to be<br>awakened, and Bachira faces his own ego.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (French Dub) - Episode 6 - Between Pride and Passion</h3></th>
+<th><h3 align="center">BLUE LOCK (Telugu Dub) - Episode 22 - Voice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1d1b8ece6261f867e4652cbaccdd21691723967043_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f1825087d94d51b21998f7f5235277ff1678560650_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ094/between-pride-and-passion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX3X7/voice">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sion suddenly attacks Will in the middle of their event at the Grand Magic Festival.<br>Sion's emotions fuel his magic as Will struggles to understand Sion's actions. Meanwhile, Julius draws<br>ever closer to the stadium and winning the event.</p>
+<p align="center">Monsters with absolute talents that Bachira has finally found... he barely has time to rejoice<br>the encounter, because he realizes that he is left behind by Isagi and Rin. In<br>the meantime, the game has entered its final phase, going through a seesaw struggle with<br>Barou as a joker in the play. In the extreme condition, Isagi continues to be<br>awakened, and Bachira faces his own ego.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Castilian Dub) - Episode 6 - Between Pride and Passion</h3></th>
+<th><h3 align="center">BLUE LOCK (Hindi Dub) - Episode 21 - I'm Not There</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1d1b8ece6261f867e4652cbaccdd21691723967043_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/aed2d4e7548cd288e7e4c3dfd3e8f9851677928205_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ5NG/between-pride-and-passion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVK842/im-not-there">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sion suddenly attacks Will in the middle of their event at the Grand Magic Festival.<br>Sion's emotions fuel his magic as Will struggles to understand Sion's actions. Meanwhile, Julius draws<br>ever closer to the stadium and winning the event.</p>
+<p align="center">Isagi captures everything that’s happening in the field to see its future, and Nagi controls<br>the space. Their combination bursts, and their series of play lights up the fire in<br>Rin. Rin’s dominating play that encompasses everything on the field, from the skills of all<br>players, the ball, positioning and tactics gradually corners Isagi’s team once again. As chaos and<br>ego clash, one man is covertly sharpening his fangs to devour the game dominated by<br>Rin.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Hindi Dub) - Episode 6 - Between Pride and Passion</h3></th>
+<th><h3 align="center">BLUE LOCK (Tamil Dub) - Episode 21 - I'm Not There</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1d1b8ece6261f867e4652cbaccdd21691723967043_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/aed2d4e7548cd288e7e4c3dfd3e8f9851677928205_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNKZ9/between-pride-and-passion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z40V/im-not-there">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sion suddenly attacks Will in the middle of their event at the Grand Magic Festival.<br>Sion's emotions fuel his magic as Will struggles to understand Sion's actions. Meanwhile, Julius draws<br>ever closer to the stadium and winning the event.</p>
+<p align="center">Isagi captures everything that’s happening in the field to see its future, and Nagi controls<br>the space. Their combination bursts, and their series of play lights up the fire in<br>Rin. Rin’s dominating play that encompasses everything on the field, from the skills of all<br>players, the ball, positioning and tactics gradually corners Isagi’s team once again. As chaos and<br>ego clash, one man is covertly sharpening his fangs to devour the game dominated by<br>Rin.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Telugu Dub) - Episode 6 - Between Pride and Passion</h3></th>
+<th><h3 align="center">BLUE LOCK (Telugu Dub) - Episode 21 - I'm Not There</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1d1b8ece6261f867e4652cbaccdd21691723967043_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/aed2d4e7548cd288e7e4c3dfd3e8f9851677928205_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX0Q1/between-pride-and-passion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK4KP/im-not-there">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sion suddenly attacks Will in the middle of their event at the Grand Magic Festival.<br>Sion's emotions fuel his magic as Will struggles to understand Sion's actions. Meanwhile, Julius draws<br>ever closer to the stadium and winning the event.</p>
+<p align="center">Isagi captures everything that’s happening in the field to see its future, and Nagi controls<br>the space. Their combination bursts, and their series of play lights up the fire in<br>Rin. Rin’s dominating play that encompasses everything on the field, from the skills of all<br>players, the ball, positioning and tactics gradually corners Isagi’s team once again. As chaos and<br>ego clash, one man is covertly sharpening his fangs to devour the game dominated by<br>Rin.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Tamil Dub) - Episode 6 - Between Pride and Passion</h3></th>
+<th><h3 align="center">BLUE LOCK (Hindi Dub) - Episode 20 - Super Link-Up Play</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1d1b8ece6261f867e4652cbaccdd21691723967043_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4505f64993d9137622ed1fd96474f97c1677344195_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVW1E/between-pride-and-passion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N17X/super-link-up-play">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sion suddenly attacks Will in the middle of their event at the Grand Magic Festival.<br>Sion's emotions fuel his magic as Will struggles to understand Sion's actions. Meanwhile, Julius draws<br>ever closer to the stadium and winning the event.</p>
+<p align="center">Isagi and others are set to play a revenge match against the "Top 3," who<br>have defeated them and took Bachira from them. They have fought against formidable foes and<br>advanced by repeating the process of ego and chemical reactions, and they're ready to throw<br>everything they have at the Top 3.  The final battle of 4 vs 4<br>is finally about to begin. Isagi, Nagi, Barou, and Chigiri desperately try to keep up<br>to the extraordinary individual skills of the Top 3. But one pass from Bachira starts<br>to evolve the game...</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (English Dub) - Episode 8 - Aldoron, the Wood Dragon God</h3></th>
+<th><h3 align="center">BLUE LOCK (Tamil Dub) - Episode 20 - Super Link-Up Play</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b6766edd221a646ffadc5fb334c8af951724545506_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4505f64993d9137622ed1fd96474f97c1677344195_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX0Q8/aldoron-the-wood-dragon-god">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ07W/super-link-up-play">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The group is headed to Drasil to find Aldoron. Juvia joins, but she is acting<br>strange and warns the group about the White Mage. Drasil turns out to be a<br>town built on Aldoron, and a kind old man shows them around town. But then...</p>
+<p align="center">Isagi and others are set to play a revenge match against the "Top 3," who<br>have defeated them and took Bachira from them. They have fought against formidable foes and<br>advanced by repeating the process of ego and chemical reactions, and they're ready to throw<br>everything they have at the Top 3.  The final battle of 4 vs 4<br>is finally about to begin. Isagi, Nagi, Barou, and Chigiri desperately try to keep up<br>to the extraordinary individual skills of the Top 3. But one pass from Bachira starts<br>to evolve the game...</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (German Dub) - Episode 5 - A Bitter Choice</h3></th>
+<th><h3 align="center">BLUE LOCK (Telugu Dub) - Episode 20 - Super Link-Up Play</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d574419afd7a970923ca75792645d2cf1722758139_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4505f64993d9137622ed1fd96474f97c1677344195_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNKZD/a-bitter-choice">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZVZV/super-link-up-play">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsu and the others manage to drive away the Diabolos for now. Then Mercphobia starts<br>to destroy Ermina and its people, which forces Natsu and his friends to make a<br>tough decision. Meanwhile, the White Mage sets out to do what she came to do…</p>
+<p align="center">Isagi and others are set to play a revenge match against the "Top 3," who<br>have defeated them and took Bachira from them. They have fought against formidable foes and<br>advanced by repeating the process of ego and chemical reactions, and they're ready to throw<br>everything they have at the Top 3.  The final battle of 4 vs 4<br>is finally about to begin. Isagi, Nagi, Barou, and Chigiri desperately try to keep up<br>to the extraordinary individual skills of the Top 3. But one pass from Bachira starts<br>to evolve the game...</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (English Dub) - Episode 8 - Her Name Is Emily</h3></th>
+<th><h3 align="center">BLUE LOCK (Hindi Dub) - Episode 19 - Dancing Boy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ac2ce90a476b0cf09e73e59a39a0aac71724590934_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b1348af30b2ac0c05f3b439eb42afb691676745837_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKDNW/her-name-is-emily">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVWME/dancing-boy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Both Khun's team and the team of Wangnan and Viole continue to climb the tower,<br>facing the necessary trials along the way. In the process, they discover a new tool:<br>the increasingly popular chat AI, Emile.</p>
+<p align="center">Isagi's team cinched a win due to the awakening of Barou as a villain on<br>the field. To cause more chemical reactions in the fourth stage, they picked one player<br>from the other team, who demonstrated ego to devour them during the game. In the<br>meantime, Bachira and the Top 3 are looking for the next opponent. Rin sees through<br>Bachira's "monster" during their training, which forces Bachira to face his own ego.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Portuguese Dub) - Episode 7 - Mazino Magic</h3></th>
+<th><h3 align="center">BLUE LOCK (Tamil Dub) - Episode 19 - Dancing Boy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/574b0a69fa16f457102f980c68c6e4281723967095_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b1348af30b2ac0c05f3b439eb42afb691676745837_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU735X8/mazino-magic">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V02M/dancing-boy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The battle against Urek continues in Zygaena. In a deadly game between Urek and Viole,<br>the stakes are Zygaena's flower. But then, everything takes an unexpected turn.</p>
+<p align="center">Isagi's team cinched a win due to the awakening of Barou as a villain on<br>the field. To cause more chemical reactions in the fourth stage, they picked one player<br>from the other team, who demonstrated ego to devour them during the game. In the<br>meantime, Bachira and the Top 3 are looking for the next opponent. Rin sees through<br>Bachira's "monster" during their training, which forces Bachira to face his own ego.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (German Dub) - Episode 7 - Mazino Magic</h3></th>
+<th><h3 align="center">BLUE LOCK (Telugu Dub) - Episode 19 - Dancing Boy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/574b0a69fa16f457102f980c68c6e4281723967095_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b1348af30b2ac0c05f3b439eb42afb691676745837_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ9KK/mazino-magic">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJVJW/dancing-boy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The battle against Urek continues in Zygaena. In a deadly game between Urek and Viole,<br>the stakes are Zygaena's flower. But then, everything takes an unexpected turn.</p>
+<p align="center">Isagi's team cinched a win due to the awakening of Barou as a villain on<br>the field. To cause more chemical reactions in the fourth stage, they picked one player<br>from the other team, who demonstrated ego to devour them during the game. In the<br>meantime, Bachira and the Top 3 are looking for the next opponent. Rin sees through<br>Bachira's "monster" during their training, which forces Bachira to face his own ego.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Spanish Dub) - Episode 7 - Mazino Magic</h3></th>
+<th><h3 align="center">BLUE LOCK (Hindi Dub) - Episode 18 - The Stage for the Lead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/574b0a69fa16f457102f980c68c6e4281723967095_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/04e5c17b643b7fc81f63becfb23da6261676140229_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE97K5/mazino-magic">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNK99/the-stage-for-the-lead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The battle against Urek continues in Zygaena. In a deadly game between Urek and Viole,<br>the stakes are Zygaena's flower. But then, everything takes an unexpected turn.</p>
+<p align="center">Isagi and Nagi paint countless possibilities for goals as they understand each other's weapons. Likewise,<br>Kunigami and Reo make a great effort centering around Chigiri, who has evolved one step<br>further. In the midst of all, Barou, the king of the field, was left out<br>from the chain of evolution because of his strong ego. When Isagi takes the leading<br>role of the field from him, the sense of defeat makes Barou kneel down to<br>the ground.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Russian Dub) - Episode 7 - Mazino Magic</h3></th>
+<th><h3 align="center">BLUE LOCK (Tamil Dub) - Episode 18 - The Stage for the Lead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/574b0a69fa16f457102f980c68c6e4281723967095_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/04e5c17b643b7fc81f63becfb23da6261676140229_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/8/2024</td>
+<td align="center">9/9/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNWJ2/mazino-magic">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKG0K/the-stage-for-the-lead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The battle against Urek continues in Zygaena. In a deadly game between Urek and Viole,<br>the stakes are Zygaena's flower. But then, everything takes an unexpected turn.</p>
+<p align="center">Isagi and Nagi paint countless possibilities for goals as they understand each other's weapons. Likewise,<br>Kunigami and Reo make a great effort centering around Chigiri, who has evolved one step<br>further. In the midst of all, Barou, the king of the field, was left out<br>from the chain of evolution because of his strong ego. When Isagi takes the leading<br>role of the field from him, the sense of defeat makes Barou kneel down to<br>the ground.</p>
 </td>
 </tr>
 </table>
