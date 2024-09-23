@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 22, 2024, 7:24:04 PM</em></p>
+<p align="center"><em>Updated on: Sep 23, 2024, 8:05:16 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">NieR:Automata Ver1.1a (Portugese Dub) - Episode 19 - corru[P]tion</h3></th>
+<th><h3 align="center">VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream (English Dub) - Episode 10 - Episode 10</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1b1dc86c2d006ae3df4e34c01f693681724428291_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a551534c23eb1b2929ef4b0db9c98ed51725792991_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,24 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK8K0/corruption">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJPW3/episode-10">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">▶▶ Pod 153 - Report:
-
-9S, subject of this unit’s support, was injured when he was<br>caught in the upheaval caused by the appearance of the giant structure identified as the<br>.
-Currently, he still needs maintenance and rest, but unit 9S refuses.
-He has left the Resistance<br>Camp and is approaching the Tower.
-
-It has been discovered that access to the Tower <br>requires a structure known as the  to be unlocked.
-This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for the passcode.</p>
+<p align="center">All members of Live-On participate in a company-wide collab to play Desert Werewolf, a game<br>where they must survive in the desert while dealing with deadly threats both from the<br>environment and from the traitors among them.</p>
 </td>
 </tr>
 </table>
@@ -53,12 +46,12 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 
 <table align="center">
 <tr>
-<th><h3 align="center">NieR:Automata Ver1.1a (Spanish Dub) - Episode 19 - corru[P]tion</h3></th>
+<th><h3 align="center">VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream (Portuguese Dub) - Episode 9 - Episode 9</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1b1dc86c2d006ae3df4e34c01f693681724428291_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/406034ee6625108a062c8c1468483b251725182420_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -67,24 +60,17 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V4MV/corruption">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V98J/episode-9">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">▶▶ Pod 153 - Report:
-
-9S, subject of this unit’s support, was injured when he was<br>caught in the upheaval caused by the appearance of the giant structure identified as the<br>.
-Currently, he still needs maintenance and rest, but unit 9S refuses.
-He has left the Resistance<br>Camp and is approaching the Tower.
-
-It has been discovered that access to the Tower <br>requires a structure known as the  to be unlocked.
-This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for the passcode.</p>
+<p align="center">Shion hosts a duo improv competition for her fellow VTubers to test their comedy chops,<br>while Eirai suffers through a horror game stream with Awayuki as her emotional support.</p>
 </td>
 </tr>
 </table>
@@ -94,12 +80,12 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 
 <table align="center">
 <tr>
-<th><h3 align="center">NieR:Automata Ver1.1a (English Dub) - Episode 19 - corru[P]tion</h3></th>
+<th><h3 align="center">VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream (Spanish Dub) - Episode 9 - Episode 9</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1b1dc86c2d006ae3df4e34c01f693681724428291_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/406034ee6625108a062c8c1468483b251725182420_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -108,24 +94,17 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMGVWX/corruption">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWM2J/episode-9">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">▶▶ Pod 153 - Report:
-
-9S, subject of this unit’s support, was injured when he was<br>caught in the upheaval caused by the appearance of the giant structure identified as the<br>.
-Currently, he still needs maintenance and rest, but unit 9S refuses.
-He has left the Resistance<br>Camp and is approaching the Tower.
-
-It has been discovered that access to the Tower <br>requires a structure known as the  to be unlocked.
-This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for the passcode.</p>
+<p align="center">Shion hosts a duo improv competition for her fellow VTubers to test their comedy chops,<br>while Eirai suffers through a horror game stream with Awayuki as her emotional support.</p>
 </td>
 </tr>
 </table>
@@ -135,12 +114,12 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (Tamil Dub) - Episode 11</h3></th>
+<th><h3 align="center">VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream (Hindi Dub) - Episode 9 - Episode 9</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/be271a7bbd4287a05d7be1eafa4c52e31726244011_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/406034ee6625108a062c8c1468483b251725182420_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -149,17 +128,17 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG51KG">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG3MG/episode-9">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Shion hosts a duo improv competition for her fellow VTubers to test their comedy chops,<br>while Eirai suffers through a horror game stream with Awayuki as her emotional support.</p>
 </td>
 </tr>
 </table>
@@ -169,12 +148,12 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (Telugu Dub) - Episode 11</h3></th>
+<th><h3 align="center">Wistoria: Wand and Sword (English Dub) - Episode 9 - Praxis Begins</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/be271a7bbd4287a05d7be1eafa4c52e31726244047_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6ed2ebf8edc44b32ce6845f85668d6791725758948_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -183,17 +162,17 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E011">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NQK1/praxis-begins">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The all-student praxis begins. Lihanna, Wignall, Julius, Sion, and Will, with Colette tagging along, dive<br>into the dungeon together. Though Will's usefulness is questioned, they push forward to floor 10<br>and their primary target—the Luminous Naberus.</p>
 </td>
 </tr>
 </table>
@@ -203,12 +182,12 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (Arabic Dub) - Episode 11</h3></th>
+<th><h3 align="center">Wistoria: Wand and Sword (Portuguese Dub) - Episode 8 - Shall we date?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eabab73d528c224c8f9be67e4357f82c1726243969_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4cd0aaa5f25b1e4a7f25817bf9f8519e1725175968_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -217,17 +196,17 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU07WW7">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P54D/shall-we-date">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Students at the academy suddenly see Will in a different light and he receives a<br>flood of invitations to join their parties for the upcoming all-student praxis. Colette panics and<br>arranges a date with Will, but an unexpected third party shows up.</p>
 </td>
 </tr>
 </table>
@@ -237,12 +216,12 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (Hindi Dub) - Episode 11</h3></th>
+<th><h3 align="center">Wistoria: Wand and Sword (German Dub) - Episode 8 - Shall we date?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/be271a7bbd4287a05d7be1eafa4c52e31726243994_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4cd0aaa5f25b1e4a7f25817bf9f8519e1725175968_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -251,17 +230,17 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5J9Z">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZXEE/shall-we-date">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Students at the academy suddenly see Will in a different light and he receives a<br>flood of invitations to join their parties for the upcoming all-student praxis. Colette panics and<br>arranges a date with Will, but an unexpected third party shows up.</p>
 </td>
 </tr>
 </table>
@@ -271,12 +250,12 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (French Dub) - Episode 11</h3></th>
+<th><h3 align="center">Wistoria: Wand and Sword (French Dub) - Episode 8 - Shall we date?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e470ee00bf59a69e657dd6d3b38386851726243894_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4cd0aaa5f25b1e4a7f25817bf9f8519e1725175968_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -285,17 +264,17 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX178V">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31DQ3/shall-we-date">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Students at the academy suddenly see Will in a different light and he receives a<br>flood of invitations to join their parties for the upcoming all-student praxis. Colette panics and<br>arranges a date with Will, but an unexpected third party shows up.</p>
 </td>
 </tr>
 </table>
@@ -305,12 +284,12 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (German Dub) - Episode 11</h3></th>
+<th><h3 align="center">Wistoria: Wand and Sword (Spanish Dub) - Episode 8 - Shall we date?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eabab73d528c224c8f9be67e4357f82c1726243911_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4cd0aaa5f25b1e4a7f25817bf9f8519e1725175968_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -319,17 +298,17 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ7225">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK3QD/shall-we-date">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Students at the academy suddenly see Will in a different light and he receives a<br>flood of invitations to join their parties for the upcoming all-student praxis. Colette panics and<br>arranges a date with Will, but an unexpected third party shows up.</p>
 </td>
 </tr>
 </table>
@@ -339,12 +318,12 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (Spanish Dub) - Episode 11</h3></th>
+<th><h3 align="center">Wistoria: Wand and Sword (Castilian Dub) - Episode 8 - Shall we date?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/930a05ebf2627e2b6b1fa1e677893fdd1726243850_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4cd0aaa5f25b1e4a7f25817bf9f8519e1725175968_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -353,17 +332,17 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ09W7">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ34Z/shall-we-date">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Students at the academy suddenly see Will in a different light and he receives a<br>flood of invitations to join their parties for the upcoming all-student praxis. Colette panics and<br>arranges a date with Will, but an unexpected third party shows up.</p>
 </td>
 </tr>
 </table>
@@ -373,12 +352,12 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (Portuguese Dub) - Episode 11</h3></th>
+<th><h3 align="center">Wistoria: Wand and Sword (Hindi Dub) - Episode 8 - Shall we date?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1b42dcbb9899fd57a0f03332363694891726243871_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4cd0aaa5f25b1e4a7f25817bf9f8519e1725175968_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -387,17 +366,17 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ097M">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNM2P/shall-we-date">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Students at the academy suddenly see Will in a different light and he receives a<br>flood of invitations to join their parties for the upcoming all-student praxis. Colette panics and<br>arranges a date with Will, but an unexpected third party shows up.</p>
 </td>
 </tr>
 </table>
@@ -407,12 +386,12 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World - Episode 11 - Alba</h3></th>
+<th><h3 align="center">Wistoria: Wand and Sword (Telugu Dub) - Episode 8 - Shall we date?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5297a9aef77beca6014d013fe6593ec41726243649_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4cd0aaa5f25b1e4a7f25817bf9f8519e1725175968_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -421,17 +400,17 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJ8WD/alba">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXZD5/shall-we-date">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the party flees from Gaydle, Nikola refuses to wake up.</p>
+<p align="center">Students at the academy suddenly see Will in a different light and he receives a<br>flood of invitations to join their parties for the upcoming all-student praxis. Colette panics and<br>arranges a date with Will, but an unexpected third party shows up.</p>
 </td>
 </tr>
 </table>
@@ -441,12 +420,12 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 
 <table align="center">
 <tr>
-<th><h3 align="center">Quality Assurance in Another World (English Dub) - Episode 11 - Alba</h3></th>
+<th><h3 align="center">Wistoria: Wand and Sword (Tamil Dub) - Episode 8 - Shall we date?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ee042044f10dde7641d033b8553b67bd1726243826_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4cd0aaa5f25b1e4a7f25817bf9f8519e1725175968_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -455,17 +434,17 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U4702Q/alba">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVZ3Z/shall-we-date">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the party flees from Gaydle, Nikola refuses to wake up.</p>
+<p align="center">Students at the academy suddenly see Will in a different light and he receives a<br>flood of invitations to join their parties for the upcoming all-student praxis. Colette panics and<br>arranges a date with Will, but an unexpected third party shows up.</p>
 </td>
 </tr>
 </table>
@@ -475,12 +454,12 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 
 <table align="center">
 <tr>
-<th><h3 align="center">NieR:Automata Ver1.1a - Episode 22 - just y[O]u and me</h3></th>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (English Dub) - Episode 10 - New Foes</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/45ace86a1df492240496045cc90496981726242745_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c592e725156fe2593e819a965cab263e1725758928_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -489,28 +468,17 @@ This unit, in collaboration with 9S,<br>will begin searching the Sub-unit for th
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDMEGK/just-you-and-me">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWMVJ/new-foes">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">▶▶ Pod 153 - Report:
-
-Unit 9S has successfully obtained the three passcodes necessary to access<br>the main unit of the .
-The following data was confirmed during attempted access to the<br>Tower.
-Record added to items requiring further analysis.
-___________________________________________________________________________________________________________
-I’m not ■■■. I’m ■■■■■.
-You’re still ■■■■■.
-
-■■, ■■ is<br>■ inside ■■。
-And ――
-_________________________________________________________________________________________________________</p>
+<p align="center">Natsu, Lucy, Gray, and Erza fight their own Guild friends to free them from the<br>hypnosis. Then, Wendy encounters a new Dragon Eater. And another Dragon Eater Natsu meets turns<br>out to be...</p>
 </td>
 </tr>
 </table>
@@ -520,12 +488,12 @@ ________________________________________________________________________________
 
 <table align="center">
 <tr>
-<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 - Episode 70 - Settling the Score with the Hero</h3></th>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (German Dub) - Episode 7 - All's Well That Ends Well</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d6bc82d62c6dd3e55f8feefc28d2319f1726223235_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8c2174d6aff7ddbab2e0c446362d42dc1723965679_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -534,17 +502,17 @@ ________________________________________________________________________________
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JNWQ/settling-the-score-with-the-hero">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V93J/alls-well-that-ends-well">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gazel and Elmesia pledge to assist Rimuru with Tempest's lack of funding. Elmesia then proposes<br>an alliance, but she's concerned about the danger Diablo poses.</p>
+<p align="center">As a thank-you for saving Ermina, Mercphobia gives the group information on the rest of<br>the Five Dragon Gods. And while they’re in the town of Tekka, they encounter someone<br>who looks exactly like Erza...</p>
 </td>
 </tr>
 </table>
@@ -554,12 +522,12 @@ ________________________________________________________________________________
 
 <table align="center">
 <tr>
-<th><h3 align="center">Bye Bye, Earth - Episode 10 - Spiral: Howling Sword, Rusty Nail</h3></th>
+<th><h3 align="center">Tower of God Season 2 (English Dub) - Episode 10 - The Hand of Arlen</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5d11db12d5be93e97906155d0c9970cf1726219497_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e8587f3536d7017c6f8e325db73accf41725793019_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -568,17 +536,17 @@ ________________________________________________________________________________
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9P7D/spiral-howling-sword-rusty-nail">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX2VW/the-hand-of-arlen">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Belle struggles through her trauma, Adonis sinks into darkness. There, he meets the swordwright<br>Dram and Belle's teacher, Sian. Learning of their shared path awakens him to a terrible<br>new power.</p>
+<p align="center">Kang Horyang leaves to look for Cassano alone. Unable to abandon their teammate, Viole and<br>the others go after him.</p>
 </td>
 </tr>
 </table>
@@ -588,12 +556,12 @@ ________________________________________________________________________________
 
 <table align="center">
 <tr>
-<th><h3 align="center">2.5 Dimensional Seduction - Episode 11</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Portuguese Dub) - Episode 9 - One-Winged Devil</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/79114a291a6c290b52bf9ebd381804971726212583_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/11d96f5385bb824f818714a4c2e14ecc1725182400_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -602,17 +570,17 @@ ________________________________________________________________________________
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3E083">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXZJ5/one-winged-devil">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Kang Horyang shares his past with his teammates and asks Viole about the source of<br>his power.</p>
 </td>
 </tr>
 </table>
@@ -622,12 +590,12 @@ ________________________________________________________________________________
 
 <table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom Second Season (Telugu Dub) - Episode 9 - Round Two Time</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Spanish Dub) - Episode 9 - One-Winged Devil</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/aab5e3a8f16f5babd26b70df9835d3061499230091_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/11d96f5385bb824f818714a4c2e14ecc1725182400_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -636,17 +604,17 @@ ________________________________________________________________________________
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PNMX/round-two-time">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVZNZ/one-winged-devil">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The students consider their future career options. Nagisa struggles to come to terms with his<br>talent; meanwhile, his mother has her own plans for him.</p>
+<p align="center">Kang Horyang shares his past with his teammates and asks Viole about the source of<br>his power.</p>
 </td>
 </tr>
 </table>
@@ -656,12 +624,12 @@ ________________________________________________________________________________
 
 <table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom Second Season (Tamil Dub) - Episode 9 - Round Two Time</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Hindi Dub) - Episode 9 - One-Winged Devil</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/aab5e3a8f16f5babd26b70df9835d3061499230091_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/11d96f5385bb824f818714a4c2e14ecc1725182400_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -670,17 +638,17 @@ ________________________________________________________________________________
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZV5Q/round-two-time">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NV2Z/one-winged-devil">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The students consider their future career options. Nagisa struggles to come to terms with his<br>talent; meanwhile, his mother has her own plans for him.</p>
+<p align="center">Kang Horyang shares his past with his teammates and asks Viole about the source of<br>his power.</p>
 </td>
 </tr>
 </table>
@@ -690,12 +658,12 @@ ________________________________________________________________________________
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Thai Dub) - Episode 12 - A Steamy Hot Spring Trip, Part 2</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Russian Dub) - Episode 9 - One-Winged Devil</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0228d51a22fdeaec1baa29b2f089136c1719241439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/11d96f5385bb824f818714a4c2e14ecc1725182400_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -704,17 +672,17 @@ ________________________________________________________________________________
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/13/2024</td>
+<td align="center">9/22/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK4VN/a-steamy-hot-spring-trip-part-2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ7MZ/one-winged-devil">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Flio and his friends have arrived at the hot spring where they encounter the Demon<br>King's group and the Golden-haired Hero who's transformed and chaos ensues. While Flio and his<br>friends fight to save the town, Gholl faces off against Yuigarde.</p>
+<p align="center">Kang Horyang shares his past with his teammates and asks Viole about the source of<br>his power.</p>
 </td>
 </tr>
 </table>
