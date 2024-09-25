@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 24, 2024, 7:27:59 PM</em></p>
+<p align="center"><em>Updated on: Sep 25, 2024, 8:06:26 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Log Horizon 2 (Hindi Dub) - Episode 17 - Odyssey Knights</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Spanish Dub) - Episode 13 - Supper of Three and Afternoon of Two</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/878372d5f3db776da170515d54329d111422679339_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d134e10f5d707e967a7741fb6734bc61719245892_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX8G9/odyssey-knights">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJP52/supper-of-three-and-afternoon-of-two">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Continuing on their way to the Redstone mountains, the gang encounters a mysterious group: the<br>Odyssey knights, a group of players who'll do anything to get back home.  Their<br>eyes are strangely lifeless, and they're carrying a strange altar that allows its users to<br>ressurect immediately.</p>
+<p align="center">Holo, Lawrence, and Nora sit down for a much deserved meal, but Holo's not her<br>usual self.  Holo remembers the past and contemplates the future...</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (English Dub) - Episode 23 - Orchestrated Catastrophe and Appropriate Retribution</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Portuguese Dub) - Episode 13 - Supper of Three and Afternoon of Two</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f1372f9ad1dbdef66b1020720ebf80d11725895299_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d134e10f5d707e967a7741fb6734bc61719245892_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWM1J/orchestrated-catastrophe-and-appropriate-retribution">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK28E/supper-of-three-and-afternoon-of-two">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lawrence and Holo are being used as scapegoats because a person in Enberch died from<br>poisoned wheat from the village of Tereo. How can the two get themselves out of<br>this trap?</p>
+<p align="center">Holo, Lawrence, and Nora sit down for a much deserved meal, but Holo's not her<br>usual self.  Holo remembers the past and contemplates the future...</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (German Dub) - Episode 22 - Church Teachings and Memories of Father</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Spanish Dub) - Episode 12 - Price of Betrayal and Price of Gold</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1f840cf49162ea03c0248387a0cc5a341725299730_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/01a784cf7ea16056a13cd1405f6fc7041718639779_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9N7X/church-teachings-and-memories-of-father">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWM70/price-of-betrayal-and-price-of-gold">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Meeting with Elsa in the church, Lawrence and Holo are able to learn the truth<br>about Father Franz's studies as Elsa reveals a hidden secret of the church, and the<br>true location of the Abbey.</p>
+<p align="center">Betrayed and left for dead, Lawrence waits for Holo's return. Holo is no weak wolf<br>to run off with her tail between her legs, and Lawrence the merchant won't lose<br>his profit either. But will a wolf be willing to save a shepherd?</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (French Dub) - Episode 22 - Church Teachings and Memories of Father</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Portuguese Dub) - Episode 12 - Price of Betrayal and Price of Gold</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1f840cf49162ea03c0248387a0cc5a341725299730_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/01a784cf7ea16056a13cd1405f6fc7041718639779_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNDWQ/church-teachings-and-memories-of-father">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNDXD/price-of-betrayal-and-price-of-gold">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Meeting with Elsa in the church, Lawrence and Holo are able to learn the truth<br>about Father Franz's studies as Elsa reveals a hidden secret of the church, and the<br>true location of the Abbey.</p>
+<p align="center">Betrayed and left for dead, Lawrence waits for Holo's return. Holo is no weak wolf<br>to run off with her tail between her legs, and Lawrence the merchant won't lose<br>his profit either. But will a wolf be willing to save a shepherd?</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY (English Dub) - Episode 22 - Hand Reached Out</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Portuguese Dub) - Episode 11 - Forest of Wolves and Frigid Rain</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3ea595d704caddcfe3c63a2f9ecc79ac1725881425_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/60ed34cd431829ca37a184185f37d5d71718036927_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX29W/hand-reached-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9N14/forest-of-wolves-and-frigid-rain">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Now a separate being once again, Mai returns to her internal struggles as Ai and<br>Tokimaru desperately try to reach out to her. Members of Amarariruku ascend to the top<br>of the tower to finish destroying the black sphere from the inside.</p>
+<p align="center">Nora leads the way into the dangerous woods, and so their risky plan commences. What<br>dangers truly lurk in the woods? Are a brave shepherd and a Wise Wolf strong<br>enough to overcome what lies ahead?</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY (Portuguese Dub) - Episode 21 - Vague</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Spanish Dub) - Episode 11 - Forest of Wolves and Frigid Rain</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/838bdb4860e634ba8ea0bd3db29caedf1725269600_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/60ed34cd431829ca37a184185f37d5d71718036927_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVZWZ/vague">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V9NK/forest-of-wolves-and-frigid-rain">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the fusion of Ai and Mai into an entirely new being, Shy is left<br>alone atop the tower to face a formidable foe alone. Hearts clash on battlefields both<br>physical and emotional.</p>
+<p align="center">Nora leads the way into the dangerous woods, and so their risky plan commences. What<br>dangers truly lurk in the woods? Are a brave shepherd and a Wise Wolf strong<br>enough to overcome what lies ahead?</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY (German Dub) - Episode 21 - Vague</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Portuguese Dub) - Episode 10 - Wisdom of a Wolf and Smooth Talk of a Merchant</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/838bdb4860e634ba8ea0bd3db29caedf1725269600_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c3a8789e3c46e88755d4fdb62d886e1b1717435672_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9Z05/vague">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ7WW/wisdom-of-a-wolf-and-smooth-talk-of-a-merchant">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the fusion of Ai and Mai into an entirely new being, Shy is left<br>alone atop the tower to face a formidable foe alone. Hearts clash on battlefields both<br>physical and emotional.</p>
+<p align="center">Desperate for money, the wise Wolf proposes a dangerous new plan.  But even more<br>dangerous are Holo's emotions, when Lawrence is being rather dense...</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY (Spanish Dub) - Episode 21 - Vague</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Spanish Dub) - Episode 10 - Wisdom of a Wolf and Smooth Talk of a Merchant</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/838bdb4860e634ba8ea0bd3db29caedf1725269600_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c3a8789e3c46e88755d4fdb62d886e1b1717435672_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKP8Q/vague">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK2JE/wisdom-of-a-wolf-and-smooth-talk-of-a-merchant">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the fusion of Ai and Mai into an entirely new being, Shy is left<br>alone atop the tower to face a formidable foe alone. Hearts clash on battlefields both<br>physical and emotional.</p>
+<p align="center">Desperate for money, the wise Wolf proposes a dangerous new plan.  But even more<br>dangerous are Holo's emotions, when Lawrence is being rather dense...</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF - Episode 25 - Miracle's Path and Journey's Continuation</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Portuguese Dub) - Episode 9 - Sweet Honey and Bitter Armor</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/936a5f9b0488dd50456ed2b955257d731727106563_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ab9c622c48eaa305251016c6cf90be151716830734_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1W1M/miracles-path-and-journeys-continuation">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNMD0/sweet-honey-and-bitter-armor">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Elsa's plan succeeds. After Bishop Mendez and the men from Enberch witness the miracle, they<br>leave the village of Tereo alone. Shortly thereafter, Lawrence and Holo plan to continue their<br>journey...</p>
+<p align="center">Lawrence is ready to sell the armor for a great profit and Holo wants her<br>peaches.  But when things don't go to plan, will either get what they want?</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible - Episode 12 - Quarter Thumbs-Up</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Spanish Dub) - Episode 9 - Sweet Honey and Bitter Armor</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f4aa35f73074eda555f5d36587db45bc1727106541_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ab9c622c48eaa305251016c6cf90be151716830734_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMP5V/quarter-thumbs-up">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NQW8/sweet-honey-and-bitter-armor">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">During the final match, Broughston tells Rick about his loneliness, the founding of Orichalcum Fist,<br>and his longtime dream. Wanting to repay Broughston for the training that allowed him to<br>fulfill his own dream, Rick makes a decision. It's time to fight!</p>
+<p align="center">Lawrence is ready to sell the armor for a great profit and Holo wants her<br>peaches.  But when things don't go to plan, will either get what they want?</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (German Dub) - Episode 12 - Attack of the Giant Monsters</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Portuguese Dub) - Episode 8 - Fellow Traveler and Foreboding News</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/220a5c86d663bf6d9b90b2167dc38e741711378080_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ae13ba7e0b51f3f5dde892f50931a09c1716225695_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWMXJ/attack-of-the-giant-monsters">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ3Z9/fellow-traveler-and-foreboding-news">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">One day near summer's end, the highland orcs are attacked by wolves and bears while<br>exploring the forest. After hearing the news, Makoto goes to the forest in an attempt<br>to make peace between them, but the bear he meets looks upon him with hostility.</p>
+<p align="center">Our travelers encounter a shepherd along the road.  Can the Wise Wolf hold back<br>against an enemy of wolves long enough for Lawrence to build more contacts?</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (German Dub) - Episode 11 - Summer of Growth and New Skills</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Spanish Dub) - Episode 8 - Fellow Traveler and Foreboding News</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1cd210488565733b7bd26c27dd35d4231710765624_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ae13ba7e0b51f3f5dde892f50931a09c1716225695_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V97J/summer-of-growth-and-new-skills">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKPMX/fellow-traveler-and-foreboding-news">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's summer vacation for Rotsgard Academy. Makoto spends his time doing miscellaneous work and learning<br>magic. One day it's decided he will have a mock battle against the wingkin. Makoto<br>braces himself against his powerful enemies who are undefeated.</p>
+<p align="center">Our travelers encounter a shepherd along the road.  Can the Wise Wolf hold back<br>against an enemy of wolves long enough for Lawrence to build more contacts?</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (German Dub) - Episode 10 - Watch As I Improve the World</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Portuguese Dub) - Episode 7 - Scale of God and Sorcerer of the Grasslands</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e699c3566d6e2aa04b58654e1d3613061710156457_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bda25d6732a0d4eab9e7185e2449f2de1715625892_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ7DZ/watch-as-i-improve-the-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31D80/scale-of-god-and-sorcerer-of-the-grasslands">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shin and company begin full-scale action to destroy the underground organization with demon general Rona's<br>help. The group discovers that the mastermind is Bright, an instructor at Rotsgard Academy. Bright's<br>willingness to make sacrifices angers Makoto.</p>
+<p align="center">Lawrence and Holo continue on to the next city to sell the pepper and pick<br>up their next goods on the long journey north. Holo puts her nose to good<br>use, once again.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (German Dub) - Episode 9 - The Perverted Dragon</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Spanish Dub) - Episode 7 - Scale of God and Sorcerer of the Grasslands</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d9f7d7c4aeb9f0ca73803b602f0aba91709558280_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bda25d6732a0d4eab9e7185e2449f2de1715625892_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73D7X/the-perverted-dragon">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9ZJM/scale-of-god-and-sorcerer-of-the-grasslands">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lime sets out to investigate hyuman experiments that are secretly being carried out in Rotsgard.<br>He ends up being captured by an underground organization along with Eva. After that, the<br>two manage to escape and meet up with Shin and the others.</p>
+<p align="center">Lawrence and Holo continue on to the next city to sell the pepper and pick<br>up their next goods on the long journey north. Holo puts her nose to good<br>use, once again.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (German Dub) - Episode 8 - The Notorious Beautiful Sisters</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Portuguese Dub) - Episode 6 - Merchant and Unreasonable God</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e40d6e9d13579f97f756ee7c5c3c47b01708964419_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/177d4c70a0598b0ea64e302b9c0a0bae1715011712_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX2NW/the-notorious-beautiful-sisters">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZXV8/merchant-and-unreasonable-god">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Makoto had a busy but fun time in the demiplane. After finishing his business, he<br>returns to Rotsgard with Shiki. Meanwhile, at Rotsgard Academy, Shifu and Yuno Rembrandt have returned<br>to school and will attend a lecture with transfer student Karen Force.</p>
+<p align="center">Holo and Lawrence are trapped in the tunnels below the city, with hunters searching for<br>them in all directions.  When danger comes, how far will they go to protect<br>each other?</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (German Dub) - Episode 7 - New Member Audition</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Spanish Dub) - Episode 6 - Merchant and Unreasonable God</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1acb81fd2e765e634e65f5249b1911641708352436_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/177d4c70a0598b0ea64e302b9c0a0bae1715011712_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NQ81/new-member-audition">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNMP0/merchant-and-unreasonable-god">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Makoto returns to the demiplane to check out his new house, which has finally completed<br>construction. He arrives to find that the weather is unseasonably hot, and the source of<br>the problem might be his fault.</p>
+<p align="center">Holo and Lawrence are trapped in the tunnels below the city, with hunters searching for<br>them in all directions.  When danger comes, how far will they go to protect<br>each other?</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (German Dub) - Episode 6 - Becoming a Three-Star Chef</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Portuguese Dub) - Episode 5 - Wolf Incarnate and Obedient Lamb</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c0126db12487fe6d19251b3c5b0e45a61707743003_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/56e2894cdf5edb8b1b4094591ca0e1501714403478_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKPVQ/becoming-a-three-star-chef">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P5NE/wolf-incarnate-and-obedient-lamb">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Makoto is finally able to open his new shop in Rotsgard, but convincing staff to<br>work there rather than Tsige is a bit of a challenge. He later has a<br>talk with Eva about this world's view of marriage, which doesn't sit well with him.</p>
+<p align="center">Lawrence reveals Holo's secret to the manager of Milone Trading Company to gain their help<br>in securing Holo's escape.  For merchants, money comes first, so why has Medio Trading<br>captured Holo at all? Lawrence must outthink politics to save Holo</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (German Dub) - Episode 5 - The Lesson Will Now Begin</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Spanish Dub) - Episode 5 - Wolf Incarnate and Obedient Lamb</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/46dda8b71fd9bddb34f660a9d98fab5b1707147665_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/56e2894cdf5edb8b1b4094591ca0e1501714403478_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NV8Z/the-lesson-will-now-begin">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ3K9/wolf-incarnate-and-obedient-lamb">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Makoto starts planning his curriculum and class size now that he's employed at Rotsgard Academy.<br>He wants to teach students to expand their use of elemental magic, but his first<br>class seems to think that's simply impossible.</p>
+<p align="center">Lawrence reveals Holo's secret to the manager of Milone Trading Company to gain their help<br>in securing Holo's escape.  For merchants, money comes first, so why has Medio Trading<br>captured Holo at all? Lawrence must outthink politics to save Holo</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (German Dub) - Episode 4 - Why Am I a Teacher?!</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Portuguese Dub) - Episode 4 - Romantic Merchant and Moonlit Farewell</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fe3a42b146eba3d72e437a29b28a3f1f1706534808_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2bf1936737b1e58045c0599e2d5d60711713801713_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9ZE5/why-am-i-a-teacher">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJPV2/romantic-merchant-and-moonlit-farewell">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Makoto finally arrives in Rotsgard, but is shocked to find that he's somehow ended up<br>registered to take a teacher's exam instead of one for students. On the way there,<br>he crosses paths with some haughty students of the school...</p>
+<p align="center">Lawrence has figured out the truth behind the silver scheme, and how to profit from<br>it, but in doing so he has made some dangerous enemies.  Meanwhile, Holo and<br>Lawrence discuss his grand plans for the future.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (German Dub) - Episode 3 - Stellar Wars</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (Spanish Dub) - Episode 4 - Romantic Merchant and Moonlit Farewell</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eb11a57c3f7572ae76b5aad148f92f8b1705907571_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2bf1936737b1e58045c0599e2d5d60711713801713_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/23/2024</td>
+<td align="center">9/24/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVZGZ/stellar-wars">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK3G8/romantic-merchant-and-moonlit-farewell">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hibiki and Tomoki's parties prepare for the attack on Fort Stella (the one Makoto ended<br>up being somewhat involved in against his will). The two human heroes couldn't be more<br>different, posing challenges beyond the simple difficulty of facing the demons.</p>
+<p align="center">Lawrence has figured out the truth behind the silver scheme, and how to profit from<br>it, but in doing so he has made some dangerous enemies.  Meanwhile, Holo and<br>Lawrence discuss his grand plans for the future.</p>
 </td>
 </tr>
 </table>
