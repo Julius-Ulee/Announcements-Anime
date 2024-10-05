@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Oct 5, 2024, 8:04:31 AM</em></p>
+<p align="center"><em>Updated on: Oct 5, 2024, 7:25:09 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom Second Season (Tamil Dub) - Episode 11 - End-of-Term Time/2nd Period</h3></th>
+<th><h3 align="center">Case Closed (Detective Conan) - Episode 1137 - The Secret of the Popular Restaurant's Changing Flavor</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a198d917c5e442a66f3baa54e5075c6f1499227584_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4e3ec23d0cd000918955c2ab5a13675d1728109694_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2024</td>
+<td align="center">10/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P5EN/end-of-term-time2nd-period">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8N0G3/the-secret-of-the-popular-restaurants-changing-flavor">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's exam time again, and the cream-of-the-crop A Class is a bigger threat than ever<br>before. Top-ranking Asano, however, has something up his sleeve.</p>
+<p align="center">The Detective Boys are distressed to discover the flavor of popular ramen shop Ogataken's flavor<br>has changed, so they head to the restaurant to investigate.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom Second Season (Telugu Dub) - Episode 11 - End-of-Term Time/2nd Period</h3></th>
+<th><h3 align="center">My Hero Academia Season 7 - Episode 158 - A Girl's Ego</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a198d917c5e442a66f3baa54e5075c6f1499227584_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/994f86bfc94acd6e787095bc2fbe098a1728108402_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2024</td>
+<td align="center">10/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZXJK/end-of-term-time2nd-period">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG2X8/a-girls-ego">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's exam time again, and the cream-of-the-crop A Class is a bigger threat than ever<br>before. Top-ranking Asano, however, has something up his sleeve.</p>
+<p align="center">Toga transforms into Twice and backs the heroes into a corner with Infinite Doubles. In<br>the midst of that, Ochaco does her best to get close to Toga to talk<br>to her. How does Toga respond...?</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Café Terrace and Its Goddesses (German Dub) - Episode 22 - Christmas Party!</h3></th>
+<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez Season 2 - Episode 12 - Unparalleled Rakshasa</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9afe5c2c022ef1f7844a85d86d3208131725556247_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d047734ee958a9218d20fcdfca5e9fde1728074489_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
+<td align="center">10/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V9X3/christmas-party">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47ZWJ/unparalleled-rakshasa">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The girls want to plan a Christmas party together, right as competition for Hayato's affection<br>begins to really heat up.</p>
+<p align="center">Varga, transformed into the Drekasleif, overwhelms the Destined King. Only Akina and the Fated King<br>can stop Sybilt's ambition of obtaining all the Design Force. The final showdown to take<br>back Nao begins!</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Café Terrace and Its Goddesses (Spanish Dub) - Episode 22 - Christmas Party!</h3></th>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 34 - The Fall 2024 Anime You NEED to Watch</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9afe5c2c022ef1f7844a85d86d3208131725556247_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/510422c363945f93d6404940424d98361728080336_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
+<td align="center">10/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWM92/christmas-party">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PGD3/the-fall-2024-anime-you-need-to-watch">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The girls want to plan a Christmas party together, right as competition for Hayato's affection<br>begins to really heat up.</p>
+<p align="center">Nick, LeAlec, and Leah are breaking down the fall 2024 anime lineup coming to Crunchyroll.<br>From Dragon Ball DAIMA to DAN DA DAN and so much more, start building your<br>fall anime watchlist NOW. But first, what do Frieren: Beyond Journey's End, Wistoria: Wand and<br>Sword, and That Time I Got Reincarnated as a Slime all have in common? Find<br>out TODAY on The Anime Effect. We’re also sharing about a Sailor Moon shoe collab,<br>how Studio TRIGGER is celebrating the Transformers 40th Anniversary, and more. Then, find out the<br>hosts’ favorite non-rom-com anime with unrequited love stories and what anime has them all in<br>the feels.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BARTENDER Glass of God (English Dub) - Episode 10 - A Thorn in the Heart</h3></th>
+<th><h3 align="center">Bye Bye, Earth (Portuguese Dub) - Episode 10 - Spiral: Howling Sword, Rusty Nail</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f2e8faf0b4d22616616e7f7bdefb4ae1717602565_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5d11db12d5be93e97906155d0c9970cf1726219497_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
+<td align="center">10/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNDJN/a-thorn-in-the-heart">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZP4N/spiral-howling-sword-rusty-nail">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Miwa continues to worry about Ryu and how he's coping with the death of one<br>of his previous customers. Hayase receives another promotion that will put him in America for<br>a few years, but when Rumi comes back to town, he hesitates to leave.</p>
+<p align="center">While Belle struggles through her trauma, Adonis sinks into darkness. There, he meets the swordwright<br>Dram and Belle's teacher, Sian. Learning of their shared path awakens him to a terrible<br>new power.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Pseudo Harem (Portuguese Dub) - Episode 10 - Birthday</h3></th>
+<th><h3 align="center">Bye Bye, Earth (German Dub) - Episode 10 - Spiral: Howling Sword, Rusty Nail</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/562391c55a11f5cd9b3672afe3d1cfe51725550907_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5d11db12d5be93e97906155d0c9970cf1726219497_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
+<td align="center">10/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX2WD/birthday">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31724/spiral-howling-sword-rusty-nail">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rin's birthday is coming, and Eiji is working to save up and buy a gift.<br>But when your girlfriend is sometimes multiple people, who exactly do you buy a birthday<br>present for?</p>
+<p align="center">While Belle struggles through her trauma, Adonis sinks into darkness. There, he meets the swordwright<br>Dram and Belle's teacher, Sian. Learning of their shared path awakens him to a terrible<br>new power.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Pseudo Harem (Spanish Dub) - Episode 10 - Birthday</h3></th>
+<th><h3 align="center">Bye Bye, Earth (Spanish Dub) - Episode 10 - Spiral: Howling Sword, Rusty Nail</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/562391c55a11f5cd9b3672afe3d1cfe51725550907_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5d11db12d5be93e97906155d0c9970cf1726219497_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
+<td align="center">10/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73D8G/birthday">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKXDQ/spiral-howling-sword-rusty-nail">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rin's birthday is coming, and Eiji is working to save up and buy a gift.<br>But when your girlfriend is sometimes multiple people, who exactly do you buy a birthday<br>present for?</p>
+<p align="center">While Belle struggles through her trauma, Adonis sinks into darkness. There, he meets the swordwright<br>Dram and Belle's teacher, Sian. Learning of their shared path awakens him to a terrible<br>new power.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Twilight Out of Focus (English Dub) - Episode 11 - Paths</h3></th>
+<th><h3 align="center">Bye Bye, Earth (Hindi Dub) - Episode 10 - Spiral: Howling Sword, Rusty Nail</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c259519e46ed011cdb26f9b38de0e1931726150778_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5d11db12d5be93e97906155d0c9970cf1726219497_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
+<td align="center">10/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9Z77/paths">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNXKK/spiral-howling-sword-rusty-nail">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The festival competition has ended. Mao and Hisashi go back to their respective clubs, but<br>now have to think seriously about the future. Mao realizes he's feeling lonely as he<br>watches Hisashi spread his wings. Then, Ichikawa's movie starts going viral...</p>
+<p align="center">While Belle struggles through her trauma, Adonis sinks into darkness. There, he meets the swordwright<br>Dram and Belle's teacher, Sian. Learning of their shared path awakens him to a terrible<br>new power.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Twilight Out of Focus (Hindi Dub) - Episode 10 - Promise Me This Is Forever</h3></th>
+<th><h3 align="center">Bye Bye, Earth (Tamil Dub) - Episode 10 - Spiral: Howling Sword, Rusty Nail</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/19364c07311b5a42895591a3502706981725528184_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5d11db12d5be93e97906155d0c9970cf1726219497_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
+<td align="center">10/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVZ05/promise-me-this-is-forever">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX703/spiral-howling-sword-rusty-nail">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With Shion avoiding him, Rei starts wondering if he's been dumped. Rei and Jin have<br>a heart-to-heart talk about relationships. Jin points out that Rei has changed a lot. Jin<br>convinces Rei to run after Shion and try to salvage things before it's too late.</p>
+<p align="center">While Belle struggles through her trauma, Adonis sinks into darkness. There, he meets the swordwright<br>Dram and Belle's teacher, Sian. Learning of their shared path awakens him to a terrible<br>new power.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Days with My Stepsister (Hindi Dub) - Episode 10 - Relations and Regrets</h3></th>
+<th><h3 align="center">Bye Bye, Earth (Telugu Dub) - Episode 10 - Spiral: Howling Sword, Rusty Nail</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/acd6c3cf06e40a087791b54be5cbba021725527782_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5d11db12d5be93e97906155d0c9970cf1726219497_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
+<td align="center">10/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXZ9G/relations-and-regrets">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV4W9/spiral-howling-sword-rusty-nail">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A new school term has started, and parent-teacher meetings are on the horizon. At school,<br>Yuta and Saki still have not told anyone that they are siblings. As their mother,<br>Akiko wants to attend both meetings, but she worries it would expose their secret.</p>
+<p align="center">While Belle struggles through her trauma, Adonis sinks into darkness. There, he meets the swordwright<br>Dram and Belle's teacher, Sian. Learning of their shared path awakens him to a terrible<br>new power.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Senpai is an Otokonoko - Episode 12 - The Real Me</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Portuguese Dub) - Episode 70 - Settling the Score with the Hero</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/480970a5aeda8d6794c9a66da1fc88211727373328_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d6bc82d62c6dd3e55f8feefc28d2319f1726223235_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
+<td align="center">10/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82W0M/the-real-me">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE94EJ/settling-the-score-with-the-hero">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Due to his father's work, Makoto goes to meet his grandfather for the first time..<br>While spending time with him, Makoto begins to sort through his own feelings. Then, with<br>a hidden resolve in his heart, he decides to go home.</p>
+<p align="center">Gazel and Elmesia pledge to assist Rimuru with Tempest's lack of funding. Elmesia then proposes<br>an alliance, but she's concerned about the danger Diablo poses.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells - Episode 12 - Ruler and Sword</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (German Dub) - Episode 70 - Settling the Score with the Hero</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/548d816dfc5c31760bed0b0b52e727bf1727363812_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d6bc82d62c6dd3e55f8feefc28d2319f1726223235_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
+<td align="center">10/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5185/ruler-and-sword">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NZ8V/settling-the-score-with-the-hero">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Touka braves the horde and the human-faced monsters, he'll have to dig deep and<br>muster every last ounce of his strength in order to come out on top so<br>that he can exact his vengeance upon Vicius and keep his promise to Seras.</p>
+<p align="center">Gazel and Elmesia pledge to assist Rimuru with Tempest's lack of funding. Elmesia then proposes<br>an alliance, but she's concerned about the danger Diablo poses.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tying the Knot with an Amagami Sister - Teaser PV</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Spanish Dub) - Episode 70 - Settling the Score with the Hero</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c12e0f98e84686e4503aff87ee45b7bc1727322850_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d6bc82d62c6dd3e55f8feefc28d2319f1726223235_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,255 +434,288 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
+<td align="center">10/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V9G3/teaser-pv">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8N585/settling-the-score-with-the-hero">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Gazel and Elmesia pledge to assist Rimuru with Tempest's lack of funding. Elmesia then proposes<br>an alliance, but she's concerned about the danger Diablo poses.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Castilian Dub) - Episode 70 - Settling the Score with the Hero</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d6bc82d62c6dd3e55f8feefc28d2319f1726223235_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX3NJ/settling-the-score-with-the-hero">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Gazel and Elmesia pledge to assist Rimuru with Tempest's lack of funding. Elmesia then proposes<br>an alliance, but she's concerned about the danger Diablo poses.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Italian Dub) - Episode 70 - Settling the Score with the Hero</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d6bc82d62c6dd3e55f8feefc28d2319f1726223235_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73W74/settling-the-score-with-the-hero">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Gazel and Elmesia pledge to assist Rimuru with Tempest's lack of funding. Elmesia then proposes<br>an alliance, but she's concerned about the danger Diablo poses.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (French Dub) - Episode 69 - The Martial Arts Tournament</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0ffc7c231bd9ffdf5174dcd353d32c0c1725633117_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVK3V7/the-martial-arts-tournament">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The second day of the National Foundation Festival dawns, bringing with it the main round<br>of the battle tournament. The fighters face off and give it their all—except for one,<br>which causes Rimuru concern.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">NieR:Automata Ver1.1a (Portugese Dub) - Episode 22 - just y[O]u and me</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/45ace86a1df492240496045cc90496981726242745_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZP9N/just-you-and-me">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">▶▶ Pod 153 - Report:
+
+Unit 9S has successfully obtained the three passcodes necessary to access<br>the main unit of the .
+The following data was confirmed during attempted access to the<br>Tower.
+Record added to items requiring further analysis.
+___________________________________________________________________________________________________________
+I’m not ■■■. I’m ■■■■■.
+You’re still ■■■■■.
+
+■■, ■■ is<br>■ inside ■■。
+And ――
+_________________________________________________________________________________________________________</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">NieR:Automata Ver1.1a (Spanish Dub) - Episode 22 - just y[O]u and me</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/45ace86a1df492240496045cc90496981726242745_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31734/just-you-and-me">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">▶▶ Pod 153 - Report:
+
+Unit 9S has successfully obtained the three passcodes necessary to access<br>the main unit of the .
+The following data was confirmed during attempted access to the<br>Tower.
+Record added to items requiring further analysis.
+___________________________________________________________________________________________________________
+I’m not ■■■. I’m ■■■■■.
+You’re still ■■■■■.
+
+■■, ■■ is<br>■ inside ■■。
+And ――
+_________________________________________________________________________________________________________</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">NieR:Automata Ver1.1a (English Dub) - Episode 22 - just y[O]u and me</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/45ace86a1df492240496045cc90496981726242745_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKXWQ/just-you-and-me">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">▶▶ Pod 153 - Report:
+
+Unit 9S has successfully obtained the three passcodes necessary to access<br>the main unit of the .
+The following data was confirmed during attempted access to the<br>Tower.
+Record added to items requiring further analysis.
+___________________________________________________________________________________________________________
+I’m not ■■■. I’m ■■■■■.
+You’re still ■■■■■.
+
+■■, ■■ is<br>■ inside ■■。
+And ――
+_________________________________________________________________________________________________________</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">DAN DA DAN (German Dub) - Episode 1</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/14ee51fac53422732cc746875587346e1728068454_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG0NK">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
 <p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (Thai Dub) - Episode 12 - Oath</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d3ce283e1b948937c240d94ac1f5d8c91719138831_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK27N/oath">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The mock battle to decide Mierille's fate and the future of House Louvent is on!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (Indonesian Dub) - Episode 12 - Oath</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d3ce283e1b948937c240d94ac1f5d8c91719138831_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMND1N/oath">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The mock battle to decide Mierille's fate and the future of House Louvent is on!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (Thai Dub) - Episode 11 - Mireille Grangeon</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/362bc5e911008e4bd7deba040efc59d31718535709_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNDPN/mireille-grangeon">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Mireille is making a real impression at House Louvent... and it's not a good one.<br>Ars believes in her potential, however, leaving him at a crossroads when the complaints start<br>coming in about her. Thankfully, Mireille has an unconventional solution!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (Indonesian Dub) - Episode 11 - Mireille Grangeon</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/362bc5e911008e4bd7deba040efc59d31718535709_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9NPM/mireille-grangeon">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Mireille is making a real impression at House Louvent... and it's not a good one.<br>Ars believes in her potential, however, leaving him at a crossroads when the complaints start<br>coming in about her. Thankfully, Mireille has an unconventional solution!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (Thai Dub) - Episode 10 - Couran Salamakhia</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/87e26507eda2bc4cac66d326b1b276411717933541_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9NDM/couran-salamakhia">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ars receives a personal invitation to a party hosted by Couran Salamakhia, the elder of<br>the late governor's two sons. Ars hardly knows what to make of the situation, much<br>less the big ideas Couran is about to share with him.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (Indonesian Dub) - Episode 10 - Couran Salamakhia</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/87e26507eda2bc4cac66d326b1b276411717933541_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX28D/couran-salamakhia">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ars receives a personal invitation to a party hosted by Couran Salamakhia, the elder of<br>the late governor's two sons. Ars hardly knows what to make of the situation, much<br>less the big ideas Couran is about to share with him.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (Thai Dub) - Episode 9 - Sounding Out</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b87ac03e8a5ecb0e1132b33463679fb51717323364_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/26/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9ZW7/sounding-out">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Now that the governor is dead, his sons are in a deadlock over who will<br>succeed him. Lord Lumeire's league has chosen their side, but one local district remains a<br>political holdout—and Ars is determined to figure out why.</p>
 </td>
 </tr>
 </table>
