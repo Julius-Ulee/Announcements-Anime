@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Oct 6, 2024, 8:10:16 AM</em></p>
+<p align="center"><em>Updated on: Oct 6, 2024, 7:24:38 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,108 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST - Episode 13.5 - Going Off Topic: Lucy's Diary</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/96439e569cf777844bf66f865de429361728190618_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VP0E/going-off-topic-lucys-diary">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Since Natsu, Lucy & Co. from Fairy Tail accepted the 100 Years Quest, a lot<br>has happened! Lucy is keeping a diary and reflecting once again on the most memorable<br>moments of their journey so far. And there's also a preview of what's yet to<br>come!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) - Episode 1121 - Garp and Kuzan - A Master and a Pupil's Beliefs Clash</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/24d4290bd2efb812c7dbd42279e0b9831728177959_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U312XQ/garp-and-kuzan-a-master-and-a-pupils-beliefs-clash">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">At the Pirate Island of Beehive, Vice Admiral Garp, who came to rescue the kidnapped<br>Koby, deals with an overwhelming number of pirates alone. As he and his fellow Navy<br>soldiers try to escape the island, Kuzan, the former Navy admiral, stands in their way.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Wonderful Precure! - Episode 36 - A Special Kind of Wonderful</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e83793af41807a1619ea22c3e1add6c41728174247_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKGPV/a-special-kind-of-wonderful">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Satoru works up his courage and confesses his feelings to Iroha. But Iroha is so<br>surprised she runs away. Iroha thinks hard about Satoru’s “special feelings” up until the morning<br>comes….</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Why Does Nobody Remember Me in This World? (English Dub) - Episode 11 - To Where Fate Lies</h3></th>
 </tr>
@@ -583,108 +685,6 @@ The warriors join forces with Fubuki, who’s familiar with<br>military strategi
 <tr>
 <td colspan="2">
 <p align="center">A maid suddenly appears at the house of high school student Hitoyoshi Yokoya, asking to<br>be hired. However, her background as a former assassin makes Hitoyoshi think twice.  From<br>this fateful encounter, their lives together will forever be changed.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Healer Who Was Banished From His Party, Is, in Fact, the Strongest - Episode 1 - Regarding Their Meeting, Which Was, in Fact, a Reunion</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ca4c505bc8fec2ba4ead50931ecffeae1728147902_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE94DJ/regarding-their-meeting-which-was-in-fact-a-reunion">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">A girl appears before Laust, an incompetent healer who has just been kicked out of<br>his party. Introducing herself as Narsena, she turns to Saust and says, "Would you be<br>willing to form a party with me?"</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- - Episode 1 - Ambition</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6db36f32bbe5d291610f3301d80e34e51728142948_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73WK4/ambition">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Despite the success in taking control of the Far East Laboratory, the Illuminati remain a<br>major threat. The Knights of the True Cross repeatedly hold discussions among the higher ranks<br>to create countermeasures. Meanwhile, Rin and the other students are informed that the Exorcism Certification<br>Exams will now be held sooner than planned. After the events in Shimane, Suguro struggles<br>with the fact that he's lost sight of the reason for becoming an exorcist. However,<br>Arch Knight Lightning is appointed as a new instructor at the Exorcist Cram School...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">ATRI -My Dear Moments- - Episode 13 - Stop, Time… You are Beautiful</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/989f9ad872724cadfdc487b2c6a5e1211728141006_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/5/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJZM1/stop-time-you-are-beautiful">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Only three days remain. Atri decides to become a part of Eden's system, and the<br>clock ticks on for Natsuki who decides to spend his life looking for a way<br>to save Atri.</p>
 </td>
 </tr>
 </table>
