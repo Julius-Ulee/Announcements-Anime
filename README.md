@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Oct 10, 2024, 7:26:55 PM</em></p>
+<p align="center"><em>Updated on: Oct 11, 2024, 8:04:56 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Berserk of Gluttony (English Dub) - Episode 11 - Death March</h3></th>
+<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 12 - Farewell Nokotan!? Long Live the Deer Club!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bea5a0dcd13179bca2cebfa1d8b4f4931702211553_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cfccdcace60e312176457b266827239d1726655719_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U319JZ/death-march">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ43V/farewell-nokotan-long-live-the-deer-club">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Since returning from the Great Ravine, Fate's found himself in enough altercations around Babylon to<br>get him in trouble with Roxy herself, who challenges him to a duel. Shortly afterward,<br>a death march approaches the city flanked by a masked individual.</p>
+<p align="center">Nokotan has disappeared from everyone's memories!? How is everyone going to handle this sudden serious<br>episode? Koshitan and our viewers are put to the test in the finale, "Farewell Nokotan!?<br>Long Live the Deer Club!"</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Unwanted Undead Adventurer (English Dub) - Episode 12 - Rentt Faina</h3></th>
+<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 11 - The Pursuer and the Pursued</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/db1c4cd114460f18738331d393b06eac1711090121_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1729875ff5530108cd4a73da5e3b7de61726034737_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P0MQ/rentt-faina">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXW35X/the-pursuer-and-the-pursued">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While contemplating his perilous choice to drink the vial of vampire blood, Rentt recounts the<br>story of his past and the events that inspired him to follow his dream of<br>becoming a Mythril-class adventurer.</p>
+<p align="center">Hinominami High School is peaceful as usual. However, Nokotan senses the "hunter's aura" of Kumatori,<br>a legendary hunter from Hokkaido. Nokotan will take whatever measures necessary to avoid being caught,<br>but what fate awaits her?!</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">True Beauty (English Dub) - Episode 8 - Stop lying to yourself</h3></th>
+<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 10 - Blame it on the Spring</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/261cc24eb152554c9be1d8273d0bcb521727278347_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1117a2133b96f180e4825b977cbb66431725460810_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VGEG/stop-lying-to-yourself">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V5M8/blame-it-on-the-spring">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After seeing Suho together with Sujin, Jugyeong finds herself avoiding him at all costs, The<br>second mission also calls for her attention and Jugyeong gets help from no other than<br>Seojun.</p>
+<p align="center">At the clubhouse, Koshitan finds Nokotan in tears and acting strangely...she's concerned at first, but<br>it turns out to be hay fever. Now, Nokotan's trying to think of ways to<br>cope!</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">True Beauty (Portuguese Dub) - Episode 7 - So what If I like her?</h3></th>
+<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 9 - Get the Sports Festival Done!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3dcad60798f66fdf5efec7afc468f1961726675848_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e17b812a360f73e393428101d8c7376a1724837236_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVQM2/so-what-if-i-like-her">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXPKX/get-the-sports-festival-done">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a successful first mission, Jugyeong decides to relax and help out Seojun with his<br>part-time job at a festival. Everything is going well, until Suho shows up and a<br>small plushie ignites a fierce battle between the two boys.</p>
+<p align="center">Hinominami High School is holding a sports festival! As student council president, Koshitan wants it<br>to go smoothly, but various incidents occur. Will the student council be able to see<br>through to the end of the sports festival?!</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">True Beauty (French Dub) - Episode 7 - So what If I like her?</h3></th>
+<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 8 - Goodbye, Old Deer! Hello, New Deer!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3dcad60798f66fdf5efec7afc468f1961726675848_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cf3695e88b6b20978cd1e336c6a8e3631724240769_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9WQ3/so-what-if-i-like-her">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQWQ1/goodbye-old-deer-hello-new-deer">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a successful first mission, Jugyeong decides to relax and help out Seojun with his<br>part-time job at a festival. Everything is going well, until Suho shows up and a<br>small plushie ignites a fierce battle between the two boys.</p>
+<p align="center">It is now winter and the Deer Club decides to go to a shrine for<br>Hatsumode. There, they see Nokotan being worshipped as the god of the shrine. Koshitan gets<br>jerked around from the beginning of the new year.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">True Beauty (Spanish Dub) - Episode 7 - So what If I like her?</h3></th>
+<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 7 - Deer Coll, Streaming, Hospitality, etc</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3dcad60798f66fdf5efec7afc468f1961726675848_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2eb5bb21ccf966162317dfcf984498211723645262_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NJW0/so-what-if-i-like-her">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKEK1/deer-coll-streaming-hospitality-etc">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a successful first mission, Jugyeong decides to relax and help out Seojun with his<br>part-time job at a festival. Everything is going well, until Suho shows up and a<br>small plushie ignites a fierce battle between the two boys.</p>
+<p align="center">Koshitan and Nokotan visit Café Tsubame. The owner, Yoshiharu Tsubameya (the older brother), is determined<br>to provide the perfect hospitality. However, his first deer customer makes him hesitate and he<br>is soon swept up in Nokotan's antics.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">True Beauty (Hindi Dub) - Episode 7 - So what If I like her?</h3></th>
+<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 6 - Summer Deer Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3dcad60798f66fdf5efec7afc468f1961726675848_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8b99eeefc2a067bd15d307183bf650c91723028036_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKQWV/so-what-if-i-like-her">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31P1Z/summer-deer-festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a successful first mission, Jugyeong decides to relax and help out Seojun with his<br>part-time job at a festival. Everything is going well, until Suho shows up and a<br>small plushie ignites a fierce battle between the two boys.</p>
+<p align="center">As usual, Neko-chan is plotting to shut down the Deer Club. Suddenly, Nokotan shows up<br>in the student council room and pulls out a mysterious creature called 'Tsuchinoko (?).' The<br>more Neko-chan learns about its puzzling nature, the more bewildered she becomes...?</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">True Beauty (Tamil Dub) - Episode 7 - So what If I like her?</h3></th>
+<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 5 - Grab Her Weakness!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3dcad60798f66fdf5efec7afc468f1961726675848_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/385c6c9c99865a959e86032d54e969181722764868_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NEZM/so-what-if-i-like-her">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ4JM/grab-her-weakness">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a successful first mission, Jugyeong decides to relax and help out Seojun with his<br>part-time job at a festival. Everything is going well, until Suho shows up and a<br>small plushie ignites a fierce battle between the two boys.</p>
+<p align="center">Koshitan, who is constantly being swung around by Nokotan's whims, decides to follow Nokotan in<br>order to find her weakness. There, she witnesses Nokotan's astonishing part-time job appearance.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">True Beauty (Telugu Dub) - Episode 7 - So what If I like her?</h3></th>
+<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 4 - The Deer Club in the Crosshairs</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3dcad60798f66fdf5efec7afc468f1961726675848_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/01af324082b10d18f596d378077ea3481722176408_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,19 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73EGK/so-what-if-i-like-her">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXW3W3/the-deer-club-in-the-crosshairs">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a successful first mission, Jugyeong decides to relax and help out Seojun with his<br>part-time job at a festival. Everything is going well, until Suho shows up and a<br>small plushie ignites a fierce battle between the two boys.</p>
+<p align="center">Koshitan serves as the president of the Hinominami High School Student Council. 
+The council also<br>includes Nekoyamada Neko as vice president, Tanukikouji Kinu as secretary, and Tsubameya Chiharu as treasurer.<br>
+However, one of them is plotting to disband the Deer Club—who could it be?</p>
 </td>
 </tr>
 </table>
@@ -318,12 +320,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Alya Sometimes Hides Her Feelings in Russian (Portuguese Dub) - Episode 12 - Chin Up and Face Forward</h3></th>
+<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 3 - The New Student: Bashame</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b6d7c6461afe2ac39a95cb67e70302221726655832_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0604cc879fa73f718348114bd8555eb11721568710_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +334,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJKNM/chin-up-and-face-forward">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK7K4/the-new-student-bashame">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The only thing standing between the student body and summer break is the closing ceremony,<br>where Alya and Yuki will formally address their schoolmates and begin their official candidacy for<br>student council president.</p>
+<p align="center">With the arrival of spring, new students enroll at Hinominami High School. Among them, a<br>prospective member appears in the Deer Club expressing a desire to "become a deer"...!? Additionally,<br>Koshitan's younger sister, Anko, also joins the club, adding to the chaos. What will become<br>of the Deer Club?</p>
 </td>
 </tr>
 </table>
@@ -352,12 +354,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Alya Sometimes Hides Her Feelings in Russian (German Dub) - Episode 12 - Chin Up and Face Forward</h3></th>
+<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 2 - Deer Meets Darkness Girl</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b6d7c6461afe2ac39a95cb67e70302221726655832_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/400a515515bdfc55aa046015e7bc11281720951448_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +368,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P0JQ/chin-up-and-face-forward">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNPNE/deer-meets-darkness-girl">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The only thing standing between the student body and summer break is the closing ceremony,<br>where Alya and Yuki will formally address their schoolmates and begin their official candidacy for<br>student council president.</p>
+<p align="center">Koshitan decorated the Deer Club room to turn it into a paradise. However, the room<br>was vandalized, and Nokotan's life was threatened. It was discovered that the culprit was Koshitan's<br>sister, Anko, driven by her obsessive jealousy due to her sister complex!</p>
 </td>
 </tr>
 </table>
@@ -386,12 +388,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Alya Sometimes Hides Her Feelings in Russian (Spanish Dub) - Episode 12 - Chin Up and Face Forward</h3></th>
+<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 1 - Girl Meets Deer</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b6d7c6461afe2ac39a95cb67e70302221726655832_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e3f8c7ef8be25af0dd794c610cbdfa791720362660_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +402,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U319ZZ/chin-up-and-face-forward">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9P9N/girl-meets-deer">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The only thing standing between the student body and summer break is the closing ceremony,<br>where Alya and Yuki will formally address their schoolmates and begin their official candidacy for<br>student council president.</p>
+<p align="center">Koshi Torako, hiding her former delinquent past and living as an honor student, meets a<br>mysterious horned girl hanging from a utility pole. This mysterious girl, Kanoko, becomes the source<br>of chaos in Torako's life.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +422,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Alya Sometimes Hides Her Feelings in Russian (French Dub) - Episode 8 - Student Congress</h3></th>
+<th><h3 align="center">BARTENDER Glass of God (English Dub) - Episode 12 - An Important Job</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/377d326ec9fa4f342a0a252c1a35e8501724240821_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2a4dd68499020c9389f7ad50a464bf8a1718810088_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +436,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN8EW/student-congress">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8N1NM/an-important-job">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The student congress arrives and Alya finds herself wrapped up in a shocking amount of<br>political intrigue and maneuvers. Will her teamwork and preparation with Masachika be enough to win<br>them the day?</p>
+<p align="center">Kurosawa Junichiro has holed up at Hotel Cardinal in order to finish writing the manuscript<br>for his next highly anticipated novel. Ryu decides to finally accept Taizo's offer, but he<br>has one condition that must be fulfilled first.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +456,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KamiErabi GOD.app Season 2 - Episode 14 - Finally, My Purpose in Life</h3></th>
+<th><h3 align="center">Pseudo Harem (Portuguese Dub) - Episode 12 - The Beginning of a Story</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/35de9d21cedd347f47eb4d88e363bd811728483733_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/80eef3920ea5d9ca83bc396c308d780e1726758164_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +470,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NEP4/finally-my-purpose-in-life">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN8WW/the-beginning-of-a-story">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lall remembers Goro, but he appears to have been erased from nearly everyone else's memories.<br>Ryo suggests to Eko that she befriend Lall and help her navigate the upcoming KamiErabi<br>battles, an idea to which Eko reluctantly agrees.</p>
+<p align="center">A short film made by Eiji's friend starring Rin ends up drawing attention from a<br>talent agency. On the verge of graduating, the time has come for her to make<br>a big decision.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +490,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Delico's Nursery - Episode 6.5 - Episode 6.5</h3></th>
+<th><h3 align="center">Pseudo Harem (Spanish Dub) - Episode 12 - The Beginning of a Story</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2c3b0cf2764cb0b1155a0db71279eb301728490766_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/80eef3920ea5d9ca83bc396c308d780e1726758164_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +504,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9V50/episode-65">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXPXX/the-beginning-of-a-story">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">From the pages of Dali's child-rearing journal, as reported on by Henrique, it's a summary<br>of the first six episodes of Delico's Nursery</p>
+<p align="center">A short film made by Eiji's friend starring Rin ends up drawing attention from a<br>talent agency. On the verge of graduating, the time has come for her to make<br>a big decision.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +524,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">True Beauty - Episode 10 - I will confess</h3></th>
+<th><h3 align="center">Twilight Out of Focus (Hindi Dub) - Episode 12 - A Red Thread</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2ae1c9167ee716da1fed75fc837e71f41728483638_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7504c2e5404e76cfd104deece5b2ad681726756806_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +538,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX1PWN/i-will-confess">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKZ51/a-red-thread">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While leaving the pyjama party, Suho and Seojun talk about their feelings for Jugyeong. While<br>Jugyeong is planning a confession herself, Suho surprises her by asking her out for a<br>movie date. But the date doesn‘t go as smoothly as planned.</p>
+<p align="center">Giichi invites Hisashi to star in a music video the film club was asked to<br>produce. Anxious about his acting and his future, Hisashi turns the role down. Mao asks<br>Hisashi to skip a day of class to cheer his boyfriend up and talk about<br>their relationship.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +558,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Prince of Tennis II U-17 WORLD CUP SEMIFINAL - Episode 2 - Bluebird</h3></th>
+<th><h3 align="center">Days with My Stepsister (Hindi Dub) - Episode 12 - "     and     "</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a2fcf8b37ba0fa1f5592272a9a968b671728465898_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4307a4e1e824a9068a4ba7f6d314f6f01726736590_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +572,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9578/bluebird">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z703/-and-">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the first match of the U-17 World Cup Semifinals it's Team Japan's Oni versus<br>Team Germany's Q･P. Can Oni hold his ground against Team Germany's No. 2 player?</p>
+<p align="center">Saki spends time with Maaya and friends while Yuta gets to know Fujinami. In their<br>own separate ways, Saki and Yuta start to understand the feelings connecting them... in this<br>story of a relationship that may one day become love.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +592,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Sengoku Youko - Episode 24 - Regarding the Thousandfold Chaotic Menagerie</h3></th>
+<th><h3 align="center">Another Journey to the West - Episode 1 - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0614a11ee5537677871bdda325e2af221728454610_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fa3df54d067d3319edc8e2367c441d101728580135_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +606,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ523D/regarding-the-thousandfold-chaotic-menagerie">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQJGN/episode-1">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With Jinun and Nadare under the control of the Void People, the most powerful human<br>in the land, one strong enough to injure the Mountain Goddess, is now aligned against<br>Senya and his friends.</p>
+<p align="center">Wu Daoying is a simple soldier in the military guard of the city of Huai<br>An. Strange things have been happening in the city for three months, and he has<br>a bad feeling about what might be behind it.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +626,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 - Episode 52 - A Showdown of Fire and Ice</h3></th>
+<th><h3 align="center">Another Journey to the West - Episode 2 - Episode 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/651fe49f7b3bd3038b48b0e7d9626f3e1728453898_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c492d42509941b37f549dd1bd4749c3c1728583316_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +640,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKE7K/a-showdown-of-fire-and-ice">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9DMN/episode-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Subaru desperately tries to fend off the attack from Sin Archbishop Sirius. But then, other<br>Archbishops appear...</p>
+<p align="center">Wu Daoying's ominous suspicion has been confirmed. Beneath King Linggan's temple, the evil that is<br>behind all the child disappearances lies dormant. With great effort and unexpected help, Wu Daoying<br>manages to defeat the demon.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +660,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Do-Over Damsel Conquers the Dragon Emperor - Episode 1 - I Tried to Avoid the Route to Destruction and Somehow Ended Up Courting My Greatest Enemy</h3></th>
+<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- - Episode 26 - On the East Sea Road</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6d1228234b76c15b16751caf4f4942fb1728466315_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d9ecc0845b1eb4fc4e3939e78953d99f1728580024_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +674,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/9/2024</td>
+<td align="center">10/10/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31902/i-tried-to-avoid-the-route-to-destruction-and-somehow-ended-up-courting-my-greatest-enemy">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE923W/on-the-east-sea-road">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Betrayed by her fiancé, Jill's life nearly ends in frustration, but instead, she suddenly finds<br>herself back on the night she was proposed to six years ago. To avoid the<br>route that leads to her doom, she makes use of a man that crosses her<br>path, but...</p>
+<p align="center">Megumi is alone in Tokyo and coincidentally encounters Aoshi at Kamiya Dojo, who’s come back<br>for another fight with Kenshin. Aoshi asks Megumi where Kenshin is, but she feigns ignorance.<br>Unhappy with the lack of response, he threatens to kill her if she doesn’t tell<br>him, when a man suddenly appears. Meanwhile, Kenshin encounters a young girl in the forests<br>of the Hakone mountains as he makes his way to Kyoto.</p>
 </td>
 </tr>
 </table>
