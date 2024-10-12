@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Oct 12, 2024, 8:03:37 AM</em></p>
+<p align="center"><em>Updated on: Oct 12, 2024, 7:24:24 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,210 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Case Closed (Detective Conan) - Episode 1138 - The Moving Police Box</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a145072b8551cbaeba84c81401c4fa2e1728710274_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/12/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX5QZ/the-moving-police-box">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Detective Boys help with the unveiling of a mobile police box car. While the<br>vehicle is touring around, it is hijacked by some robbers, and everyone onboard is taken<br>hostage.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">My Hero Academia Season 7 - Episode 159 - Battle Without a Quirk</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6e3a2f0dc647baf6e2e8c1ef09e0d8e31728710159_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/12/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVMQWK/battle-without-a-quirk">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Toga returns the smile of Ochaco, who tried to be friends with her. What does<br>Toga do to the seriously-injured Ochaco? Meanwhile, All Might uses "power" developed by a friend<br>to face All For One!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">CARDFIGHT!! VANGUARD Divinez Season 2 - Episode 13 - A Miracle Will Descend</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4792d391c0e9a1a66b43abff4d1f5f1c1728688050_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0QD5/a-miracle-will-descend">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Akina faces a tough battle against Sybilt's immense power. But even though there's just a<br>glimmer of hope, a miracle will descend upon those who reach out their hand. Holding<br>onto Nao's words and Gabwelius's wishes, Akina fights on, believing in Rezael and miracles. The<br>time for the final showdown has come!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 35 - SUBARU's Voice Actor Meets the ISEKAI BUTTON! (ft. Yūsuke Kobayashi) </h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4c588f81948a8c88d55544c154a3ccb41728687875_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZK24/subarus-voice-actor-meets-the-isekai-button-ft-ysuke-kobayashi-">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The voice actor for Re:ZERO’s Subaru is on The Anime Effect! Yūsuke Kobayashi is sharing<br>how his experience voicing Subaru has impacted his life and what fans can expect for<br>season 3 (airing now on Crunchyroll). But first, Nick, LeAlec and Leah are talking about<br>how One Piece and JUJUTSU KAISEN are celebrating their fans, the latest on Oshi no<br>Ko, the upcoming Fate/Zero musical & more! Then, listen in as they fight over their<br>unpopular anime opinions and recommend a very specific type of isekai story.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (English Dub) - Episode 72 - After the Festival</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/96743d3dee910bb13b97d3634d2fb0861727450157_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG5NZ/after-the-festival">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rimuru pays the merchants with the gold coins he's procured. The merchants try to garner<br>futher favor, but Rimuru ceases trading with them. Rimuru then gathers his allies and calls<br>for action again the eastern merchants who are operating in secret.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (French Dub) - Episode 70 - Settling the Score with the Hero</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d6bc82d62c6dd3e55f8feefc28d2319f1726223235_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/11/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8N1XD/settling-the-score-with-the-hero">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Gazel and Elmesia pledge to assist Rimuru with Tempest's lack of funding. Elmesia then proposes<br>an alliance, but she's concerned about the danger Diablo poses.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">NieR:Automata Ver1.1a (Portugese Dub) - Episode 23 - meaningless [C]ode</h3></th>
 </tr>
@@ -491,212 +695,6 @@ Join at the Tower, let's play more
 <tr>
 <td colspan="2">
 <p align="center">At the clubhouse, Koshitan finds Nokotan in tears and acting strangely...she's concerned at first, but<br>it turns out to be hay fever. Now, Nokotan's trying to think of ways to<br>cope!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 9 - Get the Sports Festival Done!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e17b812a360f73e393428101d8c7376a1724837236_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXPKX/get-the-sports-festival-done">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Hinominami High School is holding a sports festival! As student council president, Koshitan wants it<br>to go smoothly, but various incidents occur. Will the student council be able to see<br>through to the end of the sports festival?!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 8 - Goodbye, Old Deer! Hello, New Deer!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cf3695e88b6b20978cd1e336c6a8e3631724240769_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQWQ1/goodbye-old-deer-hello-new-deer">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">It is now winter and the Deer Club decides to go to a shrine for<br>Hatsumode. There, they see Nokotan being worshipped as the god of the shrine. Koshitan gets<br>jerked around from the beginning of the new year.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 7 - Deer Coll, Streaming, Hospitality, etc</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2eb5bb21ccf966162317dfcf984498211723645262_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKEK1/deer-coll-streaming-hospitality-etc">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Koshitan and Nokotan visit Café Tsubame. The owner, Yoshiharu Tsubameya (the older brother), is determined<br>to provide the perfect hospitality. However, his first deer customer makes him hesitate and he<br>is soon swept up in Nokotan's antics.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 6 - Summer Deer Festival</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8b99eeefc2a067bd15d307183bf650c91723028036_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31P1Z/summer-deer-festival">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As usual, Neko-chan is plotting to shut down the Deer Club. Suddenly, Nokotan shows up<br>in the student council room and pulls out a mysterious creature called 'Tsuchinoko (?).' The<br>more Neko-chan learns about its puzzling nature, the more bewildered she becomes...?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 5 - Grab Her Weakness!!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/385c6c9c99865a959e86032d54e969181722764868_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ4JM/grab-her-weakness">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Koshitan, who is constantly being swung around by Nokotan's whims, decides to follow Nokotan in<br>order to find her weakness. There, she witnesses Nokotan's astonishing part-time job appearance.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Deer Friend Nokotan (English Dub) - Episode 4 - The Deer Club in the Crosshairs</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/01af324082b10d18f596d378077ea3481722176408_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/10/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXW3W3/the-deer-club-in-the-crosshairs">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Koshitan serves as the president of the Hinominami High School Student Council. 
-The council also<br>includes Nekoyamada Neko as vice president, Tanukikouji Kinu as secretary, and Tsubameya Chiharu as treasurer.<br>
-However, one of them is plotting to disband the Deer Club—who could it be?</p>
 </td>
 </tr>
 </table>
