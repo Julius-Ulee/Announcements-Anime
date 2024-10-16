@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Oct 15, 2024, 7:28:00 PM</em></p>
+<p align="center"><em>Updated on: Oct 16, 2024, 8:06:05 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Log Horizon 2 (Hindi Dub) - Episode 20 - Birthday Song</h3></th>
+<th><h3 align="center">Planetes - Episode 26 - And The Days We Chance Upon…</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fe775339193411e0d97cdff0d9f5f0f61424383869_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/91653d9af71ab0c78b80a4345029348c1729014251_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVK03N/birthday-song">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V5W4/and-the-days-we-chance-upon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A Minami plot was behind the massive wyvern attack on Saphir.  To stop the<br>plot, Nyanta attacks the train carrying the Minami general alone.  But he's faced with<br>the sorcerer he defeated long ago, the man who trapped Serara in the far north,<br>Londark.</p>
+<p align="center">The Von Braun’s departure is approaching. Hachimaki and Tanabe visit the Debris Section. The team<br>make an excuse for the two to go out into space.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Love Live! Superstar!! (Season 3) - Episode 2 - Tomakanote</h3></th>
+<th><h3 align="center">Planetes (English Dub) - Episode 26 - And The Days We Chance Upon…</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/504fbf31d2b7eee4d079267d0379a3cc1728934568_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/91653d9af71ab0c78b80a4345029348c1729014251_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKQ5P/tomakanote">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU734ZX/and-the-days-we-chance-upon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsumi's little sister, Tomari, joins the New School Idol Club and they begin their activities<br>as Tomakanote. Their first show is an upcoming remote concert, but their motivations concerning school<br>idols are totally different, causing some friction.</p>
+<p align="center">The Von Braun’s departure is approaching. Hachimaki and Tanabe visit the Debris Section. The team<br>make an excuse for the two to go out into space.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (German Dub) - Episode 25 - Miracle's Path and Journey's Continuation</h3></th>
+<th><h3 align="center">Planetes - Episode 25 - The Lost</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/936a5f9b0488dd50456ed2b955257d731727106563_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/36776823d1cda3aa88ddcb67b95245c81729014187_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQWED/miracles-path-and-journeys-continuation">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNP1W/the-lost">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Elsa's plan succeeds. After Bishop Mendez and the men from Enberch witness the miracle, they<br>leave the village of Tereo alone. Shortly thereafter, Lawrence and Holo plan to continue their<br>journey...</p>
+<p align="center">Hachimaki is selected to board the Jupiter exploration vessel, the Von Braun. He visits Technora<br>for the first time in a while and learns that Tanabe is back on Earth.<br>Hachimaki heads home one last time before his voyage to Jupiter but ends up in<br>an accident on his way to visit Tanabe.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (French Dub) - Episode 25 - Miracle's Path and Journey's Continuation</h3></th>
+<th><h3 align="center">Planetes (English Dub) - Episode 25 - The Lost</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/936a5f9b0488dd50456ed2b955257d731727106563_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/36776823d1cda3aa88ddcb67b95245c81729014187_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN5XZ/miracles-path-and-journeys-continuation">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8N1P1/the-lost">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Elsa's plan succeeds. After Bishop Mendez and the men from Enberch witness the miracle, they<br>leave the village of Tereo alone. Shortly thereafter, Lawrence and Holo plan to continue their<br>journey...</p>
+<p align="center">Hachimaki is selected to board the Jupiter exploration vessel, the Von Braun. He visits Technora<br>for the first time in a while and learns that Tanabe is back on Earth.<br>Hachimaki heads home one last time before his voyage to Jupiter but ends up in<br>an accident on his way to visit Tanabe.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY (Portuguese Dub) - Episode 24 - Fare Thee Well</h3></th>
+<th><h3 align="center">Planetes - Episode 24 - Love</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/74b9c136a47b35183ecde8240f88a5061727094759_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/27dd8fb37343c6f825694b33307043de1729014130_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG503/fare-thee-well">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9PJE/love">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With their plans thwarted, members of Amarariruku retreat. In the aftermath of the black ball's<br>collapse, the heroes face the weight of unforeseen consequences to their victory.</p>
+<p align="center">The Space Defense Front’s terrorist activities endanger the Von Braun. There, Tanabe finds a wounded<br>Claire. The two escape in a rescue pod but end up stranded on the lunar<br>desert. Carrying Claire, Tanabe walks to the nearest establishment. Claire insists that she be left<br>behind.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY (Spanish Dub) - Episode 24 - Fare Thee Well</h3></th>
+<th><h3 align="center">Planetes (English Dub) - Episode 24 - Love</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/74b9c136a47b35183ecde8240f88a5061727094759_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/27dd8fb37343c6f825694b33307043de1729014130_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ4G8/fare-thee-well">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NQKZ/love">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With their plans thwarted, members of Amarariruku retreat. In the aftermath of the black ball's<br>collapse, the heroes face the weight of unforeseen consequences to their victory.</p>
+<p align="center">The Space Defense Front’s terrorist activities endanger the Von Braun. There, Tanabe finds a wounded<br>Claire. The two escape in a rescue pod but end up stranded on the lunar<br>desert. Carrying Claire, Tanabe walks to the nearest establishment. Claire insists that she be left<br>behind.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SHY (German Dub) - Episode 24 - Fare Thee Well</h3></th>
+<th><h3 align="center">Planetes - Episode 23 - Debris Cluster</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/74b9c136a47b35183ecde8240f88a5061727094759_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/85611090923734eb46bd05cae447e6181729014034_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PXVV/fare-thee-well">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX8W1/debris-cluster">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With their plans thwarted, members of Amarariruku retreat. In the aftermath of the black ball's<br>collapse, the heroes face the weight of unforeseen consequences to their victory.</p>
+<p align="center">The world watches as the first-ever lunar INTO summit is held as the Space Defense<br>Front’s activities gradually become more noticeable. Fee and the Toy Box 2 are out in<br>space to collect debris around the lunar station in an effort to thwart would-be terror<br>attacks. Just as Fee discovers an unidentified ship, a gun is pointed at her head.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After-school Hanako-kun - Episode 6 - The Summer Monster: Toilet-bound Hanako-san / Return of the Summer Monster</h3></th>
+<th><h3 align="center">Planetes (English Dub) - Episode 23 - Debris Cluster</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d4f28a6fae49bac697e17c3e703728f21728925683_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/85611090923734eb46bd05cae447e6181729014034_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN8DQ/the-summer-monster-toilet-bound-hanako-san-return-of-the-summer-monster">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV51Z/debris-cluster">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A cursed doll hits Hanako with a mysterious ray... and turns him into a girl!<br>Nene seizes the opportunity to give her ghostly friend a makeover. Meanwhile, Tsukasa digs up<br>the remains of the offending toy.</p>
+<p align="center">The world watches as the first-ever lunar INTO summit is held as the Space Defense<br>Front’s activities gradually become more noticeable. Fee and the Toy Box 2 are out in<br>space to collect debris around the lunar station in an effort to thwart would-be terror<br>attacks. Just as Fee discovers an unidentified ship, a gun is pointed at her head.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (French Dub) - Episode 2</h3></th>
+<th><h3 align="center">Planetes - Episode 22 - Exposure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fe93bf1ab976513001982f57e76059971728924599_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/abddbe2cfa22bdd21c3e4b1e12f51e001729014007_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ242">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVK00N/exposure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The Debris Section is transferred to the Moon. There, meanwhile, Hachimaki is investigated for the<br>incident aboard the Von Braun. Hachimaki is surprised to find that Claire is also being<br>investigated. He also bumps into the team on the outskirts of town and learns that<br>Gigalt is in the hospital, and pays him a visit. Meanwhile, an INTO summit is<br>being held outside of Earth for the first time ever.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (German Dub) - Episode 2</h3></th>
+<th><h3 align="center">Planetes (English Dub) - Episode 22 - Exposure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/287ce06c514b8f1cf2abc63e4cefe5111728924620_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/abddbe2cfa22bdd21c3e4b1e12f51e001729014007_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKWMZ">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN5ZP/exposure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The Debris Section is transferred to the Moon. There, meanwhile, Hachimaki is investigated for the<br>incident aboard the Von Braun. Hachimaki is surprised to find that Claire is also being<br>investigated. He also bumps into the team on the outskirts of town and learns that<br>Gigalt is in the hospital, and pays him a visit. Meanwhile, an INTO summit is<br>being held outside of Earth for the first time ever.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (Spanish Dub) - Episode 2</h3></th>
+<th><h3 align="center">Planetes - Episode 21 - Tandem Mirror</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fe93bf1ab976513001982f57e76059971728924490_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dae416b5e7b018a9ff561ea14f677f631729014021_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P0DK">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NQQ7/tandem-mirror">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">At last, Hachimaki arrives aboard the Von Braun. He’ll be there for the next six<br>months for the third phase of crew exams. Tanabe manages to get a hold of<br>him on her way to the Moon, but he brushes her off coldly. Incidentally, the<br>debris she is assigned to collect is the engine of the Tandem Mirror.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (Portuguese Dub) - Episode 2</h3></th>
+<th><h3 align="center">Planetes (English Dub) - Episode 21 - Tandem Mirror</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d13afbb936f706a99f49734c63ff625a1728924509_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dae416b5e7b018a9ff561ea14f677f631729014021_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73EPJ">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQWNZ/tandem-mirror">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">At last, Hachimaki arrives aboard the Von Braun. He’ll be there for the next six<br>months for the third phase of crew exams. Tanabe manages to get a hold of<br>him on her way to the Moon, but he brushes her off coldly. Incidentally, the<br>debris she is assigned to collect is the engine of the Tandem Mirror.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 - Episode 2 - Shopping in Another World</h3></th>
+<th><h3 align="center">Planetes - Episode 20 - Tentative Steps</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d456164b064411b819fc12555897ac271728924452_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/98830d2f2d21790f03f1e77c8a0a99eb1729013858_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VGM7/shopping-in-another-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXPP4/tentative-steps">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rio takes Celia and Miharu to Amande to buy some daily necessities. At first, Miharu<br>is bewildered by the strangeness of being in another world, but soon she's enjoying the<br>trip. Meanwhile, in the Beltrum Kingdom, a Hero appears before Princess Flora.</p>
+<p align="center">Hachimaki proceeds to the second round of exams in space. Having completed the EVA test<br>with flying colors, he heads to the closed space tests with Hakim and two others<br>in his team. Meanwhile, someone completely unexpected joins the Debris Section.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (English Dub) - Episode 2 - Shopping in Another World</h3></th>
+<th><h3 align="center">Planetes (English Dub) - Episode 20 - Tentative Steps</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a4c5cd71f0a5680357688e0985040ba81728924667_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/98830d2f2d21790f03f1e77c8a0a99eb1729013858_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NJX9/shopping-in-another-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z18E/tentative-steps">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rio takes Celia and Miharu to Amande to buy some daily necessities. At first, Miharu<br>is bewildered by the strangeness of being in another world, but soon she's enjoying the<br>trip. Meanwhile, in the Beltrum Kingdom, a Hero appears before Princess Flora.</p>
+<p align="center">Hachimaki proceeds to the second round of exams in space. Having completed the EVA test<br>with flying colors, he heads to the closed space tests with Hakim and two others<br>in his team. Meanwhile, someone completely unexpected joins the Debris Section.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Natsume's Book of Friends Season 7 - Episode 2 - Someday's Garden</h3></th>
+<th><h3 align="center">Planetes - Episode 19 - Endings Are Always…</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/90ed48cc0c6887d8c39aa6cadf47abd91728915064_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6522b47571c69aa9f3d3dd0d77269b8a1729013842_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NJ1D/somedays-garden">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN55Z/endings-are-always">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsume is forced to help rebuild a tiny house that's a residence for a goddess.</p>
+<p align="center">Exams for the Jupiter mission begin. Hachimaki and Cheng-Shin are at the exam venue. Tanabe,<br>who stayed behind in the Debris Section, is worried about Hachimaki but has a difficult<br>time establishing contact. Following the basic fitness tests and written tests, Hachimaki heads to the<br>underwater test, where an accident occurs.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Most Notorious "Talker" Runs the World's Greatest Clan - Episode 3 - The Real Deal</h3></th>
+<th><h3 align="center">Planetes (English Dub) - Episode 19 - Endings Are Always…</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b258b731d950200a726a521fe9e28e881728915023_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6522b47571c69aa9f3d3dd0d77269b8a1729013842_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ8VJ/the-real-deal">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PXQD/endings-are-always">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Blue Beyond is reborn, but it won't get anywhere with Noel as its only member.<br>So he puts out a call for new recruits, only to find an unexpected taker.</p>
+<p align="center">Exams for the Jupiter mission begin. Hachimaki and Cheng-Shin are at the exam venue. Tanabe,<br>who stayed behind in the Debris Section, is worried about Hachimaki but has a difficult<br>time establishing contact. Following the basic fitness tests and written tests, Hachimaki heads to the<br>underwater test, where an accident occurs.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 - Episode 1 - Haulias Assemble</h3></th>
+<th><h3 align="center">Planetes - Episode 18 - Debris Section's Last Day</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1d89d8c0020ecae239502f44e57580691728916640_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c8591c81d5b037f1a5fbafde0387781a1729013828_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXPWN/haulias-assemble">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKEEJ/debris-sections-last-day">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the Heiligh Kingdom heavily damaged, Princess Liliana travels to the Hoelscher Empire to request<br>their aid. On their way, Hajime spots Haulia tribe members fighting imperial soldiers. The tribe<br>members bring news of a coming invasion.</p>
+<p align="center">A new director is assigned to the Debris Section. He expresses his desire to shut<br>the section down. Most of the crew is shocked, except Hachimaki, who is busy thinking<br>about the Jupiter mission. The Debris Section sets out for its final collection mission on<br>the Toy Box 2. The debris is a drifting spaceship with a surprise.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Yakuza Fiancé: Raise wa Tanin ga Ii - Episode 2 - Let Me Express My Sincerity, and Maybe Earn Your Affection in the Process</h3></th>
+<th><h3 align="center">Planetes (English Dub) - Episode 18 - Debris Section's Last Day</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a618a4db17fcea5319180a7f4f7769e51728914935_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c8591c81d5b037f1a5fbafde0387781a1729013828_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXJP3/let-me-express-my-sincerity-and-maybe-earn-your-affection-in-the-process">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXW39J/debris-sections-last-day">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The daughter of the president of another subsidiary of the Tokusa group has gone missing,<br>so Yoshino must be accompanied around the clock by Kirishima for her safety.</p>
+<p align="center">A new director is assigned to the Debris Section. He expresses his desire to shut<br>the section down. Most of the crew is shocked, except Hachimaki, who is busy thinking<br>about the Jupiter mission. The Debris Section sets out for its final collection mission on<br>the Toy Box 2. The debris is a drifting spaceship with a surprise.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions Season 2 - Episode 15 - The Case of the Shibuya Apocalypse Serial Murders (Part 2)</h3></th>
+<th><h3 align="center">Planetes (English Dub) - Episode 17 - His Reasons</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3746193d3bdddfb79531895dd1f82ed21728910512_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ded55f2368d94f4ccca8f95a30f775e71729013647_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKWMQ/the-case-of-the-shibuya-apocalypse-serial-murders-part-2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V5XJ/his-reasons">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">There's been another murder in Shibuya. Shocked by the death, the victim's teammate runs. Ron<br>and Toto race to catch him and find more information on the culprit picking off<br>the hacker team. But the more they find, the more complicated things become.</p>
+<p align="center">Locksmith, head of the Jupiter Exploration Mission, visits the Debris Section. He seems to be<br>looking for Hachimaki’s father, Hoshino Goro, to hire him for the Von Braun exploration vessel<br>for Jupiter. Hachimaki tries to convince his father that Jupiter is humanity’s dream, but he<br>is uninterested. Just then, the Von Braun’s engine experiences a failure.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Nina the Starry Bride (Telugu Dub) - Episode 2</h3></th>
+<th><h3 align="center">Planetes - Episode 17 - His Reasons</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a590acf8d77045a95ddc11bc1da891d41728910243_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ded55f2368d94f4ccca8f95a30f775e71729013647_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/14/2024</td>
+<td align="center">10/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN8N5">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z117/his-reasons">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Locksmith, head of the Jupiter Exploration Mission, visits the Debris Section. He seems to be<br>looking for Hachimaki’s father, Hoshino Goro, to hire him for the Von Braun exploration vessel<br>for Jupiter. Hachimaki tries to convince his father that Jupiter is humanity’s dream, but he<br>is uninterested. Just then, the Von Braun’s engine experiences a failure.</p>
 </td>
 </tr>
 </table>
