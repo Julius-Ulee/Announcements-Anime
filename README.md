@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Oct 18, 2024, 8:05:45 AM</em></p>
+<p align="center"><em>Updated on: Oct 18, 2024, 7:27:06 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (English Dub) - Episode 1 - The World's Most Selfish Man</h3></th>
+<th><h3 align="center">DAN DA DAN (Thai Dub) - Episode 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/21219d80523f31da0a1dcf27b48a7da01727973396_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/65927ba497d94118f6a0068eda5630121729231306_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,283 +26,11 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
+<td align="center">10/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKDP5/the-worlds-most-selfish-man">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Gaku possesses outstanding computer skills but is socially awkward. Haru's only talent is talking. After<br>graduating from university, Haru wants to use Gaku's abilities to fulfill his childhood dream—to earn<br>a trillion dollars.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TRILLION GAME (English Dub) - Episode 2 - START UP</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/45803550b69d61dd9081ad9e346d31001727973428_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8N4QW/start-up">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After Haru blows their entire startup capital on an expensive office chair, the two young<br>entrepreneurs set out to find a generous investor. There's only one problem: They haven't achieved<br>anything, nor do they have any idea for their business model.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Another Journey to the West - Episode 3 - Episode 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b6f61b5b6d468a7d2c1905f0145fb5051729186951_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN75E/episode-3">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Wu Daoying hasn't been traveling for long with Qing Xuan, his new travel companion and<br>teacher, and they already encounter two female bandits along their way. However, it seems the<br>bandits are after more than just their valuables…</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Another Journey to the West - Episode 4 - Episode 4</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/12d8f1298251b64287fea19b37ccac541729187197_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKW04/episode-4">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Wu Daoying persuades Silberhorn to make a deal with him so that her wish can<br>be fulfilled. But the plan unfolds very differently than she had imagined.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- - Episode 27 - The Abandoned Village</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/84a15676ab633bb6a3e474e01e79cc311729185529_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNE37/the-abandoned-village">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The name of the girl that Kenshin encounters in the forests is Misao Makimachi, and<br>she came from Kyoto to find Aoshi’s Oniwaban Group. Kenshin is surprised to hear his<br>name. Upon seeing Kenshin’s reaction, she asks him if he knows where Aoshi is, but<br>he keeps his mouth shut. However, Kenshin is touched by the emotions Misao has for<br>Aoshi, in which he then decides to make the journey to Kyoto with her.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TRILLION GAME - Episode 4 - A Bad Guy</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a71d59bef39b148bfb81b0512d72224f1729183769_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PVP5/a-bad-guy">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The preliminary phase of the Security Championship is nearing its conclusion. Will Haru and Gaku<br>manage to secure a spot among the top 12 teams and reach the finals?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Good Bye, Dragon Life - Episode 3 - The Knight Girl</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a45e28367f1c8e2ffbbc5210075050d91729183632_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE951V/the-knight-girl">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The young noble Christina has not yet properly settled in Bern. Can Dolan and Celina<br>help her? However, Celina's status as a villager is also on shaky ground...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Mecha-Ude: Mechanical Arms - Episode 3 - It Was Your Will That Reached Out</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e50e56290f18b0b001052dca26fc37471729177329_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31KJW/it-was-your-will-that-reached-out">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Hikaru and Alma are taken to ARMS HQ. There, Hikaru is told that he is<br>not suited to be a Mecha-Ude user, and Alma falls under ARMS' protection. Meanwhile, multiple<br>incidents where Mecha-Udes are forcibly ripped away from their users occur.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">DAN DA DAN (French Dub) - Episode 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/86bd8f71dd076b43da3f10eca55f047a1729177903_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ211">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PZ0W">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -318,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN (German Dub) - Episode 3</h3></th>
+<th><h3 align="center">DAN DA DAN (Thai Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/86bd8f71dd076b43da3f10eca55f047a1729177926_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/14ee51fac53422732cc746875587346e1729229855_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,11 +60,11 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
+<td align="center">10/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9W13">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG14Q">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -352,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN - Episode 3 - It's a Granny vs. Granny Clash!</h3></th>
+<th><h3 align="center">DAN DA DAN (Thai Dub) - Episode 2</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a13fa23b4b15b61deb5807d001d844b71729177948_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0f992ba96e1bcb9e75cc8b74a2a63d371729231663_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,147 +94,11 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
+<td align="center">10/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKE0M/its-a-granny-vs-granny-clash">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Okarun transforms from Turbo Granny's curse. He goes berserk unable to control his power, but<br>Momo's grandmother Seiko, saves them in the nick of time. To lift the curse, Momo<br>and Okarun decide to play tag with Turbo Granny.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">DAN DA DAN (English Dub) - Episode 3 - It's a Granny vs. Granny Clash!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c5b02454dd811e0a5d934b5d662a36881729177493_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PW75/its-a-granny-vs-granny-clash">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Okarun transforms from Turbo Granny's curse. He goes berserk unable to control his power, but<br>Momo's grandmother Seiko, saves them in the nick of time. To lift the curse, Momo<br>and Okarun decide to play tag with Turbo Granny.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">365 Days to the Wedding - Episode 3 - Can We Share Our Predicaments?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2d69793bfbcac07ae3bd82ec254adbc61729160555_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVK7WJ/can-we-share-our-predicaments">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Takuya plans to go home to Kumamoto over the weekend so he can tell his<br>family the wedding plans aren't real. But first, he has to act as attendant for<br>a high-profile European princess who wants to spend a day touring Tokyo incognito.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Negative Positive Angler - Episode 3 - Regrets</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/41f3e8e1ba7e5353db0c18f8bd4037a51729156782_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX5DZ/regrets">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">When a huge bounty is put on catching a houndshark, all the anglers rush to<br>be the first to catch it. To their surprise, they find Hiro fishing for the<br>shark in an attempt to pay off some of his debts.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Is It Wrong to Try to Pick Up Girls in a Dungeon? V - Episode 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6b1f5b294423c9ed69cc221b9e1c01361729156304_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWDG9">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ2KP">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -522,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kinokoinu Mushroom Pup - Episode 3 - Where Are You Going, Oh, Kinokoinu?</h3></th>
+<th><h3 align="center">Assassination Classroom Second Season (Tamil Dub) - Episode 14 - Secret Identity Time</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/221b8d1ce3f23212d096191fcb20bb531729156043_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cf77a97a7a3deadb24351e979c6997401499229349_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,18 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
+<td align="center">10/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQXW3/where-are-you-going-oh-kinokoinu">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX9ZD/secret-identity-time">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">"Hotaru gets frustrated at Kinokoinu for disrupting his work.
-Kinokoinu gets upset and runs away after<br>Hotaru compares it to Hanako."</p>
+<p align="center">As the E Class cleans up after the drama festival, they learn that one of<br>their classmates is hiding a big secret connected to Koro Sensei's past.</p>
 </td>
 </tr>
 </table>
@@ -557,12 +148,12 @@ Kinokoinu gets upset and runs away after<br>Hotaru compares it to Hanako."</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ranking of Kings: The Treasure Chest of Courage (Thai Dub) - Episode 10 - Return of the Sword King</h3></th>
+<th><h3 align="center">Assassination Classroom Second Season (Telugu Dub) - Episode 14 - Secret Identity Time</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c929fa055abed6200befa4b1910cecce1686848642_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cf77a97a7a3deadb24351e979c6997401499229349_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -571,17 +162,17 @@ Kinokoinu gets upset and runs away after<br>Hotaru compares it to Hanako."</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
+<td align="center">10/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VW4X/return-of-the-sword-king">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV0ZG/secret-identity-time">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Bojji and Kage continue their journey together, Despa and the captain are tracking down<br>Ouken's missing head. Meanwhile, Desha enters the Divine Treasure Vault, where he hopes to finally<br>uncover the means to restore Ouken's humanity to him.</p>
+<p align="center">As the E Class cleans up after the drama festival, they learn that one of<br>their classmates is hiding a big secret connected to Koro Sensei's past.</p>
 </td>
 </tr>
 </table>
@@ -591,12 +182,12 @@ Kinokoinu gets upset and runs away after<br>Hotaru compares it to Hanako."</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ranking of Kings: The Treasure Chest of Courage (Thai Dub) - Episode 9 - Miranjo and the Demon | The Prince and His Treasures</h3></th>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 24 - May All Blessings Find Their Way to You, I'm Wishing It</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a5e3c4fbe9a944b0e997a40200c639261686246629_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4acc26f3b22d312a7b43c86842432d421688279870_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -605,17 +196,17 @@ Kinokoinu gets upset and runs away after<br>Hotaru compares it to Hanako."</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
+<td align="center">10/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9J1D/miranjo-and-the-demon-the-prince-and-his-treasures">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU738EV/may-all-blessings-find-their-way-to-you-im-wishing-it">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Young Miranjo happens upon a child demon while playing in the forest, and lands in<br>trouble when she can't find her way home. As Bojji prepares to leave the castle<br>to look for Kage, he pauses to give gifts to those who have helped him<br>get where he is.</p>
+<p align="center">The laser transmission system fired by the Space Assembly League has inflicted terrible damage on<br>the Aerial. Suletta, rushing to the rescue in the Calibarn, must bear the full load<br>of the data storm.</p>
 </td>
 </tr>
 </table>
@@ -625,12 +216,12 @@ Kinokoinu gets upset and runs away after<br>Hotaru compares it to Hanako."</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ranking of Kings: The Treasure Chest of Courage (Thai Dub) - Episode 8 - Kage's Yearning | A Great Mother</h3></th>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 23 - Unrelenting Tenderness</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dbe75b8358806d53f3451a8f2fec572e1685641823_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6be0965a91f52882ea1e994576a0b4e11687673556_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -639,17 +230,17 @@ Kinokoinu gets upset and runs away after<br>Hotaru compares it to Hanako."</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
+<td align="center">10/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU738K2/kages-yearning-a-great-mother">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXWJX/unrelenting-tenderness">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A young Kage is afraid of the world around him, but finds his courage when<br>faced with a dangerous encounter. Shiina seeks for more strength, but comes to realize that<br>the greatest strength of all is not directed inward, but is found when helping others.</p>
+<p align="center">Piloting the Calibarn, Suletta confronts Ericht head-on. Guel squares off against Lauda, who is burning<br>with bitter hatred for Miorine. And amid the chaos of battle, a rocket carrying Miorine<br>and the others makes its way to Quiet Zero.</p>
 </td>
 </tr>
 </table>
@@ -659,12 +250,12 @@ Kinokoinu gets upset and runs away after<br>Hotaru compares it to Hanako."</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ranking of Kings: The Treasure Chest of Courage (Thai Dub) - Episode 7 - The Snake Charmer with the Crooked Smile | The Big Four's Banquet</h3></th>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 22 - The Woven Path</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/607117dc9d0d028e38741ed871f73b451685030893_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/26c202851ef40711cc5ee9dec68838f41687053076_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -673,17 +264,425 @@ Kinokoinu gets upset and runs away after<br>Hotaru compares it to Hanako."</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/17/2024</td>
+<td align="center">10/18/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8N43W/the-snake-charmer-with-the-crooked-smile-the-big-fours-banquet">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N5ZW/the-woven-path">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before joining the Big Four, Bebin struggled to excel, and went to Despa for lessons<br>on how to be a better swordsman. When infighting threatens the harmony of the Big<br>Four, King Daida tasks Hokuro with finding a way to bring the group back together.</p>
+<p align="center">Prospera and Ericht activate Quiet Zero.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 21 - What We Can Do Now</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a05eb9e52232c42632a4d6257763fd091686446211_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/18/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV04X/what-we-can-do-now">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Asticassia School of Technology has been devastated by Norea's rampage. The surviving students are<br>forced to live in evacuation shelters as they wait for relief.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 20 - The End of Hope</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fdb77700fc741981bd4e0d7ab795a2251685843110_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/18/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ0E0/the-end-of-hope">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Guel learns that Shaddiq is the mastermind behind the kidnapping of Sarius.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 19 - Not the Best Way</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4ff9fb6c8eb83079b88d2d572ca06b791685256989_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/18/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKJXE/not-the-best-way">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Descending to Earth with the Aerial, Miorine holds discussions with the Earthians leading the protests.<br>Given the grim situation on the ground, it seems peaceful negotiations will be almost impossible.<br>Meanwhile, the members of Earth House are unable to cheer up the despairing Suletta...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 18 - Our Empty Selves</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1de3ffa478e63baa87930e0f4d5539091684629231_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/18/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZQPP/our-empty-selves">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Defeated in a duel, Suletta has suddenly lost both Miorine and the Aerial. To shake<br>off her sadness, she throws herself into school life. Miorine is getting ready for the<br>presidential election, just as she promised Prospera. But she is clearly worried as Shaddiq takes<br>the lead.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 17 - Precious Things</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1b0bc6f503e60741aaacdaba532022851683420385_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/18/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ2GP/precious-things">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Having learned of the connection between Prospera and Delling, Miorine decides to take over the<br>Quiet Zero project in exchange for Suletta's liberation. Miorine's 17th birthday is imminent. Now the<br>curtain rises on the final duel that will determine her bridegroom.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 16 - Cycle of Sin</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8c04e87c8ff1dc27821ed18efb08a0d01682815231_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/18/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VWKZ/cycle-of-sin">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The school is in chaos as a result of the Open Campus incident. The Benerit<br>Group's coverup of the incident and its aggressive security operations on Earth have been reported<br>to the public, and it decides to hold an election to turn the situation around.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 15 - Father and Child</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7d8d20fbe38c7c1739445e3190926f0f1682211554_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/18/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK94G/father-and-child">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Pursued by the Benerit Group's garrison forces, the Dawn of Fold which perpetrated the attack<br>on Plant Quetta is forced to evacuate its hideout. Guel, who was captured by Olcott,<br>is now a prisoner at the hideout. Having slain his own father, Guel remains sunk<br>in deep despair.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 14 - What They Wish For</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/870e5bc4873fb9c7376cfea43e06ae951681605546_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/18/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNGX1/what-they-wish-for">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Behind the scenes of the vibrant Open Campus, Suletta learns what Sophie wants to get<br>from their duel. Nina, meanwhile, feels responsible for the situation. As they each pursue their<br>respective desires and strategies, the battle royal-style dueling event known as the Rumble Ring kicks<br>off.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 13 - Envoys from the Earth</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/63438affc79abd22c4c9c4b70528c12c1681001521_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/18/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31GKE/envoys-from-the-earth">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">It has been two weeks since the attack on Plant Quetta. At first glance, it<br>seems daily life at the school has remained peaceful, but a gag order has been<br>imposed regarding the incident, and the members of Earth House feel suffocated. As preparations get<br>under way for the next day's Open Campus event, a pair of transfer students appear<br>before Suletta.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 12 - the Witch from Mercury</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e5a947fee328b8c8356b6179649c060f1673140447_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/18/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ28N/the-witch-from-mercury">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 11 - The Witches from Earth</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1a19187a36a420f3768856cbfcbb29f71671943502_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/18/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG198/the-witches-from-earth">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The members of Earth House depart the school to pick up the Aerial, which has<br>been under repair. Their destination is Plant Quetta, a giant development facility that belongs to<br>the Benerit Group. But Suletta is still troubled by the misunderstanding between her and Miorine.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 10 - Circling Thoughts</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b0d7c006fd0be287b65773f3c6457b5e1670748938_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/18/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VWPX/circling-thoughts">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">It has been two months since the duel with Shaddiq. Little by little, the launch<br>of GUND-ARM, Inc. is proceeding on track.</p>
 </td>
 </tr>
 </table>
