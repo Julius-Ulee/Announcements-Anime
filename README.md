@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Oct 18, 2024, 7:27:06 PM</em></p>
+<p align="center"><em>Updated on: Oct 19, 2024, 8:04:50 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN (Thai Dub) - Episode 3</h3></th>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 36 - How Anime Inspired The Book of Life (ft. Jorge R. Gutierrez) </h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/65927ba497d94118f6a0068eda5630121729231306_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b127869c45fc7c175350cddccf255fa41729287813_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PZ0W">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE97WG/how-anime-inspired-the-book-of-life-ft-jorge-r-gutierrez-">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Emmy and Annie award-winning director Jorge R. Gutierrez joins this week to reveal how his<br>first film The Book of Life came to life, how Spirited Away inspired his work,<br>and the unexpected way Jorge first experienced anime. But first, Nick, LeAlec, and Josellie are<br>talking all about the latest from My Hero Academia, One Piece, WIND BREAKER, SK8 the<br>Infinity, and more! Then, they’re revealing their favorite mech anime (besides Neon Genesis Evangelion and<br>Gurren Lagann) and sharing your messages.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN (Thai Dub) - Episode 1</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Portuguese Dub) - Episode 72 - After the Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/14ee51fac53422732cc746875587346e1729229855_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/96743d3dee910bb13b97d3634d2fb0861727450157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG14Q">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKJ9E/after-the-festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Rimuru pays the merchants with the gold coins he's procured. The merchants try to garner<br>futher favor, but Rimuru ceases trading with them. Rimuru then gathers his allies and calls<br>for action again the eastern merchants who are operating in secret.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN (Thai Dub) - Episode 2</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (German Dub) - Episode 72 - After the Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0f992ba96e1bcb9e75cc8b74a2a63d371729231663_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/96743d3dee910bb13b97d3634d2fb0861727450157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ2KP">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ0D0/after-the-festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Rimuru pays the merchants with the gold coins he's procured. The merchants try to garner<br>futher favor, but Rimuru ceases trading with them. Rimuru then gathers his allies and calls<br>for action again the eastern merchants who are operating in secret.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom Second Season (Tamil Dub) - Episode 14 - Secret Identity Time</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Spanish Dub) - Episode 72 - After the Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cf77a97a7a3deadb24351e979c6997401499229349_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/96743d3dee910bb13b97d3634d2fb0861727450157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX9ZD/secret-identity-time">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV0JX/after-the-festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the E Class cleans up after the drama festival, they learn that one of<br>their classmates is hiding a big secret connected to Koro Sensei's past.</p>
+<p align="center">Rimuru pays the merchants with the gold coins he's procured. The merchants try to garner<br>futher favor, but Rimuru ceases trading with them. Rimuru then gathers his allies and calls<br>for action again the eastern merchants who are operating in secret.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Assassination Classroom Second Season (Telugu Dub) - Episode 14 - Secret Identity Time</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Castilian Dub) - Episode 72 - After the Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cf77a97a7a3deadb24351e979c6997401499229349_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/96743d3dee910bb13b97d3634d2fb0861727450157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV0ZG/secret-identity-time">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK9P1/after-the-festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the E Class cleans up after the drama festival, they learn that one of<br>their classmates is hiding a big secret connected to Koro Sensei's past.</p>
+<p align="center">Rimuru pays the merchants with the gold coins he's procured. The merchants try to garner<br>futher favor, but Rimuru ceases trading with them. Rimuru then gathers his allies and calls<br>for action again the eastern merchants who are operating in secret.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 24 - May All Blessings Find Their Way to You, I'm Wishing It</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (Italian Dub) - Episode 72 - After the Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4acc26f3b22d312a7b43c86842432d421688279870_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/96743d3dee910bb13b97d3634d2fb0861727450157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +200,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU738EV/may-all-blessings-find-their-way-to-you-im-wishing-it">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VWXE/after-the-festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The laser transmission system fired by the Space Assembly League has inflicted terrible damage on<br>the Aerial. Suletta, rushing to the rescue in the Calibarn, must bear the full load<br>of the data storm.</p>
+<p align="center">Rimuru pays the merchants with the gold coins he's procured. The merchants try to garner<br>futher favor, but Rimuru ceases trading with them. Rimuru then gathers his allies and calls<br>for action again the eastern merchants who are operating in secret.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 23 - Unrelenting Tenderness</h3></th>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime Season 3 (French Dub) - Episode 71 - The Labyrinth Is Opened</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6be0965a91f52882ea1e994576a0b4e11687673556_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3ddb986a655c0f72b979ff0ce15753121726845050_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +234,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXWJX/unrelenting-tenderness">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX9EQ/the-labyrinth-is-opened">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Piloting the Calibarn, Suletta confronts Ericht head-on. Guel squares off against Lauda, who is burning<br>with bitter hatred for Miorine. And amid the chaos of battle, a rocket carrying Miorine<br>and the others makes its way to Quiet Zero.</p>
+<p align="center">Rimuru's dungeon is finally revealed, and his new ally Masayuki is among its first challengers.<br>Later, after the festival is over, Rimuru's biggest job still awaits.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 22 - The Woven Path</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (French Dub) - Episode 24 - the [E]nd of YoRHa</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/26c202851ef40711cc5ee9dec68838f41687053076_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5914b27483ad3ddd12248e3bceb866211727452000_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +268,14 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N5ZW/the-woven-path">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU738XV/the-end-of-yorha">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Prospera and Ericht activate Quiet Zero.</p>
+<p align="center">Everything that lives is designed to end. 
+ are perpetually trapped…in a never-ending spiral of<br>life and death.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +285,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 21 - What We Can Do Now</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (English Dub) - Episode 24 - the [E]nd of YoRHa</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a05eb9e52232c42632a4d6257763fd091686446211_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5914b27483ad3ddd12248e3bceb866211727452000_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +303,14 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV04X/what-we-can-do-now">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG1PQ/the-end-of-yorha">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Asticassia School of Technology has been devastated by Norea's rampage. The surviving students are<br>forced to live in evacuation shelters as they wait for relief.</p>
+<p align="center">Everything that lives is designed to end. 
+ are perpetually trapped…in a never-ending spiral of<br>life and death.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +320,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 20 - The End of Hope</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (Portugese Dub) - Episode 24 - the [E]nd of YoRHa</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fdb77700fc741981bd4e0d7ab795a2251685843110_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5914b27483ad3ddd12248e3bceb866211727452000_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +338,14 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ0E0/the-end-of-hope">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9JPV/the-end-of-yorha">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Guel learns that Shaddiq is the mastermind behind the kidnapping of Sarius.</p>
+<p align="center">Everything that lives is designed to end. 
+ are perpetually trapped…in a never-ending spiral of<br>life and death.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +355,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 19 - Not the Best Way</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (Spanish Dub) - Episode 24 - the [E]nd of YoRHa</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4ff9fb6c8eb83079b88d2d572ca06b791685256989_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5914b27483ad3ddd12248e3bceb866211727452000_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +373,14 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKJXE/not-the-best-way">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN1PM/the-end-of-yorha">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Descending to Earth with the Aerial, Miorine holds discussions with the Earthians leading the protests.<br>Given the grim situation on the ground, it seems peaceful negotiations will be almost impossible.<br>Meanwhile, the members of Earth House are unable to cheer up the despairing Suletta...</p>
+<p align="center">Everything that lives is designed to end. 
+ are perpetually trapped…in a never-ending spiral of<br>life and death.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +390,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 18 - Our Empty Selves</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (German Dub) - Episode 24 - the [E]nd of YoRHa</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1de3ffa478e63baa87930e0f4d5539091684629231_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5914b27483ad3ddd12248e3bceb866211727452000_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +408,14 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZQPP/our-empty-selves">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8N419/the-end-of-yorha">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Defeated in a duel, Suletta has suddenly lost both Miorine and the Aerial. To shake<br>off her sadness, she throws herself into school life. Miorine is getting ready for the<br>presidential election, just as she promised Prospera. But she is clearly worried as Shaddiq takes<br>the lead.</p>
+<p align="center">Everything that lives is designed to end. 
+ are perpetually trapped…in a never-ending spiral of<br>life and death.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +425,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 17 - Precious Things</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (French Dub) - Episode 23 - meaningless [C]ode</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1b0bc6f503e60741aaacdaba532022851683420385_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ec6eb57290e3c9c32f6434d7ddb0823e1726845923_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +443,17 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ2GP/precious-things">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXWKX/meaningless-code">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having learned of the connection between Prospera and Delling, Miorine decides to take over the<br>Quiet Zero project in exchange for Suletta's liberation. Miorine's 17th birthday is imminent. Now the<br>curtain rises on the final duel that will determine her bridegroom.</p>
+<p align="center">Fun! Fun!
+Fun! Fun!
+Join at the Tower, let's play more
+Join at the Tower, let's play more
+……Let's<br>play</p>
 </td>
 </tr>
 </table>
@@ -454,12 +463,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 16 - Cycle of Sin</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (German Dub) - Episode 23 - meaningless [C]ode</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8c04e87c8ff1dc27821ed18efb08a0d01682815231_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ec6eb57290e3c9c32f6434d7ddb0823e1726845923_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -472,13 +481,17 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VWKZ/cycle-of-sin">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N5QW/meaningless-code">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The school is in chaos as a result of the Open Campus incident. The Benerit<br>Group's coverup of the incident and its aggressive security operations on Earth have been reported<br>to the public, and it decides to hold an election to turn the situation around.</p>
+<p align="center">Fun! Fun!
+Fun! Fun!
+Join at the Tower, let's play more
+Join at the Tower, let's play more
+……Let's<br>play</p>
 </td>
 </tr>
 </table>
@@ -488,12 +501,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 15 - Father and Child</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (German Dub) - Episode 22 - just y[O]u and me</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7d8d20fbe38c7c1739445e3190926f0f1682211554_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/45ace86a1df492240496045cc90496981726242745_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -506,13 +519,24 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK94G/father-and-child">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV05X/just-you-and-me">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Pursued by the Benerit Group's garrison forces, the Dawn of Fold which perpetrated the attack<br>on Plant Quetta is forced to evacuate its hideout. Guel, who was captured by Olcott,<br>is now a prisoner at the hideout. Having slain his own father, Guel remains sunk<br>in deep despair.</p>
+<p align="center">▶▶ Pod 153 - Report:
+
+Unit 9S has successfully obtained the three passcodes necessary to access<br>the main unit of the .
+The following data was confirmed during attempted access to the<br>Tower.
+Record added to items requiring further analysis.
+___________________________________________________________________________________________________________
+I’m not ■■■. I’m ■■■■■.
+You’re still ■■■■■.
+
+■■, ■■ is<br>■ inside ■■。
+And ――
+_________________________________________________________________________________________________________</p>
 </td>
 </tr>
 </table>
@@ -522,12 +546,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 14 - What They Wish For</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (French Dub) - Episode 22 - just y[O]u and me</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/870e5bc4873fb9c7376cfea43e06ae951681605546_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/45ace86a1df492240496045cc90496981726242745_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -540,13 +564,24 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNGX1/what-they-wish-for">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N55W/just-you-and-me">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Behind the scenes of the vibrant Open Campus, Suletta learns what Sophie wants to get<br>from their duel. Nina, meanwhile, feels responsible for the situation. As they each pursue their<br>respective desires and strategies, the battle royal-style dueling event known as the Rumble Ring kicks<br>off.</p>
+<p align="center">▶▶ Pod 153 - Report:
+
+Unit 9S has successfully obtained the three passcodes necessary to access<br>the main unit of the .
+The following data was confirmed during attempted access to the<br>Tower.
+Record added to items requiring further analysis.
+___________________________________________________________________________________________________________
+I’m not ■■■. I’m ■■■■■.
+You’re still ■■■■■.
+
+■■, ■■ is<br>■ inside ■■。
+And ――
+_________________________________________________________________________________________________________</p>
 </td>
 </tr>
 </table>
@@ -556,12 +591,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 13 - Envoys from the Earth</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (German Dub) - Episode 21 - [N]o man's village</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/63438affc79abd22c4c9c4b70528c12c1681001521_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2e08eb6e4443ce5258f96935a162bc7a1725636360_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -574,13 +609,22 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31GKE/envoys-from-the-earth">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX9PQ/no-mans-village">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It has been two weeks since the attack on Plant Quetta. At first glance, it<br>seems daily life at the school has remained peaceful, but a gag order has been<br>imposed regarding the incident, and the members of Earth House feel suffocated. As preparations get<br>under way for the next day's Open Campus event, a pair of transfer students appear<br>before Suletta.</p>
+<p align="center">▶▶ Pod 153 - Report:
+
+As a result of the battle, the  was destroyed.
+The machine<br>lifeforms confirmed alive have evacuated to the .
+However, a new reaction from a Goliath-class machine<br>lifeform is detected advancing toward the area.
+
+―― SOS Message Received from Resistance Camp ――
+
+It appears<br>that a serious virus contamination has occurred within the Resistance Camp.
+A2 and Pascal are working<br>together to understand the situation and respond accordingly.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +634,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 12 - the Witch from Mercury</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (French Dub) - Episode 21 - [N]o man's village</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e5a947fee328b8c8356b6179649c060f1673140447_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2e08eb6e4443ce5258f96935a162bc7a1725636360_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -608,13 +652,22 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ28N/the-witch-from-mercury">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV00X/no-mans-village">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">▶▶ Pod 153 - Report:
+
+As a result of the battle, the  was destroyed.
+The machine<br>lifeforms confirmed alive have evacuated to the .
+However, a new reaction from a Goliath-class machine<br>lifeform is detected advancing toward the area.
+
+―― SOS Message Received from Resistance Camp ――
+
+It appears<br>that a serious virus contamination has occurred within the Resistance Camp.
+A2 and Pascal are working<br>together to understand the situation and respond accordingly.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +677,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 11 - The Witches from Earth</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (German Dub) - Episode 20 - deb[U]nked</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1a19187a36a420f3768856cbfcbb29f71671943502_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/df1e7a049fce577492f611c9db2a3acd1725032246_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -642,13 +695,17 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG198/the-witches-from-earth">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNG53/debunked">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The members of Earth House depart the school to pick up the Aerial, which has<br>been under repair. Their destination is Plant Quetta, a giant development facility that belongs to<br>the Benerit Group. But Suletta is still troubled by the misunderstanding between her and Miorine.</p>
+<p align="center">▶▶ Pod 042 - Report:
+
+While accompanying unit A2 in visiting the  at the request<br>of Lily to procure materials, a large number of hostile machine lifeforms is observed advancing<br>toward the area.
+Unable to detect command units from this enemy group. Reason for enemy advance<br>is currently unknown.
+Until  returns to the front lines after completing strengthening modifications, this unit<br>will commence a defensive operation in cooperation with A2 and the machine lifeforms in this<br>village.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +715,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mobile Suit Gundam the Witch from Mercury (Thai Dub) - Episode 10 - Circling Thoughts</h3></th>
+<th><h3 align="center">NieR:Automata Ver1.1a (French Dub) - Episode 20 - deb[U]nked</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b0d7c006fd0be287b65773f3c6457b5e1670748938_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/df1e7a049fce577492f611c9db2a3acd1725032246_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -676,13 +733,17 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VWPX/circling-thoughts">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX99Q/debunked">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It has been two months since the duel with Shaddiq. Little by little, the launch<br>of GUND-ARM, Inc. is proceeding on track.</p>
+<p align="center">▶▶ Pod 042 - Report:
+
+While accompanying unit A2 in visiting the  at the request<br>of Lily to procure materials, a large number of hostile machine lifeforms is observed advancing<br>toward the area.
+Unable to detect command units from this enemy group. Reason for enemy advance<br>is currently unknown.
+Until  returns to the front lines after completing strengthening modifications, this unit<br>will commence a defensive operation in cooperation with A2 and the machine lifeforms in this<br>village.</p>
 </td>
 </tr>
 </table>
