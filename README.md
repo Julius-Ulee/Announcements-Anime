@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Oct 21, 2024, 7:28:05 PM</em></p>
+<p align="center"><em>Updated on: Oct 22, 2024, 8:06:21 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2 (German Dub) - Episode 13 - Promise</h3></th>
+<th><h3 align="center">Natsume's Book of Friends Season 7 (English Dub) - Episode 1 - The Fragment's Lament</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6f71787bbcac501f946d6f46b25dbace1727620016_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/14c9bff26e5adf4de8b0d52b77cc63551728317971_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ07G/promise">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NE2X/the-fragments-lament">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With war now upon the province, Ars and his retinue return to trade city of<br>Semplar for Couran's next military conference. Their faction is strapped for ideas, leading them to<br>look to unexpected places for unexpected aid...</p>
+<p align="center">Tanuma gives Natsume some clay, and he tries his hand at sculpting a figure. However,<br>the next day, the figure has disappeared, and other strange things are happening in the<br>house. Is a Yōkai causing mischief in the house? Or is it just a rat?</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Portuguese Dub) - Episode 12 - Wand and Sword</h3></th>
+<th><h3 align="center">After-school Hanako-kun - Episode 7 - After-school Mokke / After-school Café</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7c19bb354caf3abf42a5f559d4f36de81727599037_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8a70eb39c753ec2ee4337e5ce3c1d0b31729523438_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N5MX/wand-and-sword">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXG30/after-school-mokke-after-school-caf">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Led by wand and sword, Will strikes at the Grand Duke, but even its defeat<br>may not be enough to grant them escape from the dungeon. Meanwhile, Workner and Edward<br>race to reach them in time, but things look bleak. Still, Will isn't one to<br>give up.</p>
+<p align="center">Tsuchigomori discovers a strange late-night variety show all about mokke. Who would make such a<br>thing, and who is it for? Then, Hanako becomes the manager of a ghostly café.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (German Dub) - Episode 12 - Wand and Sword</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (French Dub) - Episode 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7c19bb354caf3abf42a5f559d4f36de81727599037_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b3ec0c1f75170483b57e3a48cf543f9b1729523335_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKDN2/wand-and-sword">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN825">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Led by wand and sword, Will strikes at the Grand Duke, but even its defeat<br>may not be enough to grant them escape from the dungeon. Meanwhile, Workner and Edward<br>race to reach them in time, but things look bleak. Still, Will isn't one to<br>give up.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Spanish Dub) - Episode 12 - Wand and Sword</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (German Dub) - Episode 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7c19bb354caf3abf42a5f559d4f36de81727599037_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dab1f06970d3b98f1ebdee059df4751f1729523366_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8N49K/wand-and-sword">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VG77">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Led by wand and sword, Will strikes at the Grand Duke, but even its defeat<br>may not be enough to grant them escape from the dungeon. Meanwhile, Workner and Edward<br>race to reach them in time, but things look bleak. Still, Will isn't one to<br>give up.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (French Dub) - Episode 12 - Wand and Sword</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (Spanish Dub) - Episode 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7c19bb354caf3abf42a5f559d4f36de81727599037_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dabbf4e62653e7fffe473191c99d598c1729523270_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXW7N/wand-and-sword">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z72X">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Led by wand and sword, Will strikes at the Grand Duke, but even its defeat<br>may not be enough to grant them escape from the dungeon. Meanwhile, Workner and Edward<br>race to reach them in time, but things look bleak. Still, Will isn't one to<br>give up.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Castilian Dub) - Episode 12 - Wand and Sword</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (Portuguese Dub) - Episode 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7c19bb354caf3abf42a5f559d4f36de81727599037_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1f688870cd557a0092e5262cb4bb14811729523293_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU738J5/wand-and-sword">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQJVQ">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Led by wand and sword, Will strikes at the Grand Duke, but even its defeat<br>may not be enough to grant them escape from the dungeon. Meanwhile, Workner and Edward<br>race to reach them in time, but things look bleak. Still, Will isn't one to<br>give up.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Hindi Dub) - Episode 12 - Wand and Sword</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 - Episode 3 - My Home, Under Attack</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7c19bb354caf3abf42a5f559d4f36de81727599037_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6d8ef3d1532f06b4327860500fde1e7c1729523024_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ8G5/wand-and-sword">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXW051/my-home-under-attack">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Led by wand and sword, Will strikes at the Grand Duke, but even its defeat<br>may not be enough to grant them escape from the dungeon. Meanwhile, Workner and Edward<br>race to reach them in time, but things look bleak. Still, Will isn't one to<br>give up.</p>
+<p align="center">Rio returns to the Village of the Spirits with a request. While he's there, Latifa<br>has a quiet moment with him. Elsewhere, Liselotte goes to Sakata with an invitation to<br>a royal party. Meanwhile, Miharu and the others are attacked by monsters!</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Tamil Dub) - Episode 12 - Wand and Sword</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (English Dub) - Episode 3 - My Home, Under Attack</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7c19bb354caf3abf42a5f559d4f36de81727599037_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9958b405bf3cfcd66bb8a18882c38d771729523416_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9JM1/wand-and-sword">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKQEZ/my-home-under-attack">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Led by wand and sword, Will strikes at the Grand Duke, but even its defeat<br>may not be enough to grant them escape from the dungeon. Meanwhile, Workner and Edward<br>race to reach them in time, but things look bleak. Still, Will isn't one to<br>give up.</p>
+<p align="center">Rio returns to the Village of the Spirits with a request. While he's there, Latifa<br>has a quiet moment with him. Elsewhere, Liselotte goes to Sakata with an invitation to<br>a royal party. Meanwhile, Miharu and the others are attacked by monsters!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wistoria: Wand and Sword (Telugu Dub) - Episode 12 - Wand and Sword</h3></th>
+<th><h3 align="center">Natsume's Book of Friends Season 7 - Episode 3 - Tookanya</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7c19bb354caf3abf42a5f559d4f36de81727599037_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eb91887f32d210be696bbf71505baef11729520281_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN154/wand-and-sword">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKQ8P/tookanya">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Led by wand and sword, Will strikes at the Grand Duke, but even its defeat<br>may not be enough to grant them escape from the dungeon. Meanwhile, Workner and Edward<br>race to reach them in time, but things look bleak. Still, Will isn't one to<br>give up.</p>
+<p align="center">Natsume is caught up in a mysterious game between youkai and man.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (German Dub) - Episode 11 - Wraith, the Spirit Dragon</h3></th>
+<th><h3 align="center">The Most Notorious "Talker" Runs the World's Greatest Clan - Episode 4 - An Apology Won't Cut It</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/60d73e8441295cda2325fad98be00ec91726364264_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e6e1544cde4562cc943fe478b016071a1729522421_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV0KE/wraith-the-spirit-dragon">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PWN2/an-apology-wont-cut-it">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsu fights Wraith, the Spirit Dragon, but Natsu's attacks are useless against him. On the<br>verge of death, Natsu sees Zeref, Mavis, and Igneel. As a thoughtform, Natsu is finally<br>able to attack Wraith. That's when Wraith finds a body to possess...</p>
+<p align="center">Noel and Alma head out on their first job, a request from a poor village<br>chief to deal with a group of thieves giving them problems, but it doesn't go<br>as hoped.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">MF GHOST Season 2 (English Dub) - Episode 13 - The White Reaper Descends</h3></th>
+<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 - Episode 2 - Roar of Revolution</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/262c017cb79bbdd74e6fbe7003f2e6731728230343_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c108e58d41951ea0ea7155d0c685a82a1729521836_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNG09/the-white-reaper-descends">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV58W/roar-of-revolution">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Katagiri Kanata shows what he's made of in the race on the Ashinoko track! With<br>daring drifts through the dangerous "Death Zone," he secures a provisional eighth place despite tough<br>competition and technical challenges.</p>
+<p align="center">Hajime catches wind of conflict brewing between the empire and the rabbit beastmen.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (English Dub) - Episode 14 - Meeting the Traveler</h3></th>
+<th><h3 align="center">Yakuza Fiancé: Raise wa Tanin ga Ii - Episode 3 - The Triangle From Hell</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/beeef4fb73787b1de32ad35d04d07afc1728211893_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/67c43d0dc8615fb23113402155cf1a061729520111_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKJV2/meeting-the-traveler">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73EQE/the-triangle-from-hell">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Workshop Manager Io announces a game in which all participants will compete for a spot<br>on the floating ship. As each team prepares for the start of the game, Viole<br>rescues a Traveller being chased by a security robot in a back alley.</p>
+<p align="center">As she and Kirishima try to figure each other out, some visitors from Kansai cast<br>an ominious light on Yoshino's stay in Tokyo.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Portuguese Dub) - Episode 13 - Archimedes</h3></th>
+<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions Season 2 - Episode 16 - The Case of the Shibuya Apocalypse Serial Murders (Part 3)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/545fe3702cffe55138433f149e99d0d01727606639_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a8bde55cbcfc07a1f1f3377cce630d621729505498_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ015/archimedes">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VG7D/the-case-of-the-shibuya-apocalypse-serial-murders-part-3">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Khun learns the truth from Hwaryun and decides to join Wangnan's team in the Workshop<br>Battle. Meanwhile, Bam remains on Team FUG as Viole.</p>
+<p align="center">A huge monitor across the street explodes. While Ron and Toto try to make sense<br>of events, Winter tells them that they've lost more than they realize. As Winter torments<br>Ron with the guilt of his failure, Ron realizes that Winter is hiding something.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (German Dub) - Episode 13 - Archimedes</h3></th>
+<th><h3 align="center">Nina the Starry Bride (Telugu Dub) - Episode 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/545fe3702cffe55138433f149e99d0d01727606639_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5dcda7cbacaf820569fd2072ec3e86c81729505284_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNG0D/archimedes">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXGX9">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Khun learns the truth from Hwaryun and decides to join Wangnan's team in the Workshop<br>Battle. Meanwhile, Bam remains on Team FUG as Viole.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Spanish Dub) - Episode 13 - Archimedes</h3></th>
+<th><h3 align="center">Nina the Starry Bride (Hindi Dub) - Episode 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/545fe3702cffe55138433f149e99d0d01727606639_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5dcda7cbacaf820569fd2072ec3e86c81729505192_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX918/archimedes">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9WM2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Khun learns the truth from Hwaryun and decides to join Wangnan's team in the Workshop<br>Battle. Meanwhile, Bam remains on Team FUG as Viole.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Russian Dub) - Episode 13 - Archimedes</h3></th>
+<th><h3 align="center">Nina the Starry Bride (Tamil Dub) - Episode 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/545fe3702cffe55138433f149e99d0d01727606639_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5dcda7cbacaf820569fd2072ec3e86c81729505217_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV0K7/archimedes">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXGXK">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Khun learns the truth from Hwaryun and decides to join Wangnan's team in the Workshop<br>Battle. Meanwhile, Bam remains on Team FUG as Viole.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Hindi Dub) - Episode 13 - Archimedes</h3></th>
+<th><h3 align="center">Nina the Starry Bride (German Dub) - Episode 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/545fe3702cffe55138433f149e99d0d01727606639_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3ee8b3fb34e0c794dadd043aa5a832a11729505151_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK9V2/archimedes">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U317WJ">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Khun learns the truth from Hwaryun and decides to join Wangnan's team in the Workshop<br>Battle. Meanwhile, Bam remains on Team FUG as Viole.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (French Dub) - Episode 12 - A New Trial</h3></th>
+<th><h3 align="center">Nina the Starry Bride (Spanish Dub) - Episode 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59cc83f8cf1f8dc87b870e657badc8371727000394_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/637d534946c6182e43546fbd98f039021729505106_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VWJP/a-new-trial">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG0DP">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Hand of Arlen is destroyed by FUG. Wangnan's team rescues Khun from the rubble,<br>who explain that the long-haired man he saw is FUG Slayer Candidate Jue Viole Grace.<br>While contemplating recent events, Khun encounters a familiar face...</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">MF GHOST Season 2 - Episode 15 - The Relay Straight Yin-Yang</h3></th>
+<th><h3 align="center">Nina the Starry Bride (Portuguese Dub) - Episode 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d442a12c3d2c538772fdba0aa7578ec81729432868_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/489898961c5a4b9db25502d89b113eae1729505128_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z1V0/the-relay-straight-yin-yang">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8N5V2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Katagiri Kanata drives his Toyota 86 GT remarkably fast, even though he lacks grip on<br>the wet road, and overtakes several more powerful cars. Ikeda praises Kanata's precise driving technique<br>and his experience on European racetracks, which help him under these conditions.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Puniru is a Kawaii Slime - Episode 3 - Kawaii Puniru is a Slime</h3></th>
+<th><h3 align="center">Nina the Starry Bride - Episode 3 - The Night of Dreams</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8bc7be317fcb70eda50613bb0f5bf6671729429660_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e5744dc4fbdc3340f374d2ba941caf071729505304_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/20/2024</td>
+<td align="center">10/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV44K/kawaii-puniru-is-a-slime">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN9Q9/the-night-of-dreams">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kotaro’s favorite plushie as a child was the adorable Kyuthi-chan, which had a profound (jealous)<br>effect on Puniru. Now he wants to go to the Kyuthi Café, where he gets<br>Puniru to pretend to be his girlfriend so he can order a dish meant for<br>couples.</p>
+<p align="center">When it becomes apparent that Azure's life is in danger, Nina escapes the castle to<br>seek help from the former king. However, the former king's wisdom and cleverness quickly puts<br>Nina in danger.</p>
 </td>
 </tr>
 </table>
