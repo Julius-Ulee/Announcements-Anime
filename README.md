@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Oct 28, 2024, 7:28:28 PM</em></p>
+<p align="center"><em>Updated on: Oct 29, 2024, 8:07:26 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2 (German Dub) - Episode 14 - Negotiations</h3></th>
+<th><h3 align="center">Natsume's Book of Friends Season 7 (English Dub) - Episode 2 - Someday's Garden</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/441e74cf9b202c906e81f43a49e7a8f81728221715_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/90ed48cc0c6887d8c39aa6cadf47abd91728915064_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U315GK/negotiations">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXQE9/somedays-garden">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ars sets off with Licia to negotiate with the Emperor of Summerforth, but their best<br>laid plans are threatened by a last-minute tagalong from Lord Couran's retinue.</p>
+<p align="center">Natsume is forced to help rebuild a tiny house that's a residence for a goddess.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (English Dub) - Episode 14 - Clinging Dragon Berserk</h3></th>
+<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (English Dub) - Episode 1 - Haulias Assemble</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ed3b55b0b5bb77fafc3abbf1ab03d77f1728806590_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1d89d8c0020ecae239502f44e57580691728916640_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ921/clinging-dragon-berserk">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQND2/haulias-assemble">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The outcomes of the battles are being decided... While Lucy and the others continue trying<br>to enclose their comrades within the cards, Wendy faces off against the sticky dragon Nebaru,<br>who wants to devour her!</p>
+<p align="center">With the Heiligh Kingdom heavily damaged, Princess Liliana travels to the Hoelscher Empire to request<br>their aid. On their way, Hajime spots Haulia tribe members fighting imperial soldiers. The tribe<br>members bring news of a coming invasion.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (German Dub) - Episode 12 - A Card in the Hand</h3></th>
+<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions Season 2 (German Dub) - Episode 14 - The Case of the Shibuya Apocalypse Serial Murders (Part 1)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/98028369d379669474b636fd1433110d1726995460_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/50f933868084e4ec6774bba0e6701af71728307061_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG71E/a-card-in-the-hand">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U315XK/the-case-of-the-shibuya-apocalypse-serial-murders-part-1">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It turns out that Wraith used to be a Fairy Tail wizard, and Makarov and<br>Wraith were a guild family. Meanwhile, Wendy struggles against Nebaru, and Lucy starts collecting the<br>other Fairy Tail members with the help of Cana and her Magic Cards.</p>
+<p align="center">There's been a murder in Shibuya. A man has been found killed in a ghastly<br>and impossible manner. Toto and Amamiya arrive at the scene to find Ron already there.<br>A mysterious message makes them wonder if there's more to the crime than meets the<br>eye.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">MF GHOST Season 2 (English Dub) - Episode 14 - The 4x4 Attack</h3></th>
+<th><h3 align="center">After-school Hanako-kun - Episode 8 - The Ghost Hotel</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/108675fb6dd4709a396439790c3b3a031728833170_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1c5ed2929818be7817ed462fc4d70c501730134310_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNK1Z/the-4x4-attack">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVQPP/the-ghost-hotel">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On the wet track, Kanata Katagiri impresses with his driving skills. Despite difficult weather conditions,<br>he remains steady in the race, while his competitors struggle with the weather.</p>
+<p align="center">Deep in a dark forest lies a hotel built, staffed, and frequented by inhuman creatures.<br>When a lost girl stumbles through its doors, what unearthly secrets will she find within?</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">MF GHOST Season 2 (Portuguese Dub) - Episode 13 - The White Reaper Descends</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (French Dub) - Episode 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/262c017cb79bbdd74e6fbe7003f2e6731728230343_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8f943bf8e4a413949a9843d4156ec25f1730133175_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKQ9Z/the-white-reaper-descends">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXGD9">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Katagiri Kanata shows what he's made of in the race on the Ashinoko track! With<br>daring drifts through the dangerous "Death Zone," he secures a provisional eighth place despite tough<br>competition and technical challenges.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (English Dub) - Episode 15 - The Promise of That Day</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (German Dub) - Episode 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/93b78a5fdb71474727367d53e81ee0491728817802_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6ea795a81ac94048717e382a710ea1df1730133243_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXE8G/the-promise-of-that-day">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXW0X1">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Unaware that FUG agent Viole is actually Bam, Endorsi Jahad attempts to capture him. Meanwhile,<br>Team Shibisu launches a surprise attack on the hotel where Team FUG is staying and<br>Wangnan and Team Khun face off against Chang and Quaetro.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Portuguese Dub) - Episode 14 - Meeting the Traveler</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (Spanish Dub) - Episode 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/beeef4fb73787b1de32ad35d04d07afc1728211893_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8f943bf8e4a413949a9843d4156ec25f1730133205_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U315PK/meeting-the-traveler">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3194K">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Workshop Manager Io announces a game in which all participants will compete for a spot<br>on the floating ship. As each team prepares for the start of the game, Viole<br>rescues a Traveller being chased by a security robot in a back alley.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (German Dub) - Episode 14 - Meeting the Traveler</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (Portuguese Dub) - Episode 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/beeef4fb73787b1de32ad35d04d07afc1728211893_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c28eecd567af8db547ae1728faadaa751730133149_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKNEX/meeting-the-traveler">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9DVZ">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Workshop Manager Io announces a game in which all participants will compete for a spot<br>on the floating ship. As each team prepares for the start of the game, Viole<br>rescues a Traveller being chased by a security robot in a back alley.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Spanish Dub) - Episode 14 - Meeting the Traveler</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (English Dub) - Episode 4 - Welcome Home</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/beeef4fb73787b1de32ad35d04d07afc1728211893_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/64f4023a44a474cb560c6c8293d41dd11730133923_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQNW2/meeting-the-traveler">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NEJZ/welcome-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Workshop Manager Io announces a game in which all participants will compete for a spot<br>on the floating ship. As each team prepares for the start of the game, Viole<br>rescues a Traveller being chased by a security robot in a back alley.</p>
+<p align="center">Rio brings Miharu and the others from his old world to the Village of Spirits,<br>where they receive safe shelter. To welcome the visitors, the villagers are preparing a grand<br>festival.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Russian Dub) - Episode 14 - Meeting the Traveler</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 - Episode 4 - Welcome Home</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/beeef4fb73787b1de32ad35d04d07afc1728211893_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e0c3c26de5fa50e5a5c251991f5f23e41730133119_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNZ55/meeting-the-traveler">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG4WE/welcome-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Workshop Manager Io announces a game in which all participants will compete for a spot<br>on the floating ship. As each team prepares for the start of the game, Viole<br>rescues a Traveller being chased by a security robot in a back alley.</p>
+<p align="center">Rio brings Miharu and the others from his old world to the Village of Spirits,<br>where they receive safe shelter. To welcome the visitors, the villagers are preparing a grand<br>festival.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Hindi Dub) - Episode 14 - Meeting the Traveler</h3></th>
+<th><h3 align="center">Natsume's Book of Friends Season 7 - Episode 4 - Depths of the Page</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/beeef4fb73787b1de32ad35d04d07afc1728211893_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5c2950c4c3dd90c88b72191024e931ed1730133068_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKG0Z/meeting-the-traveler">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NEM0/depths-of-the-page">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Workshop Manager Io announces a game in which all participants will compete for a spot<br>on the floating ship. As each team prepares for the start of the game, Viole<br>rescues a Traveller being chased by a security robot in a back alley.</p>
+<p align="center">Natsume and Kitamoto are victims of a horrid curse.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (French Dub) - Episode 13 - Archimedes</h3></th>
+<th><h3 align="center">The Most Notorious "Talker" Runs the World's Greatest Clan - Episode 5 - The Swordsman from the Far East</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/545fe3702cffe55138433f149e99d0d01727606639_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f2e2622be47f0a084e3ef14e3f5f536d1730129789_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NP1Z/archimedes">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZDV2/the-swordsman-from-the-far-east">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Khun learns the truth from Hwaryun and decides to join Wangnan's team in the Workshop<br>Battle. Meanwhile, Bam remains on Team FUG as Viole.</p>
+<p align="center">Noel and Alma are back in Etria, and they decided to spend the day doing<br>some much-needed shopping. However, their date runs into a few roadblocks on the way…</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
+<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 - Episode 3 - The Princess's Ordeal</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/19ce89d254025e5835ed6a7a95d6a06d1730123359_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PQXK/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK7E3/the-princesss-ordeal">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
+<p align="center">Liliana meets the emperor to discuss receiving aid from him. She must make a great<br>personal sacrifice to solidify this. She is ready to do so, but Hajime seems to<br>have other plans.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">MF GHOST Season 2 - Episode 16 - Sawatari Koki, the Demon God</h3></th>
+<th><h3 align="center">Yakuza Fiancé: Raise wa Tanin ga Ii - Episode 4 - Is He Smart or Stupid?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7538e0c001c22d7970772886601194481730027358_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a9c86b5bcc1fa96871333d8d77ec42f81730116629_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31PV1/sawatari-koki-the-demon-god">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQJ50/is-he-smart-or-stupid">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Kanata continues to keep pace in the wet conditions with the ever-expanding third-place group,<br>Sawatari dukes it out with Beckenbauer for the lead of the race.</p>
+<p align="center">After a tense encounter between Kirishima and Shouma, Shouma drives back to Osaka. Yoshino gets<br>the sense that something is spoiling Kirishima's mood and confronts him. Like every year, Yoshino<br>catches a summer flu.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Puniru is a Kawaii Slime - Episode 4 - Alice in Kyuthi Land</h3></th>
+<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions Season 2 - Episode 17 - The Case of the Midsummer Beachside Stand Drowning (Part 1)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2f6d3ecaa67323b81cae8696aae495c11730027331_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d1e82512010a5b0c5c3aed441af578821730116582_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9441/alice-in-kyuthi-land">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXW0XZ/the-case-of-the-midsummer-beachside-stand-drowning-part-1">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Alice, granddaughter to the president of the toy company that made Kyuthi-chan, challenges Puniru to<br>see whether she or a character Alice created is more adorable—and you could say the<br>competition gets blown into gigantic proportions!</p>
+<p align="center">Toto suggests that Ron take a rest. They invite Ron's doctor, Usaki Mofu, along and<br>head for a dip in the ocean. Ron looks forward to having shaved ice with<br>black sugar syrup from a beachside stand, but things soon take a tragic turn.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Let This Grieving Soul Retire - Episode 5 - I Want to Leave Everything to Ark</h3></th>
+<th><h3 align="center">Nina the Starry Bride (Telugu Dub) - Episode 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6802771211c746c251be10b882a5bad11730027308_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b1178b9119ce256bc96ed367879f10281730116464_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQXP0/i-want-to-leave-everything-to-ark">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVQVJ">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A long time ago, Sitri entrusted Krai with one of her alchemy creations: a slime<br>powerful enough to destroy all of Zebrudia. When Krai discovers the slime is missing, he<br>scrambles to recover it before chaos ensues.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 - Episode 17 - Funky!</h3></th>
+<th><h3 align="center">Nina the Starry Bride (Hindi Dub) - Episode 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8467c2aa460a3c46333178c94ce7b0be1730027255_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b1178b9119ce256bc96ed367879f10281730116394_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQEXM/funky">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN959">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The participants that acquired boarding passes enjoy a moment’s rest aboard the Archimedes. Khun is<br>reunited with Rak on the floating ship. With their determination to take back Viole (Bam)<br>from FUG, the “Flag” Workshop Battle finally begins!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TsumaSho - Episode 5 - Mother and Family</h3></th>
+<th><h3 align="center">Nina the Starry Bride (Tamil Dub) - Episode 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7cef2b6e90cca7dad8b576f6ec15bdb01730018781_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b1178b9119ce256bc96ed367879f10281730116432_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VKK9/mother-and-family">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVQVN">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takae is nervous to tell Keisuke and Mai about Chika's plans to move and remarry,<br>but the two take the news fairly well since the family will still be able<br>to meet. Takae tries to stay positive about the move and hopes it will bring<br>her mother happiness.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 - Episode 28 - Accelerating Meetings, Surging Desire, and the Start of Various Threads</h3></th>
+<th><h3 align="center">Nina the Starry Bride (German Dub) - Episode 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00832517f58b3f3eda493abaabfe81a41729990582_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e4740a1eec8616366f322d491f1eabf11730116371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NQG3/accelerating-meetings-surging-desire-and-the-start-of-various-threads">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKXVV">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's time for Sunraku to face the music as Pencilgon and Oikatzo force him to<br>come face to face with the various factions he's been ignoring.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST - Episode 16 - God Seeds</h3></th>
+<th><h3 align="center">Nina the Starry Bride (Spanish Dub) - Episode 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b5df3309336cea4ee2e1bb995ce77eb81729989559_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/57e38f2acdf1cd511dbee37d68b1aa371730116338_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/27/2024</td>
+<td align="center">10/28/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJKNQ/god-seeds">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJGX9">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsu turns Wolfen into a fake Zeref and uses Ankhseram's curse on Wolfen. Other Fairy<br>Tail wizards face three other God Seeds: Metro, Gears, and Doom. Then, the leader of<br>God Seeds, Aldoron, shows up in front of Natsu.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
