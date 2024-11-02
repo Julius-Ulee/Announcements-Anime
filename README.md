@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 2, 2024, 8:04:48 AM</em></p>
+<p align="center"><em>Updated on: Nov 2, 2024, 7:25:28 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,482 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Case Closed (Detective Conan) - Episode 1140 - Girls Day Mystery 3</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e47efc30054369ccea1cf1f13aceff3e1730535831_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQP4P/girls-day-mystery-3">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Five Detective Girls come together yet again to solve a case while having a<br>girls' day out, but this time, as ninjas.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Blue Miburo - Episode 3 - Where the Soul Dwells</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cd69164bff03baaf840ffe573b851afd1730535548_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE97VZ/where-the-soul-dwells">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Nio meets another boy Miburo: Tanaka Taro. Despite Hijikata's warnings, he tries to start a<br>friendship. But when Serizawa kills a fellow ronin, Taro gets orders to dispose of the<br>evidence.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 12 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d3e3a3f5fd2760d5ae2d61805c3edd1b1711549271_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31082/untitled">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Adachi loses his powers after his night with Kurosawa. After accepting the Nagasaki transfer, he<br>and Kurosawa both struggle with being apart. But Adachi is filled with new determination to<br>make things work out, and has an idea...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 11 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8174af33e0474a0021b263dcf191c3d51710941844_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P9N4/untitled">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">"I have to tell him." Adachi writes Kurosawa a letter to lay out his feelings<br>as clearly as he can. Tsuge tries to be content to cheer Minato on from<br>the shadows, but loneliness gets the better of him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 10 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/53beddf4f6f6836422141567a28dcc641710345314_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG8EW/untitled">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Adachi tries to figure out how to mend his relationship with Kurosawa. As Minato tries<br>to chase his dream of being a professional dancer, Tsuge does his best to support<br>him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 9 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e27e1d3ddfd51324826fb38207fc8f7a1709741404_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWGPW/untitled">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Tsuge tries to mitigate the awkwardness between Minato and Rokkaku. Adachi gets an offer to<br>transfer to their company's newly-established Nagasaki branch, but worries about moving far away from Kurosawa<br>when they've only just started dating.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 8 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5d6dfcfd0c8d191cfb4c76ed57c4b4271709139862_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VD02/untitled">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Adachi agonizes over whether to tell Kurosawa the truth about his powers, Tsuge accompanies Minato<br>to a club and struggles with feeling out of place, and Kurosawa's jealousy gets the<br>better of him again at a work event.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 7 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3a6e47cf9aa1c2818e05ea62288929ba1708529591_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK5GV/untitled">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kurosawa and Adachi go out on their first date together, and Adachi tries not to<br>let his nerves get the better of him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 6 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3fffe3301d36cb1b4eabd39a2c2261ae1707919143_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN2WV/untitled">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Spending time at work with Fujisaki makes Adachi finally come to a decision about his<br>feelings for Kurosawa. Meanwhile, as Tsuge agonizes over his crush on the deliveryman, they run<br>into each other out on the street.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 5 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5cbdf4d9958ea776ab063c17e98c33a81707315260_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ494/untitled">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">"So much love for Adachi-san." As if things weren't messy enough after he impulsively invited<br>Rokkaku over to put a buffer between himself and Kurosawa, Adachi catches a glimpse of<br>Fujisaki's inner thoughts while at work.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 4 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/706fd2dfbf9daf10e1e5451cc0b239aa1706713501_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73M5Z/untitled">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Tsuge gets a surprise when he brushes hands with the new deliveryman and realizes he<br>too has mind-reading powers. Later, Adachi sees Kurosawa out with a girl and falls ill<br>after moping in the rain, but Kurosawa arrives to care for him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 3 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/03063d787138a89cec6d9aab1d23ac901706116581_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXQ9K/untitled">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Interactions with their coworkers at a company party cause Kurosawa's jealousy and Adachi's insecurity to<br>rear their heads. After an awkward visit to a sauna, Kurosawa reflects on how his<br>crush on Adachi started.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 2 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/235d815eeee5f169c541a8eeb1bdf0981705506195_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NGM4/untitled">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Adachi runs to his friend, romance novelist Masato Tsuge, for advice on his predicament, but<br>discovers a secret Tsuge's been hiding. Adachi uses his power to help Kurosawa at work,<br>but a drunken King's Game puts them in an awkward position.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 1 - Untitled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bb47f1ef3415fe7f75731d151d8c93361704905609_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/2/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVK980/untitled">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">30-year-old virgin Kiyoshi Adachi discovers he has the ability to hear people's thoughts when he<br>touches them. It's mostly a daily annoyance, until his powers reveal that his handsome and<br>popular coworker Yuichi Kurosawa only has eyes for him!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 38 - How Astarion and Lae’zel Would Sound in Anime (ft. Neil Newbon, Devora Wilde) </h3></th>
 </tr>
@@ -209,482 +685,6 @@ Welcome to The Anime Effect, the weekly podcast hosted by Crunchyroll's<br>own i
 <tr>
 <td colspan="2">
 <p align="center">Forced to make their way through the Third Demon World on foot, Goku and his<br>companions stop by a lone drive-in on the way. There they encounter some strange souvenirs<br>and a rather chatty and quirky Majin woman and her husband!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II - Episode 5 - BTRY's Choice</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3f48cd04e9afc0cdb9f47dcd99ec5e501730476555_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXWVD/btrys-choice">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The organizing team of the game announced a shocking, special rule to be implemented. One<br>“betrayer” will be selected from the six remaining teams to form a new team. Pitohui<br>is selected from LPFM, and the team leader of SHINC, Eva, also joins. With this<br>new rule implemented, Pitohui is happy that she can fight against LLENN. Eva gracefully leaves<br>her team, hoping to fight against LLENN, too. All of the "betrayers" meet up on<br>a luxury cruise ship set up in UNKNOWN, forming a most intimidating team named "BTRY"!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">True Beauty (Japanese Audio) - Episode 5 - I thought becoming pretty would make a difference</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fcb3d084f75b8a77b54e99ca5f0240da1730466823_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VKN9/i-thought-becoming-pretty-would-make-a-difference">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Seojun and Suho catch Hyunwoo red-handed, but Jugyeong‘s blind date points the finger at someone<br>else. Shocked about said accusations, Jugyeong decides to confronts the friend who seemingly tries to<br>sabotage her.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">2.5 Dimensional Seduction - Episode 18</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dbc751f906522dd02421f2b70c111e7b1730439097_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNJ97">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! The Dumpster Battle (Catalan Dub) - Unknown</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/88f8c2fcba29d67b59fea428781f2e7c1730416270_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJE3G">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! The Dumpster Battle (Castilian Dub) - Unknown</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/88f8c2fcba29d67b59fea428781f2e7c1730416143_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG8W9">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! The Dumpster Battle (Italian Dub) - Unknown</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/88f8c2fcba29d67b59fea428781f2e7c1730415980_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P920">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! The Dumpster Battle (French Dub) - Unknown</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/88f8c2fcba29d67b59fea428781f2e7c1730415767_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VDMN">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! The Dumpster Battle (Spanish Dub) - Unknown</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/88f8c2fcba29d67b59fea428781f2e7c1730415604_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN208">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! The Dumpster Battle (Portuguese Dub) - Unknown</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/88f8c2fcba29d67b59fea428781f2e7c1730415672_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK5N8">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! The Dumpster Battle - Haikyu!! The Dumpster Battle</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d6349f0b53761fc60133e2fec260fadc1730415134_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9XZ7/haikyu-the-dumpster-battle">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Shoyo Hinata joins Karasuno High’s volleyball club to be like his idol, the “Little Giant.”<br>But he finds he must team up with his middle school nemesis, Tobio Kageyama. Their<br>clashing styles turn into a surprising weapon, but can they beat their rival Nekoma High<br>in the highly anticipated Dumpster Battle?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Haikyu!! The Dumpster Battle (English Dub) - Haikyu!! The Dumpster Battle</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a25d6dcf6da3762f30219d60a89db9a11730416320_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z3N1/haikyu-the-dumpster-battle">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Shoyo Hinata joins Karasuno High’s volleyball club to be like his idol, the “Little Giant.”<br>But he finds he must team up with his middle school nemesis, Tobio Kageyama. Their<br>clashing styles turn into a surprising weapon, but can they beat their rival Nekoma High<br>in the highly anticipated Dumpster Battle?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Good Bye, Dragon Life (Hindi Dub) - Episode 2 - A New Friend</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/832e0f824597029baeb49a651645a07c1728567010_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG8M9/a-new-friend">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Varun Village is disturbed by the appearance of a monster that leaves offerings for it<br>every morning. Will they welcome it, or look to eliminate it?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Good Bye, Dragon Life (Tamil Dub) - Episode 2 - A New Friend</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/832e0f824597029baeb49a651645a07c1728567010_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJEWG/a-new-friend">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Varun Village is disturbed by the appearance of a monster that leaves offerings for it<br>every morning. Will they welcome it, or look to eliminate it?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Good Bye, Dragon Life (Telugu Dub) - Episode 2 - A New Friend</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/832e0f824597029baeb49a651645a07c1728567010_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/31/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P930/a-new-friend">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Varun Village is disturbed by the appearance of a monster that leaves offerings for it<br>every morning. Will they welcome it, or look to eliminate it?</p>
 </td>
 </tr>
 </table>
