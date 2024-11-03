@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 2, 2024, 7:25:28 PM</em></p>
+<p align="center"><em>Updated on: Nov 3, 2024, 8:10:50 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Case Closed (Detective Conan) - Episode 1140 - Girls Day Mystery 3</h3></th>
+<th><h3 align="center">You are Ms. Servant (Portuguese Dub) - Episode 2 - You Want to Know.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e47efc30054369ccea1cf1f13aceff3e1730535831_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a2c48ef578134ed4ddfab89e5b0fc71728737776_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQP4P/girls-day-mystery-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQM3K/you-want-to-know">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Five Detective Girls come together yet again to solve a case while having a<br>girls' day out, but this time, as ninjas.</p>
+<p align="center">One day, Hitoyoshi is compelled to adopt a puppy that was left in front of<br>his home. However, the maid has a childhood trauma involving dogs. Watching the two interact,<br>the maid soon sees the world in a new light, even wishing to be "normal"<br>herself.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Miburo - Episode 3 - Where the Soul Dwells</h3></th>
+<th><h3 align="center">You are Ms. Servant (Spanish Dub) - Episode 2 - You Want to Know.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cd69164bff03baaf840ffe573b851afd1730535548_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a2c48ef578134ed4ddfab89e5b0fc71728737776_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE97VZ/where-the-soul-dwells">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNVM4/you-want-to-know">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nio meets another boy Miburo: Tanaka Taro. Despite Hijikata's warnings, he tries to start a<br>friendship. But when Serizawa kills a fellow ronin, Taro gets orders to dispose of the<br>evidence.</p>
+<p align="center">One day, Hitoyoshi is compelled to adopt a puppy that was left in front of<br>his home. However, the maid has a childhood trauma involving dogs. Watching the two interact,<br>the maid soon sees the world in a new light, even wishing to be "normal"<br>herself.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 12 - Untitled</h3></th>
+<th><h3 align="center">You are Ms. Servant (Hindi Dub) - Episode 2 - You Want to Know.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d3e3a3f5fd2760d5ae2d61805c3edd1b1711549271_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a2c48ef578134ed4ddfab89e5b0fc71728737776_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31082/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX4ZZ/you-want-to-know">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Adachi loses his powers after his night with Kurosawa. After accepting the Nagasaki transfer, he<br>and Kurosawa both struggle with being apart. But Adachi is filled with new determination to<br>make things work out, and has an idea...</p>
+<p align="center">One day, Hitoyoshi is compelled to adopt a puppy that was left in front of<br>his home. However, the maid has a childhood trauma involving dogs. Watching the two interact,<br>the maid soon sees the world in a new light, even wishing to be "normal"<br>herself.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 11 - Untitled</h3></th>
+<th><h3 align="center">You are Ms. Servant (Tamil Dub) - Episode 2 - You Want to Know.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8174af33e0474a0021b263dcf191c3d51710941844_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a2c48ef578134ed4ddfab89e5b0fc71728737776_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P9N4/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVXZ8/you-want-to-know">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">"I have to tell him." Adachi writes Kurosawa a letter to lay out his feelings<br>as clearly as he can. Tsuge tries to be content to cheer Minato on from<br>the shadows, but loneliness gets the better of him.</p>
+<p align="center">One day, Hitoyoshi is compelled to adopt a puppy that was left in front of<br>his home. However, the maid has a childhood trauma involving dogs. Watching the two interact,<br>the maid soon sees the world in a new light, even wishing to be "normal"<br>herself.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 10 - Untitled</h3></th>
+<th><h3 align="center">You are Ms. Servant (Telugu Dub) - Episode 2 - You Want to Know.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/53beddf4f6f6836422141567a28dcc641710345314_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a2c48ef578134ed4ddfab89e5b0fc71728737776_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG8EW/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VD9G/you-want-to-know">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Adachi tries to figure out how to mend his relationship with Kurosawa. As Minato tries<br>to chase his dream of being a professional dancer, Tsuge does his best to support<br>him.</p>
+<p align="center">One day, Hitoyoshi is compelled to adopt a puppy that was left in front of<br>his home. However, the maid has a childhood trauma involving dogs. Watching the two interact,<br>the maid soon sees the world in a new light, even wishing to be "normal"<br>herself.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 9 - Untitled</h3></th>
+<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (German Dub) - Episode 2 - Distress</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e27e1d3ddfd51324826fb38207fc8f7a1709741404_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/25a7782f8b000cfe552766a51a2336371728737910_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +200,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWGPW/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG83W/distress">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsuge tries to mitigate the awkwardness between Minato and Rokkaku. Adachi gets an offer to<br>transfer to their company's newly-established Nagasaki branch, but worries about moving far away from Kurosawa<br>when they've only just started dating.</p>
+<p align="center">Ever since the strange phenomena occurred with his eye, Yukio decides to investigate the nature<br>of the power that has manifested. He puts his own life on the line as<br>he becomes devoted to the dangerous training…</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 8 - Untitled</h3></th>
+<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (French Dub) - Episode 2 - Distress</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5d6dfcfd0c8d191cfb4c76ed57c4b4271709139862_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/25a7782f8b000cfe552766a51a2336371728737910_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +234,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VD02/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJEPQ/distress">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Adachi agonizes over whether to tell Kurosawa the truth about his powers, Tsuge accompanies Minato<br>to a club and struggles with feeling out of place, and Kurosawa's jealousy gets the<br>better of him again at a work event.</p>
+<p align="center">Ever since the strange phenomena occurred with his eye, Yukio decides to investigate the nature<br>of the power that has manifested. He puts his own life on the line as<br>he becomes devoted to the dangerous training…</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 7 - Untitled</h3></th>
+<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (English Dub) - Episode 1 - Ambition</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3a6e47cf9aa1c2818e05ea62288929ba1708529591_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6db36f32bbe5d291610f3301d80e34e51728142948_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +268,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK5GV/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK234/ambition">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kurosawa and Adachi go out on their first date together, and Adachi tries not to<br>let his nerves get the better of him.</p>
+<p align="center">Despite the success in taking control of the Far East Laboratory, the Illuminati remain a<br>major threat. The Knights of the True Cross repeatedly hold discussions among the higher ranks<br>to create countermeasures. Meanwhile, Rin and the other students are informed that the Exorcism Certification<br>Exams will now be held sooner than planned. After the events in Shimane, Suguro struggles<br>with the fact that he's lost sight of the reason for becoming an exorcist. However,<br>Arch Knight Lightning is appointed as a new instructor at the Exorcist Cram School...</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 6 - Untitled</h3></th>
+<th><h3 align="center">DEMON LORD 2099 (English Dub) - Episode 2 - The Demon Lord and His Vassals</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3fffe3301d36cb1b4eabd39a2c2261ae1707919143_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1d47b56f288eb28a410651a311d43c371729326772_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +302,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN2WV/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN24V/the-demon-lord-and-his-vassals">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Spending time at work with Fujisaki makes Adachi finally come to a decision about his<br>feelings for Kurosawa. Meanwhile, as Tsuge agonizes over his crush on the deliveryman, they run<br>into each other out on the street.</p>
+<p align="center">Veltol learns of his former vassal Marcus’s betrayal firsthand. Meanwhile, Machina shows Veltol around the<br>city. While Veltol struggles to adapt to the completely altered world of the future, Machina<br>introduces him to someone.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 5 - Untitled</h3></th>
+<th><h3 align="center">DEMON LORD 2099 (Portuguese Dub) - Episode 1 - Cyberpunk City Shinjuku</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5cbdf4d9958ea776ab063c17e98c33a81707315260_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6a622c9db7d9ff150d2a32351c021c671728746565_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +336,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ494/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXQZK/cyberpunk-city-shinjuku">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">"So much love for Adachi-san." As if things weren't messy enough after he impulsively invited<br>Rokkaku over to put a buffer between himself and Kurosawa, Adachi catches a glimpse of<br>Fujisaki's inner thoughts while at work.</p>
+<p align="center">Long ago, Demon Lord Veltol was defeated in battle by the Hero, but thanks to<br>his reincarnation magic, he has returned after 500 years. Veltol is keen to resume his<br>world domination once more, but his vassal, Machina—one of the Six Dark Peers—reveals an unexpected<br>truth.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 4 - Untitled</h3></th>
+<th><h3 align="center">DEMON LORD 2099 (Spanish Dub) - Episode 1 - Cyberpunk City Shinjuku</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/706fd2dfbf9daf10e1e5451cc0b239aa1706713501_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6a622c9db7d9ff150d2a32351c021c671728746565_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +370,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73M5Z/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73M9Z/cyberpunk-city-shinjuku">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsuge gets a surprise when he brushes hands with the new deliveryman and realizes he<br>too has mind-reading powers. Later, Adachi sees Kurosawa out with a girl and falls ill<br>after moping in the rain, but Kurosawa arrives to care for him.</p>
+<p align="center">Long ago, Demon Lord Veltol was defeated in battle by the Hero, but thanks to<br>his reincarnation magic, he has returned after 500 years. Veltol is keen to resume his<br>world domination once more, but his vassal, Machina—one of the Six Dark Peers—reveals an unexpected<br>truth.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 3 - Untitled</h3></th>
+<th><h3 align="center">DEMON LORD 2099 (French Dub) - Episode 1 - Cyberpunk City Shinjuku</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/03063d787138a89cec6d9aab1d23ac901706116581_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6a622c9db7d9ff150d2a32351c021c671728746565_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +404,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXQ9K/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ4N4/cyberpunk-city-shinjuku">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Interactions with their coworkers at a company party cause Kurosawa's jealousy and Adachi's insecurity to<br>rear their heads. After an awkward visit to a sauna, Kurosawa reflects on how his<br>crush on Adachi started.</p>
+<p align="center">Long ago, Demon Lord Veltol was defeated in battle by the Hero, but thanks to<br>his reincarnation magic, he has returned after 500 years. Veltol is keen to resume his<br>world domination once more, but his vassal, Machina—one of the Six Dark Peers—reveals an unexpected<br>truth.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 2 - Untitled</h3></th>
+<th><h3 align="center">Demon Lord, Retry! R (English Dub) - Episode 4 - ReCruit</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/235d815eeee5f169c541a8eeb1bdf0981705506195_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/45cf65373d553d7c76dcbc5f72b29ab11729326623_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +438,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NGM4/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N9DJ/recruit">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Adachi runs to his friend, romance novelist Masato Tsuge, for advice on his predicament, but<br>discovers a secret Tsuge's been hiding. Adachi uses his power to help Kurosawa at work,<br>but a drunken King's Game puts them in an awkward position.</p>
+<p align="center">News of Kunai's exploits reaches other nations around the world. How will they respond?</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! (Thai Dub) - Episode 1 - Untitled</h3></th>
+<th><h3 align="center">Demon Lord, Retry! R (Hindi Dub) - Episode 3 - ReCycle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bb47f1ef3415fe7f75731d151d8c93361704905609_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/511cc921d393d3b66bebb675b2f420d11728717093_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -472,13 +472,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVK980/untitled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQM8K/recycle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">30-year-old virgin Kiyoshi Adachi discovers he has the ability to hear people's thoughts when he<br>touches them. It's mostly a daily annoyance, until his powers reveal that his handsome and<br>popular coworker Yuichi Kurosawa only has eyes for him!</p>
+<p align="center">Kunai heads to the town of Rookie to farm for magical items in the Prison<br>Labyrinth there. He's accompanied by Mikan and Yukikaze, and sparks are sure to fly.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 38 - How Astarion and Lae’zel Would Sound in Anime (ft. Neil Newbon, Devora Wilde) </h3></th>
+<th><h3 align="center">Demon Lord, Retry! R (Tamil Dub) - Episode 3 - ReCycle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2e979c0f6933a9121928210969d9b9f91730498516_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/511cc921d393d3b66bebb675b2f420d11728717093_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,19 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
+<td align="center">11/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKDQ4/how-astarion-and-laezel-would-sound-in-anime-ft-neil-newbon-devora-wilde-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNV44/recycle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">We sit down with Baldur's Gate 3 actors Neil Newbon and Devora Wilde to discuss<br>the fan response to their amazing characters, the depth of the game's storytelling, and the<br>inclusive world the game has built. Plus, mufriend of the pod David Anthony Burke AKA<br>"d4vd" returns to share his ride or die anime, and we discuss which anime/manga characters<br>have the best fashion. 
-
-Welcome to The Anime Effect, the weekly podcast hosted by Crunchyroll's<br>own in-house, resident anime experts – Nicholas Friedman, LeAlec Murray, and Leah President. The show<br>is a lively mixture of roundtable news and discussion with Crunchyroll hosts and special guests<br>as they debate hot topics, provide recommendations, and tackle fan questions.</p>
+<p align="center">Kunai heads to the town of Rookie to farm for magical items in the Prison<br>Labyrinth there. He's accompanied by Mikan and Yukikaze, and sparks are sure to fly.</p>
 </td>
 </tr>
 </table>
@@ -524,12 +522,12 @@ Welcome to The Anime Effect, the weekly podcast hosted by Crunchyroll's<br>own i
 
 <table align="center">
 <tr>
-<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II (German Dub) - Episode 2 - The Great Freight Car Operation</h3></th>
+<th><h3 align="center">Demon Lord, Retry! R (Telugu Dub) - Episode 3 - ReCycle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6255f59a654ad281ef6ba752add7f40c1728658955_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/511cc921d393d3b66bebb675b2f420d11728717093_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -538,17 +536,17 @@ Welcome to The Anime Effect, the weekly podcast hosted by Crunchyroll's<br>own i
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
+<td align="center">11/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQM5K/the-great-freight-car-operation">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9VJ4/recycle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">SJ3 has finally begun. The battlefield is located on an island surrounded by the sea.<br>The word "UNKNOWN" is written on a small hill in the middle of the island.<br>"Is this 'UNKNOWN' the 'special rule' for this battle?"</p>
+<p align="center">Kunai heads to the town of Rookie to farm for magical items in the Prison<br>Labyrinth there. He's accompanied by Mikan and Yukikaze, and sparks are sure to fly.</p>
 </td>
 </tr>
 </table>
@@ -558,12 +556,12 @@ Welcome to The Anime Effect, the weekly podcast hosted by Crunchyroll's<br>own i
 
 <table align="center">
 <tr>
-<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II (English Dub) - Episode 1 - What Happens Twice Will Happen Thrice</h3></th>
+<th><h3 align="center">BLUE LOCK 2nd Season (English Dub) - Episode 27 - The World You Feel</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3b47253efed40694ab300159920ccc6c1728055624_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e23ae24be4332922cc83c1221c23d7991729326715_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -572,17 +570,17 @@ Welcome to The Anime Effect, the weekly podcast hosted by Crunchyroll's<br>own i
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
+<td align="center">11/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX40Z/what-happens-twice-will-happen-thrice">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z3W9/the-world-you-feel">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Three months after LLENN won second place in the team battle, “Second Squad Jam” (SJ2),<br>“Third Squad Jam” (SJ3), was announced. Soon after, news broke out that Pitohui, M, Fukaziroh,<br>and LLENN formed “LPFM,” considered the strongest team in the game. Clarence is obsessed with<br>LLENN, and Shirley ignites her fighting spirit to kill Pitohui. All members of SHINC hope<br>to take revenge as they lost to LLENN in SJ1. A heated battle surpassing SJ2<br>is about to begin…!</p>
+<p align="center">Seeing how incompatible Rin and Shidou are, Isagi hopes to take advantage of it. However,<br>his physical abilities are not enough to get him where he needs to be. Then,<br>Hiori suggests that Isagi does the thinking "on reflex."</p>
 </td>
 </tr>
 </table>
@@ -592,12 +590,12 @@ Welcome to The Anime Effect, the weekly podcast hosted by Crunchyroll's<br>own i
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Stories of Girls Who Couldn't Be Magicians - Episode 5 - I'll Walk My Butt Off in This Cross-Country Race!</h3></th>
+<th><h3 align="center">BLUE LOCK 2nd Season (Portuguese Dub) - Episode 26 - The Assassin and the Ninja</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cc0f519c562ac0920859794c362d35971730467363_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d6251408312519875a679a79349b569e1728734462_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -606,17 +604,17 @@ Welcome to The Anime Effect, the weekly podcast hosted by Crunchyroll's<br>own i
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
+<td align="center">11/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PV45/ill-walk-my-butt-off-in-this-cross-country-race">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z3K9/the-assassin-and-the-ninja">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A school race pits class against class in cross-country race. Kurumi and friends must navigate<br>treacherous terrain—while the Magumi students just fly over everything obstacle. Can Standard Class 1 finish<br>the race, let alone win it?</p>
+<p align="center">Isagi is chosen as Team A1 along with Nanase and Hiori to play against Team<br>B1, which includes Karasu, Otoya, and Chigiri. While Isagi struggles to find a way into<br>the game, Chigiri and Hiori demonstrate their worth.</p>
 </td>
 </tr>
 </table>
@@ -626,12 +624,12 @@ Welcome to The Anime Effect, the weekly podcast hosted by Crunchyroll's<br>own i
 
 <table align="center">
 <tr>
-<th><h3 align="center">THE iDOLM@STER SHINY COLORS 2nd Season - Episode 5 - When We Said 'Let's Go,' It Was Already Decided</h3></th>
+<th><h3 align="center">BLUE LOCK 2nd Season (German Dub) - Episode 26 - The Assassin and the Ninja</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/67d6235f4ddd2fef15f5fcd5cc7cbbbb1730467328_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d6251408312519875a679a79349b569e1728734462_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -640,17 +638,17 @@ Welcome to The Anime Effect, the weekly podcast hosted by Crunchyroll's<br>own i
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
+<td align="center">11/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNX1G/when-we-said-lets-go-it-was-already-decided">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U310V2/the-assassin-and-the-ninja">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Noctchill prepare for their live debut, but plans change and tensions rise. Despite challenges, they<br>stay united, embracing their bond as childhood friends while facing an uncertain future.</p>
+<p align="center">Isagi is chosen as Team A1 along with Nanase and Hiori to play against Team<br>B1, which includes Karasu, Otoya, and Chigiri. While Isagi struggles to find a way into<br>the game, Chigiri and Hiori demonstrate their worth.</p>
 </td>
 </tr>
 </table>
@@ -660,12 +658,12 @@ Welcome to The Anime Effect, the weekly podcast hosted by Crunchyroll's<br>own i
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA - Episode 4 - Chatty</h3></th>
+<th><h3 align="center">BLUE LOCK 2nd Season (French Dub) - Episode 26 - The Assassin and the Ninja</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e93df1712febd0ea52d1e0b41b46dd801730476637_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d6251408312519875a679a79349b569e1728734462_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -674,17 +672,17 @@ Welcome to The Anime Effect, the weekly podcast hosted by Crunchyroll's<br>own i
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/1/2024</td>
+<td align="center">11/2/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNPZ0/chatty">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQMKK/the-assassin-and-the-ninja">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Forced to make their way through the Third Demon World on foot, Goku and his<br>companions stop by a lone drive-in on the way. There they encounter some strange souvenirs<br>and a rather chatty and quirky Majin woman and her husband!</p>
+<p align="center">Isagi is chosen as Team A1 along with Nanase and Hiori to play against Team<br>B1, which includes Karasu, Otoya, and Chigiri. While Isagi struggles to find a way into<br>the game, Chigiri and Hiori demonstrate their worth.</p>
 </td>
 </tr>
 </table>
