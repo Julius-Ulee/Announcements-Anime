@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 3, 2024, 7:24:26 PM</em></p>
+<p align="center"><em>Updated on: Nov 4, 2024, 8:07:48 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 - Episode 29 - When Humanity Dreams of the Impossible and Takes to the Skies</h3></th>
+<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2 (German Dub) - Episode 15 - The Image of a Lord</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dd2d185e68b420b6f0d5a37e0de08c101730612926_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5d88690cec18906388972336115acff21728815005_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVK0JM/when-humanity-dreams-of-the-impossible-and-takes-to-the-skies">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z373/the-image-of-a-lord">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Pencilgon makes a proposal to the other clans. Sunraku forwards his interests in Rabituza, and<br>faces a setback in his farming of the Crystal Scorpions.</p>
+<p align="center">Ars and his retinue wrap up negotiations with the neighboring provinces, and upon their return<br>home, Lord Couran gives Ars his most important and most dangerous mission to date... Does<br>he have what it takes to face it?</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST - Episode 17 - Strength to Live</h3></th>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (English Dub) - Episode 15 - The Howling Earth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/abc881e230231a50a5088b2348fb69491730611333_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0e57c144f30d834b384d0a242c2181321729388707_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P0J4/strength-to-live">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG841/the-howling-earth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gray and Juvia take on Metro's main body, while the others fight his golems. In<br>the meantime, Jellal takes on Gears. When it's down to Aldoron himself, an unexpected yet<br>familiar face shows up: Brandish.</p>
+<p align="center">When all five orbs are broken, something unexpected happens: The Wood Dragon God, Aldoron, is<br>revived. It also activates God Seeds, who start attacking Natsu and the others by becoming<br>the person who they consider to be the strongest.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island / One Piece Log: Fish-Man Island Saga (1089-Current) - The New Beginning! The Straw Hats Reunite!</h3></th>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (German Dub) - Episode 13 - Scarlet Showdown</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/29202083734ab736eeb0266188daff691730597858_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1967495185617fd0f5bacbf1be9903e01727599001_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQM31/the-new-beginning-the-straw-hats-reunite">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VDGG/scarlet-showdown">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Two years after the Paramount War, each member of the Straw Hats returns to Sabaody<br>Archipelago. However, a group calling itself the Straw Hats is having everything their way and<br>is recruiting new members.</p>
+<p align="center">Natsu and Happy find out that Touka is actually a cat, and she has mistaken<br>Happy as Natsu. Meanwhile, Laxus unleashes his new skill, Red Lightning, against Erza. Now it's<br>down to two orbs, but when Happy throws an orb at the White Mage...</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Portuguese Dub) - Episode 2 - You Want to Know.</h3></th>
+<th><h3 align="center">MF GHOST Season 2 (English Dub) - Episode 15 - The Relay Straight Yin-Yang</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a2c48ef578134ed4ddfab89e5b0fc71728737776_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d442a12c3d2c538772fdba0aa7578ec81729432868_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQM3K/you-want-to-know">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN27E/the-relay-straight-yin-yang">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">One day, Hitoyoshi is compelled to adopt a puppy that was left in front of<br>his home. However, the maid has a childhood trauma involving dogs. Watching the two interact,<br>the maid soon sees the world in a new light, even wishing to be "normal"<br>herself.</p>
+<p align="center">Katagiri Kanata drives his Toyota 86 GT remarkably fast, even though he lacks grip on<br>the wet road, and overtakes several more powerful cars. Ikeda praises Kanata's precise driving technique<br>and his experience on European racetracks, which help him under these conditions.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Spanish Dub) - Episode 2 - You Want to Know.</h3></th>
+<th><h3 align="center">MF GHOST Season 2 (Portuguese Dub) - Episode 14 - The 4x4 Attack</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a2c48ef578134ed4ddfab89e5b0fc71728737776_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/108675fb6dd4709a396439790c3b3a031728833170_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNVM4/you-want-to-know">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9XDN/the-4x4-attack">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">One day, Hitoyoshi is compelled to adopt a puppy that was left in front of<br>his home. However, the maid has a childhood trauma involving dogs. Watching the two interact,<br>the maid soon sees the world in a new light, even wishing to be "normal"<br>herself.</p>
+<p align="center">On the wet track, Kanata Katagiri impresses with his driving skills. Despite difficult weather conditions,<br>he remains steady in the race, while his competitors struggle with the weather.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Hindi Dub) - Episode 2 - You Want to Know.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (English Dub) - Episode 16 - The 25th Bam</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a2c48ef578134ed4ddfab89e5b0fc71728737776_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b0c69d2a52954ee9db33f04f6341b891729422215_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX4ZZ/you-want-to-know">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NGEM/the-25th-bam">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">One day, Hitoyoshi is compelled to adopt a puppy that was left in front of<br>his home. However, the maid has a childhood trauma involving dogs. Watching the two interact,<br>the maid soon sees the world in a new light, even wishing to be "normal"<br>herself.</p>
+<p align="center">Team Shibisu arrives to confront FUG member Jue Viole Grace. In order to prevent his<br>former teammates from discovering that he is the 25th Bam, Viole takes on Team Shibisu.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Tamil Dub) - Episode 2 - You Want to Know.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Portuguese Dub) - Episode 15 - The Promise of That Day</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a2c48ef578134ed4ddfab89e5b0fc71728737776_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/93b78a5fdb71474727367d53e81ee0491728817802_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVXZ8/you-want-to-know">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z3P3/the-promise-of-that-day">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">One day, Hitoyoshi is compelled to adopt a puppy that was left in front of<br>his home. However, the maid has a childhood trauma involving dogs. Watching the two interact,<br>the maid soon sees the world in a new light, even wishing to be "normal"<br>herself.</p>
+<p align="center">Unaware that FUG agent Viole is actually Bam, Endorsi Jahad attempts to capture him. Meanwhile,<br>Team Shibisu launches a surprise attack on the hotel where Team FUG is staying and<br>Wangnan and Team Khun face off against Chang and Quaetro.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Telugu Dub) - Episode 2 - You Want to Know.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (German Dub) - Episode 15 - The Promise of That Day</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a2c48ef578134ed4ddfab89e5b0fc71728737776_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/93b78a5fdb71474727367d53e81ee0491728817802_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VD9G/you-want-to-know">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3107Z/the-promise-of-that-day">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">One day, Hitoyoshi is compelled to adopt a puppy that was left in front of<br>his home. However, the maid has a childhood trauma involving dogs. Watching the two interact,<br>the maid soon sees the world in a new light, even wishing to be "normal"<br>herself.</p>
+<p align="center">Unaware that FUG agent Viole is actually Bam, Endorsi Jahad attempts to capture him. Meanwhile,<br>Team Shibisu launches a surprise attack on the hotel where Team FUG is staying and<br>Wangnan and Team Khun face off against Chang and Quaetro.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (German Dub) - Episode 2 - Distress</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Spanish Dub) - Episode 15 - The Promise of That Day</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/25a7782f8b000cfe552766a51a2336371728737910_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/93b78a5fdb71474727367d53e81ee0491728817802_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG83W/distress">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK2X1/the-promise-of-that-day">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ever since the strange phenomena occurred with his eye, Yukio decides to investigate the nature<br>of the power that has manifested. He puts his own life on the line as<br>he becomes devoted to the dangerous training…</p>
+<p align="center">Unaware that FUG agent Viole is actually Bam, Endorsi Jahad attempts to capture him. Meanwhile,<br>Team Shibisu launches a surprise attack on the hotel where Team FUG is staying and<br>Wangnan and Team Khun face off against Chang and Quaetro.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (French Dub) - Episode 2 - Distress</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Russian Dub) - Episode 15 - The Promise of That Day</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/25a7782f8b000cfe552766a51a2336371728737910_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/93b78a5fdb71474727367d53e81ee0491728817802_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJEPQ/distress">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQME1/the-promise-of-that-day">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ever since the strange phenomena occurred with his eye, Yukio decides to investigate the nature<br>of the power that has manifested. He puts his own life on the line as<br>he becomes devoted to the dangerous training…</p>
+<p align="center">Unaware that FUG agent Viole is actually Bam, Endorsi Jahad attempts to capture him. Meanwhile,<br>Team Shibisu launches a surprise attack on the hotel where Team FUG is staying and<br>Wangnan and Team Khun face off against Chang and Quaetro.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (English Dub) - Episode 1 - Ambition</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Hindi Dub) - Episode 15 - The Promise of That Day</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6db36f32bbe5d291610f3301d80e34e51728142948_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/93b78a5fdb71474727367d53e81ee0491728817802_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK234/ambition">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNVXW/the-promise-of-that-day">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Despite the success in taking control of the Far East Laboratory, the Illuminati remain a<br>major threat. The Knights of the True Cross repeatedly hold discussions among the higher ranks<br>to create countermeasures. Meanwhile, Rin and the other students are informed that the Exorcism Certification<br>Exams will now be held sooner than planned. After the events in Shimane, Suguro struggles<br>with the fact that he's lost sight of the reason for becoming an exorcist. However,<br>Arch Knight Lightning is appointed as a new instructor at the Exorcist Cram School...</p>
+<p align="center">Unaware that FUG agent Viole is actually Bam, Endorsi Jahad attempts to capture him. Meanwhile,<br>Team Shibisu launches a surprise attack on the hotel where Team FUG is staying and<br>Wangnan and Team Khun face off against Chang and Quaetro.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (English Dub) - Episode 2 - The Demon Lord and His Vassals</h3></th>
+<th><h3 align="center">Tower of God Season 2 (French Dub) - Episode 14 - Meeting the Traveler</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1d47b56f288eb28a410651a311d43c371729326772_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/beeef4fb73787b1de32ad35d04d07afc1728211893_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN24V/the-demon-lord-and-his-vassals">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXQJP/meeting-the-traveler">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Veltol learns of his former vassal Marcus’s betrayal firsthand. Meanwhile, Machina shows Veltol around the<br>city. While Veltol struggles to adapt to the completely altered world of the future, Machina<br>introduces him to someone.</p>
+<p align="center">Workshop Manager Io announces a game in which all participants will compete for a spot<br>on the floating ship. As each team prepares for the start of the game, Viole<br>rescues a Traveller being chased by a security robot in a back alley.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (Portuguese Dub) - Episode 1 - Cyberpunk City Shinjuku</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 27 - The Uncompromising Gatekeeper</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6a622c9db7d9ff150d2a32351c021c671728746565_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3fc35d572a3ba5245a893e6c8fe6fea91729388744_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXQZK/cyberpunk-city-shinjuku">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVX42/the-uncompromising-gatekeeper">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Long ago, Demon Lord Veltol was defeated in battle by the Hero, but thanks to<br>his reincarnation magic, he has returned after 500 years. Veltol is keen to resume his<br>world domination once more, but his vassal, Machina—one of the Six Dark Peers—reveals an unexpected<br>truth.</p>
+<p align="center">Sunraku and his pals make it into the Divinity-era workshop and retrieve the magic operations<br>unit, but Pencilgon and Oikatzo have a score to settle with him before the quest<br>proceeds any further.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (Spanish Dub) - Episode 1 - Cyberpunk City Shinjuku</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6a622c9db7d9ff150d2a32351c021c671728746565_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73M9Z/cyberpunk-city-shinjuku">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9V43/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Long ago, Demon Lord Veltol was defeated in battle by the Hero, but thanks to<br>his reincarnation magic, he has returned after 500 years. Veltol is keen to resume his<br>world domination once more, but his vassal, Machina—one of the Six Dark Peers—reveals an unexpected<br>truth.</p>
+<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (French Dub) - Episode 1 - Cyberpunk City Shinjuku</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese DUb) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6a622c9db7d9ff150d2a32351c021c671728746565_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ4N4/cyberpunk-city-shinjuku">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N9Z0/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Long ago, Demon Lord Veltol was defeated in battle by the Hero, but thanks to<br>his reincarnation magic, he has returned after 500 years. Veltol is keen to resume his<br>world domination once more, but his vassal, Machina—one of the Six Dark Peers—reveals an unexpected<br>truth.</p>
+<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Lord, Retry! R (English Dub) - Episode 4 - ReCruit</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (German Dub) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/45cf65373d553d7c76dcbc5f72b29ab11729326623_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N9DJ/recruit">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NG5M/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">News of Kunai's exploits reaches other nations around the world. How will they respond?</p>
+<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Lord, Retry! R (Hindi Dub) - Episode 3 - ReCycle</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/511cc921d393d3b66bebb675b2f420d11728717093_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQM8K/recycle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXQ3P/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kunai heads to the town of Rookie to farm for magical items in the Prison<br>Labyrinth there. He's accompanied by Mikan and Yukikaze, and sparks are sure to fly.</p>
+<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Lord, Retry! R (Tamil Dub) - Episode 3 - ReCycle</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/511cc921d393d3b66bebb675b2f420d11728717093_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNV44/recycle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73MWK/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kunai heads to the town of Rookie to farm for magical items in the Prison<br>Labyrinth there. He's accompanied by Mikan and Yukikaze, and sparks are sure to fly.</p>
+<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Lord, Retry! R (Telugu Dub) - Episode 3 - ReCycle</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Tamil Dub) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/511cc921d393d3b66bebb675b2f420d11728717093_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9VJ4/recycle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ4XN/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kunai heads to the town of Rookie to farm for magical items in the Prison<br>Labyrinth there. He's accompanied by Mikan and Yukikaze, and sparks are sure to fly.</p>
+<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BLUE LOCK 2nd Season (English Dub) - Episode 27 - The World You Feel</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Telugu Dub) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e23ae24be4332922cc83c1221c23d7991729326715_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/2/2024</td>
+<td align="center">11/3/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z3W9/the-world-you-feel">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9XWN/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seeing how incompatible Rin and Shidou are, Isagi hopes to take advantage of it. However,<br>his physical abilities are not enough to get him where he needs to be. Then,<br>Hiori suggests that Isagi does the thinking "on reflex."</p>
+<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
 </td>
 </tr>
 </table>
