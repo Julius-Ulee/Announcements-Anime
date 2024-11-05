@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 4, 2024, 7:28:32 PM</em></p>
+<p align="center"><em>Updated on: Nov 5, 2024, 8:04:38 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2 (German Dub) - Episode 15 - The Image of a Lord</h3></th>
+<th><h3 align="center">Natsume's Book of Friends Season 7 (English Dub) - Episode 3 - Tookanya</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5d88690cec18906388972336115acff21728815005_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eb91887f32d210be696bbf71505baef11729520281_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z373/the-image-of-a-lord">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJE2V/tookanya">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ars and his retinue wrap up negotiations with the neighboring provinces, and upon their return<br>home, Lord Couran gives Ars his most important and most dangerous mission to date... Does<br>he have what it takes to face it?</p>
+<p align="center">Natsume is caught up in a mysterious game between youkai and man.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (English Dub) - Episode 15 - The Howling Earth</h3></th>
+<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (English Dub) - Episode 2 - Roar of Revolution</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0e57c144f30d834b384d0a242c2181321729388707_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c108e58d41951ea0ea7155d0c685a82a1729521836_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG841/the-howling-earth">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK59D/roar-of-revolution">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When all five orbs are broken, something unexpected happens: The Wood Dragon God, Aldoron, is<br>revived. It also activates God Seeds, who start attacking Natsu and the others by becoming<br>the person who they consider to be the strongest.</p>
+<p align="center">Hajime catches wind of conflict brewing between the empire and the rabbit beastmen.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (German Dub) - Episode 13 - Scarlet Showdown</h3></th>
+<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (Portuguese Dub) - Episode 1 - Haulias Assemble</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1967495185617fd0f5bacbf1be9903e01727599001_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1d89d8c0020ecae239502f44e57580691728916640_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VDGG/scarlet-showdown">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWGQX/haulias-assemble">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsu and Happy find out that Touka is actually a cat, and she has mistaken<br>Happy as Natsu. Meanwhile, Laxus unleashes his new skill, Red Lightning, against Erza. Now it's<br>down to two orbs, but when Happy throws an orb at the White Mage...</p>
+<p align="center">With the Heiligh Kingdom heavily damaged, Princess Liliana travels to the Hoelscher Empire to request<br>their aid. On their way, Hajime spots Haulia tribe members fighting imperial soldiers. The tribe<br>members bring news of a coming invasion.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">MF GHOST Season 2 (English Dub) - Episode 15 - The Relay Straight Yin-Yang</h3></th>
+<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (Spanish Dub) - Episode 1 - Haulias Assemble</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d442a12c3d2c538772fdba0aa7578ec81729432868_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1d89d8c0020ecae239502f44e57580691728916640_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN27E/the-relay-straight-yin-yang">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG81Z/haulias-assemble">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Katagiri Kanata drives his Toyota 86 GT remarkably fast, even though he lacks grip on<br>the wet road, and overtakes several more powerful cars. Ikeda praises Kanata's precise driving technique<br>and his experience on European racetracks, which help him under these conditions.</p>
+<p align="center">With the Heiligh Kingdom heavily damaged, Princess Liliana travels to the Hoelscher Empire to request<br>their aid. On their way, Hajime spots Haulia tribe members fighting imperial soldiers. The tribe<br>members bring news of a coming invasion.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">MF GHOST Season 2 (Portuguese Dub) - Episode 14 - The 4x4 Attack</h3></th>
+<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions Season 2 (German Dub) - Episode 15 - The Case of the Shibuya Apocalypse Serial Murders (Part 2)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/108675fb6dd4709a396439790c3b3a031728833170_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3746193d3bdddfb79531895dd1f82ed21728910512_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9XDN/the-4x4-attack">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQMW1/the-case-of-the-shibuya-apocalypse-serial-murders-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On the wet track, Kanata Katagiri impresses with his driving skills. Despite difficult weather conditions,<br>he remains steady in the race, while his competitors struggle with the weather.</p>
+<p align="center">There's been another murder in Shibuya. Shocked by the death, the victim's teammate runs. Ron<br>and Toto race to catch him and find more information on the culprit picking off<br>the hacker team. But the more they find, the more complicated things become.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (English Dub) - Episode 16 - The 25th Bam</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (French Dub) - Episode 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b0c69d2a52954ee9db33f04f6341b891729422215_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a06c520d443ac6c657fdd23930288a461730743878_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NGEM/the-25th-bam">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVQ3J">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Team Shibisu arrives to confront FUG member Jue Viole Grace. In order to prevent his<br>former teammates from discovering that he is the 25th Bam, Viole takes on Team Shibisu.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Portuguese Dub) - Episode 15 - The Promise of That Day</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (German Dub) - Episode 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/93b78a5fdb71474727367d53e81ee0491728817802_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/13483a0a165482ad6a32fefeca2075b11730743898_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z3P3/the-promise-of-that-day">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG4ME">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Unaware that FUG agent Viole is actually Bam, Endorsi Jahad attempts to capture him. Meanwhile,<br>Team Shibisu launches a surprise attack on the hotel where Team FUG is staying and<br>Wangnan and Team Khun face off against Chang and Quaetro.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (German Dub) - Episode 15 - The Promise of That Day</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (Spanish Dub) - Episode 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/93b78a5fdb71474727367d53e81ee0491728817802_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a06c520d443ac6c657fdd23930288a461730743843_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3107Z/the-promise-of-that-day">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKZ7X">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Unaware that FUG agent Viole is actually Bam, Endorsi Jahad attempts to capture him. Meanwhile,<br>Team Shibisu launches a surprise attack on the hotel where Team FUG is staying and<br>Wangnan and Team Khun face off against Chang and Quaetro.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Spanish Dub) - Episode 15 - The Promise of That Day</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (Portuguese Dub) - Episode 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/93b78a5fdb71474727367d53e81ee0491728817802_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6ac2db7939c7c87a4c1b12276cffc2871730743861_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK2X1/the-promise-of-that-day">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN7GZ">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Unaware that FUG agent Viole is actually Bam, Endorsi Jahad attempts to capture him. Meanwhile,<br>Team Shibisu launches a surprise attack on the hotel where Team FUG is staying and<br>Wangnan and Team Khun face off against Chang and Quaetro.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Russian Dub) - Episode 15 - The Promise of That Day</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 - Episode 5 - Heroes and Champions</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/93b78a5fdb71474727367d53e81ee0491728817802_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0d66a50089e8113d51972fab275405e41730742192_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQME1/the-promise-of-that-day">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJK31/heroes-and-champions">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Unaware that FUG agent Viole is actually Bam, Endorsi Jahad attempts to capture him. Meanwhile,<br>Team Shibisu launches a surprise attack on the hotel where Team FUG is staying and<br>Wangnan and Team Khun face off against Chang and Quaetro.</p>
+<p align="center">Liselotte had to make an emergency landing with her airship due to a dragon and<br>decides to continue her journey by land. At that moment, the hero Hiroaki offers to<br>accompany her.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Hindi Dub) - Episode 15 - The Promise of That Day</h3></th>
+<th><h3 align="center">Seirei Gensouki: Spirit Chronicles Season 2 (English Dub) - Episode 5 - Heroes and Champions</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/93b78a5fdb71474727367d53e81ee0491728817802_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/85965b88bf3092a32dbdc741c7659ae21730742243_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNVXW/the-promise-of-that-day">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXJ1G/heroes-and-champions">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Unaware that FUG agent Viole is actually Bam, Endorsi Jahad attempts to capture him. Meanwhile,<br>Team Shibisu launches a surprise attack on the hotel where Team FUG is staying and<br>Wangnan and Team Khun face off against Chang and Quaetro.</p>
+<p align="center">Liselotte had to make an emergency landing with her airship due to a dragon and<br>decides to continue her journey by land. At that moment, the hero Hiroaki offers to<br>accompany her.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (French Dub) - Episode 14 - Meeting the Traveler</h3></th>
+<th><h3 align="center">Natsume's Book of Friends Season 7 - Episode 5 - Chobi's Treasure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/beeef4fb73787b1de32ad35d04d07afc1728211893_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ecb42d78c08a1fe16a755de295a894fa1730742107_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXQJP/meeting-the-traveler">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXJ93/chobis-treasure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Workshop Manager Io announces a game in which all participants will compete for a spot<br>on the floating ship. As each team prepares for the start of the game, Viole<br>rescues a Traveller being chased by a security robot in a back alley.</p>
+<p align="center">Chobi is depressed because his favorite comb broke. Meanwhile, Natsume sees a white dragon in<br>the sky...</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 27 - The Uncompromising Gatekeeper</h3></th>
+<th><h3 align="center">The Most Notorious "Talker" Runs the World's Greatest Clan - Episode 6 - The Price of Honor</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3fc35d572a3ba5245a893e6c8fe6fea91729388744_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7ac11ed23d0c55e95f67128a9da75e571730732222_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVX42/the-uncompromising-gatekeeper">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31K8Q/the-price-of-honor">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku and his pals make it into the Divinity-era workshop and retrieve the magic operations<br>unit, but Pencilgon and Oikatzo have a score to settle with him before the quest<br>proceeds any further.</p>
+<p align="center">Noel is having trouble finding new party members that meet his standards, but things take<br>a dangerous turn when someone comes looking for him instead.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
+<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 - Episode 4 - The Empire VS the Strongest Rabbits</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ee1496f6c63d95e9dc4ea1b5d0cd251f1730731221_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9V43/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V5P4/the-empire-vs-the-strongest-rabbits">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
+<p align="center">The party to celebrate Liliana's visit to the imperial capital and announce her engagement to<br>the imperial crown prince begins. However, the Haulia Tribe has a whole different event planned<br>for the night.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese DUb) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
+<th><h3 align="center">Yakuza Fiancé: Raise wa Tanin ga Ii - Episode 5 - Princess Tsubaki</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/979b85aa33450806c13a4438ffdbd1331730731171_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N9Z0/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9D0J/princess-tsubaki">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
+<p align="center">Yoshino's cousin Tsubaki is moving from Kyoto to Yokohama, which leads to a three-person outing<br>with the two of them and Kirishima.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (German Dub) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
+<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions Season 2 - Episode 18 - The Case of the Midsummer Beachside Stand Drowning (Part 2)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/82b90ccebe7c6a0418975eb3b780f39f1730731137_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NG5M/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG4MD/the-case-of-the-midsummer-beachside-stand-drowning-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
+<p align="center">Ron and the others interview witnesses, but everyone has an alibi for the surfer's estimated<br>time of death. They can't find any concrete evidence that indicates who committed the murder.<br>Then Mofu's usual clumsiness leads to an unexpected clue.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
+<th><h3 align="center">Nina the Starry Bride (Telugu Dub) - Episode 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cf485803e46b5dc9bd3e9c7a2b8e87ed1730731109_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXQ3P/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9W9K">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
+<th><h3 align="center">Nina the Starry Bride (Hindi Dub) - Episode 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cf485803e46b5dc9bd3e9c7a2b8e87ed1730731065_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73MWK/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK40W">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Tamil Dub) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
+<th><h3 align="center">Nina the Starry Bride (Tamil Dub) - Episode 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cf485803e46b5dc9bd3e9c7a2b8e87ed1730731088_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ4XN/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKWKZ">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Telugu Dub) - Episode 26 - Half-Naked Birdman and the Gang in Golem Paradise</h3></th>
+<th><h3 align="center">Nina the Starry Bride (German Dub) - Episode 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad119352471f1739ff61738c7158ab1d1728806781_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8d5e7a4a4a240540f2b4b3a7b2a0080e1730731017_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/3/2024</td>
+<td align="center">11/4/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9XWN/half-naked-birdman-and-the-gang-in-golem-paradise">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQE17">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To turn Beelac into an ancestral craftswoman and to get the futuristic toys in Inventoria<br>up and running, Sunraku needs a magic control unit.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
