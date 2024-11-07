@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 6, 2024, 7:27:26 PM</em></p>
+<p align="center"><em>Updated on: Nov 7, 2024, 8:04:46 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized Season 2 (Japanese Audio) - Episode 6 - Rescue Mission</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (Portuguese Dub) - Episode 54 - Operation: Take Back the Government Office</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/11041fe23685bbaf10fee243e47b22021730847136_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3cb8278f87a589f18fedcdcfdd36ec341729689179_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXWW1/rescue-mission">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U310J1/operation-take-back-the-government-office">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vanessa and Edward seek out the dragon to ask for his help. They want to<br>assist Rosetta, who has entrenched herself in the palace basement after a dispute with Vanessa.</p>
+<p align="center">Subaru and his comrades find themselves in a dire situation after the city was taken<br>over by the Sin Archbishops. Now, they are devising a plan to first reclaim the<br>city hall...</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized Season 2 - Episode 7 - The Great Mage Has Risen!</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (Spanish Dub) - Episode 54 - Operation: Take Back the Government Office</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1ade8254f33074e1b25e93957924a3481730843317_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3cb8278f87a589f18fedcdcfdd36ec341729689179_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG904/the-great-mage-has-risen">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK210/operation-take-back-the-government-office">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The group encounters the great mage Pravas in the basement of the palace. He seems<br>to know a lot about the dragon's identity.</p>
+<p align="center">Subaru and his comrades find themselves in a dire situation after the city was taken<br>over by the Sin Archbishops. Now, they are devising a plan to first reclaim the<br>city hall...</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (Thai Dub) - Episode 12 - Episode 12</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (English Dub) - Episode 54 - Operation: Take Back the Government Office</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e1becded625650ebfdc029c20b3b9f4f1711195852_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3cb8278f87a589f18fedcdcfdd36ec341729689179_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG88Z/episode-12">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX42N/operation-take-back-the-government-office">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Satou and his friends return to Arnulus among countless corpses of imperial soldiers and monsters.<br>Satou encounters the Abyss King in a hopeless situation. Using the Ring Princesses' power he<br>challenges the Abyss King in a confrontation to save Arnulus!</p>
+<p align="center">Subaru and his comrades find themselves in a dire situation after the city was taken<br>over by the Sin Archbishops. Now, they are devising a plan to first reclaim the<br>city hall...</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (Thai Dub) - Episode 11 - Episode 11</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (German Dub) - Episode 53 - Gorgeous Tiger</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1e4c8c4c581db5261bc30f4b1f4e85881710591038_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8ed66f5ee9c4bb172bd8f3a6676d9d471729082569_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN220/episode-11">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQM9P/gorgeous-tiger">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Satou and his friends have arrived in Satou's world with no way to return to<br>Arnulus. Satou suffers from being unable to fulfill his duty as Ring King when Amber,<br>the Ring Princess of Idanokan, the Land of Earth, appears before him.</p>
+<p align="center">After the incident in the main square, Priestella has fallen into chaos and Emilia has<br>been kidnapped. Now it's up to Subaru and the others to rescue Emilia and the<br>city.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (Thai Dub) - Episode 10 - Episode 10</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (French Dub) - Episode 52 - A Showdown of Fire and Ice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e426c51e066b975d6338281fe9359f2e1709991443_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/651fe49f7b3bd3038b48b0e7d9626f3e1728453898_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9XX9/episode-10">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NGZQ/a-showdown-of-fire-and-ice">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Satou and his friends head to Idanokan, the Land of Earth. However, having previously been<br>destroyed in a battle with the Abyss King, the dwarves have abandoned the city. As<br>the group searches for the Ring Princess that which they feared most occurs.</p>
+<p align="center">Subaru desperately tries to fend off the attack from Sin Archbishop Sirius. But then, other<br>Archbishops appear...</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (Thai Dub) - Episode 9 - Episode 9</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (French Dub) - Episode 51 - Theatrical Malice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b12a1a5e7577ec657849e69d6b05bea1709360156_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1b04df5f2295ae4159387e526c99fd071727876707_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +200,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73MZ1/episode-9">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVK9WM/theatrical-malice">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Peace has returned to Maasa and the gang are able to take a short break.<br>Satou and Hime go on a date alone, but Nefritis, Granart, and Saphir secretly follow<br>them. Satou and Hime are enjoying their date, but then they recall Alabaster's prior words.</p>
+<p align="center">A year has passed since the battle at the Sanctuary, and Subaru has been spending<br>fulfilling days united with Emilia's camp. However, his peaceful everyday life ends with the arrival<br>of a single letter.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (Thai Dub) - Episode 8 - Episode 8</h3></th>
+<th><h3 align="center">Alya Sometimes Hides Her Feelings in Russian (French Dub) - Episode 12 - Chin Up and Face Forward</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/26775052f59e2e231a04e0b740c932a41708767724_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b6d7c6461afe2ac39a95cb67e70302221726655832_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +234,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NGPD/episode-8">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P9J1/chin-up-and-face-forward">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The oracle who's secretly running Maasa the Land of Water offers some advice to Marse<br>who failed in his mission. Satou and Sluder prepare to repel the approaching Abyss King's<br>horde. As Satou struggles, a certain person suddenly stands before him.</p>
+<p align="center">The only thing standing between the student body and summer break is the closing ceremony,<br>where Alya and Yuki will formally address their schoolmates and begin their official candidacy for<br>student council president.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (Thai Dub) - Episode 7 - Episode 7</h3></th>
+<th><h3 align="center">Girls Band Cry - Episode 13 - Rock 'n' Roll Will Never Stop</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0bcde4673a75065d9f6175f1f3fd95401708157376_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/23d847d843803a373ee1ed5459e77f591730913008_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +268,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVK9G9/episode-7">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK51P/rock-n-roll-will-never-stop">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Satou visits Maasa, the Land of Water, and unexpectedly ends up marrying Saphir, the Ring<br>Princess. Saphir believes she needs the Ring King's power to save her homeland from being<br>controlled by the Gisaras Empire.</p>
+<p align="center">In the battle of the bands against Diamond Dust, Nina's band's ticket sales have not<br>even reached half of their sales projection. Meanwhile, Diamond Dust sold out their tickets. The<br>harsh reality comes crashing down. Even then, Nina and the band stay true themselves and<br>begin to play their song.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (Thai Dub) - Episode 6 - Episode 6</h3></th>
+<th><h3 align="center">Girls Band Cry - Episode 12 - The Sky Darkens Again</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6834f0729e6c342dc145021b5d6cc12f1707550475_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0ad5982dfdc18c4d9cb8e40c8b889e0c1730912525_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +302,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N9KK/episode-6">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK28M/the-sky-darkens-again">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Satou trains with Marse, hoping to beat Granart in the sword duel to court her.<br>Satou is torn between facing her fairly to look cool for Hime, and prioritizing his<br>duty as the Ring King. However, the Abyss King's evil clutches are approaching Needakitta.</p>
+<p align="center">Nina and the others officially sign with a talent agency. The five of them start<br>writing their new song when Diamond Dust challenges them to a battle of the bands.<br>Diamond Dust has doubled their follower count from before. Should they accept the challenge or<br>not? The members find themselves split on this decision.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (Thai Dub) - Episode 5 - Episode 5</h3></th>
+<th><h3 align="center">Girls Band Cry - Episode 11 - The Center of the World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/565f5dac5c1ee23f059916d88281b7141706950279_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8fe06fae1ace441b1fef39f551d494431730912228_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +336,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9VK2/episode-5">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U310ZD/the-center-of-the-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Satou and company continue their journey for the next ring. Hime becomes jealous of Satou<br>taking care of Nephritis. Soon after, a large caravan appears before them which is the<br>Land of Fire, Needakitta. They ask for an audience with the princess, but...</p>
+<p align="center">Nina and the others arrive at an outdoor music festival. It's a huge venue, and<br>the large stage gets them pumped. Diamond Dust takes the stage and they've gotten better<br>since their last show. Nina and the band absolutely cannot lose. They're going to leave<br>their mark. It's the start of their performance of a lifetime.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (Thai Dub) - Episode 4 - Episode 4</h3></th>
+<th><h3 align="center">Girls Band Cry - Episode 10 - Wandervogel</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c5233c506f5031dbabc8d08ca64b4ec91706336727_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b5825ef28662296a2437149e1715dc7a1730911807_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +370,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVX10/episode-4">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P9JG/wandervogel">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the belief that the Abyss King's armies are closing in, Alabaster suggests they postpone<br>Satou's marriage to Nefritis and head to another country. As they're departing an Abyss King's<br>knight makes it past the barrier and attacks Romca.</p>
+<p align="center">Nina's parents come to visit her from her hometown as she continues to dedicate herself<br>to the band. Nina runs away, but she reluctantly returns to her home after everyone<br>convinces her. She tries to talk to her father, but as always, he doesn't see<br>things from her perspective. The next day, her father takes her to her old high<br>school.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (Thai Dub) - Episode 3 - Episode 3</h3></th>
+<th><h3 align="center">Girls Band Cry - Episode 9 - The Waning Moon Was Out</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/76446498559c043f4a9682d47bc93fc11705726570_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6bf3ec45d38563c7decac7a8c67388051730911867_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +404,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX4QP/episode-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG8JZ/the-waning-moon-was-out">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Satou and the others have arrived in the elven homeland of Romca, the Land of<br>Wind where he plans to marry Nefritis, princess of the Ring of Wind. Due to<br>her shy nature, Nefritis vehemently refuses her marriage to Satou.</p>
+<p align="center">Tomo is scared to say how she feels due to traumatizing past experiences and is<br>unable to truthfully express herself to the other band members. Nina is currently learning the<br>guitar and asks Tomo for her assessment, and Tomo gives her harsh feedback. However, when<br>Tomo sees that Nina isn't giving up, it gives her the confidence to change.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (Thai Dub) - Episode 2 - Episode 2</h3></th>
+<th><h3 align="center">Girls Band Cry - Episode 8 - If You Were to Cry</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/49eed8e2bfbaa3edac765b5608e9ed131705146124_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fd896e105ba62e8eed2193acb17654ec1730911283_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +438,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNVZ8/episode-2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VDQ8/if-you-were-to-cry">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Satou has married Hime and become the legendary Ring King who will save Arnulus from<br>the threat of the Abyss King. They struggle to advance their relationship, but there's no<br>time to enjoy their newlywed life as the Abyss King's pursuers close in.</p>
+<p align="center">After the live show, Nina and Momoka's fight continues to heat up as they express<br>how they feel. Nina abandons all her escape routes to seriously pursue music professionally. Tomo<br>says she'll quit if Nina and Momoka's rocky relationship continues. Then as Nina starts her<br>first day of her part-time job, Momoka shows up.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings (Thai Dub) - Episode 1 - Episode 1</h3></th>
+<th><h3 align="center">Girls Band Cry - Episode 7 - I'll Give It a Name</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e4361b7d4b379762219517d581f9ccd51704532004_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/205ca6ed85f1a3aa38b19d018f6c2b461730911328_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -472,13 +472,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQMNE/episode-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK51D/ill-give-it-a-name">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Satou, an ordinary male student, was unable to confess his love to his childhood friend,<br>Hime, but one day she suddenly announces she's moving far away. Satou chases after Hime<br>and follows her through a gate of light into another world known as Arnulus!</p>
+<p align="center">Tomo and Rupa join Nina, Subaru, and Momoka, making a five-member band. Momoka informs the<br>rest of an upcoming show they could play, but the five members have such different<br>personalities that it doesn't look like they'd ever come together. Nina and Momoka have different<br>feelings about the band, and they begin the show while their relationship remains strained.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I'll Become a Villainess Who Goes Down in History (English Dub) - Episode 4 - The Villainess and the Flower Field</h3></th>
+<th><h3 align="center">Girls Band Cry - Episode 6 - Hymn of the Stray</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4cda0c0de63ad4188b2dfb9fe5ca049d1729599681_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d7dfe492f42f80eda20ac0e3856174ea1730911526_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2024</td>
+<td align="center">11/6/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN2K0/the-villainess-and-the-flower-field">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ44G/hymn-of-the-stray">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Recognizing Alicia's talents, Luke asks her to become the watcher of Liz, who is likely<br>the Saint. Alicia sees it as a chance to become the heroine's rival and agrees.<br>She enters the Academy as a special exception, but finds herself in enemy territory...</p>
+<p align="center">The three girls practice to level up as a band. Nina is obsessed with beating<br>Diamond Dust, and researches ways to increase their popularity, but she fails to find anything<br>good. That's when Tomo and Rupa approach Nina after having been to see the three<br>girls perform the other day.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I'll Become a Villainess Who Goes Down in History (German Dub) - Episode 3 - The Villainess and Trespassing</h3></th>
+<th><h3 align="center">Girls Band Cry - Episode 5 - Rising Vocals</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f6d7cb2af50f15fff1829df4807966ff1728998047_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/944b13ef71979235bb8554116935d6781730910789_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2024</td>
+<td align="center">11/6/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NG7D/the-villainess-and-trespassing">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73MM1/rising-vocals">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Alicia sets off on a major exploration at the magic school. There, she encounters her<br>fiercest rival: the heroine!</p>
+<p align="center">A live house that Momoka used to play at asked the girls if they wanted<br>to play a show, and they agree to have their first battle of the bands.<br>As they struggle to meet the ticket sale quota, Momoka gets tickets to a show<br>for her former band.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I'll Become a Villainess Who Goes Down in History (French Dub) - Episode 3 - The Villainess and Trespassing</h3></th>
+<th><h3 align="center">Girls Band Cry - Episode 4 - Appreciation (Surprise)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f6d7cb2af50f15fff1829df4807966ff1728998047_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/53ad148c461ef3e9a36e22aa7360c9991730909969_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2024</td>
+<td align="center">11/6/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXQK4/the-villainess-and-trespassing">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NGGD/appreciation-surprise">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Alicia sets off on a major exploration at the magic school. There, she encounters her<br>fiercest rival: the heroine!</p>
+<p align="center">Subaru's grandmother drops by Tokyo out of the blue. Subaru doesn't want to pursue acting.<br>She wants to be in a band and play music. Now that she's come this<br>far, she needs to say it clearly. But when the moment comes, she finds herself<br>putting on a fake smile and playing the good granddaughter.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I'll Become a Villainess Who Goes Down in History (Hindi Dub) - Episode 3 - The Villainess and Trespassing</h3></th>
+<th><h3 align="center">Girls Band Cry - Episode 3 - Misaligned Questions and Answers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f6d7cb2af50f15fff1829df4807966ff1728998047_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e261cbb5d58b8b117fa7bc2ecda3bf811730909687_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2024</td>
+<td align="center">11/6/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73MX1/the-villainess-and-trespassing">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVK999/misaligned-questions-and-answers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Alicia sets off on a major exploration at the magic school. There, she encounters her<br>fiercest rival: the heroine!</p>
+<p align="center">As always, Nina's having a hard time focusing on her studies, but she finds herself<br>having to go to Subaru's school to deliver Subaru's phone. After having a heart to<br>heart, they start opening up to each other. Soon after, the trio set out to<br>put on their first live show as a band.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I'll Become a Villainess Who Goes Down in History (Tamil Dub) - Episode 3 - The Villainess and Trespassing</h3></th>
+<th><h3 align="center">Girls Band Cry - Episode 2 - Three Nocturnal Creatures</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f6d7cb2af50f15fff1829df4807966ff1728998047_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c9213fa9d1972a98d085af85b90767341730909667_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2024</td>
+<td align="center">11/6/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ4KG/the-villainess-and-trespassing">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N99K/three-nocturnal-creatures">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Alicia sets off on a major exploration at the magic school. There, she encounters her<br>fiercest rival: the heroine!</p>
+<p align="center">Nina starts to cram for school. She promised her parents she would try to get<br>into college. However, she's having a hard time adjusting to her new cram school life,<br>finding it difficult to get into her studies. As she's struggling, she receives a text<br>from Momoka. When Nina visits Momoka's house, she is introduced to a girl her age.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I'll Become a Villainess Who Goes Down in History (Telugu Dub) - Episode 3 - The Villainess and Trespassing</h3></th>
+<th><h3 align="center">Girls Band Cry - Episode 1 - Tokyo Heave-Ho</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f6d7cb2af50f15fff1829df4807966ff1728998047_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f136c14c1b514d6f57ab2f3256817c241730909295_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2024</td>
+<td align="center">11/6/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9X59/the-villainess-and-trespassing">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9VV2/tokyo-heave-ho">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Alicia sets off on a major exploration at the magic school. There, she encounters her<br>fiercest rival: the heroine!</p>
+<p align="center">In March, at the age of 17, Nina drops out of high school and moves<br>to Tokyo on her own. She's completely lost in the big city. She was encouraged<br>to come here after hearing a certain song she found online. The day she arrives,<br>Nina meets the street musician who plays that song.</p>
 </td>
 </tr>
 </table>
