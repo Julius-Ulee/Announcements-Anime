@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 7, 2024, 8:04:46 AM</em></p>
+<p align="center"><em>Updated on: Nov 7, 2024, 7:26:33 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,278 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">True Beauty (English Dub) - Episode 12 - Goddess Livestream 2</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f38a553d9bc878212c07378ccf5764841729700946_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG82J/goddess-livestream-2">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The final mission of the goddess election turned into a warzone. In her weakest moment,<br>Jugyeong is getting backstabbed by her one of her dearest friend who teamed up with<br>her former bully Semi to expose her bare face. But is this really the plan?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">True Beauty (Portuguese Dub) - Episode 11 - Goddess Livestream</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/58f3ec3c3d2b72e9f4a2a360ecc3a27e1729093503_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN2V1/goddess-livestream">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The day has come: it‘s time for the final mission! The goddess candidates have to<br>gather votes during a livestream. Disheartened from the rumors and the recent dating news, Jugyeong<br>decides to quit, but her friends try everything to change her mind.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">True Beauty (French Dub) - Episode 11 - Goddess Livestream</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/58f3ec3c3d2b72e9f4a2a360ecc3a27e1729093503_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK5XP/goddess-livestream">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The day has come: it‘s time for the final mission! The goddess candidates have to<br>gather votes during a livestream. Disheartened from the rumors and the recent dating news, Jugyeong<br>decides to quit, but her friends try everything to change her mind.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">True Beauty (Spanish Dub) - Episode 11 - Goddess Livestream</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/58f3ec3c3d2b72e9f4a2a360ecc3a27e1729093503_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VDE1/goddess-livestream">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The day has come: it‘s time for the final mission! The goddess candidates have to<br>gather votes during a livestream. Disheartened from the rumors and the recent dating news, Jugyeong<br>decides to quit, but her friends try everything to change her mind.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">True Beauty (Hindi Dub) - Episode 11 - Goddess Livestream</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/58f3ec3c3d2b72e9f4a2a360ecc3a27e1729093503_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWG4G/goddess-livestream">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The day has come: it‘s time for the final mission! The goddess candidates have to<br>gather votes during a livestream. Disheartened from the rumors and the recent dating news, Jugyeong<br>decides to quit, but her friends try everything to change her mind.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">True Beauty (Tamil Dub) - Episode 11 - Goddess Livestream</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/58f3ec3c3d2b72e9f4a2a360ecc3a27e1729093503_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG8DJ/goddess-livestream">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The day has come: it‘s time for the final mission! The goddess candidates have to<br>gather votes during a livestream. Disheartened from the rumors and the recent dating news, Jugyeong<br>decides to quit, but her friends try everything to change her mind.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">True Beauty (Telugu Dub) - Episode 11 - Goddess Livestream</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/58f3ec3c3d2b72e9f4a2a360ecc3a27e1729093503_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJEXX/goddess-livestream">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The day has come: it‘s time for the final mission! The goddess candidates have to<br>gather votes during a livestream. Disheartened from the rumors and the recent dating news, Jugyeong<br>decides to quit, but her friends try everything to change her mind.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Delico's Nursery (English Dub) - Episode 8 - Thus Spoke Juras</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4d02ed9e40d30ee5c02248155f887dd11729689901_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/6/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ42J/thus-spoke-juras">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After he deduces that the bandaged member of Pendulum, Juras, is a survivor of Nebula<br>Village, Dali seeks out another known survivor in pursuit of a lead.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (Portuguese Dub) - Episode 54 - Operation: Take Back the Government Office</h3></th>
 </tr>
@@ -411,278 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Tomo is scared to say how she feels due to traumatizing past experiences and is<br>unable to truthfully express herself to the other band members. Nina is currently learning the<br>guitar and asks Tomo for her assessment, and Tomo gives her harsh feedback. However, when<br>Tomo sees that Nina isn't giving up, it gives her the confidence to change.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Girls Band Cry - Episode 8 - If You Were to Cry</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fd896e105ba62e8eed2193acb17654ec1730911283_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VDQ8/if-you-were-to-cry">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After the live show, Nina and Momoka's fight continues to heat up as they express<br>how they feel. Nina abandons all her escape routes to seriously pursue music professionally. Tomo<br>says she'll quit if Nina and Momoka's rocky relationship continues. Then as Nina starts her<br>first day of her part-time job, Momoka shows up.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Girls Band Cry - Episode 7 - I'll Give It a Name</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/205ca6ed85f1a3aa38b19d018f6c2b461730911328_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK51D/ill-give-it-a-name">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Tomo and Rupa join Nina, Subaru, and Momoka, making a five-member band. Momoka informs the<br>rest of an upcoming show they could play, but the five members have such different<br>personalities that it doesn't look like they'd ever come together. Nina and Momoka have different<br>feelings about the band, and they begin the show while their relationship remains strained.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Girls Band Cry - Episode 6 - Hymn of the Stray</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d7dfe492f42f80eda20ac0e3856174ea1730911526_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ44G/hymn-of-the-stray">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The three girls practice to level up as a band. Nina is obsessed with beating<br>Diamond Dust, and researches ways to increase their popularity, but she fails to find anything<br>good. That's when Tomo and Rupa approach Nina after having been to see the three<br>girls perform the other day.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Girls Band Cry - Episode 5 - Rising Vocals</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/944b13ef71979235bb8554116935d6781730910789_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73MM1/rising-vocals">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">A live house that Momoka used to play at asked the girls if they wanted<br>to play a show, and they agree to have their first battle of the bands.<br>As they struggle to meet the ticket sale quota, Momoka gets tickets to a show<br>for her former band.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Girls Band Cry - Episode 4 - Appreciation (Surprise)</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/53ad148c461ef3e9a36e22aa7360c9991730909969_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NGGD/appreciation-surprise">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Subaru's grandmother drops by Tokyo out of the blue. Subaru doesn't want to pursue acting.<br>She wants to be in a band and play music. Now that she's come this<br>far, she needs to say it clearly. But when the moment comes, she finds herself<br>putting on a fake smile and playing the good granddaughter.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Girls Band Cry - Episode 3 - Misaligned Questions and Answers</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e261cbb5d58b8b117fa7bc2ecda3bf811730909687_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVK999/misaligned-questions-and-answers">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As always, Nina's having a hard time focusing on her studies, but she finds herself<br>having to go to Subaru's school to deliver Subaru's phone. After having a heart to<br>heart, they start opening up to each other. Soon after, the trio set out to<br>put on their first live show as a band.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Girls Band Cry - Episode 2 - Three Nocturnal Creatures</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c9213fa9d1972a98d085af85b90767341730909667_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N99K/three-nocturnal-creatures">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Nina starts to cram for school. She promised her parents she would try to get<br>into college. However, she's having a hard time adjusting to her new cram school life,<br>finding it difficult to get into her studies. As she's struggling, she receives a text<br>from Momoka. When Nina visits Momoka's house, she is introduced to a girl her age.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Girls Band Cry - Episode 1 - Tokyo Heave-Ho</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f136c14c1b514d6f57ab2f3256817c241730909295_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/6/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9VV2/tokyo-heave-ho">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">In March, at the age of 17, Nina drops out of high school and moves<br>to Tokyo on her own. She's completely lost in the big city. She was encouraged<br>to come here after hearing a certain song she found online. The day she arrives,<br>Nina meets the street musician who plays that song.</p>
 </td>
 </tr>
 </table>
