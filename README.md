@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 8, 2024, 7:27:00 PM</em></p>
+<p align="center"><em>Updated on: Nov 9, 2024, 8:03:00 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,414 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 39 - Moon Girl is Going to Change the World (ft. Amy Reeder) </h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e425432c40fd7f80b56e0f2a9e6fa00e1731107905_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/9/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8N4E9/moon-girl-is-going-to-change-the-world-ft-amy-reeder-">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Leah, LeAlec, and guest host Lena Lemon talk with Amy Reeder, the co-creator of Disney<br>animated show Moon Girl, creator of the comics Amethyst, Rocket Girl, and more, at New<br>York Comic Con. Amy shares her experience watching her comic become an animated show, the<br>responses to Moon Girl and Devil Dinosaur she sees from kids and adults alike, and more. Then,<br>Leah and guest host Alex Lebl share their favorite vampire anime and which story they’d<br>most likely be summoned into.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II (German Dub) - Episode 3 - Clarence and Shirley</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2032393f7afbf1a25b2c1f975d933cc31729264154_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8ND21/clarence-and-shirley">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">LPFM managed to defeat many members of the allied enemy team, but the island continued<br>to sink, drastically decreasing the physical space they could move around in. LLENN and her<br>comrades avoid areas near the sea and whip up a plan to cut across the<br>northeast section of the island where members of the allied team have gathered. Clarence joins<br>the allied team at this time. She suggests splitting the team into smaller groups of<br>two people and launching waves of attacks against LPFM. However, immediately after they launch this<br>plan, she betrays her teammates and attacks them. In addition, Shirley, who left the KKHC<br>to fight alone, begins joining in on the attacks against the allied team!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II (English Dub) - Episode 2 - The Great Freight Car Operation</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6255f59a654ad281ef6ba752add7f40c1728658955_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU730QX/the-great-freight-car-operation">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">SJ3 has finally begun. The battlefield is located on an island surrounded by the sea.<br>The word "UNKNOWN" is written on a small hill in the middle of the island.<br>"Is this 'UNKNOWN' the 'special rule' for this battle?"</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA (Hindi Dub) - Episode 1 - Conspiracy</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c750799082deb6a87ded21b117684ca61728663842_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNEDP/conspiracy">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A giant castle in a mysterious world. Two shady Majin, Gomah and Degesu, watch a<br>monitor. The monitor shows Goku and the others having a fierce battle against Majin Buu.<br>Gomah and Degesu head to Earth to execute a certain conspiracy.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA (Tamil Dub) - Episode 1 - Conspiracy</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c750799082deb6a87ded21b117684ca61728663842_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXV35/conspiracy">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A giant castle in a mysterious world. Two shady Majin, Gomah and Degesu, watch a<br>monitor. The monitor shows Goku and the others having a fierce battle against Majin Buu.<br>Gomah and Degesu head to Earth to execute a certain conspiracy.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA (Telugu Dub) - Episode 1 - Conspiracy</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c750799082deb6a87ded21b117684ca61728663842_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVDPZ/conspiracy">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A giant castle in a mysterious world. Two shady Majin, Gomah and Degesu, watch a<br>monitor. The monitor shows Goku and the others having a fierce battle against Majin Buu.<br>Gomah and Degesu head to Earth to execute a certain conspiracy.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Stories of Girls Who Couldn't Be Magicians - Episode 6 - Everyone but Us Went Home for the Holidays.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2a1e2dcb223a3bcd6d00e6ca1d1c24841731083649_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZPED/everyone-but-us-went-home-for-the-holidays">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The semester is ending, and Ms. Suzuki is still missing in action. When most of<br>their classmates go home for the holidays, Kurumi and Yuzu open up about what magic<br>means to each of them.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">THE iDOLM@STER SHINY COLORS 2nd Season - Episode 6 - Beyond The True Feelings</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fbe2335337210af49eee0f8a8851a30d1731080400_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX7JE/beyond-the-true-feelings">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The idols reflect on their goals and challenges. Noctchill discusses their direction, guided by the<br>producer to follow their hearts. Mano discovers joy in performing, and the girls explore their<br>journeys, hinting at new beginnings through music.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II - Episode 6 - The Offensive and Defensive Battle That Still Has Time</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8c8e239e765afad907616f6b7e7cb9d01731080854_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU738PG/the-offensive-and-defensive-battle-that-still-has-time">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">LLENN and her comrades head to the center of the island, where they find the<br>luxury cruise ship. As the island continues to sink, they must get on board. However,<br>they can’t carelessly approach the vessel as BTRY awaits them onboard.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA - Episode 5 - Panzy</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e8cea564d06dfb3068b59ee81bfa2e4f1731081176_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZGZ0/panzy">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The masked Majin who appeared before Goku and his companions is a young girl named<br>Panzy! While Glorio gives her the cold shoulder, Panzy insists on acting as their guide.<br>The group reaches a suspicious castle!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">True Beauty (Japanese Audio) - Episode 6 - This Too Shall Pass Away</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bf37ed4067d36b3eee3102b868da89f71731072327_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWE7D/this-too-shall-pass-away">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With Suho slowly recovering from his accident, Jugyeong finds out what happened between him and<br>Seojun. But she also has to keep up with her dance mission, which turns out<br>to be harder than anticipated. Luckily, someone steps in to help her out.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">2.5 Dimensional Seduction - Episode 19</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fb2ea95f0249bdb46e861b59c745eb171731072007_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/8/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9V72">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Assassination Classroom Second Season (Tamil Dub) - Episode 17 - Discord Time</h3></th>
 </tr>
@@ -275,414 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">As the party rests in the City of the Dead, Gus warns Will about how<br>dangerous Valacirca is and tells him it's okay to turn back. But Will's mind is<br>made up. All Gus can do is send him on his way with a word<br>of advice...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (Thai Dub) - Episode 6 - A Brief Return Home</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/73499ef0aa5fc3c912ec8734a5fdbf381699693043_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7307P/a-brief-return-home">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Will and his companions set out for the Rust Mountains to fight the dragon Valacirca.<br>On the way, they pass by the City of the Dead, so Will decides to<br>stop and visit his old home.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (Thai Dub) - Episode 5 - The Messenger in the Burial Chamber</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8ca9a4f7d4cf2ce8008c37841fd51cf21699092599_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8ND8N/the-messenger-in-the-burial-chamber">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Following reports of undead sightings in Beast Woods, Will and Ru find an old burial<br>site where they encounter a Herald of Stagnate, god of the undead. It turns out<br>the Herald was using the undead to lure Will there and convey a message to<br>him...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (Thai Dub) - Episode 4 - The Meaning of Courage</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9238ce66379652a7929cfe8b13ccbd211698477655_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKZXN/the-meaning-of-courage">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ru begins his training under Will and Menel. He tells Will that he's eager to<br>learn from him what courage is and what it means to be a warrior, but<br>Will himself is struggling with the meaning of courage as he recalls the Lord of<br>Holly's prophecy.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (Thai Dub) - Episode 3 - The Last King</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5b32c382dc46b8eb3bec9baa047e642d1697882908_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N407/the-last-king">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Will talks to some of the dwarfs who have made their new home in Torch<br>Port and learns about the history of the Rust Mountains.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (Thai Dub) - Episode 2 - The Mad Forest</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c37f9d222b1d63f01be4d62f6c0f252b1697270936_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9GXQ/the-mad-forest">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Will and Menel investigate why the seasons are not changing as they should in the<br>surrounding forest. Two wise Lords of the Forest may have the answers they seek... as<br>well as a warning of what's yet to come.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (Thai Dub) - Episode 1 - The Paladin and the Troubadour</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/14e80efa01218932cd8ec8042aab97b01696677033_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVD3D/the-paladin-and-the-troubadour">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ethelbald invites Will to a celebration of the new year in Whitesails. He attends with<br>Bee, who says she wants to visit the Academy afterward. Will agrees to take her,<br>but the Academy is not so easy to get to...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin (Thai Dub) - Episode 12 - The Faraway Paladin</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3bee5daf4c3e0097783dc85f842475b91641195816_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWZ1J/the-faraway-paladin">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Will and his comrades narrowly escape the beasts' trap. Seeing how badly Menel is injured,<br>Will realizes that his capabilities surpass those of his comrades, causing him to put them<br>in danger without even knowing it. Clouded by self-reproach, Will goes to fight the beasts<br>alone, but Menel angrily stands in his way.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin (Thai Dub) - Episode 11 - Valley of Despair</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6c4c132cd87a58d99dcdf84c11e307471640443368_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31Z2P/valley-of-despair">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Having been anointed as a Paladin, Will turns his focus to rebuilding the village and<br>exterminating monsters. One day, one of Will's patrol parties goes missing. When Will, Menel, and<br>"the Penetrator" Reystov return to Beast Woods to search for it, they discover the scattered<br>remains of his comrades. Sensing something is wrong, they proceed deeper into the valley.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin (Thai Dub) - Episode 10 - Renowned Glory</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ca83f10af54452f01295012d7e0bda041639824534_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PJ8V/renowned-glory">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Will is summoned to meet with Ethelbald, the lord of Whitesails, who refers to him<br>as the "Wyvern Slayer." He offers to gather private soldiers so he can stop the<br>damage caused by all the beast attacks in the area. Will's sudden proposal earns a<br>cold reaction at first, but after a closer look at Will, Ethelbald grants him permission.<br>So Will enters the Whitesails tavern in search of reliable allies.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin (Thai Dub) - Episode 9 - Whitesails</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7a9a0618fc446d6cc296a1bead6eb7271639234476_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMGJZ3/whitesails">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Bii and Tonio have joined Will on his journey, and the party finally arrives in<br>Whitesails. Will has never seen such a big, lively city, and he is deeply impressed.<br>He hopes to relieve the exhaustion of his journey, but suddenly, an alarm sounds. He<br>hurries outside and sees a massive shadow flying directly over his head.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin (Thai Dub) - Episode 8 - Songs of Heroism</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b2240f0b8f17b0a16576faba363143df1638614237_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VQ04/songs-of-heroism">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Having saved the village from the Demon's attack, Will and Menel decide to head toward<br>the city of Whitesails, a booming trade center. As they pass through Beast Woods, they<br>suddenly hear a scream. Running in its direction, Will and Menel see two travelers being<br>attacked by a Giant Ape.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin (Thai Dub) - Episode 7 - Traumatic Memory</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5a1b1ce7e6b9b01d223b5fe7576975071637406652_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/8/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK1G3/traumatic-memory">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Menel leads Will to a village that's being attacked by monsters. As he banishes them,<br>he learns gravity of the tragedies caused by the attack. Piled-up bodies and burnt houses<br>are everywhere. Then, from their midst, a faint voice catches Menel's attention. The voice belongs<br>to a severely burnt young boy who has turned undead.</p>
 </td>
 </tr>
 </table>
