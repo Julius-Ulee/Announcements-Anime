@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 15, 2024, 7:28:10 PM</em></p>
+<p align="center"><em>Updated on: Nov 16, 2024, 8:08:03 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 35 - You Can Do It, Nishi!</h3></th>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 40 - EARTHGANG Loves Super Overpowered Anime Main Characters</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7ca3892d9dfdaab24249d245110eb8d51731627329_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9c6bcde84522c998557cc4e43fea68601731714770_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/15/2024</td>
+<td align="center">11/16/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9Q90/you-can-do-it-nishi">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXW8X/earthgang-loves-super-overpowered-anime-main-characters">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nishi loses all three matches so far after becoming a pro and loses his confidence.<br>Tange, Joe, and the kids try to find a way to build his confidence back<br>up and Kinoko finds a surprising solution.</p>
+<p align="center">Leah and Alex talk with Doc and Olu of EARTHGANG about how intense they thought<br>Speed Racer was as kids, their affinity for Super Saiyan hair, their experience creating "Swing"<br>for Marvel's Spider Man 2, and more! Then, Leah and Alex break down the best<br>anime from the 70’s, 80’s, 90’s, and 2000’s.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 34 - Aspiring Boxer</h3></th>
+<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II (German Dub) - Episode 4 - A Special Rule Launched</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b8e27d629508e3c43180719ee3d532991731627358_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2902d151f729b5ee78440cf241e070891729868500_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVMVG/aspiring-boxer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK1PW/a-special-rule-launched">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ishikura watches Joe win a boxing match and decides he wants to be just like<br>him. He then suddenly shows up to Tange's gym wanting to join, but Tange surprisingly<br>refuses.</p>
+<p align="center">Clarence and Shirley defeat and destroy the allied team. KKHC is wiped out after the<br>two kill each other in a fierce battle. Meanwhile, LPFM rides a truck inside a<br>freight car and calmly heads over to UNKNOWN as if going through a deserted field.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 33 - Congratulations on Your First Victory</h3></th>
+<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II (English Dub) - Episode 3 - Clarence and Shirley</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/35c49b354a225f225100df518e9759411731626831_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2032393f7afbf1a25b2c1f975d933cc31729264154_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX2XD/congratulations-on-your-first-victory">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX258/clarence-and-shirley">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Everyone celebrates after Joe's first victory. Noriko gets him violets but those are quickly overshadowed<br>by the giant bouquet of roses Yoko sends him.</p>
+<p align="center">LPFM managed to defeat many members of the allied enemy team, but the island continued<br>to sink, drastically decreasing the physical space they could move around in. LLENN and her<br>comrades avoid areas near the sea and whip up a plan to cut across the<br>northeast section of the island where members of the allied team have gathered. Clarence joins<br>the allied team at this time. She suggests splitting the team into smaller groups of<br>two people and launching waves of attacks against LPFM. However, immediately after they launch this<br>plan, she betrays her teammates and attacks them. In addition, Shirley, who left the KKHC<br>to fight alone, begins joining in on the attacks against the allied team!</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 32 - The Path to the Shining Ring</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Hindi Dub) - Episode 2 - Glorio</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cc634250b4351a9d341bfbd3fb9a27d31731626885_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5c008ad722a08ff67a03da61c763e0ce1729266820_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN9N1/the-path-to-the-shining-ring">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXW4KN/glorio">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nishi and Joe both have their debut matches in the pro ring.</p>
+<p align="center">Goku and his friends have been turned small due to Gomah's scheme. They begin preparing<br>to go to the demon world. Goku collects his Nyoibo and looks forward to a<br>new adventure. Then the mysterious young Majin Glorio appears!</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 31 - Take Flight as a Pro Boxer</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Tamil Dub) - Episode 2 - Glorio</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7f9c42f1b1c678670b12bdc6459298a81731626295_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5c008ad722a08ff67a03da61c763e0ce1729266820_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ9QJ/take-flight-as-a-pro-boxer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMGDV2/glorio">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Joe passes the B-rank exam and takes his first real step towards becoming a pro.</p>
+<p align="center">Goku and his friends have been turned small due to Gomah's scheme. They begin preparing<br>to go to the demon world. Goku collects his Nyoibo and looks forward to a<br>new adventure. Then the mysterious young Majin Glorio appears!</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 30 - The Arduous Pro Test</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Telugu Dub) - Episode 2 - Glorio</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1a89bd04b2263ea72233456b4d3a66921731625694_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5c008ad722a08ff67a03da61c763e0ce1729266820_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +200,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK1KK/the-arduous-pro-test">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJX5J/glorio">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Joe and Nishi go take the pro boxing test and Joe finds out that it's<br>not as easy as he thought it would be.</p>
+<p align="center">Goku and his friends have been turned small due to Gomah's scheme. They begin preparing<br>to go to the demon world. Goku collects his Nyoibo and looks forward to a<br>new adventure. Then the mysterious young Majin Glorio appears!</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 29 - A Challenge Towards Tomorrow</h3></th>
+<th><h3 align="center">The Stories of Girls Who Couldn't Be Magicians - Episode 7 - Happy Holidays, Except I'm Feeling Sad!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b2ebf1f11e574a873b68c579b336a7f41731625028_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/892a74fd9b7ff947e6b8330fd9f361f51731695725_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +234,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31ZEE/a-challenge-towards-tomorrow">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U317Q7/happy-holidays-except-im-feeling-sad">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tange is able to get the license for his gym after the stunt Joe pulled<br>at the All Japan Rookie Championship Tournament, but he says that Joe's not ready to<br>become a pro yet himself. However, Joe's got his own ideas.</p>
+<p align="center">Yuzu's success with ancient magic deals Kurumi's confidence another blow. While her friends celebrate the<br>new year, she struggles to choose her path forward. Then a sudden distress call from<br>the MaRC brings everything to a head.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 28 - The Gamble Towards Victory</h3></th>
+<th><h3 align="center">THE iDOLM@STER SHINY COLORS 2nd Season - Episode 7 - The Most Important Thing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/40ef5a763c85da8d240cd9ce1738de5a1731624439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/909208be063a0496690f31746cd710c21731686612_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +268,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZG0M/the-gamble-towards-victory">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV4N1/the-most-important-thing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Joe goes to see the All Japan Rookie Championship Tournament and figures out a way<br>to get one of the members of the Boxing Association to give Tange the license<br>he needs for his gym.</p>
+<p align="center">Sakuya faces emotional challenges as she reflects on her relationships and the future of her<br>group. Through heartfelt conversations and moments of introspection, she learns the importance of trust and<br>connection with those around her.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 27 - The Bridge to Tomorrow</h3></th>
+<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II - Episode 7 - Turn Over</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f8288b9651e8af6f8c2368724b415bbb1731623950_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/aa4e86a2180818e7c4a59c84d04918141731691163_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +302,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PJ7M/the-bridge-to-tomorrow">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ8ME/turn-over">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tange is unable to get the license for his gym, but then, an unexpected visitor<br>gives them an unbelievable offer.</p>
+<p align="center">By Pitohui's orders, the luxury cruise ship continued sailing without stopping its leak, but it<br>began sinking into the water as a result. After a fierce battle, LPFM manages to<br>annihilate SHINC.  Meanwhile, Pitohui's trap wipes out MMTM.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 26 - The License of Despair</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA - Episode 6 - Lightning</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/874c1ab7e11dec68e123e2dbf363a6441731623111_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d4f3b7d1dde8e6dc661f87e3622ebb6f1731686660_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +336,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJN7N/the-license-of-despair">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31ZM1/lightning">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tange goes to the Japan Boxing Association to get his gym officially recognized. Meanwhile, Joe<br>starts working at the grocery store Nishi works at.</p>
+<p align="center">After encountering the Gendarmerie, the wardens of the Demon Realm, the four are forced to<br>camp in a cave where they encounter further trouble! The enigmatic Glorio unleashes lightning magic<br>against Goku to resolve the situation!</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 25 - Rule of the Stray</h3></th>
+<th><h3 align="center">True Beauty (Japanese Audio) - Episode 7 - So what If I like her?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eb19d4ff2746f5f72f4bb3fb82dc00391731622689_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a4940b3d3eaed6f058a2636ae03eb6d71731677679_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +370,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMGJ28/rule-of-the-stray">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG0Q0/so-what-if-i-like-her">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Joe finally feels like something might be changing in his life, but then he is<br>visited by Guerilla, who's on the run from the police.</p>
+<p align="center">After a successful first mission, Jugyeong decides to relax and help out Seojun with his<br>part-time job at a festival.Everything is going well, until Suho shows up and a small<br>plushie ignites a fierce battle between the two boys.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 24 - Back to the Slums</h3></th>
+<th><h3 align="center">2.5 Dimensional Seduction - Episode 20</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bdf26277aac4e90d1b14dbc4bde161191731621698_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/68e34f3028af2c9473bed9a140822edd1731677539_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +404,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWZJ8/back-to-the-slums">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N95K">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Joe finally leaves the juvenile training school and goes back to the slums where he's<br>welcomed back with open arms, and Danpei has a surprise for him.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 23 - See Ya, Juvenile Training School</h3></th>
+<th><h3 align="center">Tomorrow's Joe - Episode 79 - A Distant, Dazzling Tomorrow, Burning Bright!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/777f1e694bcbece2bdc04a0100dc505d1731621187_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f7a5189209df155b62e95f0a9c714fac1731660966_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +438,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VQ2X/see-ya-juvenile-training-school">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKXDG/a-distant-dazzling-tomorrow-burning-bright">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Following Rikiishi and Aoyama, Nishi is also going to leave the juvenile training school, leaving<br>Joe all alone.</p>
+<p align="center">Carlos counters Joe's rope-side techniques with an improvised move, nullifying Joe's strategy. He then proposes<br>an all-out brawl with no tricks.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 22 - The Phantom Toru Rikiishi</h3></th>
+<th><h3 align="center">Tomorrow's Joe - Episode 78 - To the Death! Carlos VS Joe Yabuki.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/45bdc2b6f486aadc02b478f28d4915fe1731620704_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f1e1fb00db5dcd80433e780c3bedc77a1731660845_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -472,13 +472,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK109/the-phantom-toru-rikiishi">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVMNG/to-the-death-carlos-vs-joe-yabuki">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rikiishi leaves Toko Special Juvenile Training School and Joe feels empty inside. Meanwhile, the final<br>match of the dorm boxing tournament is about to begin.</p>
+<p align="center">The day of Carlos's match against Tiger arrives. As a boxing fan, Danpei expresses his<br>feelings about Joe's journey. Yoko quietly encourages Joe as they pass in the hallway.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 21 - A Small Yet Honorable Match</h3></th>
+<th><h3 align="center">Tomorrow's Joe - Episode 77 - A Fight Between Men</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d8fb5781747f7787bc6b48ad627db1a91731620406_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dffe9486dfbf0c2a6fd89faa97a1fa671731660738_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -506,13 +506,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNQ5P/a-small-yet-honorable-match">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX2JD/a-fight-between-men">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rikiishi tells Joe that they need to have their match sooner because something came up,<br>so they have an unofficial match out in the rain.</p>
+<p align="center">Robert's old friend, promoter Henry James, arrives in Japan. Henry arranges a match between Carlos<br>and the world champion, Jose Mendoza, and proposes canceling the fight with Joe.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 20 - A Victory Covered in Wounds</h3></th>
+<th><h3 align="center">Tomorrow's Joe - Episode 76 - A Burning Challenger</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2f254ddab6d086a84add19cec66404dc1731620110_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0dbb6d4e9750a81a9388a10e7ae2eb8f1731660619_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -540,13 +540,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE98MD/a-victory-covered-in-wounds">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN911/a-burning-challenger">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Joe and Aoyama's match concludes and Tange reveals something to our two fighters.</p>
+<p align="center">Yoko finalizes the contract for a Carlos vs. Tiger match. Carlos confidently declares he will<br>win with a first-minute KO.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 19 - The Terrifying Liver Blow</h3></th>
+<th><h3 align="center">Tomorrow's Joe - Episode 75 - Carlos the Ring Magician</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2f1cdef1ef711ac2816a466287b930fd1731619271_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/554c7846bbe85d3e193164054b81d07a1731660426_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -574,13 +574,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8ND9W/the-terrifying-liver-blow">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ9PJ/carlos-the-ring-magician">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Joe and Aoyama's match finally begins, but who will come out on top?</p>
+<p align="center">As Joe resumes training in the Namidabashi slums, Noriko watches with a complex expression. Meanwhile,<br>the day of Carlos's match against Harashima arrives.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 18 - The Ring Ropes of Sadness</h3></th>
+<th><h3 align="center">Tomorrow's Joe - Episode 74 - Departing From Today</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d5f4d5d6764a0ffb604e53f48bbbe09d1731618729_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/96a9292c59c8e1095bba3dd7cd3abb601731659344_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -608,13 +608,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKZN5/the-ring-ropes-of-sadness">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK17K/departing-from-today">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The dormitory boxing tournament begins and everyone finds out just how Aoyama defeated Numata.</p>
+<p align="center">Tange Gym fell into disrepair during Joe's absence. Joe begins rebuilding it with Danpei and<br>the children.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 17 - Alone in the Storm</h3></th>
+<th><h3 align="center">Tomorrow's Joe - Episode 73 - The Cross Counter, Revived</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7fca956d64bf55d91ef080e2bfb8095a1731617354_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5a9d2d352ebc0182b158ef4756e965831731658927_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -642,13 +642,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N4MG/alone-in-the-storm">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31JME/the-cross-counter-revived">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Joe keeps trying to get Tange to coach him again, but Tange just keeps ignoring<br>him and concentrates on training Aoyama. No one expected Aoyama to get into the tournament,<br>but he then somehow defeats the rep for dorm 7, Numata.</p>
+<p align="center">Returning to Tokyo, Joe visits Yoko and requests to spar with Carlos. Reluctantly, Yoko agrees<br>and insists they use heavier 16-ounce gloves for safety.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tomorrow's Joe - Episode 16 - The Setting Sun of Betrayal</h3></th>
+<th><h3 align="center">Tomorrow's Joe - Episode 72 - Back to the Shining Ring</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a4eef269b4ff1ff27ad64adf414049291731616985_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7d1de216d94880b65e24bce85cd67c151731658389_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -676,13 +676,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9G10/the-setting-sun-of-betrayal">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z5NM/back-to-the-shining-ring">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tange becomes the full-time boxing coach at the juvenile training school on Nogiku Island. Joe<br>seems to finally be interested in training more with Tange, but Tange suddenly seems distant.</p>
+<p align="center">A postcard from Noriko brings news about the Namidabashi community. However, since watching Carlos's fight,<br>Joe has been unable to focus on his performance.</p>
 </td>
 </tr>
 </table>
