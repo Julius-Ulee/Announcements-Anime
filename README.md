@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 16, 2024, 7:26:11 PM</em></p>
+<p align="center"><em>Updated on: Nov 17, 2024, 8:13:06 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Blue Miburo - Episode 5 - United in Purpose</h3></th>
+<th><h3 align="center">You are Ms. Servant (English Dub) - Episode 5 - What You Want to Protect.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ae921c8b0444239940c8bf03c2463c2a1731750912_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e4fdbf4ef2876e5bd1d93b4cacb92d7b1730572135_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKD93/united-in-purpose">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73G45/what-you-want-to-protect">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">After the Nitta incident, Yuki decides to become Hitoyoshi's bodyguard, sticking to him 24/7. When<br>she is distracted for a moment, a woman named Grace appears and takes Hitoyoshi hostage,<br>seeking to kill Yuki for prestige and revealing her dark past.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Thai Dub) - Episode 12 - Magic Power</h3></th>
+<th><h3 align="center">You are Ms. Servant (Portuguese Dub) - Episode 4 - You Won't Miss Out.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4ad2b18453604c10f4c57ea9db72564c1711216526_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8fa4cbc90026038482a4464d6e4323761729964675_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PMW2/magic-power">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ92G/you-wont-miss-out">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With Avancia's fate hanging in the balance, the final battle between Rud's party and the<br>demon king known as Greed begins.</p>
+<p align="center">To experience a "normal" school life, Yuki enrolls at the same school as Hitoyoshi. Seeing<br>boys rush off, she finds out the school store sells a rare yakisoba bread. Yuki<br>heads out the window, leaving Hitoyoshi to worry whether she'll fit in or not.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Thai Dub) - Episode 11 - Attack of the Monsters</h3></th>
+<th><h3 align="center">You are Ms. Servant (Spanish Dub) - Episode 4 - You Won't Miss Out.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/59f170c47910c4781c1dfb82d60c62311710611776_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8fa4cbc90026038482a4464d6e4323761729964675_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJX8J/attack-of-the-monsters">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN989/you-wont-miss-out">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The homunculi finish construction on the town's new public baths and the adventurers plus Rud<br>and his clan are the first to try them out. Meanwhile, a new threat rears<br>its head on the horizon.</p>
+<p align="center">To experience a "normal" school life, Yuki enrolls at the same school as Hitoyoshi. Seeing<br>boys rush off, she finds out the school store sells a rare yakisoba bread. Yuki<br>heads out the window, leaving Hitoyoshi to worry whether she'll fit in or not.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Thai Dub) - Episode 10 - Foreign Homunculi</h3></th>
+<th><h3 align="center">You are Ms. Servant (Hindi Dub) - Episode 4 - You Won't Miss Out.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dd375cab55893ef8d6616b61fcf4d5f61710013733_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8fa4cbc90026038482a4464d6e4323761729964675_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMGD32/foreign-homunculi">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX2G1/you-wont-miss-out">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">To experience a "normal" school life, Yuki enrolls at the same school as Hitoyoshi. Seeing<br>boys rush off, she finds out the school store sells a rare yakisoba bread. Yuki<br>heads out the window, leaving Hitoyoshi to worry whether she'll fit in or not.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Thai Dub) - Episode 9 - Amon Sloth</h3></th>
+<th><h3 align="center">You are Ms. Servant (Tamil Dub) - Episode 4 - You Won't Miss Out.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cb7dc8a1db12d3d7cfab7af024dbccf81709393821_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8fa4cbc90026038482a4464d6e4323761729964675_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VE9E/amon-sloth">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NWQX/you-wont-miss-out">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The battle with the guardian of the Keild Labyrinth commences, but have Rud and his<br>party bitten off more than they can chew?</p>
+<p align="center">To experience a "normal" school life, Yuki enrolls at the same school as Hitoyoshi. Seeing<br>boys rush off, she finds out the school store sells a rare yakisoba bread. Yuki<br>heads out the window, leaving Hitoyoshi to worry whether she'll fit in or not.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Thai Dub) - Episode 8 - Lilia and Lily</h3></th>
+<th><h3 align="center">You are Ms. Servant (Telugu Dub) - Episode 4 - You Won't Miss Out.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/03b3fa91dc7339939fd108ea3b30856b1708801122_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8fa4cbc90026038482a4464d6e4323761729964675_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +200,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKX21/lilia-and-lily">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NZ1K/you-wont-miss-out">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a successful first raid on Keild Labyrinth, Rud's party returns the following day for<br>a second attempt at clearing it, but they soon find themselves fighting extremely powerful monsters<br>in dangerous uncharted territory.</p>
+<p align="center">To experience a "normal" school life, Yuki enrolls at the same school as Hitoyoshi. Seeing<br>boys rush off, she finds out the school store sells a rare yakisoba bread. Yuki<br>heads out the window, leaving Hitoyoshi to worry whether she'll fit in or not.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Thai Dub) - Episode 7 - In Keild</h3></th>
+<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (German Dub) - Episode 4 - Goodbye to You</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a1876540f9f96cb8c5473038e7e13a171708166828_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/93d21f96e12917a10f4afc68a321a02c1729940294_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +234,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNVD2/in-keild">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJXK4/goodbye-to-you">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rud has impressed the leaders of the two major clans in the region by talking<br>the talk, but in order to get the alliance with them that he desires, he<br>now must walk the walk by tackling the forbidding Keild Labyrinth.</p>
+<p align="center">According to the contract made between Hachiro and Shura's ancestor, Tatsuko Kirigakure, each generation of<br>descendants is destined to die at the age of 30 in exchange for gaining power.<br>Shura informs Rin and Yukio about her fate. She states that she has no regrets,<br>but Rin is not convinced and suggests they defeat Hachiro. However, Hachiro then abducts Shura.<br>Rin and Yukio make their way to Hachiro to save her, but they arrive to<br>find Shura being controlled by Hachiro's hypnotic powers.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Thai Dub) - Episode 6 - The Labyrinth's Manager</h3></th>
+<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (French Dub) - Episode 4 - Goodbye to You</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/74d3381747082cb19a281a2f1bab44781707590561_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/93d21f96e12917a10f4afc68a321a02c1729940294_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +268,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9QN5/the-labyrinths-manager">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PM0Z/goodbye-to-you">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After making a powerful new ally, Rud is given a crash course on how to<br>manage a labyrinth. Meanwhile, his newly formed clan is struggling with all the demands being<br>placed on it, so Rud decides an alliance with other clans is needed.</p>
+<p align="center">According to the contract made between Hachiro and Shura's ancestor, Tatsuko Kirigakure, each generation of<br>descendants is destined to die at the age of 30 in exchange for gaining power.<br>Shura informs Rin and Yukio about her fate. She states that she has no regrets,<br>but Rin is not convinced and suggests they defeat Hachiro. However, Hachiro then abducts Shura.<br>Rin and Yukio make their way to Hachiro to save her, but they arrive to<br>find Shura being controlled by Hachiro's hypnotic powers.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Thai Dub) - Episode 5 - Towards Dreams</h3></th>
+<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (English Dub) - Episode 3 - Hometown</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f384ec085dd158dbff706063f34de75a1706985077_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ac9211568b7c983b3b37f741806a379b1729356208_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +302,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ27K/towards-dreams">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK1Z2/hometown">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rud teams up with some old faces to tackle the Avancia labyrinth in the hopes<br>of defeating its formidable guardian to finally attain the Secret Treasure of the Labyrinth.</p>
+<p align="center">Shura suddenly goes missing. However, based on her last traces, Mephisto deduces the high possibility<br>that Shura has returned to her hometown in Aomori Prefecture. As such, he orders Rin<br>and Yukio to go there and search for her. After investigating, the twins arrive at<br>Lake Towada in Aomori. Shura was facing off against Hachirotaro Okami, a powerful Hydra who<br>claimed the large territory centered at the lake and the surrounding areas. Hachiro and his<br>snake companions urge Shura to fulfill her promise to him.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Thai Dub) - Episode 4 - Selfish</h3></th>
+<th><h3 align="center">DEMON LORD 2099 (English Dub) - Episode 4 - The Shadows of Shinjuku</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cf06607c05f4c77e9dd00c26a0aaf3801706381623_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e6c37c112b4d63fb44dd28e77ec533d31730558776_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +336,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73GD8/selfish">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKXW2/the-shadows-of-shinjuku">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A fearsome chameleon kong is sighted near Avancia, and all the fighters in town band<br>together to take it down. But where did it come from?</p>
+<p align="center">Veltol is asked to work as Takahashi’s bodyguard. Hoping to test the strength of his<br>restored faith as well, Veltol planned to launch a surprise attack on the yakuza, but<br>their run-of-the-mill heist leads to unexpected developments, swallowing the two of them deeper into the<br>city’s dark underbelly.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Thai Dub) - Episode 3 - An Unknown Monster</h3></th>
+<th><h3 align="center">DEMON LORD 2099 (Portuguese Dub) - Episode 3 - [DEBUT STREAM] The Demon Lord Veltol Has Arisen!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bc0e1cffa7a262c9838683dc9000ad191705770002_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c2b2549b3c9224e4b138aa42af0c57e81729940156_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +370,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX428/an-unknown-monster">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX4JN/debut-stream-the-demon-lord-veltol-has-arisen">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Manicia worries that her illness has prevented her brother from pursuing a more rewarding path<br>in life.</p>
+<p align="center">Following the advice of Machina’s friend, Takahashi, Veltol begins streaming games with a face reveal.<br>He spends his days establishing his image as a streamer, using Takahashi’s strategy and influence.<br>Meanwhile, Veltol goes for a stroll through the back alleys of Shinjuku’s outskirts one day,<br>and Veltol is intrigued by the sight of a particular vagabond.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Thai Dub) - Episode 2 - Return to Avancia</h3></th>
+<th><h3 align="center">DEMON LORD 2099 (French Dub) - Episode 3 - [DEBUT STREAM] The Demon Lord Veltol Has Arisen!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/836e73d8a3a2415a963ab6269990560d1705165828_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c2b2549b3c9224e4b138aa42af0c57e81729940156_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +404,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NZQE/return-to-avancia">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ2J5/debut-stream-the-demon-lord-veltol-has-arisen">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rud returns to his hometown of Avancia with Luna in tow and reunites with his<br>sister, who quickly takes to the new addition to the household.</p>
+<p align="center">Following the advice of Machina’s friend, Takahashi, Veltol begins streaming games with a face reveal.<br>He spends his days establishing his image as a streamer, using Takahashi’s strategy and influence.<br>Meanwhile, Veltol goes for a stroll through the back alleys of Shinjuku’s outskirts one day,<br>and Veltol is intrigued by the sight of a particular vagabond.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Strongest Tank's Labyrinth Raids -A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party- (Thai Dub) - Episode 1 - Kicked from the Party</h3></th>
+<th><h3 align="center">DEMON LORD 2099 (Spanish Dub) - Episode 3 - [DEBUT STREAM] The Demon Lord Veltol Has Arisen!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/304957c3cc80f31e5c76e43a6cedc7e71704539469_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c2b2549b3c9224e4b138aa42af0c57e81729940156_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +438,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKWP3/kicked-from-the-party">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNV74/debut-stream-the-demon-lord-veltol-has-arisen">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rud is a tank, the member of an adventuring party that protects the others by<br>soaking up attacks. When he is kicked out of his party for losing his absorb<br>shield too quickly on a labyrinth raid, he considers what his next move should be.</p>
+<p align="center">Following the advice of Machina’s friend, Takahashi, Veltol begins streaming games with a face reveal.<br>He spends his days establishing his image as a streamer, using Takahashi’s strategy and influence.<br>Meanwhile, Veltol goes for a stroll through the back alleys of Shinjuku’s outskirts one day,<br>and Veltol is intrigued by the sight of a particular vagabond.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Weakest Tamer Began a Journey to Pick Up Trash (Thai Dub) - Episode 12 - On a Journey, the Three of Us</h3></th>
+<th><h3 align="center">Demon Lord, Retry! R (English Dub) - Episode 6 - ReUnion</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/367b716cf7a86cb425f6ab4b33dc9ff91711699160_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/093f5bb5e01907d31184bb1b86d831981730550135_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -472,13 +472,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31JDQ/on-a-journey-the-three-of-us">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ9EG/reunion">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ivy is given a summary of the effects of their recent endeavors, which have shaken<br>the whole kingdom. The Watch and the adventurers gather to celebrate their victory. During the<br>feast, Blazing Sword and Lightning King have one last proposal for Ivy.</p>
+<p align="center">Things come to a head as all chaos breaks out around Eagle. Can she be<br>saved?</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Weakest Tamer Began a Journey to Pick Up Trash (Thai Dub) - Episode 11 - Into Battle</h3></th>
+<th><h3 align="center">Demon Lord, Retry! R (Hindi Dub) - Episode 5 - ReMind</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/085b92a7c332e747bd3c5be51616a9671711102909_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c27fe4917bdfbab4a274ce3803e256bc1729928063_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -506,13 +506,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJXPJ/into-battle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN9X9/remind">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ivy and Lattrua pretend to fall into Green Gale's trap and go with them to<br>eat some sweets. Once there, Lattrua begins interrogating them. Meanwhile, Blazing Sword and Lightning King<br>join forces with Captain Burksby to carry out a different mission.</p>
+<p align="center">Eagle reminisces on her life after being separated from Luna as the situation with her<br>comes to a head. Meanwhile, Kunai gets a surprise visitor with an equally surprising request.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Weakest Tamer Began a Journey to Pick Up Trash (Thai Dub) - Episode 10 - Into the Vortex of the Incidents</h3></th>
+<th><h3 align="center">Demon Lord, Retry! R (Tamil Dub) - Episode 5 - ReMind</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e5e7cb08aebcc5d9c10667bc41de99121710509947_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c27fe4917bdfbab4a274ce3803e256bc1729928063_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -540,13 +540,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMGDQ2/into-the-vortex-of-the-incidents">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX271/remind">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ivy and Lattrua go to eat sweets with Meela and her brothers. Sora confirms their<br>suspicions about the siblings, but the organization may be using Green Gale as a decoy.<br>If that's true, then Meela and her brothers might be killed. What will Ivy do?</p>
+<p align="center">Eagle reminisces on her life after being separated from Luna as the situation with her<br>comes to a head. Meanwhile, Kunai gets a surprise visitor with an equally surprising request.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Weakest Tamer Began a Journey to Pick Up Trash (Thai Dub) - Episode 9 - Toward a Confrontation with the Organization</h3></th>
+<th><h3 align="center">Demon Lord, Retry! R (Telugu Dub) - Episode 5 - ReMind</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/279b6371dcf4390aef9401209e6bb0fe1709908294_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c27fe4917bdfbab4a274ce3803e256bc1729928063_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -574,13 +574,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VENE/toward-a-confrontation-with-the-organization">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9QW9/remind">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When Ivy says that she's just turned nine, everyone congratulates her. Ivy is deeply moved<br>by their well wishes. The members of Blazing Sword and Lighting King explain the organization's<br>crimes and Ivy offers analysis, with Sora and her past life's help.</p>
+<p align="center">Eagle reminisces on her life after being separated from Luna as the situation with her<br>comes to a head. Meanwhile, Kunai gets a surprise visitor with an equally surprising request.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Weakest Tamer Began a Journey to Pick Up Trash (Thai Dub) - Episode 8 - To a Dangerous Town</h3></th>
+<th><h3 align="center">BLUE LOCK 2nd Season (English Dub) - Episode 29 - FLOW</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3f64a1e33592298b9fd676c587a9f6d41709301511_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c86f867e11a89f4957aa2ac5384065281730554080_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -608,13 +608,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKXJ1/to-a-dangerous-town">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31J75/flow">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ivy's delicious cooking has made her very popular. The suppression squad feasts after a job<br>well done and the next day, they set out for Otolwa with Ivy. She's deeply<br>impressed by her first sight of a big town, but it hides a serious problem.</p>
+<p align="center">The tryouts are complete, and Isagi is chosen for the starting lineup. But Shidou is<br>nowhere to be seen... It turns out Sae has picked him to join the U-20s.<br>Meanwhile, Ego begins the final training camp, where he discusses the secret of "flow."</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Weakest Tamer Began a Journey to Pick Up Trash (Thai Dub) - Episode 7 - On a Path to Adventure</h3></th>
+<th><h3 align="center">BLUE LOCK 2nd Season (Spanish Dub) - Episode 28 - Chameleon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2a6a1e3946ab153fe540d1cf457b7ebe1708697881_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/346304b4a253bfe85053c9ef9b9bcb5b1729928535_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -642,13 +642,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9Q45/on-a-path-to-adventure">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKXE1/chameleon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ivy, Sora, and Ciel continue their travels. Suddenly, something starts chasing them! Ivy manages to<br>get away, but runs into a horde of monsters! As Ivy tries to escape, she<br>gets caught in a trap and can't move! Then a team of adventurers appears!</p>
+<p align="center">Isagi looks back and analyzes what he did when he scored a goal on reflex.<br>Then, when the second match begins, Reo finds his new playstyle: Chameleon.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Weakest Tamer Began a Journey to Pick Up Trash (Thai Dub) - Episode 6 - To Travel Beyond Imagination</h3></th>
+<th><h3 align="center">BLUE LOCK 2nd Season (French Dub) - Episode 28 - Chameleon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dfd266147165673d080b4387164176731708096012_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/346304b4a253bfe85053c9ef9b9bcb5b1729928535_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -676,13 +676,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73G98/to-travel-beyond-imagination">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VEPE/chameleon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When Ivy goes into the village to sell her catch, everyone is really nice to<br>her which makes her nervous. Later, she chances upon a peddler selling zaro, a specialty<br>of Latomi Village. When she asks how the village is faring, the answer surprises her.</p>
+<p align="center">Isagi looks back and analyzes what he did when he scored a goal on reflex.<br>Then, when the second match begins, Reo finds his new playstyle: Chameleon.</p>
 </td>
 </tr>
 </table>
