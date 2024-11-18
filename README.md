@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 17, 2024, 7:25:44 PM</em></p>
+<p align="center"><em>Updated on: Nov 18, 2024, 8:11:01 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 - Episode 31 - After the Fierce Battle, Despair</h3></th>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (English Dub) - Episode 17 - Strength to Live</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/69847a859fa5271821f35ea715026e881731832437_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/abc881e230231a50a5088b2348fb69491730611333_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX8P5/after-the-fierce-battle-despair">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VE1M/strength-to-live">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the midst of his god-like run, Sunraku faces a setback that sours him on<br>Shangri-La Frontier, but his sister has some advice to turn things around.</p>
+<p align="center">Gray and Juvia take on Metro's main body, while the others fight his golems. In<br>the meantime, Jellal takes on Gears. When it's down to Aldoron himself, an unexpected yet<br>familiar face shows up: Brandish.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST - Episode 19 - Aqua Aera</h3></th>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (German Dub) - Episode 14 - Clinging Dragon Berserk</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a7b81a3d18daa70fefe282b50786f5391731823676_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ed3b55b0b5bb77fafc3abbf1ab03d77f1728806590_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U319Z2/aqua-aera">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVMJE/clinging-dragon-berserk">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">White Mage uses Aqua Aera, Touka's spell, to take Fairy Tail wizards to Elentear, her<br>homeland, but they end up in Edolas. After they get reunited with the Fairy Tail<br>in Edolas, Natsu and the others go to see Mystogan for help.</p>
+<p align="center">The outcomes of the battles are being decided... While Lucy and the others continue trying<br>to enclose their comrades within the cards, Wendy faces off against the sticky dragon Nebaru,<br>who wants to devour her!</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece Log: Fish-Man Island Saga (Current) - A Shocking Revelation - A Great Benefactor, Kuma</h3></th>
+<th><h3 align="center">MF GHOST Season 2 (English Dub) - Episode 17 - A Cruel Reality</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/65af4cb3047ceeea928217498712bc861731807180_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/404388793b8a31f041d5b509ea3f16da1730646472_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9GWM/a-shocking-revelation-a-great-benefactor-kuma">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK192/a-cruel-reality">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Straw Hats finally reunite after two years. With the help of all their supporters,<br>they set sail for Fish-Man Island. While admiring the underwater scenery, Franky begins to tell<br>the story of a man who protected the Sunny all this time.</p>
+<p align="center">A mistake by Oishi sees him exit the race, but he's not the only driver<br>experiencing difficulties as the rain intensifies.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wonderful Precure! - Episode 41 - Yuki On Stage</h3></th>
+<th><h3 align="center">MF GHOST Season 2 (Portuguese Dub) - Episode 16 - Sawatari Koki, the Demon God</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3183d5366b0495b1968e5da0afbb0c8a1731803741_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7538e0c001c22d7970772886601194481730027358_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VE5P/yuki-on-stage">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31JX5/sawatari-koki-the-demon-god">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Drama Club invites Yuki to join them in a performance for the drama festival.<br>As always, Yuki isn’t interested, but she finally agrees as long as she is able<br>to wear a costume made by Mayu.</p>
+<p align="center">While Kanata continues to keep pace in the wet conditions with the ever-expanding third-place group,<br>Sawatari dukes it out with Beckenbauer for the lead of the race.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (English Dub) - Episode 5 - What You Want to Protect.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (English Dub) - Episode 18 - The Mad Dog and the Lizard</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e4fdbf4ef2876e5bd1d93b4cacb92d7b1730572135_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e9667b3578b1a4d8c7f81cb81160c8641730628312_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73G45/what-you-want-to-protect">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJXM4/the-mad-dog-and-the-lizard">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After the Nitta incident, Yuki decides to become Hitoyoshi's bodyguard, sticking to him 24/7. When<br>she is distracted for a moment, a woman named Grace appears and takes Hitoyoshi hostage,<br>seeking to kill Yuki for prestige and revealing her dark past.</p>
+<p align="center">As soon as the game begins, Wangnan, Prince, and Akraptor are forced to fight against<br>Miseng, who has been driven mad by Verdi’s ability. Unable to communicate with Miseng, how<br>will they stop her rampage?</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Portuguese Dub) - Episode 4 - You Won't Miss Out.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Portuguese Dub) - Episode 17 - Funky!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8fa4cbc90026038482a4464d6e4323761729964675_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8467c2aa460a3c46333178c94ce7b0be1730027255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ92G/you-wont-miss-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NWEX/funky">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To experience a "normal" school life, Yuki enrolls at the same school as Hitoyoshi. Seeing<br>boys rush off, she finds out the school store sells a rare yakisoba bread. Yuki<br>heads out the window, leaving Hitoyoshi to worry whether she'll fit in or not.</p>
+<p align="center">The participants that acquired boarding passes enjoy a moment’s rest aboard the Archimedes. Khun is<br>reunited with Rak on the floating ship. With their determination to take back Viole (Bam)<br>from FUG, the “Flag” Workshop Battle finally begins!</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Spanish Dub) - Episode 4 - You Won't Miss Out.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (German Dub) - Episode 17 - Funky!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8fa4cbc90026038482a4464d6e4323761729964675_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8467c2aa460a3c46333178c94ce7b0be1730027255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN989/you-wont-miss-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKW12/funky">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To experience a "normal" school life, Yuki enrolls at the same school as Hitoyoshi. Seeing<br>boys rush off, she finds out the school store sells a rare yakisoba bread. Yuki<br>heads out the window, leaving Hitoyoshi to worry whether she'll fit in or not.</p>
+<p align="center">The participants that acquired boarding passes enjoy a moment’s rest aboard the Archimedes. Khun is<br>reunited with Rak on the floating ship. With their determination to take back Viole (Bam)<br>from FUG, the “Flag” Workshop Battle finally begins!</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Hindi Dub) - Episode 4 - You Won't Miss Out.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Spanish Dub) - Episode 17 - Funky!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8fa4cbc90026038482a4464d6e4323761729964675_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8467c2aa460a3c46333178c94ce7b0be1730027255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX2G1/you-wont-miss-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73GX5/funky">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To experience a "normal" school life, Yuki enrolls at the same school as Hitoyoshi. Seeing<br>boys rush off, she finds out the school store sells a rare yakisoba bread. Yuki<br>heads out the window, leaving Hitoyoshi to worry whether she'll fit in or not.</p>
+<p align="center">The participants that acquired boarding passes enjoy a moment’s rest aboard the Archimedes. Khun is<br>reunited with Rak on the floating ship. With their determination to take back Viole (Bam)<br>from FUG, the “Flag” Workshop Battle finally begins!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Tamil Dub) - Episode 4 - You Won't Miss Out.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Russian Dub) - Episode 17 - Funky!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8fa4cbc90026038482a4464d6e4323761729964675_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8467c2aa460a3c46333178c94ce7b0be1730027255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NWQX/you-wont-miss-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ2K5/funky">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To experience a "normal" school life, Yuki enrolls at the same school as Hitoyoshi. Seeing<br>boys rush off, she finds out the school store sells a rare yakisoba bread. Yuki<br>heads out the window, leaving Hitoyoshi to worry whether she'll fit in or not.</p>
+<p align="center">The participants that acquired boarding passes enjoy a moment’s rest aboard the Archimedes. Khun is<br>reunited with Rak on the floating ship. With their determination to take back Viole (Bam)<br>from FUG, the “Flag” Workshop Battle finally begins!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Telugu Dub) - Episode 4 - You Won't Miss Out.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Hindi Dub) - Episode 17 - Funky!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8fa4cbc90026038482a4464d6e4323761729964675_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8467c2aa460a3c46333178c94ce7b0be1730027255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NZ1K/you-wont-miss-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKXP2/funky">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To experience a "normal" school life, Yuki enrolls at the same school as Hitoyoshi. Seeing<br>boys rush off, she finds out the school store sells a rare yakisoba bread. Yuki<br>heads out the window, leaving Hitoyoshi to worry whether she'll fit in or not.</p>
+<p align="center">The participants that acquired boarding passes enjoy a moment’s rest aboard the Archimedes. Khun is<br>reunited with Rak on the floating ship. With their determination to take back Viole (Bam)<br>from FUG, the “Flag” Workshop Battle finally begins!</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (German Dub) - Episode 4 - Goodbye to You</h3></th>
+<th><h3 align="center">Tower of God Season 2 (French Dub) - Episode 16 - The 25th Bam</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/93d21f96e12917a10f4afc68a321a02c1729940294_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b0c69d2a52954ee9db33f04f6341b891729422215_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJXK4/goodbye-to-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NZ7K/the-25th-bam">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">According to the contract made between Hachiro and Shura's ancestor, Tatsuko Kirigakure, each generation of<br>descendants is destined to die at the age of 30 in exchange for gaining power.<br>Shura informs Rin and Yukio about her fate. She states that she has no regrets,<br>but Rin is not convinced and suggests they defeat Hachiro. However, Hachiro then abducts Shura.<br>Rin and Yukio make their way to Hachiro to save her, but they arrive to<br>find Shura being controlled by Hachiro's hypnotic powers.</p>
+<p align="center">Team Shibisu arrives to confront FUG member Jue Viole Grace. In order to prevent his<br>former teammates from discovering that he is the 25th Bam, Viole takes on Team Shibisu.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (French Dub) - Episode 4 - Goodbye to You</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 29 - When Humanity Dreams of the Impossible and Takes to the Skies</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/93d21f96e12917a10f4afc68a321a02c1729940294_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dd2d185e68b420b6f0d5a37e0de08c101730612926_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PM0Z/goodbye-to-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN9G9/when-humanity-dreams-of-the-impossible-and-takes-to-the-skies">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">According to the contract made between Hachiro and Shura's ancestor, Tatsuko Kirigakure, each generation of<br>descendants is destined to die at the age of 30 in exchange for gaining power.<br>Shura informs Rin and Yukio about her fate. She states that she has no regrets,<br>but Rin is not convinced and suggests they defeat Hachiro. However, Hachiro then abducts Shura.<br>Rin and Yukio make their way to Hachiro to save her, but they arrive to<br>find Shura being controlled by Hachiro's hypnotic powers.</p>
+<p align="center">Pencilgon makes a proposal to the other clans. Sunraku forwards his interests in Rabituza, and<br>faces a setback in his farming of the Crystal Scorpions.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (English Dub) - Episode 3 - Hometown</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese DUb) - Episode 28 - Accelerating Meetings, Surging Desire, and the Start of Various Threads</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ac9211568b7c983b3b37f741806a379b1729356208_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00832517f58b3f3eda493abaabfe81a41729990582_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK1Z2/hometown">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX4WN/accelerating-meetings-surging-desire-and-the-start-of-various-threads">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shura suddenly goes missing. However, based on her last traces, Mephisto deduces the high possibility<br>that Shura has returned to her hometown in Aomori Prefecture. As such, he orders Rin<br>and Yukio to go there and search for her. After investigating, the twins arrive at<br>Lake Towada in Aomori. Shura was facing off against Hachirotaro Okami, a powerful Hydra who<br>claimed the large territory centered at the lake and the surrounding areas. Hachiro and his<br>snake companions urge Shura to fulfill her promise to him.</p>
+<p align="center">It's time for Sunraku to face the music as Pencilgon and Oikatzo force him to<br>come face to face with the various factions he's been ignoring.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (English Dub) - Episode 4 - The Shadows of Shinjuku</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (German Dub) - Episode 28 - Accelerating Meetings, Surging Desire, and the Start of Various Threads</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e6c37c112b4d63fb44dd28e77ec533d31730558776_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00832517f58b3f3eda493abaabfe81a41729990582_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKXW2/the-shadows-of-shinjuku">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73G85/accelerating-meetings-surging-desire-and-the-start-of-various-threads">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Veltol is asked to work as Takahashi’s bodyguard. Hoping to test the strength of his<br>restored faith as well, Veltol planned to launch a surprise attack on the yakuza, but<br>their run-of-the-mill heist leads to unexpected developments, swallowing the two of them deeper into the<br>city’s dark underbelly.</p>
+<p align="center">It's time for Sunraku to face the music as Pencilgon and Oikatzo force him to<br>come face to face with the various factions he's been ignoring.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (Portuguese Dub) - Episode 3 - [DEBUT STREAM] The Demon Lord Veltol Has Arisen!</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 28 - Accelerating Meetings, Surging Desire, and the Start of Various Threads</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c2b2549b3c9224e4b138aa42af0c57e81729940156_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00832517f58b3f3eda493abaabfe81a41729990582_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX4JN/debut-stream-the-demon-lord-veltol-has-arisen">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9QJ1/accelerating-meetings-surging-desire-and-the-start-of-various-threads">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Following the advice of Machina’s friend, Takahashi, Veltol begins streaming games with a face reveal.<br>He spends his days establishing his image as a streamer, using Takahashi’s strategy and influence.<br>Meanwhile, Veltol goes for a stroll through the back alleys of Shinjuku’s outskirts one day,<br>and Veltol is intrigued by the sight of a particular vagabond.</p>
+<p align="center">It's time for Sunraku to face the music as Pencilgon and Oikatzo force him to<br>come face to face with the various factions he's been ignoring.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (French Dub) - Episode 3 - [DEBUT STREAM] The Demon Lord Veltol Has Arisen!</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 28 - Accelerating Meetings, Surging Desire, and the Start of Various Threads</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c2b2549b3c9224e4b138aa42af0c57e81729940156_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00832517f58b3f3eda493abaabfe81a41729990582_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ2J5/debut-stream-the-demon-lord-veltol-has-arisen">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMGD14/accelerating-meetings-surging-desire-and-the-start-of-various-threads">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Following the advice of Machina’s friend, Takahashi, Veltol begins streaming games with a face reveal.<br>He spends his days establishing his image as a streamer, using Takahashi’s strategy and influence.<br>Meanwhile, Veltol goes for a stroll through the back alleys of Shinjuku’s outskirts one day,<br>and Veltol is intrigued by the sight of a particular vagabond.</p>
+<p align="center">It's time for Sunraku to face the music as Pencilgon and Oikatzo force him to<br>come face to face with the various factions he's been ignoring.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (Spanish Dub) - Episode 3 - [DEBUT STREAM] The Demon Lord Veltol Has Arisen!</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Telugu Dub) - Episode 28 - Accelerating Meetings, Surging Desire, and the Start of Various Threads</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c2b2549b3c9224e4b138aa42af0c57e81729940156_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00832517f58b3f3eda493abaabfe81a41729990582_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNV74/debut-stream-the-demon-lord-veltol-has-arisen">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJX24/accelerating-meetings-surging-desire-and-the-start-of-various-threads">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Following the advice of Machina’s friend, Takahashi, Veltol begins streaming games with a face reveal.<br>He spends his days establishing his image as a streamer, using Takahashi’s strategy and influence.<br>Meanwhile, Veltol goes for a stroll through the back alleys of Shinjuku’s outskirts one day,<br>and Veltol is intrigued by the sight of a particular vagabond.</p>
+<p align="center">It's time for Sunraku to face the music as Pencilgon and Oikatzo force him to<br>come face to face with the various factions he's been ignoring.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Lord, Retry! R (English Dub) - Episode 6 - ReUnion</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Tamil Dub) - Episode 28 - Accelerating Meetings, Surging Desire, and the Start of Various Threads</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/093f5bb5e01907d31184bb1b86d831981730550135_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00832517f58b3f3eda493abaabfe81a41729990582_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ9EG/reunion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z5QJ/accelerating-meetings-surging-desire-and-the-start-of-various-threads">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Things come to a head as all chaos breaks out around Eagle. Can she be<br>saved?</p>
+<p align="center">It's time for Sunraku to face the music as Pencilgon and Oikatzo force him to<br>come face to face with the various factions he's been ignoring.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Lord, Retry! R (Hindi Dub) - Episode 5 - ReMind</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 28 - Accelerating Meetings, Surging Desire, and the Start of Various Threads</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c27fe4917bdfbab4a274ce3803e256bc1729928063_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00832517f58b3f3eda493abaabfe81a41729990582_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN9X9/remind">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK1J2/accelerating-meetings-surging-desire-and-the-start-of-various-threads">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Eagle reminisces on her life after being separated from Luna as the situation with her<br>comes to a head. Meanwhile, Kunai gets a surprise visitor with an equally surprising request.</p>
+<p align="center">It's time for Sunraku to face the music as Pencilgon and Oikatzo force him to<br>come face to face with the various factions he's been ignoring.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Lord, Retry! R (Tamil Dub) - Episode 5 - ReMind</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 28 - Accelerating Meetings, Surging Desire, and the Start of Various Threads</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c27fe4917bdfbab4a274ce3803e256bc1729928063_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/00832517f58b3f3eda493abaabfe81a41729990582_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/16/2024</td>
+<td align="center">11/17/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX271/remind">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ90G/accelerating-meetings-surging-desire-and-the-start-of-various-threads">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Eagle reminisces on her life after being separated from Luna as the situation with her<br>comes to a head. Meanwhile, Kunai gets a surprise visitor with an equally surprising request.</p>
+<p align="center">It's time for Sunraku to face the music as Pencilgon and Oikatzo force him to<br>come face to face with the various factions he's been ignoring.</p>
 </td>
 </tr>
 </table>
