@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 21, 2024, 8:08:43 AM</em></p>
+<p align="center"><em>Updated on: Nov 21, 2024, 7:29:13 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">True Beauty (Portuguese Dub) - Episode 13 - Our first love</h3></th>
+<th><h3 align="center">A Galaxy Next Door (Thai Dub) - Episode 12 - Fireworks with the Princess</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/865821d737f1bd0219aa02616e9bc0d51730304707_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffdb503e3593d24a909c1d1d9d1c36921687625050_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMGDKN/our-first-love">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73GJD/fireworks-with-the-princess">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Goddess election is over and Jugyeong finally has time to enjoy her remaining time<br>in high school. But there is one thing, she still has to do: tell Suho<br>how she feels.</p>
+<p align="center">With the pact no longer hanging over them, Shiori and Ichiro are free to live<br>and love on their own terms. But that doesn't necessarily mean there are no complications<br>left to address.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">True Beauty (Spanish Dub) - Episode 13 - Our first love</h3></th>
+<th><h3 align="center">A Galaxy Next Door (Thai Dub) - Episode 11 - Stinger Removal with Kuga-Kun</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/865821d737f1bd0219aa02616e9bc0d51730304707_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/896c07e8e64dd0f2987a65f3f2603d3e1687020790_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z5MV/our-first-love">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX47Z/stinger-removal-with-kuga-kun">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Goddess election is over and Jugyeong finally has time to enjoy her remaining time<br>in high school. But there is one thing, she still has to do: tell Suho<br>how she feels.</p>
+<p align="center">The fated day arrives, the day when Ichiro and Shiori will annul their Engagement Pact.<br>But there's a risk their feelings for each other will vanish in the process, and<br>there's no way to be sure without performing the ceremony.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">True Beauty (French Dub) - Episode 13 - Our first love</h3></th>
+<th><h3 align="center">A Galaxy Next Door (Thai Dub) - Episode 10 - Family Meeting with the Princess</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/865821d737f1bd0219aa02616e9bc0d51730304707_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/701fe212a11b930cffafd965d1e838111686418124_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK1VP/our-first-love">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKWNJ/family-meeting-with-the-princess">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Goddess election is over and Jugyeong finally has time to enjoy her remaining time<br>in high school. But there is one thing, she still has to do: tell Suho<br>how she feels.</p>
+<p align="center">Shiori's parents track her down and confront her in person about her situation, which she<br>and Ichiro now must find a way to explain. Can they convince them to let<br>her stay, and is there any way to annul the Engagement Pact?</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">True Beauty (Hindi Dub) - Episode 13 - Our first love</h3></th>
+<th><h3 align="center">A Galaxy Next Door (Thai Dub) - Episode 9 - A Hot Spring with the Princess</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/865821d737f1bd0219aa02616e9bc0d51730304707_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/538be2ae22c60b824d4a0b05890098161685813127_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ913/our-first-love">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9Q1E/a-hot-spring-with-the-princess">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Goddess election is over and Jugyeong finally has time to enjoy her remaining time<br>in high school. But there is one thing, she still has to do: tell Suho<br>how she feels.</p>
+<p align="center">Some amazing New Year's luck sees Shiori and the Kugas take a trip to a<br>hot spring resort. But Shiori's mother Miyako is growing impatient, and she begins taking steps<br>to get her daughter to return to the island.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">True Beauty (Tamil Dub) - Episode 13 - Our first love</h3></th>
+<th><h3 align="center">A Galaxy Next Door (Thai Dub) - Episode 8 - Christmas with the Princess</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/865821d737f1bd0219aa02616e9bc0d51730304707_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/82b33b306bde648482dbf5ccb858fabb1685205989_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX217/our-first-love">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX2MJ/christmas-with-the-princess">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Goddess election is over and Jugyeong finally has time to enjoy her remaining time<br>in high school. But there is one thing, she still has to do: tell Suho<br>how she feels.</p>
+<p align="center">It's time for the Christmas party, an annual tradition at Hiiragi Apartments. Shiori continues to<br>grow closer to Ichiro, but she also spends time with some of the other friends<br>she's made since her arrival.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">True Beauty (Telugu Dub) - Episode 13 - Our first love</h3></th>
+<th><h3 align="center">A Galaxy Next Door (Thai Dub) - Episode 7 - A Slight Fever with the Princess</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/865821d737f1bd0219aa02616e9bc0d51730304707_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8c4fbe28ddb5b404a8d8c05edfb590631684602609_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXW4N9/our-first-love">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN9W7/a-slight-fever-with-the-princess">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Goddess election is over and Jugyeong finally has time to enjoy her remaining time<br>in high school. But there is one thing, she still has to do: tell Suho<br>how she feels.</p>
+<p align="center">Shiori goes with the Kugas to visit their father's grave, as her relationship with Ichiro<br>slowly deepens. When she comes down with a fever, it becomes Ichiro's turn to help<br>her get back on her feet again.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Prince of Tennis II U-17 WORLD CUP SEMIFINAL (English Dub) - Episode 5 - Tezuka vs. Yukimura</h3></th>
+<th><h3 align="center">A Galaxy Next Door (Thai Dub) - Episode 6 - A Letter with the Princess</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b66079acd9dea133e7049d80ec2ffcb1730300507_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/45c8757e764fa72e0c7fcf187094c52a1683994942_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJXDW/tezuka-vs-yukimura">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ97Q/a-letter-with-the-princess">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Continuing the World Cup Semifinals is Team Germany’s Tezuka versus Team Japan’s Yukimura in #2<br>singles. Tezuka is now their opponent, so Team Japan goes all out to gain victory<br>against their former teammate.</p>
+<p align="center">Shiori meets with mixed results when she tries to get additional assistant work with local<br>manga artists. In an effort to encourage her, Ichiro takes a leaf from her book<br>and decides to put his thoughts down on paper.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Delico's Nursery (English Dub) - Episode 10 - How to Kill God</h3></th>
+<th><h3 align="center">A Galaxy Next Door (Thai Dub) - Episode 5 - At the Zoo with the Princess</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3c0ae822c6bbc1b08749b751e992f0df1730912437_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/beb0b513f5f8ab05a831a736a232be171683391659_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VEJM/how-to-kill-god">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK1V5/at-the-zoo-with-the-princess">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Dali and his team uncover Pendulum's hideout and rescue Lord Johannes along with the children,<br>but now Clara and Ul have been kidnapped...</p>
+<p align="center">Shiori and the Kugas finally make it to the zoo, and it's Shiori's first time<br>visiting one. It's also her first date with Ichiro since they officially became a couple,<br>and there are unexpected hurdles to clear.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (Portuguese Dub) - Episode 56 - Conditions of the Knight</h3></th>
+<th><h3 align="center">A Galaxy Next Door (Thai Dub) - Episode 4 - Weather Conditions with the Princess</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0997abb1b5f314aa778b3e2465f5e9f01730903933_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4dd6e31e64462576db4d7e2aeab3f5d11682745531_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKWW1/conditions-of-the-knight">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31JWW/weather-conditions-with-the-princess">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Bishop Regulus of the Seven Deadly Sins wants to force Emilia to marry him, even<br>though he already has hundreds of wives. While he is having the wedding hall prepared,<br>Subaru and the others are planning to rescue Emilia and reclaim the city...</p>
+<p align="center">Rainy weather complicates plans for Shiori and the Kugas. When Machi and Fumio are down<br>in the dumps as a result, Ichiro and Shiori get creative in their efforts to<br>make the most of the day's disappointing weather.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (Spanish Dub) - Episode 56 - Conditions of the Knight</h3></th>
+<th><h3 align="center">A Galaxy Next Door (Thai Dub) - Episode 3 - Drama Bomb with the Princess</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0997abb1b5f314aa778b3e2465f5e9f01730903933_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/603b29219c3b392ad8d0892111c2eee81682168178_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73GG0/conditions-of-the-knight">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z5M5/drama-bomb-with-the-princess">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Bishop Regulus of the Seven Deadly Sins wants to force Emilia to marry him, even<br>though he already has hundreds of wives. While he is having the wedding hall prepared,<br>Subaru and the others are planning to rescue Emilia and reclaim the city...</p>
+<p align="center">Shiori and Ichiro explore the ins and outs of how daily life will function under<br>the terms of their Engagement Pact. Ichiro's friend and mentor Momoka comes over for a<br>visit, but this has an unexpected effect on Shiori's state of mind.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (German Dub) - Episode 55 - A Dark Torrent</h3></th>
+<th><h3 align="center">A Galaxy Next Door (Thai Dub) - Episode 2 - Shopping with the Princess</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c78a8df7dd206a44915e94c5d9e34c4f1730283852_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e17a7fb68136155b23421f35e80584571681574184_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NZZP/a-dark-torrent">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PM1J/shopping-with-the-princess">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The attack on the city hall enters its second phase. Subaru and Crusch breach the<br>interior, but there they are awaited by Capella, who has some sneaky tricks up her<br>sleeve...</p>
+<p align="center">Ichiro learns the hard way some of the physical implications of his newfound bond with<br>Shiori. Now that she has a permanent place to live, it's time for the two<br>of them to do some shopping.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (French Dub) - Episode 54 - Operation: Take Back the Government Office</h3></th>
+<th><h3 align="center">A Galaxy Next Door (Thai Dub) - Episode 1 - Crunch Time with the Princess</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3cb8278f87a589f18fedcdcfdd36ec341729689179_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1c62f9aceeef55805164d2c2173718bd1680972563_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX44Q/operation-take-back-the-government-office">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJXDE/crunch-time-with-the-princess">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Subaru and his comrades find themselves in a dire situation after the city was taken<br>over by the Sin Archbishops. Now, they are devising a plan to first reclaim the<br>city hall...</p>
+<p align="center">Ichiro Kuga is a manga artist struggling to support his two young siblings, and he's<br>in need of an assistant. Shiori Goshiki wishes to become that assistant, but her background<br>is unusual in more ways than one.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KamiErabi GOD.app Season 2 - Episode 20 - I Thought Up My Own Lines</h3></th>
+<th><h3 align="center">'Tis Time for "Torture," Princess (Thai Dub) - Episode 12 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c07b827bb7986f104431104ebef576f71732122066_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f0de239fb14c566fc2379703b40237b61711381069_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKWQV/i-thought-up-my-own-lines">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN3N7/untitled">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Higaki reveals to Lall and Kyo some game-changer secrets about the KamiErabi and the very<br>nature of the world. A race against time then begins as both the parallel world<br>they're inside and the world from which they came begin to collapse.</p>
+<p align="center">Vanilla invites Princess out on a playdate. The princess catches a cold. Torture worries about<br>a corporate shake-up. And the Hell-Lord wakes up to find himself in a strange new<br>world...</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Delico's Nursery - Episode 12 - Sweet Dreams</h3></th>
+<th><h3 align="center">'Tis Time for "Torture," Princess (Thai Dub) - Episode 11 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c4898ee88b857ba8742f3e9236d1ebbf1732118174_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2b80ae8755fc4af745c93ce3a0ce25b71710770104_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0V4Q/sweet-dreams">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQEQP/untitled">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As a dhampir, Juras doesn't have long left to live. In an attempt to kill<br>TRUMP before he expires, he uses his cocoon phase power to enter the deity's mind.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Prince of Tennis II U-17 WORLD CUP SEMIFINAL - Episode 8 - Team Spain, Ryoga Echizen</h3></th>
+<th><h3 align="center">'Tis Time for "Torture," Princess (Thai Dub) - Episode 10 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/488ff123516a9cd06e3f0a970f5ba5c11732118134_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0565af7fa5f6aa0d43f9e9e6f3e0c41b1710172209_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQP82/team-spain-ryoga-echizen">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7313D/untitled">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the other semifinals bracket, Team USA is competing with Team Spain for a spot<br>at the finals. Ryoga Echizen, who is now playing for Team Spain, clashes with Ralph<br>Reinhart of Team USA.</p>
+<p align="center">Torture takes the Princess to the beach to torture her with heated combat for a<br>chance at freedom. However, when the Princess proves more capable when she expected, she'll need</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Sengoku Youko - Episode 30 - Feast of the Uncanny</h3></th>
+<th><h3 align="center">'Tis Time for "Torture," Princess (Thai Dub) - Episode 9 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/66bbbf355091df7e12eb10c37d7b630b1732118111_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/794bfbd2e697d77aa8b1b1c2b5795a3f1709569305_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NJ70/feast-of-the-uncanny">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXGXZ/untitled">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Mudo struggles to defeat a katawara made up of all of Japan's weather, it<br>may take even more than the black dragon has to win.</p>
+<p align="center">Torture enjoys some downtime in her hotel room after a long day on a business<br>trip. Maomao-chan bakes cookies for the very first time. The princess is tortured with tea<br>and cake.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 - Episode 58 - The One I'll Love Someday</h3></th>
+<th><h3 align="center">'Tis Time for "Torture," Princess (Thai Dub) - Episode 8 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3e14266a60a3810f69e441fe480242541732116549_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c786b59ab8a4236d6073623c0158646f1708966984_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZD1V/the-one-ill-love-someday">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVK4KJ/untitled">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Subaru and the others hold a meeting in the city hall to develop a strategy<br>against the four Sin Archbishops. However, Emilia is slowly running out of time...</p>
+<p align="center">Youki and Inki take on the torturer promotion exam. Giant invites the princess out on<br>a night stroll. And a new member of the Hellhorde shows up to teach the<br>princess what real torture is!</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Do-Over Damsel Conquers the Dragon Emperor - Episode 7 - I Want to Stop Living the Slow Life, so I Have Decided to Start in the Dragon Knights</h3></th>
+<th><h3 align="center">'Tis Time for "Torture," Princess (Thai Dub) - Episode 7 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f4ac5a953f47fbe94da411fe9e48084c1732112815_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/33b109013192f14b4d1155c421c066bb1708357736_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9WV4/i-want-to-stop-living-the-slow-life-so-i-have-decided-to-start-in-the-dragon-knights">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9P9E/untitled">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hadis, Jill, and the others head to the imperial capital, Rahelm. As they near the<br>city, they're suddenly attacked! Jill and the others spring into action. Amidst the fighting, the<br>leader of the other forces accuses Hadis of being a false emperor.</p>
+<p align="center">The princess faces a two-pronged assault from a pair of adorable kitties. Maomao-chan competes in<br>the annual field day at her preschool as her family and friends cheer her on.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Acro Trip - Episode 9 - Wannabe Hip Evil</h3></th>
+<th><h3 align="center">'Tis Time for "Torture," Princess (Thai Dub) - Episode 6 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d98cb85eba5303140a6f073284b593e21732108037_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2fef33fdc9e264727afc88870415c65e1707755037_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZDQV/wannabe-hip-evil">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX1XJ/untitled">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Whether it's waking up extremely early or having a stain on his outfit, Chroma has<br>recently been facing obstacles that are spoiling his battles against Berry Blossom. He needs to<br>take action, but then things get even worse…</p>
+<p align="center">The Hell-Lord rewards Maomao-chan for her promotion. Meanwhile, the princess faces the horrors of gooey<br>cheese, a routine physical, and the return of her loyal White Knight.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized Season 2 (Japanese Audio) - Episode 8 - The Source of Magic: The Power of Emotions.</h3></th>
+<th><h3 align="center">'Tis Time for "Torture," Princess (Thai Dub) - Episode 5 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/321706086a4a98ce4405e73338ba906a1732062151_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1572a181f09da309655ca634d454f3ca1707147813_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/20/2024</td>
+<td align="center">11/21/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE9549/the-source-of-magic-the-power-of-emotions">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN0N7/untitled">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the help of the Water Saint, who is now a goddess, the dragon now<br>knows what his opponent is plotting. But can he avert it?</p>
+<p align="center">The fearless princess must contend with the horror of roasted marshmallows, sweltering saunas, and haunted<br>school buildings. Meanwhile, an old foe lies in wait to exact his revenge...</p>
 </td>
 </tr>
 </table>
