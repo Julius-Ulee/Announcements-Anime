@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 22, 2024, 7:28:31 PM</em></p>
+<p align="center"><em>Updated on: Nov 23, 2024, 8:06:54 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,380 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II (German Dub) - Episode 5 - BTRY's Choice</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3f48cd04e9afc0cdb9f47dcd99ec5e501730476555_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8N784/btrys-choice">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The organizing team of the game announced a shocking, special rule to be implemented. One<br>“betrayer” will be selected from the six remaining teams to form a new team. Pitohui<br>is selected from LPFM, and the team leader of SHINC, Eva, also joins. With this<br>new rule implemented, Pitohui is happy that she can fight against LLENN. Eva gracefully leaves<br>her team, hoping to fight against LLENN, too. All of the "betrayers" meet up on<br>a luxury cruise ship set up in UNKNOWN, forming a most intimidating team named "BTRY"!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II (English Dub) - Episode 4 - A Special Rule Launched</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2902d151f729b5ee78440cf241e070891729868500_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NV8V/a-special-rule-launched">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Clarence and Shirley defeat and destroy the allied team. KKHC is wiped out after the<br>two kill each other in a fierce battle. Meanwhile, LPFM rides a truck inside a<br>freight car and calmly heads over to UNKNOWN as if going through a deserted field.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA (Hindi Dub) - Episode 3 - Daima</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd3e5a3d0b1576a58bbaa263fc58dc1e1729871904_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKVWZ/daima">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Goku, Supreme Kai, and Glorio head out to the "Demon Realm" first. Their plane travels<br>through space and a mysterious dimension. They arrive at the entrance to the Demon Realm,<br>the "Third Demon World"!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA (Tamil Dub) - Episode 3 - Daima</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd3e5a3d0b1576a58bbaa263fc58dc1e1729871904_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ1VW/daima">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Goku, Supreme Kai, and Glorio head out to the "Demon Realm" first. Their plane travels<br>through space and a mysterious dimension. They arrive at the entrance to the Demon Realm,<br>the "Third Demon World"!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA (Telugu Dub) - Episode 3 - Daima</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd3e5a3d0b1576a58bbaa263fc58dc1e1729871904_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN0QG/daima">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Goku, Supreme Kai, and Glorio head out to the "Demon Realm" first. Their plane travels<br>through space and a mysterious dimension. They arrive at the entrance to the Demon Realm,<br>the "Third Demon World"!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Stories of Girls Who Couldn't Be Magicians - Episode 8 - I'll Be Having the Complete Sauna Experience!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7dcf49d6041450cee6ff0a108288bace1732300001_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWKXQZ/ill-be-having-the-complete-sauna-experience">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A freak blizzard buries Rettoran in snow and delays the start of classes, so Kurumi<br>and friends go out to play on the frozen lake. When they decide to build<br>a sauna, Kurumi finds a massive stone that may be more than it seems.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">THE iDOLM@STER SHINY COLORS 2nd Season - Episode 8 - Alstroemeria is...</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/69cad5509c18e96bc7d81493bf43b0981732292999_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE943V/alstroemeria-is">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Alstroemeria prepares for an Apricot magazine audition, confronting personal doubts and motivations. Through heartfelt moments<br>and reflection, they deepen their bond as Alstroemeria, embracing both unity and individuality.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II - Episode 8 - The Showdown</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0a16cb9bcbfec2be81da49ef880ede651732294826_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9JGM/the-showdown">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">It turns out the true "betrayer" from LPFM was LLENN. Pitohui lied, saying she was<br>the betrayer to fight LLENN with all her power. LLENN becomes outraged as she learns<br>the truth and declares she wants to defeat Pitohui.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA - Episode 7 - Collar</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/31e33e4b6d3d2c585ef478d40ac1001e1732292905_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK800/collar">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Goku and his companions continue their journey. But the Gendarmerie appear and bar their way<br>again, perhaps due to them knowing the location of the Magic Collar around Panzy's neck.<br>Can the bond with her friends save Panzy from peril?!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">True Beauty (Japanese Audio) - Episode 8 - Stop lying to yourself</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/faeeb9cd492c3889b5cbf97b137506d91732287211_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJG5K/stop-lying-to-yourself">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After seeing Suho together with Sujin, Jugyeong finds herself avoiding him at all costs, The<br>second mission also calls for her attention and Jugyeong gets help from no other than<br>Seojun.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">2.5 Dimensional Seduction - Episode 21</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/890578d53a64fdaacd96df735c40a1ba1732259950_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/22/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVK9D9">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Assassination Classroom Second Season (Tamil Dub) - Episode 19 - Outer Space Time</h3></th>
 </tr>
@@ -309,380 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">With the name of the company settled, Haru and Gaku move on to hiring personnel.<br>But which of the five applicants would be most suited to the job, especially when<br>it hasn't been decided what the "job" is yet?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TRILLION GAME (Hindi Dub) - Episode 5 - The Maiden's Gaze</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f8619b6aa793b261b7b533b8aa3caaac1729784784_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P145/the-maidens-gaze">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Haru and Gaku compete as the only second team in the final round of the<br>Security Championship. But right from the start, Haru demonstrates that he can contribute to the<br>duo's victory even without IT skills.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TRILLION GAME (Tamil Dub) - Episode 5 - The Maiden's Gaze</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f8619b6aa793b261b7b533b8aa3caaac1729784784_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ZMED/the-maidens-gaze">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Haru and Gaku compete as the only second team in the final round of the<br>Security Championship. But right from the start, Haru demonstrates that he can contribute to the<br>duo's victory even without IT skills.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TRILLION GAME (Telugu Dub) - Episode 5 - The Maiden's Gaze</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f8619b6aa793b261b7b533b8aa3caaac1729784784_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31WQ7/the-maidens-gaze">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Haru and Gaku compete as the only second team in the final round of the<br>Security Championship. But right from the start, Haru demonstrates that he can contribute to the<br>duo's victory even without IT skills.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Portuguese Dub) - Episode 29 - To Kyoto, Once More</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/209037fa87ad46b57892d34f626774f91730394240_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX1DJ/to-kyoto-once-more">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Kenshin defeats Senkaku and finally faces off against Shishio. However, Shishio expresses his disappointment at<br>Kenshin's policy of refusing to kill and lets his close associate, Sojiro Seta, deal with<br>Kenshin. He leaves the village with another associate of his, Yumi Komagata. To continue his<br>pursuit of Shishio, Kenshin faces off with Sojiro and exchanges blows of Battojutsu, which can<br>make or break the fight's outcome. It is a battle of divine speed from both<br>sides...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Spanish Dub) - Episode 29 - To Kyoto, Once More</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/209037fa87ad46b57892d34f626774f91730394240_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVK33/to-kyoto-once-more">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Kenshin defeats Senkaku and finally faces off against Shishio. However, Shishio expresses his disappointment at<br>Kenshin's policy of refusing to kill and lets his close associate, Sojiro Seta, deal with<br>Kenshin. He leaves the village with another associate of his, Yumi Komagata. To continue his<br>pursuit of Shishio, Kenshin faces off with Sojiro and exchanges blows of Battojutsu, which can<br>make or break the fight's outcome. It is a battle of divine speed from both<br>sides...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Hindi Dub) - Episode 29 - To Kyoto, Once More</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/209037fa87ad46b57892d34f626774f91730394240_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMKVZM/to-kyoto-once-more">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Kenshin defeats Senkaku and finally faces off against Shishio. However, Shishio expresses his disappointment at<br>Kenshin's policy of refusing to kill and lets his close associate, Sojiro Seta, deal with<br>Kenshin. He leaves the village with another associate of his, Yumi Komagata. To continue his<br>pursuit of Shishio, Kenshin faces off with Sojiro and exchanges blows of Battojutsu, which can<br>make or break the fight's outcome. It is a battle of divine speed from both<br>sides...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (English Dub) - Episode 29 - To Kyoto, Once More</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/209037fa87ad46b57892d34f626774f91730394240_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJDZ5/to-kyoto-once-more">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Kenshin defeats Senkaku and finally faces off against Shishio. However, Shishio expresses his disappointment at<br>Kenshin's policy of refusing to kill and lets his close associate, Sojiro Seta, deal with<br>Kenshin. He leaves the village with another associate of his, Yumi Komagata. To continue his<br>pursuit of Shishio, Kenshin faces off with Sojiro and exchanges blows of Battojutsu, which can<br>make or break the fight's outcome. It is a battle of divine speed from both<br>sides...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">365 Days to the Wedding (Portuguese Dub) - Episode 5 - How about We Travel Together?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/aaca0c8bcc1bc30117defcb647f4de4e1730387834_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXGVZ/how-about-we-travel-together">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The trip to Aso largely turns into a comedy of errors, but at least now<br>Takuya's family knows the marriage idea is just a ploy. Afterwards, it begins to resemble<br>a normal countryside trip, but there seems to be no end to the surprises that<br>are in store.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">365 Days to the Wedding (German Dub) - Episode 5 - How about We Travel Together?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/aaca0c8bcc1bc30117defcb647f4de4e1730387834_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU731PD/how-about-we-travel-together">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The trip to Aso largely turns into a comedy of errors, but at least now<br>Takuya's family knows the marriage idea is just a ploy. Afterwards, it begins to resemble<br>a normal countryside trip, but there seems to be no end to the surprises that<br>are in store.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">365 Days to the Wedding (Spanish Dub) - Episode 5 - How about We Travel Together?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/aaca0c8bcc1bc30117defcb647f4de4e1730387834_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE93GW/how-about-we-travel-together">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The trip to Aso largely turns into a comedy of errors, but at least now<br>Takuya's family knows the marriage idea is just a ploy. Afterwards, it begins to resemble<br>a normal countryside trip, but there seems to be no end to the surprises that<br>are in store.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">365 Days to the Wedding (Hindi Dub) - Episode 5 - How about We Travel Together?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/aaca0c8bcc1bc30117defcb647f4de4e1730387834_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/21/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VJ3W/how-about-we-travel-together">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The trip to Aso largely turns into a comedy of errors, but at least now<br>Takuya's family knows the marriage idea is just a ploy. Afterwards, it begins to resemble<br>a normal countryside trip, but there seems to be no end to the surprises that<br>are in store.</p>
 </td>
 </tr>
 </table>
