@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 29, 2024, 7:29:17 PM</em></p>
+<p align="center"><em>Updated on: Nov 30, 2024, 8:08:55 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,380 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 42 - The Unusual Technique Used to Make OVERLORD: The Sacred Kingdom</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f3e52c6df1c3ef58193fef3d7bfecb341732921532_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/30/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQE93/the-unusual-technique-used-to-make-overlord-the-sacred-kingdom">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Naoyuki Itō, the director of the Overlord TV anime series and Overlord: The Sacred Kingdom,<br>and Kentarô Hashimoto, the film’s producer, shared their thoughts on the film with LeAlec Murray<br>and Lena Lemon. Hear about their experience adapting this story for the silver screen and<br>which characters are their favorites. Then, get LeAlec and Leah’s OVA recommendations and learn which<br>anime they’d like to see get a slice-of-life crossover.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II (German Dub) - Episode 6 - The Offensive and Defensive Battle That Still Has Time</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8c8e239e765afad907616f6b7e7cb9d01731080854_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P73K/the-offensive-and-defensive-battle-that-still-has-time">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">LLENN and her comrades head to the center of the island, where they find the<br>luxury cruise ship. As the island continues to sink, they must get on board. However,<br>they can’t carelessly approach the vessel as BTRY awaits them onboard.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA (Hindi Dub) - Episode 4 - Chatty</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e93df1712febd0ea52d1e0b41b46dd801730476637_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXMNK/chatty">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Forced to make their way through the Third Demon World on foot, Goku and his<br>companions stop by a lone drive-in on the way. There they encounter some strange souvenirs<br>and a rather chatty and quirky Majin woman and her husband!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA (Tamil Dub) - Episode 4 - Chatty</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e93df1712febd0ea52d1e0b41b46dd801730476637_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVEGN/chatty">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Forced to make their way through the Third Demon World on foot, Goku and his<br>companions stop by a lone drive-in on the way. There they encounter some strange souvenirs<br>and a rather chatty and quirky Majin woman and her husband!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA (Telugu Dub) - Episode 4 - Chatty</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e93df1712febd0ea52d1e0b41b46dd801730476637_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK0MZ/chatty">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Forced to make their way through the Third Demon World on foot, Goku and his<br>companions stop by a lone drive-in on the way. There they encounter some strange souvenirs<br>and a rather chatty and quirky Majin woman and her husband!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Stories of Girls Who Couldn't Be Magicians - Episode 9 - I'm Gonna Be a Magician?!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/db89cb38dcbaee53f0826ca466dc3cc61732895175_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQE4W/im-gonna-be-a-magician">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kurumi and Yuzu get an offter to test for a place in the Magumi. It<br>should be the second chance both girls have dreamed, but they find themselves hesitating. Is<br>an old dream worth giving up their present for?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">THE iDOLM@STER SHINY COLORS 2nd Season - Episode 9 - One Resolution for the Two of Me</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5095e4e71ca6319433d79bb31fa9b8261732895041_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NZ24/one-resolution-for-the-two-of-me">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mei reflects on balancing her true self with her "mysterious" idol persona. Guided by Fuyuko<br>and Asahi's support, she considers showing her authentic side on stage, exploring how to bring<br>both parts of her identity together.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II - Episode 9 - An Invite to the Battlefield</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/989a76c7617f0afec063c94a57d3c24b1732894995_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN1GN/an-invite-to-the-battlefield">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A month has passed since the fierce SJ3 battles. Karen returns to Hokkaido and tells<br>Miyu she can’t decide whether to continue playing GGO. However, Miyu figures out that Karen's<br>actually concerned about the pure rivalry with Elza and Saki.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA - Episode 8 - Tamagami</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/10c92080767edcbe212570e2a801fd501732895097_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQGJP/tamagami">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The fight with a Tamagami begins! The Tamagamis are the undefeated guardians of the Dragon<br>Balls. Seeing Goku fight toe-to-toe with one, Panzy and the others are unable to hide<br>their surprise. As the battle heats up, what will happen?!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">True Beauty (Japanese Audio) - Episode 9 - Game of Truth</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f644892d799422f7c3c0f0c0256cafa81732885327_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PVKX/game-of-truth">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sua confronts Sujin about stealing Jugyeongs outfit, but she denies everything. The friend group gets<br>together for a pyjama party later. Sua and Chaerin show special interest in Jugyeong's love<br>life.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">2.5 Dimensional Seduction - Episode 22</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1069bc6fbae217a284c03f725bd1debe1732885149_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/29/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8NG4D">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Assassination Classroom Second Season (Tamil Dub) - Episode 20 - Valentine's Day Time</h3></th>
 </tr>
@@ -309,380 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Gaku and Haru win the Security Championship, but they're disqualified after a complaint over their<br>physical attack against the other competitors. However, investor Kedoin Kazuki is drawn to their abilities<br>and reaches out to them.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Portuguese Dub) - Episode 30 - Encounter in the Forest</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cecf9e35a2e3dd0e760a4aabe2d0e3651731003074_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXWJVQ/encounter-in-the-forest">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sanosuke makes his way to Kyoto while trudging through the forest and getting lost at<br>the same time. On the road there, he meets Anji Yukyuzan, a fallen monk currently<br>in training. Sanosuke witnesses Anji unleash an astonishing strike up close, a technique that took<br>Anji 10 years to acquire. There, Anji decides to teach Sanosuke “the Mastery of Two<br>Layers,” an art of destruction. However, he requires Sanosuke to learn the technique within one<br>month; if he fails, he will have to die. Against this unreasonable and excessive condition<br>laid out to him, Sanosuke declares he’ll learn it within a week. The training for<br>this technique, which will make or break his life, begins….</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Spanish Dub) - Episode 30 - Encounter in the Forest</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cecf9e35a2e3dd0e760a4aabe2d0e3651731003074_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG2XP/encounter-in-the-forest">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sanosuke makes his way to Kyoto while trudging through the forest and getting lost at<br>the same time. On the road there, he meets Anji Yukyuzan, a fallen monk currently<br>in training. Sanosuke witnesses Anji unleash an astonishing strike up close, a technique that took<br>Anji 10 years to acquire. There, Anji decides to teach Sanosuke “the Mastery of Two<br>Layers,” an art of destruction. However, he requires Sanosuke to learn the technique within one<br>month; if he fails, he will have to die. Against this unreasonable and excessive condition<br>laid out to him, Sanosuke declares he’ll learn it within a week. The training for<br>this technique, which will make or break his life, begins….</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Hindi Dub) - Episode 30 - Encounter in the Forest</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cecf9e35a2e3dd0e760a4aabe2d0e3651731003074_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ7Q9/encounter-in-the-forest">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sanosuke makes his way to Kyoto while trudging through the forest and getting lost at<br>the same time. On the road there, he meets Anji Yukyuzan, a fallen monk currently<br>in training. Sanosuke witnesses Anji unleash an astonishing strike up close, a technique that took<br>Anji 10 years to acquire. There, Anji decides to teach Sanosuke “the Mastery of Two<br>Layers,” an art of destruction. However, he requires Sanosuke to learn the technique within one<br>month; if he fails, he will have to die. Against this unreasonable and excessive condition<br>laid out to him, Sanosuke declares he’ll learn it within a week. The training for<br>this technique, which will make or break his life, begins….</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (English Dub) - Episode 30 - Encounter in the Forest</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cecf9e35a2e3dd0e760a4aabe2d0e3651731003074_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z02G/encounter-in-the-forest">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sanosuke makes his way to Kyoto while trudging through the forest and getting lost at<br>the same time. On the road there, he meets Anji Yukyuzan, a fallen monk currently<br>in training. Sanosuke witnesses Anji unleash an astonishing strike up close, a technique that took<br>Anji 10 years to acquire. There, Anji decides to teach Sanosuke “the Mastery of Two<br>Layers,” an art of destruction. However, he requires Sanosuke to learn the technique within one<br>month; if he fails, he will have to die. Against this unreasonable and excessive condition<br>laid out to him, Sanosuke declares he’ll learn it within a week. The training for<br>this technique, which will make or break his life, begins….</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">365 Days to the Wedding (Portuguese Dub) - Episode 6 - Are Two People Happy Together?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/72ddca697437fb9957efa15137eb37a51730991434_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE913X/are-two-people-happy-together">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After returning to Tokyo, Rika and Takuya are both no longer sure how to communicate<br>with one another. An unexpected turn of events for their coworker Shinshi demonstrates that difficulties<br>can lurk even in the most seemingly blissful of marriages.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">365 Days to the Wedding (Spanish Dub) - Episode 6 - Are Two People Happy Together?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/72ddca697437fb9957efa15137eb37a51730991434_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NM28/are-two-people-happy-together">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After returning to Tokyo, Rika and Takuya are both no longer sure how to communicate<br>with one another. An unexpected turn of events for their coworker Shinshi demonstrates that difficulties<br>can lurk even in the most seemingly blissful of marriages.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">365 Days to the Wedding (Hindi Dub) - Episode 6 - Are Two People Happy Together?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/72ddca697437fb9957efa15137eb37a51730991434_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKN28/are-two-people-happy-together">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After returning to Tokyo, Rika and Takuya are both no longer sure how to communicate<br>with one another. An unexpected turn of events for their coworker Shinshi demonstrates that difficulties<br>can lurk even in the most seemingly blissful of marriages.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">365 Days to the Wedding (Tamil Dub) - Episode 6 - Are Two People Happy Together?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/72ddca697437fb9957efa15137eb37a51730991434_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8N9X2/are-two-people-happy-together">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After returning to Tokyo, Rika and Takuya are both no longer sure how to communicate<br>with one another. An unexpected turn of events for their coworker Shinshi demonstrates that difficulties<br>can lurk even in the most seemingly blissful of marriages.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">365 Days to the Wedding (Telugu Dub) - Episode 6 - Are Two People Happy Together?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/72ddca697437fb9957efa15137eb37a51730991434_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNX7VM/are-two-people-happy-together">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After returning to Tokyo, Rika and Takuya are both no longer sure how to communicate<br>with one another. An unexpected turn of events for their coworker Shinshi demonstrates that difficulties<br>can lurk even in the most seemingly blissful of marriages.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">365 Days to the Wedding (German Dub) - Episode 6 - Are Two People Happy Together?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/72ddca697437fb9957efa15137eb37a51730991434_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ7P7/are-two-people-happy-together">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After returning to Tokyo, Rika and Takuya are both no longer sure how to communicate<br>with one another. An unexpected turn of events for their coworker Shinshi demonstrates that difficulties<br>can lurk even in the most seemingly blissful of marriages.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">DAN DA DAN (Portuguese Dub) - Episode 7 - To a Kinder World</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/17a07405a960c996e890f967497d89371731598737_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/28/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQG37/to-a-kinder-world">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Momo and Okarun manage to pull Acrobatic Silky away from Aira after a fierce battle.<br>However, Aira herself had lost her life as a side-effect of being eaten by a<br>yokai monster. Facing Aira in such a crisis, Acrobatic Silky has a surprising proposal…</p>
 </td>
 </tr>
 </table>
