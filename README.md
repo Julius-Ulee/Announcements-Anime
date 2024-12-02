@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Dec 1, 2024, 7:27:16 PM</em></p>
+<p align="center"><em>Updated on: Dec 2, 2024, 8:13:17 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 - Episode 33 - The Lion Catches a Rabbit With Its Full Strength; the Crab Catches a Phoenix With a Pizza Cutter</h3></th>
+<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2 (German Dub) - Episode 18 - Evolution</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d0dd2c9a4531e247200acc1bc22b77be1733047807_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/353ff102a10eb3a919511459f780516a1731234439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQ05J/the-lion-catches-a-rabbit-with-its-full-strength-the-crab-catches-a-phoenix-with-a-pizza-cutter">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V2ND/evolution">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The battle of Crimson Twinewing vs. Fiddler Crab reaches its climax, and Sunraku decides what<br>to do next.</p>
+<p align="center">Couran's forces prepare for their next campaign, and Ars is sent to negotiate with one<br>of the defiant enemy leaders. But there seems to be more going on than meets<br>the eye...</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST - Episode 21 - The Moonlight Divinities</h3></th>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (German Dub) - Episode 16 - God Seeds</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/89ca917d979d65b4bedf3e15b49d2ca51733032215_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b5df3309336cea4ee2e1bb995ce77eb81729989559_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ2GK/the-moonlight-divinities">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVE7J/god-seeds">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After Selene transports Natsu and the others to Elentear, they are attacked by her lackeys,<br>the Moonlight Divinities. They fight with the Spirit Arts, which is different from Magic or<br>spells, and the Fairy Tail wizards are in trouble.</p>
+<p align="center">Natsu turns Wolfen into a fake Zeref and uses Ankhseram's curse on Wolfen. Other Fairy<br>Tail wizards face three other God Seeds: Metro, Gears, and Doom. Then, the leader of<br>God Seeds, Aldoron, shows up in front of Natsu.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece Log: Fish-Man Island Saga (Current) - Undersea Volcanic Eruption! The Straw Hats in Turmoil</h3></th>
+<th><h3 align="center">MF GHOST Season 2 (Portuguese Dub) - Episode 18 - The Devil of Ashinoko Skyline</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e764b71dd346aa40a152c5273d17afc21733016569_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e93b267173d48ef42d1cc3c9be75cb6b1731235331_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKZQX/undersea-volcanic-eruption-the-straw-hats-in-turmoil">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXM59/the-devil-of-ashinoko-skyline">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the crew plumb the depths of the sea in search of Luffy, Sanji and<br>Zoro, they encounter the terrifying and mysterious secrets of the deep, including an undersea volcano,<br>whose eruption almost spells "the end" for the Straw Hats as they continue on their<br>way to Fish-Man Island.</p>
+<p align="center">As the competitors enter their third and final lap, the rain starts to ease, but<br>the change in weather conditions brings with it something unexpected.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wonderful Precure! - Episode 43 - Feelings Spun Together</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Portuguese Dub) - Episode 19 - ALL IN</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/da9bc858ce74b0c90915520d560a02571733014047_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6bb9277794528fb381736173786670fa1731233312_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMGD54/feelings-spun-together">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN54Z/all-in">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Mayu decides to hold a knitting class for her classmates. Zakuro happens to see this<br>and is inspired to knit something for Gaou.</p>
+<p align="center">Special rules are applied to Anaak and Ran’s match, and they face off against each<br>other one-on-one. As both combatants fight fiercely with all their strength, the gamblers become excited,<br>and the battle finally nears its end! Meanwhile, Beta, who was created in the workshop,<br>appears before Viole...</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Portuguese Dub) - Episode 6 - You're Lonelier Than I Thought.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (German Dub) - Episode 19 - ALL IN</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f672ea04602efd466e4526aeb953cf601731180343_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6bb9277794528fb381736173786670fa1731233312_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ7Z2/youre-lonelier-than-i-thought">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMK0JZ/all-in">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Finding enjoyment in teasing the former assassin, Grace returns as a gym teacher. After much<br>harassment, she clues in Hitoyoshi of the changes occurring to Yuki. He now wants to<br>know more about the maid as he sees her working hard to be normal.</p>
+<p align="center">Special rules are applied to Anaak and Ran’s match, and they face off against each<br>other one-on-one. As both combatants fight fiercely with all their strength, the gamblers become excited,<br>and the battle finally nears its end! Meanwhile, Beta, who was created in the workshop,<br>appears before Viole...</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Spanish Dub) - Episode 6 - You're Lonelier Than I Thought.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Spanish Dub) - Episode 19 - ALL IN</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f672ea04602efd466e4526aeb953cf601731180343_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6bb9277794528fb381736173786670fa1731233312_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNWD5/youre-lonelier-than-i-thought">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG2QE/all-in">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Finding enjoyment in teasing the former assassin, Grace returns as a gym teacher. After much<br>harassment, she clues in Hitoyoshi of the changes occurring to Yuki. He now wants to<br>know more about the maid as he sees her working hard to be normal.</p>
+<p align="center">Special rules are applied to Anaak and Ran’s match, and they face off against each<br>other one-on-one. As both combatants fight fiercely with all their strength, the gamblers become excited,<br>and the battle finally nears its end! Meanwhile, Beta, who was created in the workshop,<br>appears before Viole...</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Hindi Dub) - Episode 6 - You're Lonelier Than I Thought.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Russian Dub) - Episode 19 - ALL IN</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f672ea04602efd466e4526aeb953cf601731180343_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6bb9277794528fb381736173786670fa1731233312_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXM39/youre-lonelier-than-i-thought">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWJ751/all-in">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Finding enjoyment in teasing the former assassin, Grace returns as a gym teacher. After much<br>harassment, she clues in Hitoyoshi of the changes occurring to Yuki. He now wants to<br>know more about the maid as he sees her working hard to be normal.</p>
+<p align="center">Special rules are applied to Anaak and Ran’s match, and they face off against each<br>other one-on-one. As both combatants fight fiercely with all their strength, the gamblers become excited,<br>and the battle finally nears its end! Meanwhile, Beta, who was created in the workshop,<br>appears before Viole...</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Tamil Dub) - Episode 6 - You're Lonelier Than I Thought.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Hindi Dub) - Episode 19 - ALL IN</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f672ea04602efd466e4526aeb953cf601731180343_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6bb9277794528fb381736173786670fa1731233312_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVEPJ/youre-lonelier-than-i-thought">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31ENK/all-in">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Finding enjoyment in teasing the former assassin, Grace returns as a gym teacher. After much<br>harassment, she clues in Hitoyoshi of the changes occurring to Yuki. He now wants to<br>know more about the maid as he sees her working hard to be normal.</p>
+<p align="center">Special rules are applied to Anaak and Ran’s match, and they face off against each<br>other one-on-one. As both combatants fight fiercely with all their strength, the gamblers become excited,<br>and the battle finally nears its end! Meanwhile, Beta, who was created in the workshop,<br>appears before Viole...</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Telugu Dub) - Episode 6 - You're Lonelier Than I Thought.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (French Dub) - Episode 18 - The Mad Dog and the Lizard</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f672ea04602efd466e4526aeb953cf601731180343_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e9667b3578b1a4d8c7f81cb81160c8641730628312_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE91DK/youre-lonelier-than-i-thought">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7V2N7/the-mad-dog-and-the-lizard">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Finding enjoyment in teasing the former assassin, Grace returns as a gym teacher. After much<br>harassment, she clues in Hitoyoshi of the changes occurring to Yuki. He now wants to<br>know more about the maid as he sees her working hard to be normal.</p>
+<p align="center">As soon as the game begins, Wangnan, Prince, and Akraptor are forced to fight against<br>Miseng, who has been driven mad by Verdi’s ability. Unable to communicate with Miseng, how<br>will they stop her rampage?</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (German Dub) - Episode 6 - Awakening</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese Dub) - Episode 30 - The Impetus of Hunger; the Persistence of Thirst</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/de4540719dc72665cf073c04ea604e8e1731171812_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a63a5879ee1107ee12cae303c82600581731229406_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMG2EE/awakening">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P7GK/the-impetus-of-hunger-the-persistence-of-thirst">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the incident in Aomori concluded, things begin to calm down at the Knights of<br>the True Cross Japan Branch. Lightning begins his investigation of the Illuminati with Suguro. Lightning<br>suspects that there was something within the Japan Branch that was connected to the Illuminati<br>and the "Blue Night." Meanwhile, after receiving Rin's confession, Shiemi worries that she doesn't understand<br>the difference between "romantic love" and "friendship love." Unable to bear any further witness to<br>this, Izumo makes a suggestion.</p>
+<p align="center">Sunraku's attempts to farm the Crystal Scorpions for money are complicated when a giant gold<br>scorpion enters the fray.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (French Dub) - Episode 6 - Awakening</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (German Dub) - Episode 30 - The Impetus of Hunger; the Persistence of Thirst</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/de4540719dc72665cf073c04ea604e8e1731171812_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a63a5879ee1107ee12cae303c82600581731229406_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3P7NK/awakening">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9Z0KX/the-impetus-of-hunger-the-persistence-of-thirst">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the incident in Aomori concluded, things begin to calm down at the Knights of<br>the True Cross Japan Branch. Lightning begins his investigation of the Illuminati with Suguro. Lightning<br>suspects that there was something within the Japan Branch that was connected to the Illuminati<br>and the "Blue Night." Meanwhile, after receiving Rin's confession, Shiemi worries that she doesn't understand<br>the difference between "romantic love" and "friendship love." Unable to bear any further witness to<br>this, Izumo makes a suggestion.</p>
+<p align="center">Sunraku's attempts to farm the Crystal Scorpions for money are complicated when a giant gold<br>scorpion enters the fray.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (English Dub) - Episode 5 - As If Begging for Tears</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 30 - The Impetus of Hunger; the Persistence of Thirst</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/53849a10e2807d7f5c9c42fe7a5eaf151730558912_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a63a5879ee1107ee12cae303c82600581731229406_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK54X/as-if-begging-for-tears">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWK5GX/the-impetus-of-hunger-the-persistence-of-thirst">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With Yukio's clever wit, Rin and his friends are able to deceive Hachiro and successfully<br>get him to break his contract with Shura. However, Hachiro loses all control in a<br>rage, capturing Shura once more and heading toward the frozen lake. When the immortal Hachiro<br>expresses his wish to die, Shura tells him they will sleep together forever at the<br>bottom of the lake and embraces him. But as they sink into the lake, memories<br>of the days she once spent with Shiro flash through Shura's mind.</p>
+<p align="center">Sunraku's attempts to farm the Crystal Scorpions for money are complicated when a giant gold<br>scorpion enters the fray.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (Portuguese Dub) - Episode 5 - The Depths of the Crucible</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 30 - The Impetus of Hunger; the Persistence of Thirst</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0726deac7a94980a54b91e773b1af1d31731171780_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a63a5879ee1107ee12cae303c82600581731229406_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73J5J/the-depths-of-the-crucible">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVQ7K2/the-impetus-of-hunger-the-persistence-of-thirst">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Machina lets her thoughts drift to Veltol as she prepares dinner. Meanwhile, Veltol learns new<br>facts about the Immortal Furnace, and while he tries to inform Machina using Whisper magic,<br>he gets no response. At the same time, Machina has an unexpected visitor…</p>
+<p align="center">Sunraku's attempts to farm the Crystal Scorpions for money are complicated when a giant gold<br>scorpion enters the fray.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (French Dub) - Episode 5 - The Depths of the Crucible</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 30 - The Impetus of Hunger; the Persistence of Thirst</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0726deac7a94980a54b91e773b1af1d31731171780_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a63a5879ee1107ee12cae303c82600581731229406_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDQG5Q/the-depths-of-the-crucible">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQNWP5/the-impetus-of-hunger-the-persistence-of-thirst">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Machina lets her thoughts drift to Veltol as she prepares dinner. Meanwhile, Veltol learns new<br>facts about the Immortal Furnace, and while he tries to inform Machina using Whisper magic,<br>he gets no response. At the same time, Machina has an unexpected visitor…</p>
+<p align="center">Sunraku's attempts to farm the Crystal Scorpions for money are complicated when a giant gold<br>scorpion enters the fray.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (Spanish Dub) - Episode 5 - The Depths of the Crucible</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Tamil Dub) - Episode 30 - The Impetus of Hunger; the Persistence of Thirst</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0726deac7a94980a54b91e773b1af1d31731171780_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a63a5879ee1107ee12cae303c82600581731229406_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UE9M0Z/the-depths-of-the-crucible">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXM89/the-impetus-of-hunger-the-persistence-of-thirst">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Machina lets her thoughts drift to Veltol as she prepares dinner. Meanwhile, Veltol learns new<br>facts about the Immortal Furnace, and while he tries to inform Machina using Whisper magic,<br>he gets no response. At the same time, Machina has an unexpected visitor…</p>
+<p align="center">Sunraku's attempts to farm the Crystal Scorpions for money are complicated when a giant gold<br>scorpion enters the fray.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Lord, Retry! R (Hindi Dub) - Episode 7 - ReMain</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Telugu Dub) - Episode 30 - The Impetus of Hunger; the Persistence of Thirst</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ae980819833653d22f4c4a699870318c1731141766_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a63a5879ee1107ee12cae303c82600581731229406_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGVEWJ/remain">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE91NK/the-impetus-of-hunger-the-persistence-of-thirst">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After the chaos dies down, Kunai returns to Organ, and they continue their journey into<br>the Beast Kingdom.</p>
+<p align="center">Sunraku's attempts to farm the Crystal Scorpions for money are complicated when a giant gold<br>scorpion enters the fray.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Lord, Retry! R (Tamil Dub) - Episode 7 - ReMain</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (French Dub) - Episode 29 - When Humanity Dreams of the Impossible and Takes to the Skies</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ae980819833653d22f4c4a699870318c1731141766_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dd2d185e68b420b6f0d5a37e0de08c101730612926_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE910K/remain">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U31EVK/when-humanity-dreams-of-the-impossible-and-takes-to-the-skies">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After the chaos dies down, Kunai returns to Organ, and they continue their journey into<br>the Beast Kingdom.</p>
+<p align="center">Pencilgon makes a proposal to the other clans. Sunraku forwards his interests in Rabituza, and<br>faces a setback in his farming of the Crystal Scorpions.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Lord, Retry! R (Telugu Dub) - Episode 7 - ReMain</h3></th>
+<th><h3 align="center">MF GHOST Season 2 - Episode 21 - The Rival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ae980819833653d22f4c4a699870318c1731141766_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/397d52b578abde86b9a638a966678dc51733068808_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NM19/remain">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGV59W/the-rival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After the chaos dies down, Kunai returns to Organ, and they continue their journey into<br>the Beast Kingdom.</p>
+<p align="center">A new rival, Moroboshi Sena, arrives on the scene and introduces himself to Kanata.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BLUE LOCK 2nd Season (Portuguese Dub) - Episode 30 - The Big Stage</h3></th>
+<th><h3 align="center">Puniru is a Kawaii Slime - Episode 9 - Let's Start a Band, Punks!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/912854302314ba7d029d36948aaa4e051731162448_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a9dbe505883e7c18a929272912c2f6441733068826_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8NM89/the-big-stage">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73WE7/lets-start-a-band-punks">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The exhibition match between Blue Lock and Japan's U-20s has finally kicked off. The first<br>play Bachira and Isagi set up has been swiftly shut down by the U-20s' captain,<br>Aiku, and Isagi finds a new challenge in him.</p>
+<p align="center">Kotaro wants to be cool and decides to try his luck with dragons and a<br>rock band. Puniru then lets the cat out of the bag about Kotaro’s feelings for<br>Kirara, which forces him to make a move. Can he get Puniru to help him<br>out?</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BLUE LOCK 2nd Season (German Dub) - Episode 30 - The Big Stage</h3></th>
+<th><h3 align="center">Let This Grieving Soul Retire - Episode 10 - I Want to Be Renowned in the Capital</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/912854302314ba7d029d36948aaa4e051731162448_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/784769a2812b8bd189c569bf27731fd41733068837_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2024</td>
+<td align="center">12/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVKNVZ/the-big-stage">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VP3E/i-want-to-be-renowned-in-the-capital">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The exhibition match between Blue Lock and Japan's U-20s has finally kicked off. The first<br>play Bachira and Isagi set up has been swiftly shut down by the U-20s' captain,<br>Aiku, and Isagi finds a new challenge in him.</p>
+<p align="center">The Dragon Slayer Arnold Hail is level 7 and he proudly rolls into the capital<br>with his party "Falling Fog", but Krai doesn't even show a shred of interest. Meanwhile,<br>getting his relics charged is causing quite commotion...</p>
 </td>
 </tr>
 </table>
