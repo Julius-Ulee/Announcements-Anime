@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Dec 13, 2024, 7:29:44 PM</em></p>
+<p align="center"><em>Updated on: Dec 14, 2024, 8:09:58 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,620 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 44 - Build Your 2025 Winter Season Anime Watchlist With Us!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3aaef3bc588dbfcd3765eb22b97aa84c1734130792_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/14/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMN3WG/build-your-2025-winter-season-anime-watchlist-with-us">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Winter 2025 Anime Season has FINALLY been revealed, and we’re building our watchlists together.<br>Leah and Alex break down the new and continuing shows of the winter season and<br>reveal the release dates we know. Then, we’re recommending our most anticipated shows and sharing<br>what anime we’d like to see redone.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II (German Dub) - Episode 8 - The Showdown</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0a16cb9bcbfec2be81da49ef880ede651732294826_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VV18/the-showdown">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">It turns out the true "betrayer" from LPFM was LLENN. Pitohui lied, saying she was<br>the betrayer to fight LLENN with all her power. LLENN becomes outraged as she learns<br>the truth and declares she wants to defeat Pitohui.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II (English Dub) - Episode 7 - Turn Over</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/aa4e86a2180818e7c4a59c84d04918141731691163_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD33EK/turn-over">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">By Pitohui's orders, the luxury cruise ship continued sailing without stopping its leak, but it<br>began sinking into the water as a result. After a fierce battle, LPFM manages to<br>annihilate SHINC.  Meanwhile, Pitohui's trap wipes out MMTM.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA (Hindi Dub) - Episode 6 - Lightning</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d4f3b7d1dde8e6dc661f87e3622ebb6f1731686660_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NNM2/lightning">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After encountering the Gendarmerie, the wardens of the Demon Realm, the four are forced to<br>camp in a cave where they encounter further trouble! The enigmatic Glorio unleashes lightning magic<br>against Goku to resolve the situation!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA (Tamil Dub) - Episode 6 - Lightning</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d4f3b7d1dde8e6dc661f87e3622ebb6f1731686660_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MMWQ/lightning">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After encountering the Gendarmerie, the wardens of the Demon Realm, the four are forced to<br>camp in a cave where they encounter further trouble! The enigmatic Glorio unleashes lightning magic<br>against Goku to resolve the situation!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA (Telugu Dub) - Episode 6 - Lightning</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d4f3b7d1dde8e6dc661f87e3622ebb6f1731686660_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW00VW/lightning">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After encountering the Gendarmerie, the wardens of the Demon Realm, the four are forced to<br>camp in a cave where they encounter further trouble! The enigmatic Glorio unleashes lightning magic<br>against Goku to resolve the situation!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Elusive Samurai (Portuguese Dub) - Episode 12 - Hang in there, Tokiyuki, Until the Day You Retake Kamakura</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2e71e6b3be28609def18e759ad1957401727533074_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX554N/hang-in-there-tokiyuki-until-the-day-you-retake-kamakura">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Hoshina and his army decide to retreat from Kawanakajima after hearing what Tokiyuki and Saemontaro<br>Shinomiya, a Suwa Sect warrior, had to say.  
+But Kiyohara is evil and crafty<br>– he won’t let this slide without a fight.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Elusive Samurai (Spanish Dub) - Episode 12 - Hang in there, Tokiyuki, Until the Day You Retake Kamakura</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2e71e6b3be28609def18e759ad1957401727533074_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32212/hang-in-there-tokiyuki-until-the-day-you-retake-kamakura">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Hoshina and his army decide to retreat from Kawanakajima after hearing what Tokiyuki and Saemontaro<br>Shinomiya, a Suwa Sect warrior, had to say.  
+But Kiyohara is evil and crafty<br>– he won’t let this slide without a fight.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Elusive Samurai (Portuguese Dub) - Episode 11 - Samurais Who are Eager to Die & An Elusive Samurai</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5581542b58284c3c0d83cd9ac47af84d1726933467_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MMEE/samurais-who-are-eager-to-die-an-elusive-samurai">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The imperial court  assigns a new provincial official for Shinano: Shinanonokami Kiyohara. Kiyohara did<br>not hesitate to wield his power over people. He was considered a corrupt provincial official<br>who made the people living in his territory suffer.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Elusive Samurai (Spanish Dub) - Episode 11 - Samurais Who are Eager to Die & An Elusive Samurai</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5581542b58284c3c0d83cd9ac47af84d1726933467_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW33DJ/samurais-who-are-eager-to-die-an-elusive-samurai">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The imperial court  assigns a new provincial official for Shinano: Shinanonokami Kiyohara. Kiyohara did<br>not hesitate to wield his power over people. He was considered a corrupt provincial official<br>who made the people living in his territory suffer.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Elusive Samurai (Portuguese Dub) - Episode 10 - A Perverted Kid and Disturbances of Holy Power</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/08c309fd7f372e8484ef6af38fcba3911726316403_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNNX1/a-perverted-kid-and-disturbances-of-holy-power">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Yorishige tells Tokiyuki there are times when he cannot see the future. Since many rely<br>on his reputation and power as a god, he must keep this shortcoming hidden. He<br>asks Tokiyuki for help, and together, they try every idea, one by one, in hopes<br>of restoring Yorishige's holy power.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Elusive Samurai (Spanish Dub) - Episode 10 - A Perverted Kid and Disturbances of Holy Power</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/08c309fd7f372e8484ef6af38fcba3911726316403_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWWD2/a-perverted-kid-and-disturbances-of-holy-power">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Yorishige tells Tokiyuki there are times when he cannot see the future. Since many rely<br>on his reputation and power as a god, he must keep this shortcoming hidden. He<br>asks Tokiyuki for help, and together, they try every idea, one by one, in hopes<br>of restoring Yorishige's holy power.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Stories of Girls Who Couldn't Be Magicians - Episode 11 - I'm Gonna Cast Ancient Magic!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/00235af67709eae09376a410bd2c94231734107851_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNX7DE/im-gonna-cast-ancient-magic">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kurumi and friends have found their Ms. Suzuki, but they still don't know what's hurting<br>their classmates. When a confrontation between teachers reveals the secret slumbering beneath Rettoran, the girls<br>may be the school's only hope.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">THE iDOLM@STER SHINY COLORS 2nd Season - Episode 11 - What I Can Do</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4344d657bd825b021d77e03ea915d6d01734105867_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8N5XV/what-i-can-do">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The idols face personal challenges and reflect on their goals while preparing for a big<br>performance. Through shared moments and quiet determination, they strengthen their bonds and take steps toward<br>discovering their true selves.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Sword Art Online Alternative: Gun Gale Online II - Episode 11 - Pitohui's Attack</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ba89e9238a6bc222bac50f910edf05aa1734107413_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7VW83/pitohuis-attack">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">NPCs barricade themselves in a castle and easily wipe out MMTM and SHINC with power<br>beyond anybody's imagination. ZEMAL subsequently tries to enter the castle with a sign that says,<br>"We’re not your enemy; let us into the castle!" They fail as Pitohui sabotages them.<br>LPFM's drone, considered the jewel in their operations, gets shot down by NPC attacks. Pitohui<br>suggests everyone from the other teams cooperate in a coordinated attack. They attack the castle<br>with T-S, ZEMAL, MMTM, and SHINC!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dragon Ball DAIMA - Episode 10 - Ocean</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c5993c044460a69bc63176113609962b1734105843_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXVKN/ocean">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Goku and his companions arrive at the mystic Second Demon World where a giant ocean<br>spreads as far as the eye can see! The party is amazed at the new<br>world but is immediately attacked by Gendarmerie that have been sent by Gomah!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">True Beauty (Japanese Audio) - Episode 11 - Goddess Livestream</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/944ad972e5ce81f99142cd895dc63f971734089097_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U317NX/goddess-livestream">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The day has come: it‘s time for the final mission! The goddess candidates have to<br>gather votes during a livestream. Disheartened from the rumors and the recent dating news, Jugyeong<br>decides to quit, but her friends try everything to change her mind.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">2.5 Dimensional Seduction - Episode 24</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/badcbc15d920eaab9dd54ae4223e243f1734066742_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">12/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU73M81">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Assassination Classroom Second Season (Tamil Dub) - Episode 22 - Happy Birthday Time</h3></th>
 </tr>
@@ -71,619 +685,6 @@
 <tr>
 <td colspan="2">
 <p align="center">The students fight to see their teacher one last time. A figure from Koro Sensei's<br>past arrives with a serious grudge against the super-creature.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Concierge - The Concierge</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b63146eddfdce64105649d4b647522941734050294_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX558K/the-concierge">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Welcome to the Hokkyoku Department Store! This unusual shop caters exclusively to animals, furry and<br>feathered alike. Akino is a new concierge in training and she’s quickly realizing the high<br>demands of her customers—especially those on the extinct species list. From a sea mink searching<br>for a special gift to a laughing owl looking to please his wife, can she<br>fulfill every request?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">KIZUMONOGATARI -Koyomi Vamp- - KIZUMONOGATARI -Koyomi Vamp-</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b8018f982fbd9bd8960b9d4758ffec131734050200_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW339P/kizumonogatari-koyomi-vamp-">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Spring break, an interval of time between the second and third year of high school.<br>
-Koyomi Araragi encounters a blood-chillingly beautiful woman. The iron-blooded, hot-blooded, cold-blooded Vampire, she calls herself<br>“Kiss-shot Acerola-orion Heart-under-blade.”</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">SSSS.DYNAZENON Grand Episode - SSSS.DYNAZENON Grand Episode</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d5afda427563401622c5c17e1574deab1734030730_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NN8P/ssssdynazenon-grand-episode">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">High schooler Yomogi comes across Gauma, a strange drifter claiming to be a Kaiju User.<br>Soon after, a Kaiju attacks, and Gauma summons the giant robot Dynazenon to fight it.<br>Yomogi, his classmate Yume, and local NEET Koyomi are caught in the chaos and join<br>as copilots. Together, they form the Gauma Team. But Kaiju Eugenicists, a secret society of<br>teens with special powers, stand in their way.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Golden Kamuy OADs - Episode 3 - Monster</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cdd0e24bda2c45b4214f14401b9c66ee1734035464_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKKQQ/monster">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sugimoto and friends fight a huge bear to recover an item of clothing that's dear<br>to Asirpa.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Golden Kamuy OADs (English Dub) - Episode 3 - Monster</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cdd0e24bda2c45b4214f14401b9c66ee1734035464_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MMEZ/monster">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sugimoto and friends fight a huge bear to recover an item of clothing that's dear<br>to Asirpa.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Golden Kamuy OADs - Episode 2 - Love Made Me Escape From Prison / The Terrifying Battle of Deadly Poison! A Massive Snake Deep in the Hokkaido Wilderness!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bd88388fa3e6e4a03592e67ba719244e1734034988_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ77Z3/love-made-me-escape-from-prison-the-terrifying-battle-of-deadly-poison-a-massive-snake-deep-in-the-hokkaido-wilderness">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The secrets of Shiraishi's origin are revealed, and the gang finds a giant snake in<br>the depths of the Hokkaido wilderness.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Golden Kamuy OADs (English Dub) - Episode 2 - Love Made Me Escape From Prison / The Terrifying Battle of Deadly Poison! A Massive Snake Deep in the Hokkaido Wilderness!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bd88388fa3e6e4a03592e67ba719244e1734034988_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNNXG/love-made-me-escape-from-prison-the-terrifying-battle-of-deadly-poison-a-massive-snake-deep-in-the-hokkaido-wilderness">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The secrets of Shiraishi's origin are revealed, and the gang finds a giant snake in<br>the depths of the Hokkaido wilderness.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Golden Kamuy OADs - Episode 1 - The Bodyguard of Barato / Terror! The Mysterious Giant Bird</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/513f9221f39ae9c5203f1e65a04d0c5c1734034578_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJJN0/the-bodyguard-of-barato-terror-the-mysterious-giant-bird">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ogata is entangled in a complex fight for power in Barato, while Sugimoto's crew meets<br>a terrifying giant bird.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Golden Kamuy OADs (English Dub) - Episode 1 - The Bodyguard of Barato / Terror! The Mysterious Giant Bird</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/513f9221f39ae9c5203f1e65a04d0c5c1734034578_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM00VM/the-bodyguard-of-barato-terror-the-mysterious-giant-bird">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ogata is entangled in a complex fight for power in Barato, while Sugimoto's crew meets<br>a terrifying giant bird.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Good Bye, Dragon Life (Hindi Dub) - Episode 8 - The Night Before the Battle</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f9427d79ce20c29a4d0d9eeb69ef567f1732208936_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEEZ4/the-night-before-the-battle">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With the three-day deadline approaching, the people of the forest of Ente must take stock<br>and decide what they must do.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Good Bye, Dragon Life (Tamil Dub) - Episode 8 - The Night Before the Battle</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f9427d79ce20c29a4d0d9eeb69ef567f1732208936_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JJD9/the-night-before-the-battle">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With the three-day deadline approaching, the people of the forest of Ente must take stock<br>and decide what they must do.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Good Bye, Dragon Life (Telugu Dub) - Episode 8 - The Night Before the Battle</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f9427d79ce20c29a4d0d9eeb69ef567f1732208936_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN114X/the-night-before-the-battle">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With the three-day deadline approaching, the people of the forest of Ente must take stock<br>and decide what they must do.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TRILLION GAME (English Dub) - Episode 9 - The Flower Way of Kabuki</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4f34264b8f74fbbc978c1e780b84f91f1732209029_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKKVQ/the-flower-way-of-kabuki">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Haru and Gaku begin working as hosts in Shinjuku's Kabukicho to better understand their target<br>market.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TRILLION GAME (Hindi Dub) - Episode 8 - Flowers and Splendor</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/84730ab20eb3d7b01a4cadda2137bd3a1731605563_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NNGP/flowers-and-splendor">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The trio is trying to launch an online shop where customers receive advice from a<br>seemingly AI that appears as a VTuber avatar. Soon, they also discover which market they<br>can specialize in.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TRILLION GAME (Tamil Dub) - Episode 8 - Flowers and Splendor</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/84730ab20eb3d7b01a4cadda2137bd3a1731605563_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MMZ9/flowers-and-splendor">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The trio is trying to launch an online shop where customers receive advice from a<br>seemingly AI that appears as a VTuber avatar. Soon, they also discover which market they<br>can specialize in.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TRILLION GAME (Telugu Dub) - Episode 8 - Flowers and Splendor</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/84730ab20eb3d7b01a4cadda2137bd3a1731605563_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW008E/flowers-and-splendor">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The trio is trying to launch an online shop where customers receive advice from a<br>seemingly AI that appears as a VTuber avatar. Soon, they also discover which market they<br>can specialize in.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Portuguese Dub) - Episode 32 - Cho of the Ten Swords</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5290dc86d75bb3132dc0052610009aa71732212896_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM00QM/cho-of-the-ten-swords">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Seeking a replacement for his broken sakabato, Kenshin visits Seiku, the son of highly honored<br>swordsmith Shakku Arai, only to learn that he has quit making swords. Respecting Seiku’s philosophy<br>of peace, Kenshin gives up his request for a new blade. Meanwhile, Ten Swords member<br>Hoji Sadojima reports to Shishio on Kenshin’s movements.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Spanish Dub) - Episode 32 - Cho of the Ten Swords</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5290dc86d75bb3132dc0052610009aa71732212896_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">12/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNN1G/cho-of-the-ten-swords">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Seeking a replacement for his broken sakabato, Kenshin visits Seiku, the son of highly honored<br>swordsmith Shakku Arai, only to learn that he has quit making swords. Respecting Seiku’s philosophy<br>of peace, Kenshin gives up his request for a new blade. Meanwhile, Ten Swords member<br>Hoji Sadojima reports to Shishio on Kenshin’s movements.</p>
 </td>
 </tr>
 </table>
