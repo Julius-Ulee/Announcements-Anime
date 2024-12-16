@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Dec 15, 2024, 7:27:12 PM</em></p>
+<p align="center"><em>Updated on: Dec 16, 2024, 8:14:27 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 - Episode 35 - Track It Like a Bloodhound</h3></th>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (English Dub) - Episode 21 - The Moonlight Divinities</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/727d1c2765fe7e72c15e31f8edf4f2881734251142_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/89ca917d979d65b4bedf3e15b49d2ca51733032215_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMNP81/track-it-like-a-bloodhound">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM3E9/the-moonlight-divinities">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku meets up with Psyger-0 to take on the Lightless Barrens, but can't get his<br>head around his new companion's strange behavior.</p>
+<p align="center">After Selene transports Natsu and the others to Elentear, they are attacked by her lackeys,<br>the Moonlight Divinities. They fight with the Spirit Arts, which is different from Magic or<br>spells, and the Fairy Tail wizards are in trouble.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST - Episode 23 - Sword Saint</h3></th>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (German Dub) - Episode 18 - Burning Will</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1496d3837a0a8eb69f78065526d006a61734226800_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4e343d3a97e692bafe1dfdaff42bf5ec1731229314_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNXGVZ/sword-saint">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7129/burning-will">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After Natsu and the others took down Yoko, they meet Suzaku, a Dragon Slayer of<br>Diabolos, who has been summoned from Earthland to defeat Selene. Also known as Sword Saint,<br>Suzaku is a formidable foe and Fairy Tail is helpless against him.</p>
+<p align="center">Gajeel turns into a giant by Brandish's magic and fights the Wood Dragon God. Now<br>all that's left to defeat is the God Seed Aldoron. Natsu's fire burns Aldoron, who<br>has no respect for human lives as he regards them only as his food.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece Log: Fish-Man Island Saga (Current) - A Terror in the Deep Sea! Hody's Ambition</h3></th>
+<th><h3 align="center">MF GHOST Season 2 (English Dub) - Episode 21 - The Rival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f2edf95c45f6885c8e426fb0f50830361734226288_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/397d52b578abde86b9a638a966678dc51733068808_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNXDJ9/a-terror-in-the-deep-sea-hodys-ambition">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJP4G/the-rival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Madame Sharley, Fish-Man Island’s popular prophet, has a devastating premonition that may spell the end<br>of the fantastic undersea kingdom! Meanwhile, the true power and intentions of the New Fish-Man<br>Pirates are made clear in all its shocking horror!</p>
+<p align="center">A new rival, Moroboshi Sena, arrives on the scene and introduces himself to Kanata.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wonderful Precure! - Episode 45 - Friends Forever</h3></th>
+<th><h3 align="center">MF GHOST Season 2 (Portuguese Dub) - Episode 20 - The Conclusion</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7fcbb1b2c1e476249db508f17a4b36741734222484_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5463c2f9010a6fcd0d7927fa7cc380981732458256_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3PMXZ/friends-forever">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N2EJ/the-conclusion">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">All of the Niko Animals have returned to Niko Garden, but Iroha is feeling down<br>because of Fuku. Komugi and the others are concerned, then they hear Torame’s howling echo<br>through town.</p>
+<p align="center">Taking advantage of the superior horsepower of his Ferrari, Akaba is hunting Kanata down, and<br>with them running out of road, it'll be a desperate dash to the line for<br>both drivers.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (English Dub) - Episode 9 - You and the Cultural Stage.</h3></th>
+<th><h3 align="center">MF GHOST Season 2 (English Dub) - Episode 20 - The Conclusion</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/96daf75bd371c99343ed2dc611ff3d711732994519_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5463c2f9010a6fcd0d7927fa7cc380981732458256_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE2E3/you-and-the-cultural-stage">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3M4Q5/the-conclusion">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A Cops and Robbers event is to take place at the Katsuda Festival at Hitoyoshi’s<br>school. The prideful President Hikage aims to win 2 years in a row. However, Naka<br>decides to help Yuki beat her brother for acknowledgement, but also to make a friend.</p>
+<p align="center">Taking advantage of the superior horsepower of his Ferrari, Akaba is hunting Kanata down, and<br>with them running out of road, it'll be a desperate dash to the line for<br>both drivers.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Portuguese Dub) - Episode 8 - The Autumn With You and the Sauce.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (English Dub) - Episode 22 - Their Workshop</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/acb926ea72a3bac13d61f6e03a179bce1732389863_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/aa9eaff6c67845b4c031a96282c164911733047879_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3M4MQ/the-autumn-with-you-and-the-sauce">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3QZ4/their-workshop">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuki runs into misfortune as she finds out she won't be able to buy her<br>favorite sauce for one week. With nightmares of the sauce and her sister, she must<br>overcome challenges, including keeping her grades up to take part in the festivities at school.</p>
+<p align="center">Khun and the others learn Viole is in trouble and head to the summoning station<br>so they can rescue him. Meanwhile, Beta receives Medina the Regular as a teammate from<br>the gambler sent by FUG. Beta allows Medina to enter his body and becomes its<br>host, making him a legitimate competitor, as he sets out to eliminate all of Viole’s<br>friends!</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Spanish Dub) - Episode 8 - The Autumn With You and the Sauce.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Portuguese Dub) - Episode 21 - The Beginning of Dawn</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/acb926ea72a3bac13d61f6e03a179bce1732389863_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6499f49d0c061565d5d11889e81e90001732457908_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW070W/the-autumn-with-you-and-the-sauce">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2NNE/the-beginning-of-dawn">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuki runs into misfortune as she finds out she won't be able to buy her<br>favorite sauce for one week. With nightmares of the sauce and her sister, she must<br>overcome challenges, including keeping her grades up to take part in the festivities at school.</p>
+<p align="center">Viole is sent to the bottom by Beta where the Thorn can be found. Reflejo<br>appears before the massive Thorn to reveal the truth to Viole. Meanwhile, Team Khun is<br>reunited with Team Shibisu, and they learn FUG’s true goal hidden within the Workshop Battle...</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Hindi Dub) - Episode 8 - The Autumn With You and the Sauce.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (German Dub) - Episode 21 - The Beginning of Dawn</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/acb926ea72a3bac13d61f6e03a179bce1732389863_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6499f49d0c061565d5d11889e81e90001732457908_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJPJ5/the-autumn-with-you-and-the-sauce">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM3X9/the-beginning-of-dawn">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuki runs into misfortune as she finds out she won't be able to buy her<br>favorite sauce for one week. With nightmares of the sauce and her sister, she must<br>overcome challenges, including keeping her grades up to take part in the festivities at school.</p>
+<p align="center">Viole is sent to the bottom by Beta where the Thorn can be found. Reflejo<br>appears before the massive Thorn to reveal the truth to Viole. Meanwhile, Team Khun is<br>reunited with Team Shibisu, and they learn FUG’s true goal hidden within the Workshop Battle...</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Tamil Dub) - Episode 8 - The Autumn With You and the Sauce.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Spanish Dub) - Episode 21 - The Beginning of Dawn</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/acb926ea72a3bac13d61f6e03a179bce1732389863_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6499f49d0c061565d5d11889e81e90001732457908_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ717D/the-autumn-with-you-and-the-sauce">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE2X2/the-beginning-of-dawn">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuki runs into misfortune as she finds out she won't be able to buy her<br>favorite sauce for one week. With nightmares of the sauce and her sister, she must<br>overcome challenges, including keeping her grades up to take part in the festivities at school.</p>
+<p align="center">Viole is sent to the bottom by Beta where the Thorn can be found. Reflejo<br>appears before the massive Thorn to reveal the truth to Viole. Meanwhile, Team Khun is<br>reunited with Team Shibisu, and they learn FUG’s true goal hidden within the Workshop Battle...</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (Telugu Dub) - Episode 8 - The Autumn With You and the Sauce.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Russian Dub) - Episode 21 - The Beginning of Dawn</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/acb926ea72a3bac13d61f6e03a179bce1732389863_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6499f49d0c061565d5d11889e81e90001732457908_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1V18/the-autumn-with-you-and-the-sauce">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JXKK/the-beginning-of-dawn">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuki runs into misfortune as she finds out she won't be able to buy her<br>favorite sauce for one week. With nightmares of the sauce and her sister, she must<br>overcome challenges, including keeping her grades up to take part in the festivities at school.</p>
+<p align="center">Viole is sent to the bottom by Beta where the Thorn can be found. Reflejo<br>appears before the massive Thorn to reveal the truth to Viole. Meanwhile, Team Khun is<br>reunited with Team Shibisu, and they learn FUG’s true goal hidden within the Workshop Battle...</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (German Dub) - Episode 8 - Happy (Merry Xmas) Birthday!</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Hindi Dub) - Episode 21 - The Beginning of Dawn</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d83a9ffb5ddda208b2f9fcde9398ebd31732382643_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6499f49d0c061565d5d11889e81e90001732457908_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M3VE/happy-merry-xmas-birthday">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3MV5/the-beginning-of-dawn">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lightning and Suguro bear witness to Section 13 as it appeared right after the Blue<br>Night, and Mephisto reveals the truth about the research that was being conducted there. Meanwhile,<br>Shiemi suddenly expressed her intention to decline to take the Exorcist Certification Exam and to<br>leave the school.</p>
+<p align="center">Viole is sent to the bottom by Beta where the Thorn can be found. Reflejo<br>appears before the massive Thorn to reveal the truth to Viole. Meanwhile, Team Khun is<br>reunited with Team Shibisu, and they learn FUG’s true goal hidden within the Workshop Battle...</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (French Dub) - Episode 8 - Happy (Merry Xmas) Birthday!</h3></th>
+<th><h3 align="center">Tower of God Season 2 (English Dub) - Episode 21 - The Beginning of Dawn</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d83a9ffb5ddda208b2f9fcde9398ebd31732382643_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6499f49d0c061565d5d11889e81e90001732457908_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5VWN/happy-merry-xmas-birthday">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5V2E/the-beginning-of-dawn">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lightning and Suguro bear witness to Section 13 as it appeared right after the Blue<br>Night, and Mephisto reveals the truth about the research that was being conducted there. Meanwhile,<br>Shiemi suddenly expressed her intention to decline to take the Exorcist Certification Exam and to<br>leave the school.</p>
+<p align="center">Viole is sent to the bottom by Beta where the Thorn can be found. Reflejo<br>appears before the massive Thorn to reveal the truth to Viole. Meanwhile, Team Khun is<br>reunited with Team Shibisu, and they learn FUG’s true goal hidden within the Workshop Battle...</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (English Dub) - Episode 7 - Variant Leaves</h3></th>
+<th><h3 align="center">Tower of God Season 2 (French Dub) - Episode 20 - Like a Flame in the Wind</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/387075490ee88e11bc9372a927b227891731776664_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c2d4e447025876574a423d072fa040551731843653_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32D22/variant-leaves">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8X20X/like-a-flame-in-the-wind">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Lightning continues to investigate the Blue Night, he notices the names of three people.<br>After the Blue Night, three men left the Knights of the True Cross Japan Branch<br>and became priests living at the Southern Cross Monastery, the place where the Okumura Brothers<br>grew up. Lightning and Suguro visit the Monastery to get a firsthand account of what<br>happened back then. Lightning, willing to take strong measures against those who remain silent, closes<br>in on the mystery of the Blue Night...</p>
+<p align="center">The results of the individual tournament pit the two winning teams, Team Mad Dog and<br>Team FUG, against each other in the Workshop Battle, while the losing teams advance to<br>the training tournament. As their respective battles begin, Khun and Wangnan begin summoning their teammates.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (English Dub) - Episode 8 - Cybermagic City Akihabara</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 33 - The Lion Catches a Rabbit With Its Full Strength; the Crab Catches a Phoenix With a Pizza Cutter</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4b58636f1394ada1f053ee2692853d691732967028_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d0dd2c9a4531e247200acc1bc22b77be1733047807_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3MQK/cybermagic-city-akihabara">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3M445/the-lion-catches-a-rabbit-with-its-full-strength-the-crab-catches-a-phoenix-with-a-pizza-cutter">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hizuki Reynard-Yamada heaves another deep sigh in class at the Akihabara Private School of Magic<br>"Lu Xel". Meanwhile, Veltol defeats Marcus and safely rescues Machina. What he seeks next lies<br>somewhere in Akihabara City…</p>
+<p align="center">The battle of Crimson Twinewing vs. Fiddler Crab reaches its climax, and Sunraku decides what<br>to do next.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (French Dub) - Episode 7 - The Demon Lord’s Resurrection</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese Dub) - Episode 32 - The Wings in a Draw</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4ec28270449c33f80da9d95128fd15351732382521_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c25c2a60c268456aafc2719131e324f01732425279_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE2K3/the-demon-lords-resurrection">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3M44Q/the-wings-in-a-draw">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Trusting Gram to handle Kinohara, Veltol reaches the Immortal Furnace. He grills Marcus about his<br>betrayal of the immortals and why he kidnapped Machina. The legendary Demon Lord faces Shinjuku’s<br>ruler. The former lord and vassal cross blades in this new world.</p>
+<p align="center">In Nephilim Hollow, Rust is slavering for a rematch with Sunraku, but Sunraku himself isn't<br>in top fighting form after three months away from the game.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (Spanish Dub) - Episode 7 - The Demon Lord’s Resurrection</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (German Dub) - Episode 32 - The Wings in a Draw</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4ec28270449c33f80da9d95128fd15351732382521_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c25c2a60c268456aafc2719131e324f01732425279_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JXNE/the-demon-lords-resurrection">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW077W/the-wings-in-a-draw">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Trusting Gram to handle Kinohara, Veltol reaches the Immortal Furnace. He grills Marcus about his<br>betrayal of the immortals and why he kidnapped Machina. The legendary Demon Lord faces Shinjuku’s<br>ruler. The former lord and vassal cross blades in this new world.</p>
+<p align="center">In Nephilim Hollow, Rust is slavering for a rematch with Sunraku, but Sunraku himself isn't<br>in top fighting form after three months away from the game.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (Portuguese Dub) - Episode 7 - The Demon Lord’s Resurrection</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 32 - The Wings in a Draw</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4ec28270449c33f80da9d95128fd15351732382521_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c25c2a60c268456aafc2719131e324f01732425279_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1VX8/the-demon-lords-resurrection">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ711D/the-wings-in-a-draw">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Trusting Gram to handle Kinohara, Veltol reaches the Immortal Furnace. He grills Marcus about his<br>betrayal of the immortals and why he kidnapped Machina. The legendary Demon Lord faces Shinjuku’s<br>ruler. The former lord and vassal cross blades in this new world.</p>
+<p align="center">In Nephilim Hollow, Rust is slavering for a rematch with Sunraku, but Sunraku himself isn't<br>in top fighting form after three months away from the game.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Lord, Retry! R (Hindi Dub) - Episode 9 - ReQuest</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 32 - The Wings in a Draw</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2c77449189857839eed30269d7c8ae691732365890_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c25c2a60c268456aafc2719131e324f01732425279_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N2Z2/request">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKJJ8/the-wings-in-a-draw">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kunai and Organ discuss their plans for their attack of Belphegor's castle, while Akane and<br>Mink run off to make their own inroads.</p>
+<p align="center">In Nephilim Hollow, Rust is slavering for a rematch with Sunraku, but Sunraku himself isn't<br>in top fighting form after three months away from the game.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Lord, Retry! R (Tamil Dub) - Episode 9 - ReQuest</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 32 - The Wings in a Draw</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2c77449189857839eed30269d7c8ae691732365890_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c25c2a60c268456aafc2719131e324f01732425279_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3M41Q/request">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2NN7/the-wings-in-a-draw">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kunai and Organ discuss their plans for their attack of Belphegor's castle, while Akane and<br>Mink run off to make their own inroads.</p>
+<p align="center">In Nephilim Hollow, Rust is slavering for a rematch with Sunraku, but Sunraku himself isn't<br>in top fighting form after three months away from the game.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Lord, Retry! R (Telugu Dub) - Episode 9 - ReQuest</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Tamil Dub) - Episode 32 - The Wings in a Draw</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2c77449189857839eed30269d7c8ae691732365890_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c25c2a60c268456aafc2719131e324f01732425279_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2024</td>
+<td align="center">12/15/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW07KW/request">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M33P/the-wings-in-a-draw">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kunai and Organ discuss their plans for their attack of Belphegor's castle, while Akane and<br>Mink run off to make their own inroads.</p>
+<p align="center">In Nephilim Hollow, Rust is slavering for a rematch with Sunraku, but Sunraku himself isn't<br>in top fighting form after three months away from the game.</p>
 </td>
 </tr>
 </table>
