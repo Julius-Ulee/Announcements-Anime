@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 20, 2025, 8:05:21 AM</em></p>
+<p align="center"><em>Updated on: Jan 20, 2025, 7:27:24 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -30,47 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GQJUM04Z3/this-hideous-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM04Z3/this-hideous-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
 <p align="center">Gray fights Hakune once again, and his love for Juvia breaks Hakune's attack. Selene reveals<br>to Suzaku that the dragon he ate is her son. Then Wendy finds a connection<br>between tha Hands and the Face of Tartarus.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (English Dub) - Episode 23 - Sword Saint</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1496d3837a0a8eb69f78065526d006a61734226800_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GD9UEZ4GQ/sword-saint">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After Natsu and the others took down Yoko, they meet Suzaku, a Dragon Slayer of<br>Diabolos, who has been summoned from Earthland to defeat Selene. Also known as Sword Saint,<br>Suzaku is a formidable foe and Fairy Tail is helpless against him.</p>
 </td>
 </tr>
 </table>
@@ -98,7 +64,41 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G2XUN1ZVE/sword-saint">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1ZVE/sword-saint">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After Natsu and the others took down Yoko, they meet Suzaku, a Dragon Slayer of<br>Diabolos, who has been summoned from Earthland to defeat Selene. Also known as Sword Saint,<br>Suzaku is a formidable foe and Fairy Tail is helpless against him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (English Dub) - Episode 23 - Sword Saint</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1496d3837a0a8eb69f78065526d006a61734226800_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/19/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ4GQ/sword-saint">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -132,7 +132,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GPWU8JWX7/the-cost-of-courage">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JWX7/the-cost-of-courage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -166,7 +166,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GEVUW35QZ/the-dawn-of-the-departure">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW35QZ/the-dawn-of-the-departure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -200,7 +200,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G4VUW0P7G/the-dawn-of-the-departure">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0P7G/the-dawn-of-the-departure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -234,7 +234,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GK9UG27N4/the-dawn-of-the-departure">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG27N4/the-dawn-of-the-departure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -268,7 +268,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GX9U3MN48/return-of-the-king">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MN48/return-of-the-king">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -302,7 +302,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G9DU9NW24/the-cost-of-battle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NW24/the-cost-of-battle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -336,7 +336,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G14UVJ8P8/the-end-of-dawn">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ8P8/the-end-of-dawn">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -370,7 +370,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GK9UG2GQ8/the-dawn-girl-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2GQ8/the-dawn-girl-">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -386,109 +386,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 35 - Track It Like a Bloodhound</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/727d1c2765fe7e72c15e31f8edf4f2881734251142_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GQJUM0403/track-it-like-a-bloodhound">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sunraku meets up with Psyger-0 to take on the Lightless Barrens, but can't get his<br>head around his new companion's strange behavior.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 36 - Embrace the Lamplight of Ambition, Part 1</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5638a801ba5ac00f7c97279ba5286f0e1734848644_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GWDU7MN3V/embrace-the-lamplight-of-ambition-part-1">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">SF-Zoo shows shocking resilience in the face of the strongest foe they've ever faced, and<br>Sunraku, paired with Psyger-0, must decide how to approach the task.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (French Dub) - Episode 36 - Embrace the Lamplight of Ambition, Part 1</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5638a801ba5ac00f7c97279ba5286f0e1734848644_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GX9U3MNM8/embrace-the-lamplight-of-ambition-part-1">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">SF-Zoo shows shocking resilience in the face of the strongest foe they've ever faced, and<br>Sunraku, paired with Psyger-0, must decide how to approach the task.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 37 - Embrace the Lamplight of Ambition, Part 2</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese Dub) - Episode 37 - Embrace the Lamplight of Ambition, Part 2</h3></th>
 </tr>
 <tr>
 <td>
@@ -506,109 +404,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G0DUMWQXX/embrace-the-lamplight-of-ambition-part-2">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sunraku and Psyger-0 engage Lycagon the Nightslayer, but Sunraku realizes that the assumptions he's made<br>about the Colossus's patterns may not necessarily hold up.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Telugu Dub) - Episode 37 - Embrace the Lamplight of Ambition, Part 2</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/749418b96db07df9765a8f0666b08fb61735465901_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G8WU7V9VM/embrace-the-lamplight-of-ambition-part-2">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sunraku and Psyger-0 engage Lycagon the Nightslayer, but Sunraku realizes that the assumptions he's made<br>about the Colossus's patterns may not necessarily hold up.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 37 - Embrace the Lamplight of Ambition, Part 2</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/749418b96db07df9765a8f0666b08fb61735465901_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G14UVJ8J8/embrace-the-lamplight-of-ambition-part-2">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sunraku and Psyger-0 engage Lycagon the Nightslayer, but Sunraku realizes that the assumptions he's made<br>about the Colossus's patterns may not necessarily hold up.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 37 - Embrace the Lamplight of Ambition, Part 2</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/749418b96db07df9765a8f0666b08fb61735465901_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GJWUQ747M/embrace-the-lamplight-of-ambition-part-2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32K23/embrace-the-lamplight-of-ambition-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -642,7 +438,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G9DU9NWN4/embrace-the-lamplight-of-ambition-part-2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NWN4/embrace-the-lamplight-of-ambition-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -658,7 +454,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese Dub) - Episode 37 - Embrace the Lamplight of Ambition, Part 2</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (French Dub) - Episode 37 - Embrace the Lamplight of Ambition, Part 2</h3></th>
 </tr>
 <tr>
 <td>
@@ -676,13 +472,217 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G7PU32K23/embrace-the-lamplight-of-ambition-part-2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0P0G/embrace-the-lamplight-of-ambition-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
 <p align="center">Sunraku and Psyger-0 engage Lycagon the Nightslayer, but Sunraku realizes that the assumptions he's made<br>about the Colossus's patterns may not necessarily hold up.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 37 - Embrace the Lamplight of Ambition, Part 2</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/749418b96db07df9765a8f0666b08fb61735465901_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/19/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ8J8/embrace-the-lamplight-of-ambition-part-2">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sunraku and Psyger-0 engage Lycagon the Nightslayer, but Sunraku realizes that the assumptions he's made<br>about the Colossus's patterns may not necessarily hold up.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 37 - Embrace the Lamplight of Ambition, Part 2</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/749418b96db07df9765a8f0666b08fb61735465901_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/19/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ747M/embrace-the-lamplight-of-ambition-part-2">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sunraku and Psyger-0 engage Lycagon the Nightslayer, but Sunraku realizes that the assumptions he's made<br>about the Colossus's patterns may not necessarily hold up.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Tamil Dub) - Episode 37 - Embrace the Lamplight of Ambition, Part 2</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/749418b96db07df9765a8f0666b08fb61735465901_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/19/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1Z1E/embrace-the-lamplight-of-ambition-part-2">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sunraku and Psyger-0 engage Lycagon the Nightslayer, but Sunraku realizes that the assumptions he's made<br>about the Colossus's patterns may not necessarily hold up.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Telugu Dub) - Episode 37 - Embrace the Lamplight of Ambition, Part 2</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/749418b96db07df9765a8f0666b08fb61735465901_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/19/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V9VM/embrace-the-lamplight-of-ambition-part-2">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sunraku and Psyger-0 engage Lycagon the Nightslayer, but Sunraku realizes that the assumptions he's made<br>about the Colossus's patterns may not necessarily hold up.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 37 - Embrace the Lamplight of Ambition, Part 2</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/749418b96db07df9765a8f0666b08fb61735465901_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/19/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWQXX/embrace-the-lamplight-of-ambition-part-2">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sunraku and Psyger-0 engage Lycagon the Nightslayer, but Sunraku realizes that the assumptions he's made<br>about the Colossus's patterns may not necessarily hold up.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Shangri-La Frontier Season 2 (French Dub) - Episode 36 - Embrace the Lamplight of Ambition, Part 1</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5638a801ba5ac00f7c97279ba5286f0e1734848644_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/19/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MNM8/embrace-the-lamplight-of-ambition-part-1">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">SF-Zoo shows shocking resilience in the face of the strongest foe they've ever faced, and<br>Sunraku, paired with Psyger-0, must decide how to approach the task.</p>
 </td>
 </tr>
 </table>
