@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 21, 2025, 7:27:28 PM</em></p>
+<p align="center"><em>Updated on: Jan 22, 2025, 8:05:44 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,652 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible (English Dub) - Episode 12 - Quarter Thumbs-Up</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f4aa35f73074eda555f5d36587db45bc1727106541_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWQZP/quarter-thumbs-up">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">During the final match, Broughston tells Rick about his loneliness, the founding of Orichalcum Fist,<br>and his longtime dream. Wanting to repay Broughston for the training that allowed him to<br>fulfill his own dream, Rick makes a decision. It's time to fight!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible (English Dub) - Episode 11 - Fistfight on Equal Ground</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2d53f1d6d001a56ae0490499f69b55ec1726497655_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ472/fistfight-on-equal-ground">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">When Rick learns who he'll face in the final match, he locks himself in his<br>room in fear. Mizett tells Rick he's free to withdraw, but he might like to<br>know Broughston's secret wish first. With that, and everyone's encouragement, Rick decides to fight.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible (English Dub) - Episode 10 - The Strongest Pugilist in History</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bc1b3beed7288edbfc163b03a65ab0b01725895277_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3N97/the-strongest-pugilist-in-history">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The second semi-final match pits Kelvin against Broughston. Kelvin heads out of town to prepare.<br>He spots Rick and presses him for a sparring match. After seeing Rick's skills, Kelvin<br>opens up to Rick about his dreams and what his strength has cost him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible (English Dub) - Episode 9 - The Perfect Prodigy, Born with Absolutely Everything</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ffd4093bd1f06c13b3da4fee9079348a1725285985_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V959/the-perfect-prodigy-born-with-absolutely-everything">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Angelica strikes at Geith using the techniques she's learned in her training. Rick and the<br>others watch closely as she makes use of what they've taught her. Just when it<br>looks like Angelica is about to win, Geith rallies. But Anglica isn't one to give<br>up.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible (English Dub) - Episode 8 - Scales of the Heart</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a34c4cf0873d5b3feeb9b155fd252bec1724691383_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JWM2/scales-of-the-heart">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Angelica tries to run from her brutal training. Rick empathizes and shares something Broughston once<br>told him. After her training, Angelica faces her final block match. Will she break through<br>the qualifiers? The King of Fists Tournament is about to begin.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible (English Dub) - Episode 7 - Ossan, the Fastest Preliminaries Qualifier in History</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/52ca98fce0a0aaf6d5201b7a8d32a9a01724069105_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XD18/ossan-the-fastest-preliminaries-qualifier-in-history">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Angelica, Rick, and Broughston all make it through the preliminaries, but the two men do<br>it at an unheard of speed. Rick meets a tournament sponsor who says he's close<br>to Angelica, but when Rick mentions him, Angelica's expression turns dark.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible (English Dub) - Episode 6 - The King of Fists Elimination Tournament</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/440b10b01da13cb5e4d534cc13286edb1723453220_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMJ0X/the-king-of-fists-elimination-tournament">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rick and the others head to Heractopia to look for information on the Six Jewels.<br>A parade for an upcoming tournament makes them realize that what they seek might be<br>closer than they think, but there's only one way to know for sure. Enter the<br>tournament!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible (English Dub) - Episode 5 - Ossan, Trained to Death by the Most Powerful Party</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4917175919fb279edd9c847d3ca292781722272877_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ74KN/ossan-trained-to-death-by-the-most-powerful-party">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Laurotte asks Rick if he can meet Orichalcum Fist. Rick agrees, but under certain conditions.<br>After warming to Laurotte, Broughston asks him to gather intel to help the party reach<br>their goal. A tip from him sends Rick and the others to a northern town.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible (English Dub) - Episode 4 - The Ossan Becomes an Adventurer</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ff6cb98ce369bdb58acd5ada5c393b951721660689_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ8V7/the-ossan-becomes-an-adventurer">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As Rick waits for his test results, memories flood his mind. As a boy, he'd<br>dreamed of being an adventurer, but the older he got, the more distant the dream<br>became. He set it aside and began work at a Guild. Then, Rick met a<br>certain S-rank adventurer.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible (English Dub) - Episode 3 - A Super First-Rate Elite vs an F-Rank Ossan</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3c339b7fef4880462ad84f4a43cc06df1721062107_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MN3J/a-super-first-rate-elite-vs-an-f-rank-ossan">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rick begins his mock battle with the F-rank Crusher, Raster Diarmut. Raster thinks the gap<br>in ability between him, a genius, and Rick, a late-starting newbie, is all too clear.<br>But as the battle progresses, Rick's training begins to show through.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible (English Dub) - Episode 2 - Number 4242's E-rank Promotion Exam</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1ab017e83768fc2001e14131e075d3151720425794_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NW9G/number-4242s-e-rank-promotion-exam">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As Rick awaits his initial exam results, Raster, an examiner for the upcoming section, appears.<br>Rick stops him from hitting on Reanette and earns the examiner's hatred. Raster isn't one<br>to be thwarted, and he isn't called the F-rank Crusher for nothing.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible (English Dub) - Episode 1 - Starting 12 Years Late</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0c745c1c4a1d88c321ba30b08d5da5491719846893_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32K39/starting-12-years-late">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rick Gladiatol became an adventurer at the age of thirty. Now, after two years of<br>training, he's taking the test to advance to E-rank. As the exam begins, he wonders<br>if he's done enough to measure up to all the young people testing alongside him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">I'll Become a Villainess Who Goes Down in History (German Dub) - Episode 13 - The Villainess and the Prince</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c8288e479c173415e4484cafd50f4d571735049635_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX57XQ/the-villainess-and-the-prince">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Duke coldly asks Alicia, "Who are you?" It seems like someone has cast magic on<br>him that erased his memories of her... and Alicia is the top suspect. What will<br>become of her?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">I'll Become a Villainess Who Goes Down in History (English Dub) - Episode 12 - The Villainess and the Saint</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/68b1881837ef5ae685858a82b98e50f61734447238_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MN75/the-villainess-and-the-saint">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mel's diligent investigation has revealed the Saint's secret, and it plays a big role in<br>the academy's current state of affairs. To guide the Saint down the correct path as<br>her watcher, Alicia the villainess finally confronts Liz the heroine.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Tying the Knot with an Amagami Sister (English Dub) - Episode 13 - The Real Reason For Staying Up Late ~Love~</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/96aba11efa9e885a8baa24e34776b88d1735059542_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM04M9/the-real-reason-for-staying-up-late-love">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Uryu remembers how he first met Yae, and Yae makes a big decision.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Tying the Knot with an Amagami Sister - Episode 15 - The Scales That Hold Wishes ~Going Back~</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3b2aa32a12b04b4d01c98bdedb2e05891737476098_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2WWD/the-scales-that-hold-wishes-going-back">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After failing to escape from the time loop, Uryu is forced to consider what it<br>is that Asahi really wants.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ - Episode 4 - Taboo Skills</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b1f09ca8111f473d7c83c891addcffc91737476069_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JKVZ/taboo-skills">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The members of Luxeria defeat the undead controlled by Dratena's "Necromany" skill one after another.<br>The battle grows even more intense with the appearances of the now undead Count of<br>Montes and a Soul Reaper, a monster that turns living humans into undead. During the<br>battle, Light learns of the existence of widely-hated "taboo skills."</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Unnamed Memory - Episode 15 - Unanswered Prayer</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6b3ffc9a21facdbf66aaaf9ca8e9b4701737473688_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX51VG/unanswered-prayer">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Tinasha and Prince Legis of Tuldarr are met with assassination attempts. A mysterious woman visits<br>Farsas Castle and offers to bear Oscar's child.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Terrified Teacher at Ghoul School! - Episode 15 - Abe no Seimei, Haruaki Abe, and Shutendouji</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4973f82bf01ca33fc626e1ef1e782c491737473637_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J25E/abe-no-seimei-haruaki-abe-and-shutendouji">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Summer vacation still continues! Haruaki is invited to Miki's family home in Mount Ooe. There,<br>he finds out Rintarou's dark past and ends up having to fight a great enemy.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Natsume's Book of Friends Season 7 (English Dub) - Episode 11 - Tell Me Your Name</h3></th>
 </tr>
@@ -30,659 +676,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GJWUQ74QN/tell-me-your-name">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ74QN/tell-me-your-name">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
 <p align="center">Natsume meets the very first Yokai whose name was written in the Book of Friends.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (English Dub) - Episode 10 - The Final Labyrinth</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e3542df9195394a9c9b4f438c77beadb1734964199_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G4VUW0PQV/the-final-labyrinth">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With all but one Great Labyrinth conquered, Hajime and the group travel to the Schnee<br>Snow Fields to tackle the final labyrinth. Meanwhile, it becomes clear that certain members of<br>the group have internal issues to deal with.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (Spanish Dub) - Episode 10 - The Final Labyrinth</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e3542df9195394a9c9b4f438c77beadb1734964199_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G9DU9NWEG/the-final-labyrinth">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With all but one Great Labyrinth conquered, Hajime and the group travel to the Schnee<br>Snow Fields to tackle the final labyrinth. Meanwhile, it becomes clear that certain members of<br>the group have internal issues to deal with.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (Portuguese Dub) - Episode 10 - The Final Labyrinth</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e3542df9195394a9c9b4f438c77beadb1734964199_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GX9U3MNQJ/the-final-labyrinth">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">With all but one Great Labyrinth conquered, Hajime and the group travel to the Schnee<br>Snow Fields to tackle the final labyrinth. Meanwhile, it becomes clear that certain members of<br>the group have internal issues to deal with.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions Season 2 (German Dub) - Episode 26 - The Case of the Highland Auberge Serial Murders (Part 4)</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c3392cbab763b747d09f65dd9d1436ef1735567100_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GG1UX572Q/the-case-of-the-highland-auberge-serial-murders-part-4">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The culprit behind the killings at the auberge has been identified, but Ron is still<br>reeling from the flood of memories that this case has triggered. Will the missing pieces<br>of his past bring him despair, or something else?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Medaka Kuroiwa is Impervious to My Charms (English Dub) - Episode 1 - Can't Charm Him</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3f624c36401dc395c8d8e0c7786515451736175697_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GK9UG2734/cant-charm-him">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Mona Kawai had never met a boy who could resist her charms. Enter Medaka Kuroiwa,<br>who not only withstands her every move but also acts like he's disgusted by them!<br>Is Mona's queen bee ego capable of taking no for an answer?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Headhunted to Another World: From Salaryman to Big Four! (English Dub) - Episode 1 - Tips on How to Pass the Entrance Exam in Another World</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ee3c1836946e62821ed973ae06dc45f81735730346_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GN7UNK5DW/tips-on-how-to-pass-the-entrance-exam-in-another-world">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic - Episode 4 - Liam Tries Taking an Elf Familiar</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3f3295bd96ad316682704b9e667524a61737392967_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GJWUQ7K72/liam-tries-taking-an-elf-familiar">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Radon asks Liam to protect some fairies from a forest, as their wings are highly<br>coveted. As part of the process, his magic continues to evolve.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Medaka Kuroiwa is Impervious to My Charms - Episode 3 - School Festival with Him</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/47c42152ae34155a952bc666c1d736921737392911_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G9DU9N4ZW/school-festival-with-him">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">It’s time for the school festival, and Mona is convinced that the event vibes will<br>make her moves on Medaka more effective. Is she right, though?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 - Episode 12 - True Heart</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b8008bc24b2cf51b20669e68e0d55441737388600_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G14UVQWXD/true-heart">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Aside from pointing out what a huge edgelord Hajime is, the labyrinth begins pointing out<br>other painful realities that Hajime was trying to look away from. Meanwhile, Shizuku is subjected<br>to the same ordeals.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Headhunted to Another World: From Salaryman to Big Four! - Episode 4 - Breakthroughs Happen Even With Magic!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/225ecc0ad79bfa6e0224afe756a974531737386834_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GD9UEZE9J/breakthroughs-happen-even-with-magic">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Dark Lord gives Dennosuke a new task: to research the magical arts so that<br>everyone can use magic even without the necessary power. And this time, he will have<br>the help of the elusive Sylphid.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Promise of Wizard - Episode 3 - A Heartfelt Breakfast</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/29d3fae123b28d5cbd7add2cd1735e6c1737377776_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G31UVEVN9/a-heartfelt-breakfast">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">It's decided that a ritual to summon new wizards will be performed. The only one<br>who can perform this ritual is the Sage, Akira. While preparations were being done for<br>the ritual, Akira was reading notes about the wizards in the Sage's Tome to get<br>closer to them.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (English Dub) - Episode 23 - Sword Saint</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1496d3837a0a8eb69f78065526d006a61734226800_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GD9UEZ4GQ/sword-saint">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After Natsu and the others took down Yoko, they meet Suzaku, a Dragon Slayer of<br>Diabolos, who has been summoned from Earthland to defeat Selene. Also known as Sword Saint,<br>Suzaku is a formidable foe and Fairy Tail is helpless against him.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (English Dub) - Episode 24 - This Hideous World</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0cd319c37531550c9958e2ee5fbd23411734848606_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GQJUM04Z3/this-hideous-world">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Gray fights Hakune once again, and his love for Juvia breaks Hakune's attack. Selene reveals<br>to Suzaku that the dragon he ate is her son. Then Wendy finds a connection<br>between tha Hands and the Face of Tartarus.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (German Dub) - Episode 23 - Sword Saint</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1496d3837a0a8eb69f78065526d006a61734226800_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G2XUN1ZVE/sword-saint">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After Natsu and the others took down Yoko, they meet Suzaku, a Dragon Slayer of<br>Diabolos, who has been summoned from Earthland to defeat Selene. Also known as Sword Saint,<br>Suzaku is a formidable foe and Fairy Tail is helpless against him.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">MF GHOST Season 2 (English Dub) - Episode 23 - The Cost of Courage</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7d933bf0bec268311efcc34393cdeb051734265838_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GPWU8JWX7/the-cost-of-courage">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Kanata sets a rapid time in qualifying, but his mere presence on the grid has<br>seemingly raised the level of a number of his competitors.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tower of God Season 2 (Russian Dub) - Episode 26 - The Dawn of the Departure</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dc85c15d1c8b7dca6076937fda57b3541735465934_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GEVUW35QZ/the-dawn-of-the-departure">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Reflejo is brought to the brink of death using the unleashed power of the Thorn.<br>Viole (Bam) finds himself in a difficult position. But thanks to quick thinking from Khun<br>and Rak and Endorsi’s Bongbong, they successfully escape. Their companions gather one after another and<br>all leave the arena on the Wolhaiksong floating ship as the turbulent Workshop Battle finally<br>comes to a close...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tower of God Season 2 (Hindi Dub) - Episode 26 - The Dawn of the Departure</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dc85c15d1c8b7dca6076937fda57b3541735465934_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/G4VUW0P7G/the-dawn-of-the-departure">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Reflejo is brought to the brink of death using the unleashed power of the Thorn.<br>Viole (Bam) finds himself in a difficult position. But thanks to quick thinking from Khun<br>and Rak and Endorsi’s Bongbong, they successfully escape. Their companions gather one after another and<br>all leave the arena on the Wolhaiksong floating ship as the turbulent Workshop Battle finally<br>comes to a close...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tower of God Season 2 (English Dub) - Episode 26 - The Dawn of the Departure</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dc85c15d1c8b7dca6076937fda57b3541735465934_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GK9UG27N4/the-dawn-of-the-departure">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Reflejo is brought to the brink of death using the unleashed power of the Thorn.<br>Viole (Bam) finds himself in a difficult position. But thanks to quick thinking from Khun<br>and Rak and Endorsi’s Bongbong, they successfully escape. Their companions gather one after another and<br>all leave the arena on the Wolhaiksong floating ship as the turbulent Workshop Battle finally<br>comes to a close...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tower of God Season 2 (German Dub) - Episode 25 - Return of the King</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1739b0fa19bc7978a6351db95befada91734848673_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/19/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/watch/GX9U3MN48/return-of-the-king">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">While Reflejo, Viole (Bam), Khun, and Rak are engaged in their final showdown, FUG and<br>the Workshop attempt to pour a solution capable of melting everything into the area... Lero<br>Ro and Endorsi rush to their three companions in order to save them, but FUG<br>Rankers and Team Mad Dog stand in their way! Will Viole and the others be<br>able to escape safely?!</p>
 </td>
 </tr>
 </table>
