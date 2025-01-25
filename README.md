@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 24, 2025, 7:26:36 PM</em></p>
+<p align="center"><em>Updated on: Jan 25, 2025, 8:01:14 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc - Episode 5 - Reunion</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time (English Dub) - Episode 1 - I'm a Guild Receptionist, so I Want a Peaceful Life</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/05294c32fe26804e7519b618183c117b1737668704_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8cbec7a9393e0d41047bda2c811595951736524113_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NE1G/reunion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX579Z/im-a-guild-receptionist-so-i-want-a-peaceful-life">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After witnessing the academy fire, Cheng Xiaoshi understands his power thanks to Lu Guang, and<br>they try to find out who survived the disaster.</p>
+<p align="center">Alina became a guild receptionist because she thought it'd be an easy, safe, secure job.<br>However, in reality, she's so swamped with work that she's stuck pulling overtime day after<br>day... and she's had enough!</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Thai Dub) - Episode 11 - With This Fist, A Miracle</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Hindi Dub) - Episode 1 - I'm Getting Married to a Girl I Hate in My Class</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/38981542e7e44017461e37a40d93a5091686837599_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3d7dae16666bbbf88c16b879665f33bf1735914941_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNJ2Z/with-this-fist-a-miracle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V9XE/im-getting-married-to-a-girl-i-hate-in-my-class">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kohaku has located the treasure left behind by Byakuya and the others, but it's encased<br>in concrete. Senku has to devise a plan to quietly get at the contents inside,<br>so as to not alert the guards.</p>
+<p align="center">Saito is getting married to his classmate. But it's not just any classmate—it's his least<br>favorite girl in school and archnemesis, Akane Sakuramori! And so begins a romcom of two<br>stubborn love birds forced into marriage against their will.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Thai Dub) - Episode 10 - SCIENCE WARS</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Tamil Dub) - Episode 1 - I'm Getting Married to a Girl I Hate in My Class</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e570e7703f9f7b6526193d3882a982b01686233589_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3d7dae16666bbbf88c16b879665f33bf1735914941_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3N7Q/science-wars">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3NK0/im-getting-married-to-a-girl-i-hate-in-my-class">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Amaryllis, Ginro and Kohaku are chosen to join the inner palace. The science team will<br>need a way to communicate with them in secret, and, eventually, a way for them<br>with the science team.</p>
+<p align="center">Saito is getting married to his classmate. But it's not just any classmate—it's his least<br>favorite girl in school and archnemesis, Akane Sakuramori! And so begins a romcom of two<br>stubborn love birds forced into marriage against their will.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Thai Dub) - Episode 9 - Beautiful Science</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Telugu Dub) - Episode 1 - I'm Getting Married to a Girl I Hate in My Class</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4eee9983932d25863cf36c6b4aa9c8d11685631617_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3d7dae16666bbbf88c16b879665f33bf1735914941_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V99J/beautiful-science">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ4KJ/im-getting-married-to-a-girl-i-hate-in-my-class">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Suika and Ginro work together to rescue the mobile lab from the Perseus. Reunited with<br>Senku and the others, the group works on items to help Kohaku with the selection<br>process.</p>
+<p align="center">Saito is getting married to his classmate. But it's not just any classmate—it's his least<br>favorite girl in school and archnemesis, Akane Sakuramori! And so begins a romcom of two<br>stubborn love birds forced into marriage against their will.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Thai Dub) - Episode 8 - The Trump Card Aboard the Science Vessel</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Hindi Dub) - Episode 12 - True Strength</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9d59aa32347ba5cb7ace0b3c7be9fdc81685022616_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b70eec9c296d5f79724880cb6ebf8511735315325_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JWWZ/the-trump-card-aboard-the-science-vessel">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MNXM/true-strength">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Amaryllis explains how she evaded petrification and how she came to her decision to sneak<br>into the inner palace.</p>
+<p align="center">Vegeta’s battle with the Tamagami is evenly matched, but forced underwater where he's not used<br>to fighting, he finds himself struggling! Vegeta is cornered and sinks to the ocean floor.<br>But then he finally unleashes his true strength!</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Thai Dub) - Episode 7 - Ray of Despair, Ray of Hope</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Tamil Dub) - Episode 12 - True Strength</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0ff87f5de4afa20a5176fa6e3aa510091684421707_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b70eec9c296d5f79724880cb6ebf8511735315325_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +200,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEMMZ/ray-of-despair-ray-of-hope">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0P97/true-strength">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Perseus arrives at the treasure island. A recon squad consisting of Senku, Soyuz, Kohaku,<br>and Gen set off to locate the platinum and make contact with the islanders. Ukyo<br>later discovers something on the seafloor and send Ginro to investigate.</p>
+<p align="center">Vegeta’s battle with the Tamagami is evenly matched, but forced underwater where he's not used<br>to fighting, he finds himself struggling! Vegeta is cornered and sinks to the ocean floor.<br>But then he finally unleashes his true strength!</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Thai Dub) - Episode 6 - TREASURE BOX</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Telugu Dub) - Episode 12 - True Strength</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4fee7e6c1e3031107d4bc8b2536e2a711683815673_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b70eec9c296d5f79724880cb6ebf8511735315325_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +234,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XDD9/treasure-box">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ743Q/true-strength">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Perseus crew are on their way to the treasure island, the birthplace of the<br>Hundred Tales, where they hope to locate the treasure box left behind by the Soyuz<br>crew.</p>
+<p align="center">Vegeta’s battle with the Tamagami is evenly matched, but forced underwater where he's not used<br>to fighting, he finds himself struggling! Vegeta is cornered and sinks to the ocean floor.<br>But then he finally unleashes his true strength!</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Thai Dub) - Episode 5 - Science Vessel Perseus</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (English Dub) - Episode 3 - Daima</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d99f73a7776c64841d517dae38196c961683204970_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd3e5a3d0b1576a58bbaa263fc58dc1e1729871904_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +268,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG277J/science-vessel-perseus">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XDED/daima">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kaseki's efforts to build the science vessel Perseus hit a roadblock when he realizes that<br>it's impossible to get all the parts to fit in practice.</p>
+<p align="center">Goku, Supreme Kai, and Glorio head out to the "Demon Realm" first. Their plane travels<br>through space and a mysterious dimension. They arrive at the entrance to the Demon Realm,<br>the "Third Demon World"!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Thai Dub) - Episode 4 - Eyes of Science</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (English Dub) - Episode 25 - Maomao and Maomao</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bb97ea049766a6d4e0deda82eb26fdb61682605378_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dcd8594821409d91f04889eecfb9b8281736524318_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +302,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK559/eyes-of-science">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NWJZ/maomao-and-maomao">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The morse code signal reading "WHY" saturates the airwaves too much for Ukyo to pinpoint<br>a direction, so the Kingdom of Science works on a way to visualize the signal.</p>
+<p align="center">The spring garden party concludes without incident. Maomao returns to her regular life as Concubine<br>Gyokuyou’s taster. Meanwhile, novels become popular in the rear palace. Maomao wonders how this came<br>to be, as novels were typically considered low-class. But behind the scenes lies Jinshi and<br>his goals as manager of the rear palace.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Thai Dub) - Episode 3 - First Contact</h3></th>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Thai Dub) - Episode 12 - Bye-Bye! See You Next Time!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2fb43f589f36ddc7b8e2d9df5e0f98c21681991208_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/45e6b3e324cf02131cf85bb74356281f1726410548_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +336,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7445/first-contact">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ4PJ/bye-bye-see-you-next-time">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Senku, brings along a team to look for the Sagara Oil Fields. Meanwhile, Suika and<br>Francois go truffle hunting.</p>
+<p align="center">Takumi arrives once again at Cedric's place with the twins, and Cedric immediately has a<br>request for him. Next up is a dungeon that they haven't yet completed. What awaits<br>them down there?</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Thai Dub) - Episode 2 - Greed Equals Justice</h3></th>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Indonesian Dub) - Episode 12 - Bye-Bye! See You Next Time!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bbcfb5757f7aa222f10d11380e4cf4131681391811_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/45e6b3e324cf02131cf85bb74356281f1726410548_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +370,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ882/greed-equals-justice">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MNWD/bye-bye-see-you-next-time">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Kingdom of Science will need rations to last them through their voyage to the<br>other side of the world. But Senku, being no professional, burns all the bread he<br>attempts to bake.</p>
+<p align="center">Takumi arrives once again at Cedric's place with the twins, and Cedric immediately has a<br>request for him. Next up is a dungeon that they haven't yet completed. What awaits<br>them down there?</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Thai Dub) - Episode 1 - NEW WORLD MAP</h3></th>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Thai Dub) - Episode 11 - Vector Does a Good Job!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8624282c3f9ba320fdc7dd36479d6c841680786502_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/729132de92c6ae2963c1fb2146e515b41725813503_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +404,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0PPX/new-world-map">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V94E/vector-does-a-good-job">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While continuing to use the hot air balloon to search for the oil, it's decided<br>that Ishigami Village needs to take up agriculture to prevent future food shortages, as well<br>as to produce preserved food for their upcoming sea voyage.</p>
+<p align="center">Takumi has found the trading company that owns the sunken ship. When he returns it,<br>he is introduced to a variety of interesting spices. An idea for a new dish<br>immediately comes to mind!</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE Season 2 (Thai Dub) - Episode 11 - PROLOGUE OF Dr. STONE</h3></th>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Indonesian Dub) - Episode 11 - Vector Does a Good Job!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3ebed3ac4cd243e659bef3328c92a84c1616668543_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/729132de92c6ae2963c1fb2146e515b41725813503_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +438,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX57D1/prologue-of-dr-stone">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ4JJ/vector-does-a-good-job">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsukasa and Senku defeat Hyoga, but Tsukasa is mortally wounded. The options for treating sepsis<br>and a punctured lung are limited, painful and uncertain.</p>
+<p align="center">Takumi has found the trading company that owns the sunken ship. When he returns it,<br>he is introduced to a variety of interesting spices. An idea for a new dish<br>immediately comes to mind!</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE Season 2 (Thai Dub) - Episode 10 - Humanity's Strongest Tag Team</h3></th>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Thai Dub) - Episode 10 - I Hope We Can Make Friends...</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ecec6a083e6f89ff06878fc9a010ec9b1616045489_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8335d4dd64d228bc2c7e3b3e0034845a1725192547_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -472,13 +472,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3NPQ/humanitys-strongest-tag-team">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XDQD/i-hope-we-can-make-friends">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A truce is called between the kingdom of science and Tsukasa Empire. All appears to<br>be well, but some of the kingdom’s dynamite is missing.</p>
+<p align="center">Takumi has a conversation with Cedric, the lord of Bailey. Cedric shows particular interest in<br>the food that Takumi has introduced to the land. Cedric's sons also seem enthusiastic.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE Season 2 (Thai Dub) - Episode 9 - To Destroy and to Save</h3></th>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Indonesian Dub) - Episode 10 - I Hope We Can Make Friends...</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/350ded014f2b333c67616e5c3b7b42d41615450753_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8335d4dd64d228bc2c7e3b3e0034845a1725192547_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -506,13 +506,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1Z2G/to-destroy-and-to-save">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V98E/i-hope-we-can-make-friends">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Several of the kingdom’s strongest fighters are locked in battle with Hyoga and Tsukasa. Meanwhile,<br>Senku, Gen and Chrome make it to the miracle cave. They’ll have very little time<br>to put together a weapon to end the war.</p>
+<p align="center">Takumi has a conversation with Cedric, the lord of Bailey. Cedric shows particular interest in<br>the food that Takumi has introduced to the land. Cedric's sons also seem enthusiastic.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE Season 2 (Thai Dub) - Episode 8 - FINAL BATTLE</h3></th>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Thai Dub) - Episode 9 - What's a Dad?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a79802b0958337eaec193d6b72faff3a1614842700_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/07542e267bf09e2a44827901a41fa36e1724600716_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -540,13 +540,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JWQZ/final-battle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMJ8N/whats-a-dad">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The kingdom of science begins its siege on Tsukasa’s empire. They’ll have less than twenty<br>seconds from the beginning of the war to scare the empire into submission, or risk<br>casualties.</p>
+<p align="center">After arriving in Bailey, Takumi first talks with Syl and receives some news and gifts.<br>Then he heads to the Adventurer's Guild, where a great commotion suddenly breaks out.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE Season 2 (Thai Dub) - Episode 7 - Secret Mission</h3></th>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Indonesian Dub) - Episode 9 - What's a Dad?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fc8204bb44a1b868063040abeda4f2241614241968_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/07542e267bf09e2a44827901a41fa36e1724600716_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -574,13 +574,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XDV9/secret-mission">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1ZW3/whats-a-dad">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chrome makes it back to the kingdom of science’s base, where he bears witness to<br>the Steam Gorilla for the first time. Meanwhile, with the help of the others and<br>with his fake Lilian voice, Gen manages to convert even more people away from the<br>Tsukasa Empire.</p>
+<p align="center">After arriving in Bailey, Takumi first talks with Syl and receives some news and gifts.<br>Then he heads to the Adventurer's Guild, where a great commotion suddenly breaks out.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE Season 2 (Thai Dub) - Episode 6 - PRISON BREAK</h3></th>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Thai Dub) - Episode 8 - Crab! Crab!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/46cf9fc12cfb7e32cc3a895330d696fb1613632073_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c4541ad35876d0b276d3f9edd75e25a11723985296_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -608,13 +608,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMJZK/prison-break">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK5P0/crab-crab">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chrome tries to use his knowledge of science to escape from his prison, but he<br>just doesn’t have the tools. Yo, a former cop who had been revived into Tsukasa’s<br>army, tries to work up the ranks.</p>
+<p align="center">Takumi bids farewell to the Azure Palace and continues on his way to Bailey. Along<br>the way, he discovers a dungeon with 30 levels and decides to explore it a<br>bit.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE Season 2 (Thai Dub) - Episode 5 - STEAM GORILLA</h3></th>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Indonesian Dub) - Episode 8 - Crab! Crab!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4414df0c5b995aa024546aabe77f0d221613010027_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c4541ad35876d0b276d3f9edd75e25a11723985296_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -642,13 +642,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG27ZJ/steam-gorilla">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEMDP/crab-crab">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The kingdom of science builds a steam engine. They use it to set up base<br>closer to Tsukasa’s empire.</p>
+<p align="center">Takumi bids farewell to the Azure Palace and continues on his way to Bailey. Along<br>the way, he discovers a dungeon with 30 levels and decides to explore it a<br>bit.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE Season 2 (Thai Dub) - Episode 4 - Full Assault</h3></th>
+<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Thai Dub) - Episode 7 - Mermaids! Dragons!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/22805534534559ddc84be5e3898ee1f61612396872_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9efea0b31fb75b01c38c723471a98a811723395821_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -676,13 +676,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK5Z9/full-assault">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0PE7/mermaids-dragons">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nikki becomes the first member of the Tsukasa Empire to convert to the kingdom of<br>science. Meanwhile, with Chrome in mortal danger, Senku and the kingdom begin plotting a way<br>to bring him back to safety.</p>
+<p align="center">Takumi and the children helped the merfolk and were generously rewarded. They head to a<br>small island to finally master water magic, but then they encounter a strange monster.</p>
 </td>
 </tr>
 </table>
