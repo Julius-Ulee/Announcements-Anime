@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 25, 2025, 7:23:29 PM</em></p>
+<p align="center"><em>Updated on: Jan 26, 2025, 8:06:32 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Blue Miburo - Episode 15 - Like a River's Flow</h3></th>
+<th><h3 align="center">You are Ms. Servant (English Dub) - Episode 12 - The Joyous Tidings You All Bring.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/397f3fdacad1c420aa41232bfde8ee3d1737802765_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4596099154d1a5290004a375bb69023c1734800967_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NK25/like-a-rivers-flow">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ89N/the-joyous-tidings-you-all-bring">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hajime visits the Snake in search of work, but how far will he go for<br>money? Meanwhile, Nio and Taro meet a woman named Nagi and her husband, Yotaro.</p>
+<p align="center">Consulting Naka, Yuki decides to select a birthday gift for Hitoyoshi. Meanwhile, Riko manages to<br>wake up Hitoyoshi. Filled with fear and anxiety, he worries about what his dad would<br>think of the real Yuki as he's about to face his biggest challenge.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 48 - How Naruto Inspires Professional Footballer Jeremie Frimpong on the Field </h3></th>
+<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (German Dub) - Episode 1 - Shiro and Yuri</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bb1528643e7787f70a61df9fca2f945b1737758009_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0ea3b4ee46ebf0fcd19f7f4daf97e1bb1736005145_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWE42/how-naruto-inspires-professional-footballer-jeremie-frimpong-on-the-field-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW35XG/shiro-and-yuri">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Dutch footballer and anime fan Jeremie Frimpong is sharing how Naruto and other shonen protagonists<br>inspire him the field, drafting his dream anime soccer team, and sharing all about his<br>love for anime only on The Anime Effect. Then, hosts Leah President, LeAlec Murray, and<br>Alex Lebl reveal the latest shocking discovery from the Bananya universe and answer your questions.</p>
+<p align="center">The artificial Gehenna Gate has completely opened, throwing the material world of Assiah into utter<br>chaos as many humans have now begun to see demons. Amid everything, Yukio leaves the<br>Knights of the True Cross and heads for the Illuminati. Rin decides that he must<br>learn the secret of their birth. He embarks on a journey 40 years into the<br>past with Mephisto's guidance. Rin witnesses the fated meeting between two individuals – an orphan<br>who lives in an abandoned factory named Yuri, and a test subject from Section 13<br>named Shiro.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time (English Dub) - Episode 1 - I'm a Guild Receptionist, so I Want a Peaceful Life</h3></th>
+<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (French Dub) - Episode 1 - Shiro and Yuri</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8cbec7a9393e0d41047bda2c811595951736524113_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0ea3b4ee46ebf0fcd19f7f4daf97e1bb1736005145_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX579Z/im-a-guild-receptionist-so-i-want-a-peaceful-life">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32KM0/shiro-and-yuri">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Alina became a guild receptionist because she thought it'd be an easy, safe, secure job.<br>However, in reality, she's so swamped with work that she's stuck pulling overtime day after<br>day... and she's had enough!</p>
+<p align="center">The artificial Gehenna Gate has completely opened, throwing the material world of Assiah into utter<br>chaos as many humans have now begun to see demons. Amid everything, Yukio leaves the<br>Knights of the True Cross and heads for the Illuminati. Rin decides that he must<br>learn the secret of their birth. He embarks on a journey 40 years into the<br>past with Mephisto's guidance. Rin witnesses the fated meeting between two individuals – an orphan<br>who lives in an abandoned factory named Yuri, and a test subject from Section 13<br>named Shiro.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Hindi Dub) - Episode 1 - I'm Getting Married to a Girl I Hate in My Class</h3></th>
+<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (English Dub) - Episode 1 - Shiro and Yuri</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3d7dae16666bbbf88c16b879665f33bf1735914941_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0ea3b4ee46ebf0fcd19f7f4daf97e1bb1736005145_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V9XE/im-getting-married-to-a-girl-i-hate-in-my-class">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0P19/shiro-and-yuri">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Saito is getting married to his classmate. But it's not just any classmate—it's his least<br>favorite girl in school and archnemesis, Akane Sakuramori! And so begins a romcom of two<br>stubborn love birds forced into marriage against their will.</p>
+<p align="center">The artificial Gehenna Gate has completely opened, throwing the material world of Assiah into utter<br>chaos as many humans have now begun to see demons. Amid everything, Yukio leaves the<br>Knights of the True Cross and heads for the Illuminati. Rin decides that he must<br>learn the secret of their birth. He embarks on a journey 40 years into the<br>past with Mephisto's guidance. Rin witnesses the fated meeting between two individuals – an orphan<br>who lives in an abandoned factory named Yuri, and a test subject from Section 13<br>named Shiro.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Tamil Dub) - Episode 1 - I'm Getting Married to a Girl I Hate in My Class</h3></th>
+<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (German Dub) - Episode 12 - Parting</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3d7dae16666bbbf88c16b879665f33bf1735914941_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ab7e098531d09dd3cb373ed78cd7b7b31734797239_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3NK0/im-getting-married-to-a-girl-i-hate-in-my-class">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX574M/parting">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Saito is getting married to his classmate. But it's not just any classmate—it's his least<br>favorite girl in school and archnemesis, Akane Sakuramori! And so begins a romcom of two<br>stubborn love birds forced into marriage against their will.</p>
+<p align="center">Yukio is arrested on suspicion of shooting Mephisto. After learning about Yukio's eye, Rin decides<br>to escape from The Order with his brother. With the help of the Exwires and<br>Amaimon, he heads off to rescue Yukio. Severely injured by the gunshot, Mephisto decides to<br>abandon the barrier he placed on the artificial Gehenna Gate in order to maintain his<br>possessed body. As a result, the gate opens completely, and a horde of demons emerge.<br>The atmosphere of Gehenna thoroughly envelops Assiah...</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Telugu Dub) - Episode 1 - I'm Getting Married to a Girl I Hate in My Class</h3></th>
+<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 12 - Demonic Pride</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3d7dae16666bbbf88c16b879665f33bf1735914941_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bcd05c6e52028977d29d65f50bf4d2081737832926_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ4KJ/im-getting-married-to-a-girl-i-hate-in-my-class">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NW3Z/demonic-pride">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Saito is getting married to his classmate. But it's not just any classmate—it's his least<br>favorite girl in school and archnemesis, Akane Sakuramori! And so begins a romcom of two<br>stubborn love birds forced into marriage against their will.</p>
+<p align="center">The stage is set for all-out war between the forces of hell and the surface<br>world, but first, Shāng Bú Huàn plunges back into the underworld to rescue Làng Wū<br>Yáo.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Hindi Dub) - Episode 12 - True Strength</h3></th>
+<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 11 - The Demon Lord's Secret</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b70eec9c296d5f79724880cb6ebf8511735315325_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/798595e424acb4c4a5975c1af60cad231737833045_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MNXM/true-strength">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW359D/the-demon-lords-secret">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vegeta’s battle with the Tamagami is evenly matched, but forced underwater where he's not used<br>to fighting, he finds himself struggling! Vegeta is cornered and sinks to the ocean floor.<br>But then he finally unleashes his true strength!</p>
+<p align="center">A meeting to negotiate an alliance between the Order of the Divine Swarm and the<br>Demon Lord ends up revealing more than one shocking secret.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Tamil Dub) - Episode 12 - True Strength</h3></th>
+<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 10 - A Heart, Entrusted</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b70eec9c296d5f79724880cb6ebf8511735315325_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4797a132ed6547a80d730ca608cee49d1737832506_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0P97/true-strength">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWQ7D/a-heart-entrusted">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vegeta’s battle with the Tamagami is evenly matched, but forced underwater where he's not used<br>to fighting, he finds himself struggling! Vegeta is cornered and sinks to the ocean floor.<br>But then he finally unleashes his true strength!</p>
+<p align="center">It's a mix of bad and good news for Shāng and friends, as they discover<br>a ravine that leads to hell but also find what they were searching for.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Telugu Dub) - Episode 12 - True Strength</h3></th>
+<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 9 - Awakening</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b70eec9c296d5f79724880cb6ebf8511735315325_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c5b1b0cf35d1c5f43dc775e37cfcf94c1737832271_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ743Q/true-strength">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM04KJ/awakening">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vegeta’s battle with the Tamagami is evenly matched, but forced underwater where he's not used<br>to fighting, he finds himself struggling! Vegeta is cornered and sinks to the ocean floor.<br>But then he finally unleashes his true strength!</p>
+<p align="center">While Làng Wū Yáo enters a deep slumber designed to draw out his full demonic<br>potential, Juǎn Cán Yún has a strange encounter with a mysterious boy.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (English Dub) - Episode 3 - Daima</h3></th>
+<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 8 - Reunion</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd3e5a3d0b1576a58bbaa263fc58dc1e1729871904_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d788d16c2388f441648c29f23b793ac51737831431_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XDED/daima">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3NZ0/reunion">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goku, Supreme Kai, and Glorio head out to the "Demon Realm" first. Their plane travels<br>through space and a mysterious dimension. They arrive at the entrance to the Demon Realm,<br>the "Third Demon World"!</p>
+<p align="center">What started as a search for a sacred sword unearths a dreadful revelation for Shāng<br>Bú Huàn, as well as an unexpected encounter in the depths of hell.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (English Dub) - Episode 25 - Maomao and Maomao</h3></th>
+<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 7 - Beyond the Sorcerous Path</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dcd8594821409d91f04889eecfb9b8281736524318_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d58f4fd6623b1d5a4c2680b7fd493fa71737831185_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NWJZ/maomao-and-maomao">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JWP0/beyond-the-sorcerous-path">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The spring garden party concludes without incident. Maomao returns to her regular life as Concubine<br>Gyokuyou’s taster. Meanwhile, novels become popular in the rear palace. Maomao wonders how this came<br>to be, as novels were typically considered low-class. But behind the scenes lies Jinshi and<br>his goals as manager of the rear palace.</p>
+<p align="center">As Azibělpher ruminates to Xíng Hài about the unexpected existential consequences that mastery of time<br>travel gives rise to, Wū Yáo falls into enemy clutches.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Thai Dub) - Episode 12 - Bye-Bye! See You Next Time!</h3></th>
+<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 6 - A Storm of Schemes</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/45e6b3e324cf02131cf85bb74356281f1726410548_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6cf1289c1fe6fe9464d26512ba95f51d1737830705_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ4PJ/bye-bye-see-you-next-time">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEMGP/a-storm-of-schemes">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takumi arrives once again at Cedric's place with the twins, and Cedric immediately has a<br>request for him. Next up is a dungeon that they haven't yet completed. What awaits<br>them down there?</p>
+<p align="center">The lords of hell see human visitors to their domain as a chance to plot<br>the downfall of their rivals, but what will their plans for proxy conflict cost them?</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Indonesian Dub) - Episode 12 - Bye-Bye! See You Next Time!</h3></th>
+<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 5 - The Demonic Court</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/45e6b3e324cf02131cf85bb74356281f1726410548_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f100484e2c5b93331a2783fe9bf08f6c1737830719_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MNWD/bye-bye-see-you-next-time">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XDKD/the-demonic-court">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takumi arrives once again at Cedric's place with the twins, and Cedric immediately has a<br>request for him. Next up is a dungeon that they haven't yet completed. What awaits<br>them down there?</p>
+<p align="center">Azibělpher's manipulation of his son has caused enough waves in hell that the demonic court<br>has been assembled to address the underworld upheaval.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Thai Dub) - Episode 11 - Vector Does a Good Job!</h3></th>
+<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 4 - Bizarre Contests of Skill</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/729132de92c6ae2963c1fb2146e515b41725813503_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fa548fead005f6e70b63432ff09eccab1737830404_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V94E/vector-does-a-good-job">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMJKN/bizarre-contests-of-skill">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takumi has found the trading company that owns the sunken ship. When he returns it,<br>he is introduced to a variety of interesting spices. An idea for a new dish<br>immediately comes to mind!</p>
+<p align="center">As power struggles in the demon realm begin to intensify, Shāng's old friends find themselves<br>caught in a three way battle.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Indonesian Dub) - Episode 11 - Vector Does a Good Job!</h3></th>
+<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 3 - Heroic Resolve</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/729132de92c6ae2963c1fb2146e515b41725813503_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/666d86a95e6c08189357a99c3497e9531737830004_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ4JJ/vector-does-a-good-job">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG271P/heroic-resolve">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takumi has found the trading company that owns the sunken ship. When he returns it,<br>he is introduced to a variety of interesting spices. An idea for a new dish<br>immediately comes to mind!</p>
+<p align="center">Shāng considers accompanying the Seal Guardians in a search for a new sacred blade, while<br>Wū Yáo is forced to fight aristocrat from the demonic court.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Thai Dub) - Episode 10 - I Hope We Can Make Friends...</h3></th>
+<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 2 - Demonic Banquet</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8335d4dd64d228bc2c7e3b3e0034845a1725192547_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/de52fc425bded257ebdae399b6e257c31737829640_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XDQD/i-hope-we-can-make-friends">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK5Q0/demonic-banquet">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takumi has a conversation with Cedric, the lord of Bailey. Cedric shows particular interest in<br>the food that Takumi has introduced to the land. Cedric's sons also seem enthusiastic.</p>
+<p align="center">In the Demon Realm, Làng Wū Yáo's resolve is tested when he is forced to<br>weigh his humanity against the diabolic power he'll need to face his father.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Indonesian Dub) - Episode 10 - I Hope We Can Make Friends...</h3></th>
+<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 1 - Homecoming</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8335d4dd64d228bc2c7e3b3e0034845a1725192547_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4aa34dac98e08220d87ec6842f312f321737829267_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V98E/i-hope-we-can-make-friends">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ74ZQ/homecoming">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takumi has a conversation with Cedric, the lord of Bailey. Cedric shows particular interest in<br>the food that Takumi has introduced to the land. Cedric's sons also seem enthusiastic.</p>
+<p align="center">While Shāng Bú Huàn laments the loss of a friend, the Order of the Divine<br>Swarm prepares for a new phase of it's conquest.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Thai Dub) - Episode 9 - What's a Dad?</h3></th>
+<th><h3 align="center">I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths! (English Dub) - Episode 1 - Clover Is Born</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/07542e267bf09e2a44827901a41fa36e1724600716_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/93df27b11f6aed5d7bed0ce7ae6617c91736589597_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMJ8N/whats-a-dad">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM04V8/clover-is-born">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After arriving in Bailey, Takumi first talks with Syl and receives some news and gifts.<br>Then he heads to the Adventurer's Guild, where a great commotion suddenly breaks out.</p>
+<p align="center">Yuke, a red mage, quits his A-rank party, Thunder Pike, because he feels they don't<br>appreciate the support he provides. While seeking a new party, he encounters one of his<br>former students, Marina, who invites him to join her new D-rank party.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Indonesian Dub) - Episode 9 - What's a Dad?</h3></th>
+<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (English Dub) - Episode 14 - I Suppose You Aren't Aware</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/07542e267bf09e2a44827901a41fa36e1724600716_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e1a8566071311d4a6720540b0d02a6231736589573_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1ZW3/whats-a-dad">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMJGP/i-suppose-you-arent-aware">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After arriving in Bailey, Takumi first talks with Syl and receives some news and gifts.<br>Then he heads to the Adventurer's Guild, where a great commotion suddenly breaks out.</p>
+<p align="center">After being trapped inside of a red gate, Jinwoo has to contend with a bloodthirsty<br>pack of ice elves who question his humanity.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Journey Through Another World: Raising Kids While Adventuring (Thai Dub) - Episode 8 - Crab! Crab!</h3></th>
+<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Spanish Dub) - Episode 13 - You Aren't E-Rank, Are You?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c4541ad35876d0b276d3f9edd75e25a11723985296_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b27889eed12a1c5c1c5765eb0d8f82dc1735998722_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2025</td>
+<td align="center">1/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK5P0/crab-crab">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNJ18/you-arent-e-rank-are-you">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takumi bids farewell to the Azure Palace and continues on his way to Bailey. Along<br>the way, he discovers a dungeon with 30 levels and decides to explore it a<br>bit.</p>
+<p align="center">After a scheduled meeting with Jinah's teachers, Jinwoo is asked to talk to one of<br>her classmates, Han Song-yi, who is working as a hunter. In an effort to show<br>her the harsh reality of the job, Jinwoo takes her to a raid designated for<br>new hunters of the White Tiger guild.</p>
 </td>
 </tr>
 </table>
