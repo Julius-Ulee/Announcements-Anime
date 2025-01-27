@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 26, 2025, 7:23:36 PM</em></p>
+<p align="center"><em>Updated on: Jan 27, 2025, 8:05:44 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 - Episode 41 - What Do You Play Games For? Their Answers</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (English Dub) - Episode 1 - Hanako-kun of the Bathroom</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1e4d0bb06b7fc93c16c19f51a2f10b791737883104_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fd71d99fad4e6bed88018a13d12d336b1736666909_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VKV0/what-do-you-play-games-for-their-answers">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKZXZ/hanako-kun-of-the-bathroom">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Katzo and Pencilgon reaffirm their motives moving forward, and the defeat of Lycagon's shade has<br>repercussions for the devs.</p>
+<p align="center">Sudden, rapid aging wreaks havoc in Nene's and Kou's school lives. Hanako identifies the culprit<br>as a fellow Wonder: the three Clock Keepers, rumored to control time at Kamome Academy.<br>The trio set out to punish the offending apparition, but they'll have to find them<br>first.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 - Episode 3 - Lost and Found</h3></th>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (English Dub) - Episode 25 - Homecoming</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4d8ec0f0393c7a264b10385d2fbe8fd81737873113_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d3e8f56d9f36ee0a1ed872f43b900a531736055923_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2P1E/lost-and-found">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MD12/homecoming">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nene doesn't have long to live. While Kou struggles with the revelation, Nene goes about<br>her day none the wiser. Only she can't seem to find Hanako.</p>
+<p align="center">Natsu and the others defeat Alta Face and save Elentear. They're reunited with the guild<br>members in Drasil, but their 100 Years Quest continues. Meanwhile, Selene is taken to Diabolos<br>after being defeated by Suzaku. But things are not what it seems...</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece Log: Fish-Man Island Saga (Current) - Tiger's Regret - The Future That Otohime Envisions!</h3></th>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (German Dub) - Episode 24 - This Hideous World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f62b7959eea84c8b2b21facc3c2ec05b1737855554_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0cd319c37531550c9958e2ee5fbd23411734848606_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWE74/tigers-regret-the-future-that-otohime-envisions">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NXZ9/this-hideous-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinbe shares how Fisher Tiger and his crew journeyed to Foolshout Island to take the<br>former slave girl Koala home, and how it led to Fisher Tiger's tragic death. After<br>his death, Queen Otohime's passion to see her vision come true was renewed and that<br>was when an ill-natured Celestial Dragon arrived at Fish-Man Island.</p>
+<p align="center">Gray fights Hakune once again, and his love for Juvia breaks Hakune's attack. Selene reveals<br>to Suzaku that the dragon he ate is her son. Then Wendy finds a connection<br>between tha Hands and the Face of Tartarus.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Wonderful Precure! - Episode 50 - Wonderful Forever!</h3></th>
+<th><h3 align="center">MF GHOST Season 2 (English Dub) - Episode 24 - A Bitter Decision</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f9a2314419deeafd0ff2d81f8f72e5d21737853177_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c271b2531341cc3e8c774ed07d1d82fe1734879739_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ74NM/wonderful-forever">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNJ0V/a-bitter-decision">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Reunited with Gaou, Subaru joins his friends and disappears into the light. The Precures see<br>them off and then it’s time to say goodbye to Niko and Mey Mey before<br>they return to Niko Garden.</p>
+<p align="center">Much to his relief, Kanata manages to save Ren in the nick of time, but<br>he bangs his elbow in the process and shifting gears is now a problem. How<br>will he fare in the Peninsula race?</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You are Ms. Servant (English Dub) - Episode 12 - The Joyous Tidings You All Bring.</h3></th>
+<th><h3 align="center">Tower of God Season 2 (German Dub) - Episode 26 - The Dawn of the Departure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4596099154d1a5290004a375bb69023c1734800967_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dc85c15d1c8b7dca6076937fda57b3541735465934_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ89N/the-joyous-tidings-you-all-bring">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0P59/the-dawn-of-the-departure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Consulting Naka, Yuki decides to select a birthday gift for Hitoyoshi. Meanwhile, Riko manages to<br>wake up Hitoyoshi. Filled with fear and anxiety, he worries about what his dad would<br>think of the real Yuki as he's about to face his biggest challenge.</p>
+<p align="center">Reflejo is brought to the brink of death using the unleashed power of the Thorn.<br>Viole (Bam) finds himself in a difficult position. But thanks to quick thinking from Khun<br>and Rak and Endorsi’s Bongbong, they successfully escape. Their companions gather one after another and<br>all leave the arena on the Wolhaiksong floating ship as the turbulent Workshop Battle finally<br>comes to a close...</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (German Dub) - Episode 1 - Shiro and Yuri</h3></th>
+<th><h3 align="center">Tower of God Season 2 (French Dub) - Episode 26 - The Dawn of the Departure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0ea3b4ee46ebf0fcd19f7f4daf97e1bb1736005145_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dc85c15d1c8b7dca6076937fda57b3541735465934_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW35XG/shiro-and-yuri">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK5MV/the-dawn-of-the-departure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The artificial Gehenna Gate has completely opened, throwing the material world of Assiah into utter<br>chaos as many humans have now begun to see demons. Amid everything, Yukio leaves the<br>Knights of the True Cross and heads for the Illuminati. Rin decides that he must<br>learn the secret of their birth. He embarks on a journey 40 years into the<br>past with Mephisto's guidance. Rin witnesses the fated meeting between two individuals – an orphan<br>who lives in an abandoned factory named Yuri, and a test subject from Section 13<br>named Shiro.</p>
+<p align="center">Reflejo is brought to the brink of death using the unleashed power of the Thorn.<br>Viole (Bam) finds himself in a difficult position. But thanks to quick thinking from Khun<br>and Rak and Endorsi’s Bongbong, they successfully escape. Their companions gather one after another and<br>all leave the arena on the Wolhaiksong floating ship as the turbulent Workshop Battle finally<br>comes to a close...</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (French Dub) - Episode 1 - Shiro and Yuri</h3></th>
+<th><h3 align="center">Tower of God Season 2 (French Dub) - Episode 25 - Return of the King</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0ea3b4ee46ebf0fcd19f7f4daf97e1bb1736005145_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1739b0fa19bc7978a6351db95befada91734848673_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32KM0/shiro-and-yuri">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ74WV/return-of-the-king">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The artificial Gehenna Gate has completely opened, throwing the material world of Assiah into utter<br>chaos as many humans have now begun to see demons. Amid everything, Yukio leaves the<br>Knights of the True Cross and heads for the Illuminati. Rin decides that he must<br>learn the secret of their birth. He embarks on a journey 40 years into the<br>past with Mephisto's guidance. Rin witnesses the fated meeting between two individuals – an orphan<br>who lives in an abandoned factory named Yuri, and a test subject from Section 13<br>named Shiro.</p>
+<p align="center">While Reflejo, Viole (Bam), Khun, and Rak are engaged in their final showdown, FUG and<br>the Workshop attempt to pour a solution capable of melting everything into the area... Lero<br>Ro and Endorsi rush to their three companions in order to save them, but FUG<br>Rankers and Team Mad Dog stand in their way! Will Viole and the others be<br>able to escape safely?!</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (English Dub) - Episode 1 - Shiro and Yuri</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Portuguese Dub) - Episode 24 - The Cost of Battle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0ea3b4ee46ebf0fcd19f7f4daf97e1bb1736005145_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ce0ebb3f03a977a75ab50339a1b40331734265619_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0P19/shiro-and-yuri">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MNEG/the-cost-of-battle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The artificial Gehenna Gate has completely opened, throwing the material world of Assiah into utter<br>chaos as many humans have now begun to see demons. Amid everything, Yukio leaves the<br>Knights of the True Cross and heads for the Illuminati. Rin decides that he must<br>learn the secret of their birth. He embarks on a journey 40 years into the<br>past with Mephisto's guidance. Rin witnesses the fated meeting between two individuals – an orphan<br>who lives in an abandoned factory named Yuri, and a test subject from Section 13<br>named Shiro.</p>
+<p align="center">Viole (Bam), Khun, and Rak, who once thought each other dead, are reunited. Khun’s team<br>makes an enemy of FUG and the Workshop, but at the suggestion of former 2nd<br>Floor Test Admin Lero Ro, who has been secretly working to help Viole escape, they<br>decide to leave the arena with the losers before the final begins. Reflejo uses the<br>dying Hwaryun as a hostage to force Viole into a final confrontation.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -Beyond the Snow Saga- (German Dub) - Episode 12 - Parting</h3></th>
+<th><h3 align="center">Tower of God Season 2 (French Dub) - Episode 24 - The Cost of Battle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ab7e098531d09dd3cb373ed78cd7b7b31734797239_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ce0ebb3f03a977a75ab50339a1b40331734265619_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX574M/parting">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ87N/the-cost-of-battle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yukio is arrested on suspicion of shooting Mephisto. After learning about Yukio's eye, Rin decides<br>to escape from The Order with his brother. With the help of the Exwires and<br>Amaimon, he heads off to rescue Yukio. Severely injured by the gunshot, Mephisto decides to<br>abandon the barrier he placed on the artificial Gehenna Gate in order to maintain his<br>possessed body. As a result, the gate opens completely, and a horde of demons emerge.<br>The atmosphere of Gehenna thoroughly envelops Assiah...</p>
+<p align="center">Viole (Bam), Khun, and Rak, who once thought each other dead, are reunited. Khun’s team<br>makes an enemy of FUG and the Workshop, but at the suggestion of former 2nd<br>Floor Test Admin Lero Ro, who has been secretly working to help Viole escape, they<br>decide to leave the arena with the losers before the final begins. Reflejo uses the<br>dying Hwaryun as a hostage to force Viole into a final confrontation.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 12 - Demonic Pride</h3></th>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 14 - Episode 4 - The Nightjar's Nest</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bcd05c6e52028977d29d65f50bf4d2081737832926_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4bb23167e6fdde3176cac05667136d831737924317_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NW3Z/demonic-pride">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMEW4/the-nightjars-nest">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The stage is set for all-out war between the forces of hell and the surface<br>world, but first, Shāng Bú Huàn plunges back into the underworld to rescue Làng Wū<br>Yáo.</p>
+<p align="center">This is the story of a man who is searching for his missing sister.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 11 - The Demon Lord's Secret</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (English Dub) - Episode 13 - Her Name.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/798595e424acb4c4a5975c1af60cad231737833045_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/65fe1848d11c9642e659a261007253571736681514_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW359D/the-demon-lords-secret">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWQ29/her-name">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A meeting to negotiate an alliance between the Order of the Divine Swarm and the<br>Demon Lord ends up revealing more than one shocking secret.</p>
+<p align="center">Season 2 begins, and the gap between the seasons means the girlfriends are immediately faced<br>with a crisis. Rentaro, meanwhile, happens to run into a very hungry girl...</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 10 - A Heart, Entrusted</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (French Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4797a132ed6547a80d730ca608cee49d1737832506_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWQ7D/a-heart-entrusted">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32K10/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's a mix of bad and good news for Shāng and friends, as they discover<br>a ravine that leads to hell but also find what they were searching for.</p>
+<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 9 - Awakening</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c5b1b0cf35d1c5f43dc775e37cfcf94c1737832271_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM04KJ/awakening">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NWM1/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Làng Wū Yáo enters a deep slumber designed to draw out his full demonic<br>potential, Juǎn Cán Yún has a strange encounter with a mysterious boy.</p>
+<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 8 - Reunion</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d788d16c2388f441648c29f23b793ac51737831431_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3NZ0/reunion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MNWG/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">What started as a search for a sacred sword unearths a dreadful revelation for Shāng<br>Bú Huàn, as well as an unexpected encounter in the depths of hell.</p>
+<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 7 - Beyond the Sorcerous Path</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Tamil Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d58f4fd6623b1d5a4c2680b7fd493fa71737831185_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JWP0/beyond-the-sorcerous-path">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0PV9/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Azibělpher ruminates to Xíng Hài about the unexpected existential consequences that mastery of time<br>travel gives rise to, Wū Yáo falls into enemy clutches.</p>
+<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 6 - A Storm of Schemes</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Telugu Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6cf1289c1fe6fe9464d26512ba95f51d1737830705_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEMGP/a-storm-of-schemes">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ81N/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The lords of hell see human visitors to their domain as a chance to plot<br>the downfall of their rivals, but what will their plans for proxy conflict cost them?</p>
+<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 5 - The Demonic Court</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (German Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f100484e2c5b93331a2783fe9bf08f6c1737830719_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XDKD/the-demonic-court">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XD7M/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Azibělpher's manipulation of his son has caused enough waves in hell that the demonic court<br>has been assembled to address the underworld upheaval.</p>
+<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 4 - Bizarre Contests of Skill</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fa548fead005f6e70b63432ff09eccab1737830404_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMJKN/bizarre-contests-of-skill">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JW9J/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As power struggles in the demon realm begin to intensify, Shāng's old friends find themselves<br>caught in a three way battle.</p>
+<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 3 - Heroic Resolve</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/666d86a95e6c08189357a99c3497e9531737830004_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG271P/heroic-resolve">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1Z7V/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shāng considers accompanying the Seal Guardians in a search for a new sacred blade, while<br>Wū Yáo is forced to fight aristocrat from the demonic court.</p>
+<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Thunderbolt Fantasy Sword Seekers 4 - Episode 2 - Demonic Banquet</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/de52fc425bded257ebdae399b6e257c31737829640_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2025</td>
+<td align="center">1/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK5Q0/demonic-banquet">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNJ08/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the Demon Realm, Làng Wū Yáo's resolve is tested when he is forced to<br>weigh his humanity against the diabolic power he'll need to face his father.</p>
+<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
 </td>
 </tr>
 </table>
