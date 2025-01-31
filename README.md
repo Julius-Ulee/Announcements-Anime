@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 31, 2025, 8:04:41 AM</em></p>
+<p align="center"><em>Updated on: Jan 31, 2025, 7:26:16 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Hindi Dub) - Episode 14 - Haru vs. Gaku</h3></th>
+<th><h3 align="center">Link Click: Bridon Arc - Episode 6 - Puzzle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0e49cecce109b92427f900c1f723271d1736435166_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ce82b5c7fd476ea050545f56af86bf331738287933_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5M73/haru-vs-gaku">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MQPJ/puzzle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rinrin is furious when she learns the game development project was merely a pawn, but<br>Gaku stops her from going to speak with Haru. If Gaku must fight Haru, then<br>he'd rather do it his way. He reveals the situation to Sakura's team, and together<br>they plan to create a game that exceeds what Haru planned for them. That said,<br>it's a difficult task for a team that's never produced a hit game before.</p>
+<p align="center">Cheng Xiaoshi finally manages to talk to Vein, but to help him, Vein demands that<br>he and Lu Guang help him replace a fired model.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Tamil Dub) - Episode 14 - Haru vs. Gaku</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 94 - Fierce Battle at Shizuoka!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0e49cecce109b92427f900c1f723271d1736435166_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5e58f3306e1f463bdfb231fc3e2b1e551231795693_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW3Q1/haru-vs-gaku">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW35J/fierce-battle-at-shizuoka">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rinrin is furious when she learns the game development project was merely a pawn, but<br>Gaku stops her from going to speak with Haru. If Gaku must fight Haru, then<br>he'd rather do it his way. He reveals the situation to Sakura's team, and together<br>they plan to create a game that exceeds what Haru planned for them. That said,<br>it's a difficult task for a team that's never produced a hit game before.</p>
+<p align="center">While Hanamichi is practicing his 20,000 jump shots, Akagi and the team have a practice<br>game in Shizuoka.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Telugu Dub) - Episode 14 - Haru vs. Gaku</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 88 - A Land of Basketball</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0e49cecce109b92427f900c1f723271d1736435166_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9c848af956747ca623a69f441dca1a4d1230225313_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3P5M/haru-vs-gaku">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3P4V/a-land-of-basketball">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rinrin is furious when she learns the game development project was merely a pawn, but<br>Gaku stops her from going to speak with Haru. If Gaku must fight Haru, then<br>he'd rather do it his way. He reveals the situation to Sakura's team, and together<br>they plan to create a game that exceeds what Haru planned for them. That said,<br>it's a difficult task for a team that's never produced a hit game before.</p>
+<p align="center">Kogure felt malaise from Rukawa, which is due to Rukawa's wanting to go to America.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (English Dub) - Episode 14 - Haru vs. Gaku</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 89 - Unstoppable Intensity! Rukawa</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0e49cecce109b92427f900c1f723271d1736435166_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0fa5b73c6ec882e1b353d9dde4f8fa191230226286_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW03P1/haru-vs-gaku">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NX1W/unstoppable-intensity-rukawa">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rinrin is furious when she learns the game development project was merely a pawn, but<br>Gaku stops her from going to speak with Haru. If Gaku must fight Haru, then<br>he'd rather do it his way. He reveals the situation to Sakura's team, and together<br>they plan to create a game that exceeds what Haru planned for them. That said,<br>it's a difficult task for a team that's never produced a hit game before.</p>
+<p align="center">All the schools who are entering the Nationals have been decided.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Spanish Dub) - Episode 37 - Aoshi vs. Okina</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 90 - Shohoku's True Star!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1ca9f20b2912ecae2d19a3ad8c7e98601736446602_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9a86d7937ea8ee5d906fb7857201de331230227414_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JQWM/aoshi-vs-okina">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW03EM/shohokus-true-star">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hoji plans an attack of Aoiya at night using a secret unit, the Owl Clan,<br>in order to capture Okina and catch a hint of Kenshin's whereabouts, but instead the<br>Owl Clan were the ones defeated. Okina challenges Aoshi to a battle via a member<br>of the clan whom he sent back to Shishio's location.</p>
+<p align="center">The intensity in Rukawa and Mitsui's one-on-one is increasing.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Portuguese Dub) - Episode 37 - Aoshi vs. Okina</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 91 - The Nationals at Risk</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1ca9f20b2912ecae2d19a3ad8c7e98601736446602_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/75b000649b7fc33218834b8e32c279691230226894_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN12ZP/aoshi-vs-okina">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7M58/the-nationals-at-risk">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hoji plans an attack of Aoiya at night using a secret unit, the Owl Clan,<br>in order to capture Okina and catch a hint of Kenshin's whereabouts, but instead the<br>Owl Clan were the ones defeated. Okina challenges Aoshi to a battle via a member<br>of the clan whom he sent back to Shishio's location.</p>
+<p align="center">The Shohoku basketball team encounters an unexpected crisis.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Hindi Dub) - Episode 37 - Aoshi vs. Okina</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 92 - Male Friendship!? Sakuragi's Gang</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1ca9f20b2912ecae2d19a3ad8c7e98601736446602_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b05dd78440c233caaf538830044c73821230227092_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VD9K/aoshi-vs-okina">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2Z50/male-friendship-sakuragis-gang">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hoji plans an attack of Aoiya at night using a secret unit, the Owl Clan,<br>in order to capture Okina and catch a hint of Kenshin's whereabouts, but instead the<br>Owl Clan were the ones defeated. Okina challenges Aoshi to a battle via a member<br>of the clan whom he sent back to Shishio's location.</p>
+<p align="center">To be able to cheer Hanamichi on at the game, Yohei and his friends get<br>part-time jobs to pay for travel expenses to Hiroshima.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (English Dub) - Episode 37 - Aoshi vs. Okina</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 93 - A 20,000 Shot Challenge</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1ca9f20b2912ecae2d19a3ad8c7e98601736446602_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ce2e9f275b0da3302277b238a68080e41230230329_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN2J4/aoshi-vs-okina">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M951/a-20000-shot-challenge">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hoji plans an attack of Aoiya at night using a secret unit, the Owl Clan,<br>in order to capture Okina and catch a hint of Kenshin's whereabouts, but instead the<br>Owl Clan were the ones defeated. Okina challenges Aoshi to a battle via a member<br>of the clan whom he sent back to Shishio's location.</p>
+<p align="center">Finally, the intense training camp has started.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc (Portuguese Dub) - Episode 1 - So Time Begins to Flow Again</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 95 - Hanamichi's Hottest Day of His Life</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/afab0ce4d447254df20f7fad77c8ae251735249156_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/46e679c4d6db6f4b420a13d563ecb58a1230228283_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7MPW/so-time-begins-to-flow-again">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU325X1/hanamichis-hottest-day-of-his-life">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lu Guang goes back in time to where it all began.</p>
+<p align="center">While Hanamichi works hard on his 20,000 jumps jump shot training, Haruko invites him to<br>the festival for a change of pace.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc (Spanish Dub) - Episode 1 - So Time Begins to Flow Again</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 96 - Basketball Shoes II</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/afab0ce4d447254df20f7fad77c8ae251735249156_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f1aa7abae6f62f95f76ad689fa732c01230228748_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKZ5X/so-time-begins-to-flow-again">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MDG1/basketball-shoes-ii">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lu Guang goes back in time to where it all began.</p>
+<p align="center">The final day of training camp. Hanamichi finally makes his final jump shot to end<br>his 20,000 jump shot training.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc (French Dub) - Episode 1 - So Time Begins to Flow Again</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 97 - The Passionate Heart, Uozumi Once Again!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/afab0ce4d447254df20f7fad77c8ae251735249156_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ce20a04e0995166e84c8162da9f105361230230648_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2Z72/so-time-begins-to-flow-again">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ30P/the-passionate-heart-uozumi-once-again">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lu Guang goes back in time to where it all began.</p>
+<p align="center">Hanamichi annoyingly suggests a practice game to show off the results of his special training<br>to Akagi and the rest of the team.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Anyway, I'm Falling in Love with You. (English Dub) - Episode 2 - I'll Be by Your Side</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 98 - Intense Battle Begins!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cd6991aab05fa3fd835a481daf6446a31737047355_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b2ae7eef0ddf779fce78834699d0e15d1230229745_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW03G1/ill-be-by-your-side">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKZ9N/intense-battle-begins">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kizuki, who Mizuho saw as the crybaby little brother of the group, has lately been<br>hitting on her. Since Mizuho believed her and Kizuki would be childhood friends forever, she<br>is not sure how to approach this situation. He's on her mind to the point<br>where she seems disoriented, and even says something that could potentially push Kizuki away.</p>
+<p align="center">The Shoyo and Ryonan mixed team consists of Fujima, Hanagata, and Hasegawa from Shoyo along<br>with Uozumi and Ikegami from Ryonan.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- - Episode 40 - The Ten Swords Summoned</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 99 - Shohoku in Trouble!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/650ada0c393954249e479efa2c0fdc331738262227_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0f5147f8108c6a3d34b78b0c9b3c57821230228799_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM08Q4/the-ten-swords-summoned">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMZ7D/shohoku-in-trouble">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As a result of passing down the ultimate technique, Seijuro endures a fatal wound.</p>
+<p align="center">When Sendo joins the mixed team, they establishes chemistry, making crisp passes, and continuous dramatic<br>combinations.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME - Episode 17 - Haru Unparalleled</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 100 - Man of Miracles, Hanamichi Sakuragi!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8b4489510ef08f95d21dbb958f05749d1738259430_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/94b91b28463f29ff8d5cb585c3399af01230230373_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMXE1/haru-unparalleled">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JQ4Q/man-of-miracles-hanamichi-sakuragi">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Haru begins networking and making connections in order to build his media empire. Meanwhile, Rinrin<br>has some bad news to share regarding the financial situation of Trillion Game, Inc.</p>
+<p align="center">Shohoku's scrimmage with the mixed team.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Anyway, I'm Falling in Love with You. - Episode 4 - Fireworks for the Future</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 101 - Glorious Slam Dunk</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d443c8e6c5868e6701f55d3be67d3fef1738257823_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/522be8dea6bce128c6e63b1386363f411230230739_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7D21/fireworks-for-the-future">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VD8W/glorious-slam-dunk">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After spending the day at the aquarium, Kizuki asks Mizuho to cheer for him at<br>his swim meet.</p>
+<p align="center">The opportunity has finally presented itself for Hanamichi to show off his new move, the<br>"Training Camp Shot".</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Momentary Lily - Episode 5 - Wishing On Mackerel, Oyster, and Egg Zosui Soup Kuzushi Kiritampo Style</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 73 - Rukawa, Bet on the Second Half</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f6b954115eb307d82fcb5eb9b334bacc1738251559_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/77656dfcb88a454bae7abd8602d3c7db1230218287_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N99Z/wishing-on-mackerel-oyster-and-egg-zosui-soup-kuzushi-kiritampo-style">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VDW1/rukawa-bet-on-the-second-half">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The relationship between Erika and Hinageshi becomes strained. A duel between the big sister and<br>the gamer begins.</p>
+<p align="center">Second half. Sendo has realized that Rukawa is not playing as aggressive as usual.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">AQUARION Myth of Emotions - Episode 4 - A Sacred Bond</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 74 - The Most Dangerous Challenger</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/da144a5719b4ea688512b025a248c2681738243285_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/58582022661dab79b5caef41326b26671230218674_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMDE0/a-sacred-bond">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD37XG/the-most-dangerous-challenger">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After piloting Aquarion together, Momohime and Rimiya sense a special connection to each other. They<br>go on a date to try to understand their feelings.</p>
+<p align="center">Rukawa who was saving his energy in the first half explodes in the second half.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ave Mujica - The Die is Cast - - Episode 5 - Facta fugis, facienda petis.</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 75 - Great Play</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be0fbf206a6f9c596d47b2c9be2ac97d1738243016_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/413a4895b43aed784b4df6cefd8876d71230220173_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N991/facta-fugis-facienda-petis">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN2WD/great-play">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The band disbands in the middle of their national tour. The members of Ave Mujica<br>each return to their own lives.</p>
+<p align="center">In the second half, Rukawa continues to play perfectly against Sendo in a back-and-forth game.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Even Given the Worthless "Appraiser" Class,  I'm Actually the Strongest - Episode 4 - Searching for the Sisters</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 76 - Victory Premonition</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/947ab8eedb3c43f539dbc7c6c4f8dc6a1738242609_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9b8af4fcefb8912eefac7953d046a5801230219986_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN19Q9/searching-for-the-sisters">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5M0X/victory-premonition">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In search of Yuri's sisters, Ein enters a dungeon that Jasper told him about. This<br>hidden dungeon is just full of traps. But what is Zoid doing here?!</p>
+<p align="center">Last ten minutes of the second half. Hanamichi who took out Uozumi shows off his<br>ability.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE SCIENCE FUTURE (Tamil Dub) - Episode 4</h3></th>
+<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 77 - All of You Are Strong</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/77e97014522acdb9b87a5b5b9546bfb41738242938_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be851d9c7a05a17e595217b1ebd7c0491230220235_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/30/2025</td>
+<td align="center">1/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32N2M">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW34Z/all-of-you-are-strong">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Less than nine minutes left, Shohoku leads 53 to 46.</p>
 </td>
 </tr>
 </table>
