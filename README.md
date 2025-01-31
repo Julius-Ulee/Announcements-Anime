@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 30, 2025, 7:26:45 PM</em></p>
+<p align="center"><em>Updated on: Jan 31, 2025, 8:04:41 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Honey Lemon Soda (English Dub) - Episode 2 - Turning Into a Treasure</h3></th>
+<th><h3 align="center">TRILLION GAME (Hindi Dub) - Episode 14 - Haru vs. Gaku</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b9644899ce2a8ec99ce5d70f1ce7236b1736962789_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0e49cecce109b92427f900c1f723271d1736435166_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
+<td align="center">1/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NXV3/turning-into-a-treasure">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5M73/haru-vs-gaku">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Uka displays some hidden talents that even she didn't know about. Meanwhile, Kai is being<br>strangely mean to her her for some reason... Is it a misguided attempt to keep<br>her safe?</p>
+<p align="center">Rinrin is furious when she learns the game development project was merely a pawn, but<br>Gaku stops her from going to speak with Haru. If Gaku must fight Haru, then<br>he'd rather do it his way. He reveals the situation to Sakura's team, and together<br>they plan to create a game that exceeds what Haru planned for them. That said,<br>it's a difficult task for a team that's never produced a hit game before.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Honey Lemon Soda (French Dub) - Episode 1 - Because I Met You</h3></th>
+<th><h3 align="center">TRILLION GAME (Tamil Dub) - Episode 14 - Haru vs. Gaku</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3e67424c48ff8a0f443186c8f1e5c35d1736344722_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0e49cecce109b92427f900c1f723271d1736435166_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
+<td align="center">1/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MD8Z/because-i-met-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW3Q1/haru-vs-gaku">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a bad experience in junior high, where her social anxiety was worsened by bullying,<br>Uka Ishimori decides to change herself and the way she lives her life. Her first<br>step is applying to Hachimitsu High School. Its attractions? A more relaxed school atmosphere, and<br>the gruff but handsome Kai Miura.</p>
+<p align="center">Rinrin is furious when she learns the game development project was merely a pawn, but<br>Gaku stops her from going to speak with Haru. If Gaku must fight Haru, then<br>he'd rather do it his way. He reveals the situation to Sakura's team, and together<br>they plan to create a game that exceeds what Haru planned for them. That said,<br>it's a difficult task for a team that's never produced a hit game before.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Honey Lemon Soda (German Dub) - Episode 1 - Because I Met You</h3></th>
+<th><h3 align="center">TRILLION GAME (Telugu Dub) - Episode 14 - Haru vs. Gaku</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3e67424c48ff8a0f443186c8f1e5c35d1736344722_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0e49cecce109b92427f900c1f723271d1736435166_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
+<td align="center">1/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0341/because-i-met-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3P5M/haru-vs-gaku">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a bad experience in junior high, where her social anxiety was worsened by bullying,<br>Uka Ishimori decides to change herself and the way she lives her life. Her first<br>step is applying to Hachimitsu High School. Its attractions? A more relaxed school atmosphere, and<br>the gruff but handsome Kai Miura.</p>
+<p align="center">Rinrin is furious when she learns the game development project was merely a pawn, but<br>Gaku stops her from going to speak with Haru. If Gaku must fight Haru, then<br>he'd rather do it his way. He reveals the situation to Sakura's team, and together<br>they plan to create a game that exceeds what Haru planned for them. That said,<br>it's a difficult task for a team that's never produced a hit game before.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ameku M.D.: Doctor Detective (English Dub) - Episode 3 - Into the Spell of Shimmering Light</h3></th>
+<th><h3 align="center">TRILLION GAME (English Dub) - Episode 14 - Haru vs. Gaku</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0508a34ca4201aecd8086a51dd2b66bf1736342688_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0e49cecce109b92427f900c1f723271d1736435166_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
+<td align="center">1/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3PVM/into-the-spell-of-shimmering-light">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW03P1/haru-vs-gaku">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">"Do you believe a video can be cursed?" A girl walks in front of a<br>train after watching a particular video and is subsequently admitted to a psych ward. Takao<br>is the only one who believes her twin sister when she says it wasn't a<br>suicide attempt but the result of watching a cursed video, and the genius doctor sets<br>about investigating.</p>
+<p align="center">Rinrin is furious when she learns the game development project was merely a pawn, but<br>Gaku stops her from going to speak with Haru. If Gaku must fight Haru, then<br>he'd rather do it his way. He reveals the situation to Sakura's team, and together<br>they plan to create a game that exceeds what Haru planned for them. That said,<br>it's a difficult task for a team that's never produced a hit game before.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (German Dub) - Episode 2 - To a New Land</h3></th>
+<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Spanish Dub) - Episode 37 - Aoshi vs. Okina</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/128bf7fbf0adcb72c3fc3a1b91f1674b1736336541_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1ca9f20b2912ecae2d19a3ad8c7e98601736446602_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
+<td align="center">1/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XVG0/to-a-new-land">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JQWM/aoshi-vs-okina">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maple, the spider monster that Takumi meets in the forest and Tames, possesses the Skill<br>to create Spider Silk, an extreme luxury good! The silk becomes a hit amongst the<br>villagers, and they welcome Takumi and his unique Skills as he grows accustomed to life<br>in the village.</p>
+<p align="center">Hoji plans an attack of Aoiya at night using a secret unit, the Owl Clan,<br>in order to capture Okina and catch a hint of Kenshin's whereabouts, but instead the<br>Owl Clan were the ones defeated. Okina challenges Aoshi to a battle via a member<br>of the clan whom he sent back to Shishio's location.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Spanish Dub) - Episode 2 - To a New Land</h3></th>
+<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Portuguese Dub) - Episode 37 - Aoshi vs. Okina</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/128bf7fbf0adcb72c3fc3a1b91f1674b1736336541_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1ca9f20b2912ecae2d19a3ad8c7e98601736446602_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
+<td align="center">1/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEPJV/to-a-new-land">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN12ZP/aoshi-vs-okina">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maple, the spider monster that Takumi meets in the forest and Tames, possesses the Skill<br>to create Spider Silk, an extreme luxury good! The silk becomes a hit amongst the<br>villagers, and they welcome Takumi and his unique Skills as he grows accustomed to life<br>in the village.</p>
+<p align="center">Hoji plans an attack of Aoiya at night using a secret unit, the Owl Clan,<br>in order to capture Okina and catch a hint of Kenshin's whereabouts, but instead the<br>Owl Clan were the ones defeated. Okina challenges Aoshi to a battle via a member<br>of the clan whom he sent back to Shishio's location.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Hindi Dub) - Episode 2 - To a New Land</h3></th>
+<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Hindi Dub) - Episode 37 - Aoshi vs. Okina</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/128bf7fbf0adcb72c3fc3a1b91f1674b1736336541_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1ca9f20b2912ecae2d19a3ad8c7e98601736446602_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
+<td align="center">1/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JQ2M/to-a-new-land">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VD9K/aoshi-vs-okina">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maple, the spider monster that Takumi meets in the forest and Tames, possesses the Skill<br>to create Spider Silk, an extreme luxury good! The silk becomes a hit amongst the<br>villagers, and they welcome Takumi and his unique Skills as he grows accustomed to life<br>in the village.</p>
+<p align="center">Hoji plans an attack of Aoiya at night using a secret unit, the Owl Clan,<br>in order to capture Okina and catch a hint of Kenshin's whereabouts, but instead the<br>Owl Clan were the ones defeated. Okina challenges Aoshi to a battle via a member<br>of the clan whom he sent back to Shishio's location.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Tamil Dub) - Episode 2 - To a New Land</h3></th>
+<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (English Dub) - Episode 37 - Aoshi vs. Okina</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/128bf7fbf0adcb72c3fc3a1b91f1674b1736336541_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1ca9f20b2912ecae2d19a3ad8c7e98601736446602_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
+<td align="center">1/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN12PP/to-a-new-land">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN2J4/aoshi-vs-okina">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maple, the spider monster that Takumi meets in the forest and Tames, possesses the Skill<br>to create Spider Silk, an extreme luxury good! The silk becomes a hit amongst the<br>villagers, and they welcome Takumi and his unique Skills as he grows accustomed to life<br>in the village.</p>
+<p align="center">Hoji plans an attack of Aoiya at night using a secret unit, the Owl Clan,<br>in order to capture Okina and catch a hint of Kenshin's whereabouts, but instead the<br>Owl Clan were the ones defeated. Okina challenges Aoshi to a battle via a member<br>of the clan whom he sent back to Shishio's location.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Telugu Dub) - Episode 2 - To a New Land</h3></th>
+<th><h3 align="center">Link Click: Bridon Arc (Portuguese Dub) - Episode 1 - So Time Begins to Flow Again</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/128bf7fbf0adcb72c3fc3a1b91f1674b1736336541_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/afab0ce4d447254df20f7fad77c8ae251735249156_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
+<td align="center">1/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VDQK/to-a-new-land">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7MPW/so-time-begins-to-flow-again">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maple, the spider monster that Takumi meets in the forest and Tames, possesses the Skill<br>to create Spider Silk, an extreme luxury good! The silk becomes a hit amongst the<br>villagers, and they welcome Takumi and his unique Skills as he grows accustomed to life<br>in the village.</p>
+<p align="center">Lu Guang goes back in time to where it all began.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Portuguese Dub) - Episode 2 - To a New Land</h3></th>
+<th><h3 align="center">Link Click: Bridon Arc (Spanish Dub) - Episode 1 - So Time Begins to Flow Again</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/128bf7fbf0adcb72c3fc3a1b91f1674b1736336541_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/afab0ce4d447254df20f7fad77c8ae251735249156_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
+<td align="center">1/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD375N/to-a-new-land">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKZ5X/so-time-begins-to-flow-again">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maple, the spider monster that Takumi meets in the forest and Tames, possesses the Skill<br>to create Spider Silk, an extreme luxury good! The silk becomes a hit amongst the<br>villagers, and they welcome Takumi and his unique Skills as he grows accustomed to life<br>in the village.</p>
+<p align="center">Lu Guang goes back in time to where it all began.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Honey Lemon Soda - Episode 4 - However Distant We May Be</h3></th>
+<th><h3 align="center">Link Click: Bridon Arc (French Dub) - Episode 1 - So Time Begins to Flow Again</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8140ddcf2d79eb79b4cb12ed0544458b1738166754_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/afab0ce4d447254df20f7fad77c8ae251735249156_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
+<td align="center">1/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0D4J/however-distant-we-may-be">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2Z72/so-time-begins-to-flow-again">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Uka struggles to open up to her class about her past. A friend of Kai's<br>undermines her confidence further.</p>
+<p align="center">Lu Guang goes back in time to where it all began.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ameku M.D.: Doctor Detective - Episode 5 - Crimson Curse of the Sorcerer</h3></th>
+<th><h3 align="center">Anyway, I'm Falling in Love with You. (English Dub) - Episode 2 - I'll Be by Your Side</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9c7507862b08a5df66722fdc2b138dcf1738166598_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cd6991aab05fa3fd835a481daf6446a31737047355_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
+<td align="center">1/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1NV3/crimson-curse-of-the-sorcerer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW03G1/ill-be-by-your-side">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takao's diagnosis seems to solve Enzo's Curse. However, due to a mysterious death by fire,<br>the investigation is right back at square one.</p>
+<p align="center">Kizuki, who Mizuho saw as the crybaby little brother of the group, has lately been<br>hitting on her. Since Mizuho believed her and Kizuki would be childhood friends forever, she<br>is not sure how to approach this situation. He's on her mind to the point<br>where she seems disoriented, and even says something that could potentially push Kizuki away.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World (Telugu Dub) - Episode 4</h3></th>
+<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- - Episode 40 - The Ten Swords Summoned</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5346f8688db4f028f035df5db280d1db1738166473_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/650ada0c393954249e479efa2c0fdc331738262227_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,255 +434,255 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
+<td align="center">1/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW30K3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM08Q4/the-ten-swords-summoned">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As a result of passing down the ultimate technique, Seijuro endures a fatal wound.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TRILLION GAME - Episode 17 - Haru Unparalleled</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8b4489510ef08f95d21dbb958f05749d1738259430_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/30/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMXE1/haru-unparalleled">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Haru begins networking and making connections in order to build his media empire. Meanwhile, Rinrin<br>has some bad news to share regarding the financial situation of Trillion Game, Inc.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Anyway, I'm Falling in Love with You. - Episode 4 - Fireworks for the Future</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d443c8e6c5868e6701f55d3be67d3fef1738257823_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/30/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7D21/fireworks-for-the-future">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After spending the day at the aquarium, Kizuki asks Mizuho to cheer for him at<br>his swim meet.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Momentary Lily - Episode 5 - Wishing On Mackerel, Oyster, and Egg Zosui Soup Kuzushi Kiritampo Style</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f6b954115eb307d82fcb5eb9b334bacc1738251559_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/30/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N99Z/wishing-on-mackerel-oyster-and-egg-zosui-soup-kuzushi-kiritampo-style">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The relationship between Erika and Hinageshi becomes strained. A duel between the big sister and<br>the gamer begins.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">AQUARION Myth of Emotions - Episode 4 - A Sacred Bond</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/da144a5719b4ea688512b025a248c2681738243285_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/30/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMDE0/a-sacred-bond">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After piloting Aquarion together, Momohime and Rimiya sense a special connection to each other. They<br>go on a date to try to understand their feelings.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Ave Mujica - The Die is Cast - - Episode 5 - Facta fugis, facienda petis.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be0fbf206a6f9c596d47b2c9be2ac97d1738243016_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/30/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N991/facta-fugis-facienda-petis">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The band disbands in the middle of their national tour. The members of Ave Mujica<br>each return to their own lives.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Even Given the Worthless "Appraiser" Class,  I'm Actually the Strongest - Episode 4 - Searching for the Sisters</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/947ab8eedb3c43f539dbc7c6c4f8dc6a1738242609_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/30/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN19Q9/searching-for-the-sisters">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">In search of Yuri's sisters, Ein enters a dungeon that Jasper told him about. This<br>hidden dungeon is just full of traps. But what is Zoid doing here?!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dr. STONE SCIENCE FUTURE (Tamil Dub) - Episode 4</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/77e97014522acdb9b87a5b5b9546bfb41738242938_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/30/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32N2M">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
 <p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World (Hindi Dub) - Episode 4</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5346f8688db4f028f035df5db280d1db1738166259_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNGEX">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World (Tamil Dub) - Episode 4</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5346f8688db4f028f035df5db280d1db1738166110_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM045">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World (French Dub) - Episode 4</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/535efa80b0ffcecf03d12af97a7be0d61738166073_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ53D">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World (German Dub) - Episode 4</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/30ed2cd92250bb20450199c3eb772e8f1738165056_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ5XZ">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World (Spanish Dub) - Episode 4</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b331d1e15b95e09470c0a27715a171391738164978_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU328KV">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World (Portuguese Dub) - Episode 4</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d85be1453c976aaf381c2956a18d18c61738165018_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V5DP">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World - Episode 4 - Magical Research Begins in Earnest</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/62ed9c7a04ab0fe60ad607729602a8251738163855_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/29/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M044/magical-research-begins-in-earnest">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Shion's father finally approves of his magic research, which leads Shion to a new discovery.<br>Marie seems troubled as she devotes herself to her sword.</p>
 </td>
 </tr>
 </table>
