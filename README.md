@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 31, 2025, 7:26:16 PM</em></p>
+<p align="center"><em>Updated on: Feb 1, 2025, 8:08:23 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc - Episode 6 - Puzzle</h3></th>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 49 - Manga and Comic Fans, UNITE! (ft. Joe Eisma) </h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ce82b5c7fd476ea050545f56af86bf331738287933_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a2917d8115a5199ad7f95415c95e92041738367938_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/31/2025</td>
+<td align="center">2/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MQPJ/puzzle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3V4J/manga-and-comic-fans-unite-ft-joe-eisma-">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Cheng Xiaoshi finally manages to talk to Vein, but to help him, Vein demands that<br>he and Lu Guang help him replace a fired model.</p>
+<p align="center">Leah President and LeAlec Murray welcome comic artist Joe Eisma to talk about how manga<br>and anime inspire his work and why he’s currently loving DAN DA DAN. Then, Alex<br>Lebl joins hosts to share their updated anime starter packs for new fans and what<br>types of representation they’d like to see next in anime.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 94 - Fierce Battle at Shizuoka!</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time (English Dub) - Episode 2 - I May Be the Executioner, but I'll Be Fired if People Find Out, so I'll Have to Use Force</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5e58f3306e1f463bdfb231fc3e2b1e551231795693_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3e7a7eb6bb089c928e1d5915bb48a8541737130765_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW35J/fierce-battle-at-shizuoka">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JQPQ/i-may-be-the-executioner-but-ill-be-fired-if-people-find-out-so-ill-have-to-use-force">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Hanamichi is practicing his 20,000 jump shots, Akagi and the team have a practice<br>game in Shizuoka.</p>
+<p align="center">Jade has found out that Alina is the Executioner and hounds her to join Silver<br>Sword. Then a certain adventurer with a grudge sets a raid boss loose...</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 88 - A Land of Basketball</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time (German Dub) - Episode 1 - I'm a Guild Receptionist, so I Want a Peaceful Life</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9c848af956747ca623a69f441dca1a4d1230225313_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8cbec7a9393e0d41047bda2c811595951736524113_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3P4V/a-land-of-basketball">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN12E5/im-a-guild-receptionist-so-i-want-a-peaceful-life">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kogure felt malaise from Rukawa, which is due to Rukawa's wanting to go to America.</p>
+<p align="center">Alina became a guild receptionist because she thought it'd be an easy, safe, secure job.<br>However, in reality, she's so swamped with work that she's stuck pulling overtime day after<br>day... and she's had enough!</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 89 - Unstoppable Intensity! Rukawa</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Telugu Dub) - Episode 2 - A New Life</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0fa5b73c6ec882e1b353d9dde4f8fa191230226286_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8fb76053785fddddc5299e3cc01cf1641736522485_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NX1W/unstoppable-intensity-rukawa">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7MZ2/a-new-life">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">All the schools who are entering the Nationals have been decided.</p>
+<p align="center">Saito and Akane secretly begin their new life together but soon run into a mountain<br>of conflicting lifestyle preferences. Can the two find a way to meet in the middle?</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 90 - Shohoku's True Star!</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Tamil Dub) - Episode 2 - A New Life</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9a86d7937ea8ee5d906fb7857201de331230227414_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8fb76053785fddddc5299e3cc01cf1641736522485_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW03EM/shohokus-true-star">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKZQN/a-new-life">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The intensity in Rukawa and Mitsui's one-on-one is increasing.</p>
+<p align="center">Saito and Akane secretly begin their new life together but soon run into a mountain<br>of conflicting lifestyle preferences. Can the two find a way to meet in the middle?</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 91 - The Nationals at Risk</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Hindi Dub) - Episode 2 - A New Life</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/75b000649b7fc33218834b8e32c279691230226894_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8fb76053785fddddc5299e3cc01cf1641736522485_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +200,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7M58/the-nationals-at-risk">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2Z1W/a-new-life">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Shohoku basketball team encounters an unexpected crisis.</p>
+<p align="center">Saito and Akane secretly begin their new life together but soon run into a mountain<br>of conflicting lifestyle preferences. Can the two find a way to meet in the middle?</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 92 - Male Friendship!? Sakuragi's Gang</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Hindi Dub) - Episode 13 - Surprise</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b05dd78440c233caaf538830044c73821230227092_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4f9fd5186ea16febf5eb0a9a8117838e1736524671_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +234,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2Z50/male-friendship-sakuragis-gang">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5M9G/surprise">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To be able to cheer Hanamichi on at the game, Yohei and his friends get<br>part-time jobs to pay for travel expenses to Hiroshima.</p>
+<p align="center">As Goku and his companions head to where Gomah is, engine trouble causes them to<br>land on a certain planet. The place they land happens to be a surprise-filled planet<br>where even Supreme Demon Kings are afraid to tread!</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 93 - A 20,000 Shot Challenge</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Tamil Dub) - Episode 13 - Surprise</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ce2e9f275b0da3302277b238a68080e41230230329_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4f9fd5186ea16febf5eb0a9a8117838e1736524671_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +268,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M951/a-20000-shot-challenge">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW3PJ/surprise">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Finally, the intense training camp has started.</p>
+<p align="center">As Goku and his companions head to where Gomah is, engine trouble causes them to<br>land on a certain planet. The place they land happens to be a surprise-filled planet<br>where even Supreme Demon Kings are afraid to tread!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 95 - Hanamichi's Hottest Day of His Life</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Telugu Dub) - Episode 13 - Surprise</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/46e679c4d6db6f4b420a13d563ecb58a1230228283_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4f9fd5186ea16febf5eb0a9a8117838e1736524671_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +302,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU325X1/hanamichis-hottest-day-of-his-life">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3PMX/surprise">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Hanamichi works hard on his 20,000 jumps jump shot training, Haruko invites him to<br>the festival for a change of pace.</p>
+<p align="center">As Goku and his companions head to where Gomah is, engine trouble causes them to<br>land on a certain planet. The place they land happens to be a surprise-filled planet<br>where even Supreme Demon Kings are afraid to tread!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 96 - Basketball Shoes II</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (English Dub) - Episode 4 - Chatty</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f1aa7abae6f62f95f76ad689fa732c01230228748_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e93df1712febd0ea52d1e0b41b46dd801730476637_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +336,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MDG1/basketball-shoes-ii">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW03N0/chatty">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The final day of training camp. Hanamichi finally makes his final jump shot to end<br>his 20,000 jump shot training.</p>
+<p align="center">Forced to make their way through the Third Demon World on foot, Goku and his<br>companions stop by a lone drive-in on the way. There they encounter some strange souvenirs<br>and a rather chatty and quirky Majin woman and her husband!</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 97 - The Passionate Heart, Uozumi Once Again!</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (English Dub) - Episode 26 - Caravan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ce20a04e0995166e84c8162da9f105361230230648_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/534d2fd94aec6ae647f2670509137d031737129686_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +370,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ30P/the-passionate-heart-uozumi-once-again">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD37KJ/caravan">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hanamichi annoyingly suggests a practice game to show off the results of his special training<br>to Akagi and the rest of the team.</p>
+<p align="center">The caravan stirs up excitement in the inner palace. The merchants bring all kinds of<br>goods. However, something gives Maomao a bad feeling.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 98 - Intense Battle Begins!</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Spanish Dub) - Episode 25 - Maomao and Maomao</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b2ae7eef0ddf779fce78834699d0e15d1230229745_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dcd8594821409d91f04889eecfb9b8281736524318_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +404,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKZ9N/intense-battle-begins">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0390/maomao-and-maomao">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Shoyo and Ryonan mixed team consists of Fujima, Hanagata, and Hasegawa from Shoyo along<br>with Uozumi and Ikegami from Ryonan.</p>
+<p align="center">The spring garden party concludes without incident. Maomao returns to her regular life as Concubine<br>Gyokuyou’s taster. Meanwhile, novels become popular in the rear palace. Maomao wonders how this came<br>to be, as novels were typically considered low-class. But behind the scenes lies Jinshi and<br>his goals as manager of the rear palace.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 99 - Shohoku in Trouble!</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Portuguese Dub) - Episode 25 - Maomao and Maomao</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0f5147f8108c6a3d34b78b0c9b3c57821230228799_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dcd8594821409d91f04889eecfb9b8281736524318_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +438,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMZ7D/shohoku-in-trouble">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ3DP/maomao-and-maomao">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When Sendo joins the mixed team, they establishes chemistry, making crisp passes, and continuous dramatic<br>combinations.</p>
+<p align="center">The spring garden party concludes without incident. Maomao returns to her regular life as Concubine<br>Gyokuyou’s taster. Meanwhile, novels become popular in the rear palace. Maomao wonders how this came<br>to be, as novels were typically considered low-class. But behind the scenes lies Jinshi and<br>his goals as manager of the rear palace.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 100 - Man of Miracles, Hanamichi Sakuragi!</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (French Dub) - Episode 25 - Maomao and Maomao</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/94b91b28463f29ff8d5cb585c3399af01230230373_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dcd8594821409d91f04889eecfb9b8281736524318_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -472,13 +472,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JQ4Q/man-of-miracles-hanamichi-sakuragi">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7M32/maomao-and-maomao">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shohoku's scrimmage with the mixed team.</p>
+<p align="center">The spring garden party concludes without incident. Maomao returns to her regular life as Concubine<br>Gyokuyou’s taster. Meanwhile, novels become popular in the rear palace. Maomao wonders how this came<br>to be, as novels were typically considered low-class. But behind the scenes lies Jinshi and<br>his goals as manager of the rear palace.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 101 - Glorious Slam Dunk</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (German Dub) - Episode 25 - Maomao and Maomao</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/522be8dea6bce128c6e63b1386363f411230230739_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dcd8594821409d91f04889eecfb9b8281736524318_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -506,13 +506,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VD8W/glorious-slam-dunk">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2ZJW/maomao-and-maomao">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The opportunity has finally presented itself for Hanamichi to show off his new move, the<br>"Training Camp Shot".</p>
+<p align="center">The spring garden party concludes without incident. Maomao returns to her regular life as Concubine<br>Gyokuyou’s taster. Meanwhile, novels become popular in the rear palace. Maomao wonders how this came<br>to be, as novels were typically considered low-class. But behind the scenes lies Jinshi and<br>his goals as manager of the rear palace.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 73 - Rukawa, Bet on the Second Half</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Hindi Dub) - Episode 25 - Maomao and Maomao</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/77656dfcb88a454bae7abd8602d3c7db1230218287_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dcd8594821409d91f04889eecfb9b8281736524318_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -540,13 +540,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VDW1/rukawa-bet-on-the-second-half">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEP1M/maomao-and-maomao">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Second half. Sendo has realized that Rukawa is not playing as aggressive as usual.</p>
+<p align="center">The spring garden party concludes without incident. Maomao returns to her regular life as Concubine<br>Gyokuyou’s taster. Meanwhile, novels become popular in the rear palace. Maomao wonders how this came<br>to be, as novels were typically considered low-class. But behind the scenes lies Jinshi and<br>his goals as manager of the rear palace.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 74 - The Most Dangerous Challenger</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Tamil Dub) - Episode 25 - Maomao and Maomao</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/58582022661dab79b5caef41326b26671230218674_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dcd8594821409d91f04889eecfb9b8281736524318_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -574,13 +574,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD37XG/the-most-dangerous-challenger">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JQ7Q/maomao-and-maomao">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rukawa who was saving his energy in the first half explodes in the second half.</p>
+<p align="center">The spring garden party concludes without incident. Maomao returns to her regular life as Concubine<br>Gyokuyou’s taster. Meanwhile, novels become popular in the rear palace. Maomao wonders how this came<br>to be, as novels were typically considered low-class. But behind the scenes lies Jinshi and<br>his goals as manager of the rear palace.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 75 - Great Play</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Telugu Dub) - Episode 25 - Maomao and Maomao</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/413a4895b43aed784b4df6cefd8876d71230220173_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dcd8594821409d91f04889eecfb9b8281736524318_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -608,13 +608,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN2WD/great-play">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN12K5/maomao-and-maomao">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the second half, Rukawa continues to play perfectly against Sendo in a back-and-forth game.</p>
+<p align="center">The spring garden party concludes without incident. Maomao returns to her regular life as Concubine<br>Gyokuyou’s taster. Meanwhile, novels become popular in the rear palace. Maomao wonders how this came<br>to be, as novels were typically considered low-class. But behind the scenes lies Jinshi and<br>his goals as manager of the rear palace.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 76 - Victory Premonition</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time - Episode 4 - Relics, Secret Quests, and Dark Gods Keep Interfering with My Work, so I'll Destroy Them All</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9b8af4fcefb8912eefac7953d046a5801230219986_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dc0ff5ad604ebaf5c3f06dfd2d0f65de1738340535_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -642,13 +642,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5M0X/victory-premonition">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5PDK/relics-secret-quests-and-dark-gods-keep-interfering-with-my-work-so-ill-destroy-them-all">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Last ten minutes of the second half. Hanamichi who took out Uozumi shows off his<br>ability.</p>
+<p align="center">The guiding crystal Jade gave Alina starts to glow, signaling that he's in peril, so<br>Alina rushes to help.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Slam Dunk (Thai Dub) - Episode 77 - All of You Are Strong</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 - Episode 28 - Mirror</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/be851d9c7a05a17e595217b1ebd7c0491230220235_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fbb607f88350ea5aa90de69a454f53ef1738339602_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -676,13 +676,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW34Z/all-of-you-are-strong">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWE92/mirror">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Less than nine minutes left, Shohoku leads 53 to 46.</p>
+<p align="center">The special envoy from a foreign land gifts mirrors - a rarity in this country<br>- to the high concubines. However, they bring mysteries as well.</p>
 </td>
 </tr>
 </table>
