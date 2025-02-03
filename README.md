@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 2, 2025, 7:23:12 PM</em></p>
+<p align="center"><em>Updated on: Feb 3, 2025, 8:05:41 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 - Episode 42 - A Straight Flush Mixed With Jokers</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (English Dub) - Episode 2 - The Three Clock Keepers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7d8921de3f3f179f0e52eed45e0389071738457795_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f9fd831e661c37485675a02089a052a1737275791_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3W32/a-straight-flush-mixed-with-jokers">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1271/the-three-clock-keepers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku gets an intriguing offer from Kei, then meets up with Rust and Mold to<br>pursue the Ctarnidd quest.</p>
+<p align="center">One of the Clock Keepers stands revealed... as Nene's classmater Aoi Akane. Hanako proposes they<br>work together to set things right, but past experiences have left Akane with little trust<br>for apparitions.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 - Episode 4 - Summer Lights</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Portuguese Dub) - Episode 1 - Hanako-kun of the Bathroom</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dc33af51656620d959ec023c00173a4d1738457700_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fd71d99fad4e6bed88018a13d12d336b1736666909_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMDV9/summer-lights">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMZPQ/hanako-kun-of-the-bathroom">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nene tries to lift Kou's spirits by inviting him to a summer festival, but Hanako<br>has other ideas.</p>
+<p align="center">Sudden, rapid aging wreaks havoc in Nene's and Kou's school lives. Hanako identifies the culprit<br>as a fellow Wonder: the three Clock Keepers, rumored to control time at Kamome Academy.<br>The trio set out to punish the offending apparition, but they'll have to find them<br>first.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece Log: Fish-Man Island Saga (Current) - The Tragedy of Otohime - Hody Declares War</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Spanish Dub) - Episode 1 - Hanako-kun of the Bathroom</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4f8b4b2820ffc2a0a0da8014f4bf50211738459979_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fd71d99fad4e6bed88018a13d12d336b1736666909_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3V94/the-tragedy-of-otohime-hody-declares-war">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XV77/hanako-kun-of-the-bathroom">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">10 years ago, Queen Otohime returned from her visit to the surface with a promise<br>that seemed almost too good to be true, but when unrest erupted on Fish-Man Island,<br>Queen Otohime's dreams as well as the queen herself were put in grave peril! In<br>the present day, Hody makes his terrifying announcement to all citizens of the Kingdom of<br>Ryugu and the Straw Hats.</p>
+<p align="center">Sudden, rapid aging wreaks havoc in Nene's and Kou's school lives. Hanako identifies the culprit<br>as a fellow Wonder: the three Clock Keepers, rumored to control time at Kamome Academy.<br>The trio set out to punish the offending apparition, but they'll have to find them<br>first.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You and Idol Precure ♪ - Episode 1 - Cure Idol Debuts!</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Hindi Dub) - Episode 1 - Hanako-kun of the Bathroom</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d83011fe0ff8cbb99f8d1a22dbc46b401738455366_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fd71d99fad4e6bed88018a13d12d336b1736666909_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M9Q4/cure-idol-debuts">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEP4N/hanako-kun-of-the-bathroom">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Uta Sakura lives in Hanamichi Town. One day while on a walk, she meets a<br>fairy named Purirun. Purirun has come in search of Kirakiland’s savior called Idol Precure.</p>
+<p align="center">Sudden, rapid aging wreaks havoc in Nene's and Kou's school lives. Hanako identifies the culprit<br>as a fellow Wonder: the three Clock Keepers, rumored to control time at Kamome Academy.<br>The trio set out to punish the offending apparition, but they'll have to find them<br>first.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (German Dub) - Episode 2 - Truth</h3></th>
+<th><h3 align="center">FAIRY TAIL 100 YEARS QUEST (German Dub) - Episode 25 - Homecoming</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6ee6f4793e670ba71f58b12d77404dea1736615032_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d3e8f56d9f36ee0a1ed872f43b900a531736055923_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ3GP/truth">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7M0Z/homecoming">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having lost her family in a fire and with nowhere left to go, Yuri meets<br>Shiro, who is on the run from Section 13. Shiro is brought back by the<br>exorcists pursuing him, and he makes a request of Mephisto. Meanwhile, Yuri is taken to<br>the Asylum, a school for exorcists-in-training, due to her ability to see demons. As he<br>watches the two grow up, Rin witnesses the true nature of the Asylum and Section<br>13.</p>
+<p align="center">Natsu and the others defeat Alta Face and save Elentear. They're reunited with the guild<br>members in Drasil, but their 100 Years Quest continues. Meanwhile, Selene is taken to Diabolos<br>after being defeated by Suzaku. But things are not what it seems...</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (French Dub) - Episode 2 - Truth</h3></th>
+<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (Hindi Dub) - Episode 1 - The Red Ranger and the Mage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6ee6f4793e670ba71f58b12d77404dea1736615032_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7e8c9e18bf8ed1dbc60da04a247190d31736682124_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7ME2/truth">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NXM7/the-red-ranger-and-the-mage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having lost her family in a fire and with nowhere left to go, Yuri meets<br>Shiro, who is on the run from Section 13. Shiro is brought back by the<br>exorcists pursuing him, and he makes a request of Mephisto. Meanwhile, Yuri is taken to<br>the Asylum, a school for exorcists-in-training, due to her ability to see demons. As he<br>watches the two grow up, Rin witnesses the true nature of the Asylum and Section<br>13.</p>
+<p align="center">Yihdra is the brilliant child of a disgraced court mage, who seeks to redeem her<br>family's reputation and use sorcery for good. But when she meets an adventurer who transforms<br>into an all-red suit wielding otherworldly weapons, it could be the first step in achieving<br>her dream... or it could drive her crazy!</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (English Dub) - Episode 2 - Truth</h3></th>
+<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (English Dub) - Episode 1 - The Red Ranger and the Mage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6ee6f4793e670ba71f58b12d77404dea1736615032_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7e8c9e18bf8ed1dbc60da04a247190d31736682124_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2ZDW/truth">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW03VJ/the-red-ranger-and-the-mage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having lost her family in a fire and with nowhere left to go, Yuri meets<br>Shiro, who is on the run from Section 13. Shiro is brought back by the<br>exorcists pursuing him, and he makes a request of Mephisto. Meanwhile, Yuri is taken to<br>the Asylum, a school for exorcists-in-training, due to her ability to see demons. As he<br>watches the two grow up, Rin witnesses the true nature of the Asylum and Section<br>13.</p>
+<p align="center">Yihdra is the brilliant child of a disgraced court mage, who seeks to redeem her<br>family's reputation and use sorcery for good. But when she meets an adventurer who transforms<br>into an all-red suit wielding otherworldly weapons, it could be the first step in achieving<br>her dream... or it could drive her crazy!</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (English Dub) - Episode 11 - The Goddess Reincarnated</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Spanish Dub) - Episode 25 - Return of the King</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a53baa18766597acc0e298644edfc8be1734797091_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1739b0fa19bc7978a6351db95befada91734848673_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NX30/the-goddess-reincarnated">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5MN7/return-of-the-king">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After heading out into Electric Town, Veltol’s group visits the mansion of the Reynard family.<br>After entertaining them, Hizuki heads for the bathroom… only to find Veltol already there! The<br>next day, Hizuki hears people talking about the explosion in Electric Town.</p>
+<p align="center">While Reflejo, Viole (Bam), Khun, and Rak are engaged in their final showdown, FUG and<br>the Workshop attempt to pour a solution capable of melting everything into the area... Lero<br>Ro and Endorsi rush to their three companions in order to save them, but FUG<br>Rankers and Team Mad Dog stand in their way! Will Viole and the others be<br>able to escape safely?!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths! (English Dub) - Episode 2 - The Forest Where a Magic Beast Dwells</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Portuguese Dub) - Episode 25 - Return of the King</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/720116f5af8f8a707bb0094280dfbf4b1737197496_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1739b0fa19bc7978a6351db95befada91734848673_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3PEX/the-forest-where-a-magic-beast-dwells">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW3K3/return-of-the-king">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Clover's first stream has drawn a lot of attention, so they accept another quest in<br>a forest that's been taken over by a magic beast.</p>
+<p align="center">While Reflejo, Viole (Bam), Khun, and Rak are engaged in their final showdown, FUG and<br>the Workshop attempt to pour a solution capable of melting everything into the area... Lero<br>Ro and Endorsi rush to their three companions in order to save them, but FUG<br>Rankers and Team Mad Dog stand in their way! Will Viole and the others be<br>able to escape safely?!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (English Dub) - Episode 15 - Still a Long Way to Go</h3></th>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 14 - Episode 5 - Paprika</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ef13f5fcf291841f2db25325d0f9e5041738526702_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0D21/still-a-long-way-to-go">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8X8JJ/paprika">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
+<p align="center">This is the story of a man who bought his childhood home.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Portuguese Dub) - Episode 14 - I Suppose You Aren't Aware</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (English Dub) - Episode 14 - The Beginning and the End! Food Fight Festival!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e1a8566071311d4a6720540b0d02a6231736589573_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/58eb38cce7ad648600988a92f737724a1737291408_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU325Q1/i-suppose-you-arent-aware">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0D3W/the-beginning-and-the-end-food-fight-festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being trapped inside of a red gate, Jinwoo has to contend with a bloodthirsty<br>pack of ice elves who question his humanity.</p>
+<p align="center">The food fight festival is here, and the Rentaro Family moves out in order to<br>win the special gelato for themselves. Will they be successful?</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Spanish Dub) - Episode 14 - I Suppose You Aren't Aware</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (German Dub) - Episode 13 - Her Name.</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e1a8566071311d4a6720540b0d02a6231736589573_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/65fe1848d11c9642e659a261007253571736681514_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NX80/i-suppose-you-arent-aware">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZN3E/her-name">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being trapped inside of a red gate, Jinwoo has to contend with a bloodthirsty<br>pack of ice elves who question his humanity.</p>
+<p align="center">Season 2 begins, and the gap between the seasons means the girlfriends are immediately faced<br>with a crisis. Rentaro, meanwhile, happens to run into a very hungry girl...</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (French Dub) - Episode 14 - I Suppose You Aren't Aware</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 40 - Embrace the Lamplight of Ambition, Part 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e1a8566071311d4a6720540b0d02a6231736589573_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6033e4a8b93b0380a84ad0935ea4468f1737275772_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MD01/i-suppose-you-arent-aware">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN12G1/embrace-the-lamplight-of-ambition-part-5">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being trapped inside of a red gate, Jinwoo has to contend with a bloodthirsty<br>pack of ice elves who question his humanity.</p>
+<p align="center">Sunraku receives the consequences of his defeat of Lycagon's shade, and as the group moves<br>on to Fifticia to meet with Rust and Mold, another new twist awaits him.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (German Dub) - Episode 14 - I Suppose You Aren't Aware</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese Dub) - Episode 39 - Embrace the Lamplight of Ambition, Part 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e1a8566071311d4a6720540b0d02a6231736589573_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/590c500c644a6ffae6745e90d13732271736667064_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0320/i-suppose-you-arent-aware">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN2X3/embrace-the-lamplight-of-ambition-part-4">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being trapped inside of a red gate, Jinwoo has to contend with a bloodthirsty<br>pack of ice elves who question his humanity.</p>
+<p align="center">Psyger-0's Ultimate is almost ready for release, but first Rei must recite a long incantation.<br>The rest of the team must cover Lycagon in the meantime, with Sunraku revealing the<br>Gilta Brill's own ultimate attack as well.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Italian Dub) - Episode 14 - I Suppose You Aren't Aware</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 39 - Embrace the Lamplight of Ambition, Part 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e1a8566071311d4a6720540b0d02a6231736589573_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/590c500c644a6ffae6745e90d13732271736667064_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ3MP/i-suppose-you-arent-aware">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M9E4/embrace-the-lamplight-of-ambition-part-4">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being trapped inside of a red gate, Jinwoo has to contend with a bloodthirsty<br>pack of ice elves who question his humanity.</p>
+<p align="center">Psyger-0's Ultimate is almost ready for release, but first Rei must recite a long incantation.<br>The rest of the team must cover Lycagon in the meantime, with Sunraku revealing the<br>Gilta Brill's own ultimate attack as well.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Castilian Dub) - Episode 14 - I Suppose You Aren't Aware</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (French Dub) - Episode 39 - Embrace the Lamplight of Ambition, Part 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e1a8566071311d4a6720540b0d02a6231736589573_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/590c500c644a6ffae6745e90d13732271736667064_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKZ4N/i-suppose-you-arent-aware">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5M47/embrace-the-lamplight-of-ambition-part-4">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being trapped inside of a red gate, Jinwoo has to contend with a bloodthirsty<br>pack of ice elves who question his humanity.</p>
+<p align="center">Psyger-0's Ultimate is almost ready for release, but first Rei must recite a long incantation.<br>The rest of the team must cover Lycagon in the meantime, with Sunraku revealing the<br>Gilta Brill's own ultimate attack as well.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Hindi Dub) - Episode 14 - I Suppose You Aren't Aware</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (German Dub) - Episode 39 - Embrace the Lamplight of Ambition, Part 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e1a8566071311d4a6720540b0d02a6231736589573_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/590c500c644a6ffae6745e90d13732271736667064_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VDMW/i-suppose-you-arent-aware">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW3D3/embrace-the-lamplight-of-ambition-part-4">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being trapped inside of a red gate, Jinwoo has to contend with a bloodthirsty<br>pack of ice elves who question his humanity.</p>
+<p align="center">Psyger-0's Ultimate is almost ready for release, but first Rei must recite a long incantation.<br>The rest of the team must cover Lycagon in the meantime, with Sunraku revealing the<br>Gilta Brill's own ultimate attack as well.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Tamil Dub) - Episode 14 - I Suppose You Aren't Aware</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 39 - Embrace the Lamplight of Ambition, Part 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e1a8566071311d4a6720540b0d02a6231736589573_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/590c500c644a6ffae6745e90d13732271736667064_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD374J/i-suppose-you-arent-aware">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3PX8/embrace-the-lamplight-of-ambition-part-4">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being trapped inside of a red gate, Jinwoo has to contend with a bloodthirsty<br>pack of ice elves who question his humanity.</p>
+<p align="center">Psyger-0's Ultimate is almost ready for release, but first Rei must recite a long incantation.<br>The rest of the team must cover Lycagon in the meantime, with Sunraku revealing the<br>Gilta Brill's own ultimate attack as well.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Telugu Dub) - Episode 14 - I Suppose You Aren't Aware</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 39 - Embrace the Lamplight of Ambition, Part 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e1a8566071311d4a6720540b0d02a6231736589573_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/590c500c644a6ffae6745e90d13732271736667064_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZNXP/i-suppose-you-arent-aware">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU325MV/embrace-the-lamplight-of-ambition-part-4">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being trapped inside of a red gate, Jinwoo has to contend with a bloodthirsty<br>pack of ice elves who question his humanity.</p>
+<p align="center">Psyger-0's Ultimate is almost ready for release, but first Rei must recite a long incantation.<br>The rest of the team must cover Lycagon in the meantime, with Sunraku revealing the<br>Gilta Brill's own ultimate attack as well.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Witchy Precure!! ~MIRAI DAYS~ - Episode 4 - Hisui’s Secret February 1 Broadcast</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Tamil Dub) - Episode 39 - Embrace the Lamplight of Ambition, Part 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/027a8a2644945d9560e3ad258e1d190a1738432986_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/590c500c644a6ffae6745e90d13732271736667064_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/1/2025</td>
+<td align="center">2/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW31XK/hisuis-secret-february-1-broadcast">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MDJP/embrace-the-lamplight-of-ambition-part-4">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Mirai and Liko resolved again to thwart Ire's devious plot and protect Hisui. They decide<br>to track down his whereabouts using the vision Mirai saw of Ire standing in front<br>of some bookshelves as a clue. Just then, a request comes in for the Maho<br>Girl.</p>
+<p align="center">Psyger-0's Ultimate is almost ready for release, but first Rei must recite a long incantation.<br>The rest of the team must cover Lycagon in the meantime, with Sunraku revealing the<br>Gilta Brill's own ultimate attack as well.</p>
 </td>
 </tr>
 </table>
