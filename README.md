@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 8, 2025, 7:24:15 PM</em></p>
+<p align="center"><em>Updated on: Feb 9, 2025, 8:09:19 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect - Episode 50 - Zelina Vega Channels Anime in the Ring</h3></th>
+<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (German Dub) - Episode 3 - Alone</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/54f1fb4869807d3306f7614d0f57b6751738971781_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/31f184caabda8a928c3d00fe577d87f81737215981_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32NX2/zelina-vega-channels-anime-in-the-ring">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3840/alone">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">WWE Superstar Zelina Vega (or is that Shoto Todoroki?) joins The Anime Effect to gush<br>over her favorite anime characters, share how she selects her next in-the-ring cosplay, and even<br>tell the wild story of how she met the English voice actor behind her anime<br>“zaddy” Kyōjurō Rengoku.</p>
+<p align="center">Shiro believes that an exorcist's duty is to destroy demons, while Yuri believes that an<br>exorcist's duty is to help people, and advocates for building friendly relationships with demons. Shiro,<br>irritated by Yuri's attitude, harshly confronts her. Time passes, and the two pass their Exorcist<br>Certification Exams. Shiro finally achieves his dream of leaving the Asylum and begins living alone<br>and indulging in his freedom. Yuri watches on in concern, but another mission puts the<br>two at odds once more...</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time (English Dub) - Episode 3 - I May Be Silver Sword's Tank, but I Want to Take On a Really Tough Dungeon</h3></th>
+<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (French Dub) - Episode 3 - Alone</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4daaf2d441d737360ff9345a4da0a4b51737733957_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/31f184caabda8a928c3d00fe577d87f81737215981_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32WVN/i-may-be-silver-swords-tank-but-i-want-to-take-on-a-really-tough-dungeon">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32WXN/alone">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Glen has learned Alina's secret and proposes a duel. If she loses, she must go<br>to the Chalk Tower with Silver Sword.</p>
+<p align="center">Shiro believes that an exorcist's duty is to destroy demons, while Yuri believes that an<br>exorcist's duty is to help people, and advocates for building friendly relationships with demons. Shiro,<br>irritated by Yuri's attitude, harshly confronts her. Time passes, and the two pass their Exorcist<br>Certification Exams. Shiro finally achieves his dream of leaving the Asylum and begins living alone<br>and indulging in his freedom. Yuri watches on in concern, but another mission puts the<br>two at odds once more...</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time (German Dub) - Episode 2 - I May Be the Executioner, but I'll Be Fired if People Find Out, so I'll Have to Use Force</h3></th>
+<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (English Dub) - Episode 3 - Alone</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3e7a7eb6bb089c928e1d5915bb48a8541737130765_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/31f184caabda8a928c3d00fe577d87f81737215981_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5DE2/i-may-be-the-executioner-but-ill-be-fired-if-people-find-out-so-ill-have-to-use-force">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJXWX/alone">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jade has found out that Alina is the Executioner and hounds her to join Silver<br>Sword. Then a certain adventurer with a grudge sets a raid boss loose...</p>
+<p align="center">Shiro believes that an exorcist's duty is to destroy demons, while Yuri believes that an<br>exorcist's duty is to help people, and advocates for building friendly relationships with demons. Shiro,<br>irritated by Yuri's attitude, harshly confronts her. Time passes, and the two pass their Exorcist<br>Certification Exams. Shiro finally achieves his dream of leaving the Asylum and begins living alone<br>and indulging in his freedom. Yuri watches on in concern, but another mission puts the<br>two at odds once more...</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Hindi Dub) - Episode 3 - My Wife</h3></th>
+<th><h3 align="center">DEMON LORD 2099 (English Dub) - Episode 12 - The Lord’s Return</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/35359fbd13a3430c25bf4a581549a2811737127206_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c03fb1e7defcaa8d00d00ac6d1405cf91735404468_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V22G/my-wife">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5D32/the-lords-return">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After resolving their differences, Saito and Akane begin to enjoy spending time together and all<br>seems to be smooth sailing. Until one day, when Akane works herself too hard and<br>gets sick, leaving Saito to take care of her.</p>
+<p align="center">Thanks to Mag Rosanta’s plot, the goddess Meldia has manifested by using Hizuki as a<br>vessel. Veltol battles Meldia in an attempt to save Hizuki. Meanwhile, Machina faces a young<br>girl wearing a visor. What will happen to Akihabara City and the conflict between Electric<br>Town and Magic Town?</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Tamil Dub) - Episode 3 - My Wife</h3></th>
+<th><h3 align="center">I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths! (English Dub) - Episode 3 - Overflow</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/35359fbd13a3430c25bf4a581549a2811737127206_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/85291f8752f08aab4cd56f352114603a1737824494_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3PPE/my-wife">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNE7N/overflow">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After resolving their differences, Saito and Akane begin to enjoy spending time together and all<br>seems to be smooth sailing. Until one day, when Akane works herself too hard and<br>gets sick, leaving Saito to take care of her.</p>
+<p align="center">Clover's success in slaying the Zarnag draws more attention to them—and draws Thunder Pike's attention<br>back to Yuke.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Telugu Dub) - Episode 3 - My Wife</h3></th>
+<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (English Dub) - Episode 16 - I Need to Stop Faking</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/35359fbd13a3430c25bf4a581549a2811737127206_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9b05cfa6ea5183e13a8456fed19083571737811572_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ22M/my-wife">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW38K0/i-need-to-stop-faking">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After resolving their differences, Saito and Akane begin to enjoy spending time together and all<br>seems to be smooth sailing. Until one day, when Akane works herself too hard and<br>gets sick, leaving Saito to take care of her.</p>
+<p align="center">Jinwoo realizes that he'll need to become even stronger in order to clear the Demon's<br>Castle and decides to have his hunter rank reassessed.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Hindi Dub) - Episode 14 - Taboo</h3></th>
+<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Portuguese Dub) - Episode 15 - Still a Long Way to Go</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4dc065e33bff32c1f7a95b3849452fe21737129653_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7JJX/taboo">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2845/still-a-long-way-to-go">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To stop Goku's advancement, Gomah commits an unbelievable taboo! Goku and his companions can no<br>longer proceed. Just when it seems their adventure is over, a certain someone reveals their<br>true power!</p>
+<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Tamil Dub) - Episode 14 - Taboo</h3></th>
+<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (German Dub) - Episode 15 - Still a Long Way to Go</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4dc065e33bff32c1f7a95b3849452fe21737129653_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKWWG/taboo">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM547/still-a-long-way-to-go">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To stop Goku's advancement, Gomah commits an unbelievable taboo! Goku and his companions can no<br>longer proceed. Just when it seems their adventure is over, a certain someone reveals their<br>true power!</p>
+<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Telugu Dub) - Episode 14 - Taboo</h3></th>
+<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (French Dub) - Episode 15 - Still a Long Way to Go</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4dc065e33bff32c1f7a95b3849452fe21737129653_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2885/taboo">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XPZE/still-a-long-way-to-go">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To stop Goku's advancement, Gomah commits an unbelievable taboo! Goku and his companions can no<br>longer proceed. Just when it seems their adventure is over, a certain someone reveals their<br>true power!</p>
+<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (English Dub) - Episode 5 - Panzy</h3></th>
+<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Spanish Dub) - Episode 15 - Still a Long Way to Go</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e8cea564d06dfb3068b59ee81bfa2e4f1731081176_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM557/panzy">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE73G/still-a-long-way-to-go">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The masked Majin who appeared before Goku and his companions is a young girl named<br>Panzy! While Glorio gives her the cold shoulder, Panzy insists on acting as their guide.<br>The group reaches a suspicious castle!</p>
+<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (English Dub) - Episode 27 - Corpse Fungus</h3></th>
+<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Italian Dub) - Episode 15 - Still a Long Way to Go</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/066f609a9d274d993b46126a3ea730991737721646_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0MM3/corpse-fungus">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J05G/still-a-long-way-to-go">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A concubine passes away, and a woman goes missing. Jinshi sends Maomao to investigate -<br>not these incidents, but mushrooms growing in the rear palace.</p>
+<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Portuguese Dub) - Episode 26 - Caravan</h3></th>
+<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Castilian Dub) - Episode 15 - Still a Long Way to Go</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/534d2fd94aec6ae647f2670509137d031737129686_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MKD0/caravan">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V2WG/still-a-long-way-to-go">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The caravan stirs up excitement in the inner palace. The merchants bring all kinds of<br>goods. However, something gives Maomao a bad feeling.</p>
+<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (German Dub) - Episode 26 - Caravan</h3></th>
+<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Hindi Dub) - Episode 15 - Still a Long Way to Go</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/534d2fd94aec6ae647f2670509137d031737129686_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0M38/caravan">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3PXE/still-a-long-way-to-go">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The caravan stirs up excitement in the inner palace. The merchants bring all kinds of<br>goods. However, something gives Maomao a bad feeling.</p>
+<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (French Dub) - Episode 26 - Caravan</h3></th>
+<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Tamil Dub) - Episode 15 - Still a Long Way to Go</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/534d2fd94aec6ae647f2670509137d031737129686_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJX39/caravan">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ2WM/still-a-long-way-to-go">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The caravan stirs up excitement in the inner palace. The merchants bring all kinds of<br>goods. However, something gives Maomao a bad feeling.</p>
+<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Spanish Dub) - Episode 26 - Caravan</h3></th>
+<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Telugu Dub) - Episode 15 - Still a Long Way to Go</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/534d2fd94aec6ae647f2670509137d031737129686_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7JM0/caravan">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0E7N/still-a-long-way-to-go">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The caravan stirs up excitement in the inner palace. The merchants bring all kinds of<br>goods. However, something gives Maomao a bad feeling.</p>
+<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Hindi Dub) - Episode 26 - Caravan</h3></th>
+<th><h3 align="center">BLUE LOCK 2nd Season (English Dub) - Episode 38 - Last Attack</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/534d2fd94aec6ae647f2670509137d031737129686_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6feb4e321d81efa0b5f64b557149efdf1735400944_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKWZM/caravan">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJX2X/last-attack">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The caravan stirs up excitement in the inner palace. The merchants bring all kinds of<br>goods. However, something gives Maomao a bad feeling.</p>
+<p align="center">Rin enters his “flow,” and Isagi’s faith in Rin’s trance state pays off when Isagi<br>applies what he’s learned about the mechanism of luck back when he lost to Rin.<br>Can the Blue Lock XI beat Japan’s U-20s, and what awaits them after the match?</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Tamil Dub) - Episode 26 - Caravan</h3></th>
+<th><h3 align="center">BLUE LOCK 2nd Season (French Dub) - Episode 37 - Not Alone</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/534d2fd94aec6ae647f2670509137d031737129686_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/397c7e52ad740980b910cf7a6bdffdb41735398636_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNEEN/caravan">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE7QG/not-alone">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The caravan stirs up excitement in the inner palace. The merchants bring all kinds of<br>goods. However, something gives Maomao a bad feeling.</p>
+<p align="center">Seeing the players' upgrade, Sae takes the play to the next level. In response, Rin<br>starts to align his thought process to Sae and drastically changes his play style .<br>Then Rin realizes that Blue Lock players have been keeping up with his play.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 (Telugu Dub) - Episode 26 - Caravan</h3></th>
+<th><h3 align="center">BLUE LOCK 2nd Season (French Dub) - Episode 38 - Last Attack</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/534d2fd94aec6ae647f2670509137d031737129686_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6feb4e321d81efa0b5f64b557149efdf1735400944_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MPP3/caravan">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J0EG/last-attack">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The caravan stirs up excitement in the inner palace. The merchants bring all kinds of<br>goods. However, something gives Maomao a bad feeling.</p>
+<p align="center">Rin enters his “flow,” and Isagi’s faith in Rin’s trance state pays off when Isagi<br>applies what he’s learned about the mechanism of luck back when he lost to Rin.<br>Can the Blue Lock XI beat Japan’s U-20s, and what awaits them after the match?</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time - Episode 5 - I May Be Silver Sword's Healer, but Even I Could Use Some Healing</h3></th>
+<th><h3 align="center">BLUE LOCK 2nd Season (French Dub) - Episode 36 - Flowers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fac27372cdef3d6f1bd00f4ea74b1d081738948274_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/207f4bddb4dc35d06b8c799c6207f1801734792086_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWE9Q/i-may-be-silver-swords-healer-but-even-i-could-use-some-healing">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XPJE/flowers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Even after nursing Jade and Lowe back to health, Lululee is depressed over the loss<br>of her weapon and skills.</p>
+<p align="center">As Aiku looks back on why he converted to a defender, the U-20s uses their<br>specialty quick attack. Reo copies Nagi's skill to hold them off. Isagi yields the last<br>step to Rin, which is stolen by Barou who has waited for the chance in<br>the dark.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Apothecary Diaries Season 2 - Episode 29 - The Moon Fairy</h3></th>
+<th><h3 align="center">BLUE LOCK 2nd Season (French Dub) - Episode 35 - What You Taught Us</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b65eb9ac72c75cc25c47f1056e14f4bb1738945870_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/19714f0b51dab6f1ddedca01bb1a3c2a1734178010_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/7/2025</td>
+<td align="center">2/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3VGJ/the-moon-fairy">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM5W7/what-you-taught-us">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In order to realize the seemingly impossible request from the foreign envoy, Maomao speaks to<br>the “Moon Fairy” herself.</p>
+<p align="center">Shidou enters the "flow" and unleashes his Big Bang Drive to score another goal. Isagi<br>demands that Ego let them win, and Ego subs Barou in to cause chaos on<br>the field. And the other players start to find their "flow"...</p>
 </td>
 </tr>
 </table>
