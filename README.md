@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 9, 2025, 7:24:00 PM</em></p>
+<p align="center"><em>Updated on: Feb 10, 2025, 8:06:48 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 - Episode 5 - Mokke of the Dead / The Melancholy of the New Number Three</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (English Dub) - Episode 3 - Lost and Found</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d2158e787b3ce559c651198df642574f1739089087_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4d8ec0f0393c7a264b10385d2fbe8fd81737873113_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XG9X/mokke-of-the-dead-the-melancholy-of-the-new-number-three">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NDJM/lost-and-found">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A mokke escapes containment. Its bite brings disaster. Now they hunger... for candy.</p>
+<p align="center">Nene doesn't have long to live. While Kou struggles with the revelation, Nene goes about<br>her day none the wiser. Only she can't seem to find Hanako.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece Log: Fish-Man Island Saga (Current) - Hody's Accident! The Princes Strike Back</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Portuguese Dub) - Episode 2 - The Three Clock Keepers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b1b24b0bbab6fd3c80d012f1860af3e21739065467_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f9fd831e661c37485675a02089a052a1737275791_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32NQZ/hodys-accident-the-princes-strike-back">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNEP9/the-three-clock-keepers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The clock ticks closer to King Neptune's execution as the princes move towards a confrontation<br>with Hody at Conchorde Plaza, but as Hody takes more and more Energy Steroids to<br>kill the pain from Zoro's attack, an overdose has unexpected consequences!</p>
+<p align="center">One of the Clock Keepers stands revealed... as Nene's classmater Aoi Akane. Hanako proposes they<br>work together to set things right, but past experiences have left Akane with little trust<br>for apparitions.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You and Idol Precure ♪ - Episode 2 - Suddenly Popular! Mystery New Idol</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Spanish Dub) - Episode 2 - The Three Clock Keepers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/494ebd8ebe90770b15c5a28fa75568a51739061410_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f9fd831e661c37485675a02089a052a1737275791_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5MZ7/suddenly-popular-mystery-new-idol">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MPXX/the-three-clock-keepers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Queen of Kirakiland, Pikarine, tells Uta about Team Chokkiri and their boss, Darkine. Meanwhile,<br>Cure Idol is going viral on TV and social media as a “mysterious new idol.”</p>
+<p align="center">One of the Clock Keepers stands revealed... as Nene's classmater Aoi Akane. Hanako proposes they<br>work together to set things right, but past experiences have left Akane with little trust<br>for apparitions.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (German Dub) - Episode 3 - Alone</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Hindi Dub) - Episode 2 - The Three Clock Keepers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/31f184caabda8a928c3d00fe577d87f81737215981_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f9fd831e661c37485675a02089a052a1737275791_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3840/alone">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5D98/the-three-clock-keepers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shiro believes that an exorcist's duty is to destroy demons, while Yuri believes that an<br>exorcist's duty is to help people, and advocates for building friendly relationships with demons. Shiro,<br>irritated by Yuri's attitude, harshly confronts her. Time passes, and the two pass their Exorcist<br>Certification Exams. Shiro finally achieves his dream of leaving the Asylum and begins living alone<br>and indulging in his freedom. Yuri watches on in concern, but another mission puts the<br>two at odds once more...</p>
+<p align="center">One of the Clock Keepers stands revealed... as Nene's classmater Aoi Akane. Hanako proposes they<br>work together to set things right, but past experiences have left Akane with little trust<br>for apparitions.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (French Dub) - Episode 3 - Alone</h3></th>
+<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (Hindi Dub) - Episode 2 - A Red Ranger and Adventurers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/31f184caabda8a928c3d00fe577d87f81737215981_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9948464b143dc018f33664c43fc655581737291587_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32WXN/alone">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V2X2/a-red-ranger-and-adventurers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shiro believes that an exorcist's duty is to destroy demons, while Yuri believes that an<br>exorcist's duty is to help people, and advocates for building friendly relationships with demons. Shiro,<br>irritated by Yuri's attitude, harshly confronts her. Time passes, and the two pass their Exorcist<br>Certification Exams. Shiro finally achieves his dream of leaving the Asylum and begins living alone<br>and indulging in his freedom. Yuri watches on in concern, but another mission puts the<br>two at odds once more...</p>
+<p align="center">Yihdra has become an adventurer to learn more about Togo and his powers, but after<br>an adventuring duo earns her hatred with some rude remarks about her father, it escalates<br>into a race to see who can clear a dungeon first.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (English Dub) - Episode 3 - Alone</h3></th>
+<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (English Dub) - Episode 2 - A Red Ranger and Adventurers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/31f184caabda8a928c3d00fe577d87f81737215981_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9948464b143dc018f33664c43fc655581737291587_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJXWX/alone">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3PKX/a-red-ranger-and-adventurers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shiro believes that an exorcist's duty is to destroy demons, while Yuri believes that an<br>exorcist's duty is to help people, and advocates for building friendly relationships with demons. Shiro,<br>irritated by Yuri's attitude, harshly confronts her. Time passes, and the two pass their Exorcist<br>Certification Exams. Shiro finally achieves his dream of leaving the Asylum and begins living alone<br>and indulging in his freedom. Yuri watches on in concern, but another mission puts the<br>two at odds once more...</p>
+<p align="center">Yihdra has become an adventurer to learn more about Togo and his powers, but after<br>an adventuring duo earns her hatred with some rude remarks about her father, it escalates<br>into a race to see who can clear a dungeon first.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DEMON LORD 2099 (English Dub) - Episode 12 - The Lord’s Return</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Portuguese Dub) - Episode 26 - The Dawn of the Departure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c03fb1e7defcaa8d00d00ac6d1405cf91735404468_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dc85c15d1c8b7dca6076937fda57b3541735465934_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5D32/the-lords-return">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG28JG/the-dawn-of-the-departure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Thanks to Mag Rosanta’s plot, the goddess Meldia has manifested by using Hizuki as a<br>vessel. Veltol battles Meldia in an attempt to save Hizuki. Meanwhile, Machina faces a young<br>girl wearing a visor. What will happen to Akihabara City and the conflict between Electric<br>Town and Magic Town?</p>
+<p align="center">Reflejo is brought to the brink of death using the unleashed power of the Thorn.<br>Viole (Bam) finds himself in a difficult position. But thanks to quick thinking from Khun<br>and Rak and Endorsi’s Bongbong, they successfully escape. Their companions gather one after another and<br>all leave the arena on the Wolhaiksong floating ship as the turbulent Workshop Battle finally<br>comes to a close...</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths! (English Dub) - Episode 3 - Overflow</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Spanish Dub) - Episode 26 - The Dawn of the Departure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/85291f8752f08aab4cd56f352114603a1737824494_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dc85c15d1c8b7dca6076937fda57b3541735465934_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNE7N/overflow">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM520/the-dawn-of-the-departure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Clover's success in slaying the Zarnag draws more attention to them—and draws Thunder Pike's attention<br>back to Yuke.</p>
+<p align="center">Reflejo is brought to the brink of death using the unleashed power of the Thorn.<br>Viole (Bam) finds himself in a difficult position. But thanks to quick thinking from Khun<br>and Rak and Endorsi’s Bongbong, they successfully escape. Their companions gather one after another and<br>all leave the arena on the Wolhaiksong floating ship as the turbulent Workshop Battle finally<br>comes to a close...</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (English Dub) - Episode 16 - I Need to Stop Faking</h3></th>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 14 - Episode 6 - Lies and Truth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9b05cfa6ea5183e13a8456fed19083571737811572_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5b592d2610dddd59c1562cbc972155251739132968_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW38K0/i-need-to-stop-faking">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEVQ0/lies-and-truth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo realizes that he'll need to become even stronger in order to clear the Demon's<br>Castle and decides to have his hunter rank reassessed.</p>
+<p align="center">This is the story of a man who suddenly finds himself offering counsel...</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Portuguese Dub) - Episode 15 - Still a Long Way to Go</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (German Dub) - Episode 14 - The Beginning and the End! Food Fight Festival!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/58eb38cce7ad648600988a92f737724a1737291408_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2845/still-a-long-way-to-go">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7J31/the-beginning-and-the-end-food-fight-festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
+<p align="center">The food fight festival is here, and the Rentaro Family moves out in order to<br>win the special gelato for themselves. Will they be successful?</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (German Dub) - Episode 15 - Still a Long Way to Go</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 41 - What Do You Play Games For? Their Answers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1e4d0bb06b7fc93c16c19f51a2f10b791737883104_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM547/still-a-long-way-to-go">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNE99/what-do-you-play-games-for-their-answers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
+<p align="center">Katzo and Pencilgon reaffirm their motives moving forward, and the defeat of Lycagon's shade has<br>repercussions for the devs.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (French Dub) - Episode 15 - Still a Long Way to Go</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Tamil Dub) - Episode 40 - Embrace the Lamplight of Ambition, Part 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6033e4a8b93b0380a84ad0935ea4468f1737275772_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XPZE/still-a-long-way-to-go">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKW9G/embrace-the-lamplight-of-ambition-part-5">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
+<p align="center">Sunraku receives the consequences of his defeat of Lycagon's shade, and as the group moves<br>on to Fifticia to meet with Rust and Mold, another new twist awaits him.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Spanish Dub) - Episode 15 - Still a Long Way to Go</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Telugu Dub) - Episode 40 - Embrace the Lamplight of Ambition, Part 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6033e4a8b93b0380a84ad0935ea4468f1737275772_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE73G/still-a-long-way-to-go">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2805/embrace-the-lamplight-of-ambition-part-5">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
+<p align="center">Sunraku receives the consequences of his defeat of Lycagon's shade, and as the group moves<br>on to Fifticia to meet with Rust and Mold, another new twist awaits him.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Italian Dub) - Episode 15 - Still a Long Way to Go</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese Dub) - Episode 40 - Embrace the Lamplight of Ambition, Part 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6033e4a8b93b0380a84ad0935ea4468f1737275772_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J05G/still-a-long-way-to-go">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32WZN/embrace-the-lamplight-of-ambition-part-5">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
+<p align="center">Sunraku receives the consequences of his defeat of Lycagon's shade, and as the group moves<br>on to Fifticia to meet with Rust and Mold, another new twist awaits him.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Castilian Dub) - Episode 15 - Still a Long Way to Go</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (German Dub) - Episode 40 - Embrace the Lamplight of Ambition, Part 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6033e4a8b93b0380a84ad0935ea4468f1737275772_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V2WG/still-a-long-way-to-go">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NDQK/embrace-the-lamplight-of-ambition-part-5">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
+<p align="center">Sunraku receives the consequences of his defeat of Lycagon's shade, and as the group moves<br>on to Fifticia to meet with Rust and Mold, another new twist awaits him.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Hindi Dub) - Episode 15 - Still a Long Way to Go</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 40 - Embrace the Lamplight of Ambition, Part 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6033e4a8b93b0380a84ad0935ea4468f1737275772_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3PXE/still-a-long-way-to-go">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MKGN/embrace-the-lamplight-of-ambition-part-5">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
+<p align="center">Sunraku receives the consequences of his defeat of Lycagon's shade, and as the group moves<br>on to Fifticia to meet with Rust and Mold, another new twist awaits him.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Tamil Dub) - Episode 15 - Still a Long Way to Go</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 40 - Embrace the Lamplight of Ambition, Part 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6033e4a8b93b0380a84ad0935ea4468f1737275772_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ2WM/still-a-long-way-to-go">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0MJ3/embrace-the-lamplight-of-ambition-part-5">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
+<p align="center">Sunraku receives the consequences of his defeat of Lycagon's shade, and as the group moves<br>on to Fifticia to meet with Rust and Mold, another new twist awaits him.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Telugu Dub) - Episode 15 - Still a Long Way to Go</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (French Dub) - Episode 40 - Embrace the Lamplight of Ambition, Part 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6033e4a8b93b0380a84ad0935ea4468f1737275772_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0E7N/still-a-long-way-to-go">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJX0X/embrace-the-lamplight-of-ambition-part-5">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
+<p align="center">Sunraku receives the consequences of his defeat of Lycagon's shade, and as the group moves<br>on to Fifticia to meet with Rust and Mold, another new twist awaits him.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BLUE LOCK 2nd Season (English Dub) - Episode 38 - Last Attack</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 40 - Embrace the Lamplight of Ambition, Part 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6feb4e321d81efa0b5f64b557149efdf1735400944_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6033e4a8b93b0380a84ad0935ea4468f1737275772_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJX2X/last-attack">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7JGX/embrace-the-lamplight-of-ambition-part-5">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rin enters his “flow,” and Isagi’s faith in Rin’s trance state pays off when Isagi<br>applies what he’s learned about the mechanism of luck back when he lost to Rin.<br>Can the Blue Lock XI beat Japan’s U-20s, and what awaits them after the match?</p>
+<p align="center">Sunraku receives the consequences of his defeat of Lycagon's shade, and as the group moves<br>on to Fifticia to meet with Rust and Mold, another new twist awaits him.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">BLUE LOCK 2nd Season (French Dub) - Episode 37 - Not Alone</h3></th>
+<th><h3 align="center">ZENSHU (Telugu Dub) - Episode 6</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/397c7e52ad740980b910cf7a6bdffdb41735398636_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2e43c30ffc0b1b9f477850e5d2bd51781739116781_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/8/2025</td>
+<td align="center">2/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE7QG/not-alone">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M7E8">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seeing the players' upgrade, Sae takes the play to the next level. In response, Rin<br>starts to align his thought process to Sae and drastically changes his play style .<br>Then Rin realizes that Blue Lock players have been keeping up with his play.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
