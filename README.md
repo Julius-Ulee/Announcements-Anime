@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 11, 2025, 7:27:43 PM</em></p>
+<p align="center"><em>Updated on: Feb 12, 2025, 6:31:03 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">The Most Notorious "Talker" Runs the World's Greatest Clan (Thai Dub) - Episode 11 - The Price of Being Right</h3></th>
+<th><h3 align="center">Tying the Knot with an Amagami Sister (Portuguese Dub) - Episode 15 - The Scales That Hold Wishes ~Going Back~</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/12c673f8c3fe7d43eda0b3778b7e43881733754205_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3b2aa32a12b04b4d01c98bdedb2e05891737476098_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/10/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32WQM/the-price-of-being-right">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XP4G/the-scales-that-hold-wishes-going-back">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Blue Beyond and the Winged Knights face off, and Noel has a plan to deal<br>with the skill gap.</p>
+<p align="center">After failing to escape from the time loop, Uryu is forced to consider what it<br>is that Asahi really wants.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Most Notorious "Talker" Runs the World's Greatest Clan (Indonesian Dub) - Episode 11 - The Price of Being Right</h3></th>
+<th><h3 align="center">Tying the Knot with an Amagami Sister (French Dub) - Episode 15 - The Scales That Hold Wishes ~Going Back~</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/12c673f8c3fe7d43eda0b3778b7e43881733754205_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3b2aa32a12b04b4d01c98bdedb2e05891737476098_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/10/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9ND8M/the-price-of-being-right">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE7Z5/the-scales-that-hold-wishes-going-back">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Blue Beyond and the Winged Knights face off, and Noel has a plan to deal<br>with the skill gap.</p>
+<p align="center">After failing to escape from the time loop, Uryu is forced to consider what it<br>is that Asahi really wants.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (English Dub) - Episode 13 - Thank God She's Still a Pervert!</h3></th>
+<th><h3 align="center">Tying the Knot with an Amagami Sister (Spanish Dub) - Episode 15 - The Scales That Hold Wishes ~Going Back~</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a3f81104edff4127f15c13eb70d6db061737993396_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3b2aa32a12b04b4d01c98bdedb2e05891737476098_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/10/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MP1X/thank-god-shes-still-a-pervert">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J0DW/the-scales-that-hold-wishes-going-back">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hajime rescues Shizuku in the nick of time, just as she was about to succumb<br>to the labyrinth's trial. Suzu, Ryutarou and Tio also face their own tests.</p>
+<p align="center">After failing to escape from the time loop, Uryu is forced to consider what it<br>is that Asahi really wants.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (Portuguese Dub) - Episode 12 - True Heart</h3></th>
+<th><h3 align="center">Tying the Knot with an Amagami Sister (Hindi Dub) - Episode 15 - The Scales That Hold Wishes ~Going Back~</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b8008bc24b2cf51b20669e68e0d55441737388600_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3b2aa32a12b04b4d01c98bdedb2e05891737476098_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/10/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0EKP/true-heart">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN15D2/the-scales-that-hold-wishes-going-back">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Aside from pointing out what a huge edgelord Hajime is, the labyrinth begins pointing out<br>other painful realities that Hajime was trying to look away from. Meanwhile, Shizuku is subjected<br>to the same ordeals.</p>
+<p align="center">After failing to escape from the time loop, Uryu is forced to consider what it<br>is that Asahi really wants.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (Spanish Dub) - Episode 12 - True Heart</h3></th>
+<th><h3 align="center">Tying the Knot with an Amagami Sister (Tamil Dub) - Episode 15 - The Scales That Hold Wishes ~Going Back~</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b8008bc24b2cf51b20669e68e0d55441737388600_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3b2aa32a12b04b4d01c98bdedb2e05891737476098_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/10/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNEQ9/true-heart">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V202/the-scales-that-hold-wishes-going-back">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Aside from pointing out what a huge edgelord Hajime is, the labyrinth begins pointing out<br>other painful realities that Hajime was trying to look away from. Meanwhile, Shizuku is subjected<br>to the same ordeals.</p>
+<p align="center">After failing to escape from the time loop, Uryu is forced to consider what it<br>is that Asahi really wants.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Medaka Kuroiwa is Impervious to My Charms (English Dub) - Episode 4 - Legend with Him</h3></th>
+<th><h3 align="center">Tying the Knot with an Amagami Sister (Telugu Dub) - Episode 15 - The Scales That Hold Wishes ~Going Back~</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7190d43685c5a4f29a93e97d38b74ff81737996059_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3b2aa32a12b04b4d01c98bdedb2e05891737476098_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/10/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3PZX/legend-with-him">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3P1X/the-scales-that-hold-wishes-going-back">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Mona and Medaka find themselves at the Bridge of Love, the location of the school<br>festival legend.</p>
+<p align="center">After failing to escape from the time loop, Uryu is forced to consider what it<br>is that Asahi really wants.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Headhunted to Another World: From Salaryman to Big Four! (English Dub) - Episode 5 - The Best Way to Enjoy a Stroll Through the Marketplace in Another World</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) (English Dub) - Episode 1108 - Incomprehensible! The Seraphim's Rebellion!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1309d550efe9a6bec10121d3ba7895f41737984638_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8d8e41ab3fb22261f5f7c55a5fb334c11717896918_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/10/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN15E2/the-best-way-to-enjoy-a-stroll-through-the-marketplace-in-another-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKW2Q/incomprehensible-the-seraphims-rebellion">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having done so much under the Overlord's direct orders, Dennosuke now feels he must step<br>up his game by becoming proactive. He decides to make a bold move by researching<br>the marketplace with Ulmandra, hoping to find a hint to make the army even greater.</p>
+<p align="center">The Seraphim suddenly start attacking the Straw Hats and the Vegapunk Satellites. They are not<br>stopping even when the Satellites order them to. When Luffy and Zoro are cornered, Lucci<br>and Kaku wake up and make them a surprising offer.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic - Episode 7 - Liam Tries Fighting Dracula</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) (English Dub) - Episode 1107 - A Shudder! The Evil Hand Creeping Up on the Laboratory</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/af8e432dfba5ccfe33a4d4607e1c57a21739209390_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/60d531550d6070dfabd27b2652badef01717292052_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/10/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM0MD/liam-tries-fighting-dracula">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJX90/a-shudder-the-evil-hand-creeping-up-on-the-laboratory">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Liam's village is threatened by a massive horde of vampires led by a Dracula.</p>
+<p align="center">Bonney witnesses her father Bartholomew Kuma’s painful memories. Meanwhile at the lab, Shaka notices that<br>their communications and surveillance cameras are being cut off by somebody.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Medaka Kuroiwa is Impervious to My Charms - Episode 6 - Nursing with Him</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) (English Dub) - Episode 1106 - Trouble Occurs! Seek Dr. Vegapunk!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c5f437bd05e52b61f68f9668aa83d7641739204700_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/99aa8775b22c2abe820a0e9087360cfb1716686796_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/10/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ5QE/nursing-with-him">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MKJ9/trouble-occurs-seek-dr-vegapunk">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When Medaka comes down with a cold, caring for him becomes a new battleground for<br>Mona and Asahi.</p>
+<p align="center">CP-0 takes control of the Fabriophase but gets attacked by an unknown force. Meanwhile, in<br>the Labophase, the Straw Hats and Dr. Vegapunk’s Satellites find out that Vegapunk has disappeared<br>and begin searching for him.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 - Episode 15 - What Makes a Hero</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) (English Dub) - Episode 1105 - A Beautiful Act of Treason! The Spy, Stussy!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/46afea30121b2088b6f893cfa4704d931739202613_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e0c00a67d300dfcac0c0da5a729d4dce1716081891_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/10/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZNJP/what-makes-a-hero">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW38XP/a-beautiful-act-of-treason-the-spy-stussy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kouki's test pushes him to face his insecurities about Hajime head-on...</p>
+<p align="center">Stussy suddenly knocked out Lucci to the Straw Hats’ surprise, and when Shaka reveals her<br>true identity, they’re stunned again. Meanwhile, a major incident occurs on an island called Sphinx<br>where Whitebeard came from.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Headhunted to Another World: From Salaryman to Big Four! - Episode 7 - Conditions to Become a First-class Merchant.</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) (English Dub) - Episode 1104 - A Desperate Situation! The Seraphim's All-out Attack!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/867d54733d85f1f61b1097905af383bd1739202012_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1fddb16b91d2350ba55de70616c5b9951715477342_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/10/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M7VD/conditions-to-become-a-first-class-merchant">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG28MG/a-desperate-situation-the-seraphims-all-out-attack">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rampage King suddenly no longer wants to trade with the Demon Army saying he could<br>get it elsewhere. Uchimura must now find out why this is happening.</p>
+<p align="center">The Seraphim come following CP-0 to the Labophase, pitting Zoro and Brook against the seven<br>of them. Sanji, Franky, Edison, and Lilith leave the lab to fight them, but the<br>Seraphim launch a full-scale attack on the lab.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Promise of Wizard - Episode 6 - Something Someone as Innocent as You Can Do</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) (English Dub) - Episode 1103 - Turn Back My Father! Bonney's Futile Wish!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b7b5ec2b697d357aaf47828fea3170c71739199506_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9260ecb753478c62b6ded4e6fa400e261714873222_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/10/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V7J1/something-someone-as-innocent-as-you-can-do">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKW2D/turn-back-my-father-bonneys-futile-wish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akira and the wizards get ready to head to their parade in the Central Country.</p>
+<p align="center">CP-0 enters the Labophase and starts attacking the Thousand Sunny as soon as they find<br>it. Luffy reunites with Nami and the others but finds out that Vegapunk is missing.<br>Meanwhile, Bonney is pressing Vegapunk to change back her father Kuma.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 (English Dub) - Episode 3 - Lost and Found</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) (English Dub) - Episode 1102 - Sinister Schemes! The Operation to Escape Egghead</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4d8ec0f0393c7a264b10385d2fbe8fd81737873113_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/72e7366b8d67cd994f6b1f5e63c774b51714267657_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NDJM/lost-and-found">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MKZE/sinister-schemes-the-operation-to-escape-egghead">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nene doesn't have long to live. While Kou struggles with the revelation, Nene goes about<br>her day none the wiser. Only she can't seem to find Hanako.</p>
+<p align="center">Vegapunk asks the Straw Hats to take him on board their ship which makes Franky<br>and Usopp happy but annoys Nami. Lucci orders his troops to block off all Vegapunk’s<br>escape routes and looks to invade the heavily-secured Labophase.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 (Portuguese Dub) - Episode 2 - The Three Clock Keepers</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) (English Dub) - Episode 1101 - The Strongest Form of Humanity! The Seraphim's Powers!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f9fd831e661c37485675a02089a052a1737275791_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/74918cf30763722b61be4b182fde23cf1713663084_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNEP9/the-three-clock-keepers">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW38NN/the-strongest-form-of-humanity-the-seraphims-powers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">One of the Clock Keepers stands revealed... as Nene's classmater Aoi Akane. Hanako proposes they<br>work together to set things right, but past experiences have left Akane with little trust<br>for apparitions.</p>
+<p align="center">Vegapunk describes how he managed to grant the Seraphim Devil Fruit powers, which surprises Franky<br>and the others. Meanwhile, Luffy is still facing Lucci in his savage, awakened form, but<br>the rocket to the Labophase is about to leave.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 (Spanish Dub) - Episode 2 - The Three Clock Keepers</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) (English Dub) - The Log of the Rivalry! The Straw Hats vs. Cipher Pol</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f9fd831e661c37485675a02089a052a1737275791_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3620446853cb935123d5340dc4b8b4571713057963_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MPXX/the-three-clock-keepers">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J0Z9/the-log-of-the-rivalry-the-straw-hats-vs-cipher-pol">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">One of the Clock Keepers stands revealed... as Nene's classmater Aoi Akane. Hanako proposes they<br>work together to set things right, but past experiences have left Akane with little trust<br>for apparitions.</p>
+<p align="center">Robin and Franky look back on the history of Lucci, Kaku, and the rest of<br>the Cipher Pol agents who forced their way into Egghead. They talk about how the<br>rivalry between the Straw Hats and those Cipher Pol agents evolved since they met in<br>Water Seven.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 (Hindi Dub) - Episode 2 - The Three Clock Keepers</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) (English Dub) - Episode 1100 - Powers on a Different Level! Luffy vs. Lucci!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0f9fd831e661c37485675a02089a052a1737275791_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/043e3fbdcb4ce3d229e4af0a7467248a1712454468_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5D98/the-three-clock-keepers">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MPQX/powers-on-a-different-level-luffy-vs-lucci">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">One of the Clock Keepers stands revealed... as Nene's classmater Aoi Akane. Hanako proposes they<br>work together to set things right, but past experiences have left Akane with little trust<br>for apparitions.</p>
+<p align="center">Luffy transforms into the Warrior of Liberation as Rob Lucci also shows his awakened Devil<br>Fruit form. As the two clash, Vegapunk reveals the shocking truth of the Gum-Gum Fruit<br>and his eye-opening theory on Devil Fruits.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (Hindi Dub) - Episode 2 - A Red Ranger and Adventurers</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) (English Dub) - Episode 1099 - Preparations for Interception! Rob Lucci Strikes!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9948464b143dc018f33664c43fc655581737291587_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c84d29ab25605b8554be9512518cfc261711849218_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V2X2/a-red-ranger-and-adventurers">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNE19/preparations-for-interception-rob-lucci-strikes">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yihdra has become an adventurer to learn more about Togo and his powers, but after<br>an adventuring duo earns her hatred with some rude remarks about her father, it escalates<br>into a race to see who can clear a dungeon first.</p>
+<p align="center">CP-0 led by Rob Lucci makes a forced landing at Egghead and people on the<br>Fabriophase are plunged into confusion while Shaka and the others prepare to fight back on<br>the Labophase. The enraged Atlas stands up to defend the peace of the island.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (English Dub) - Episode 2 - A Red Ranger and Adventurers</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) (English Dub) - Episode 1098 - The Eccentric Dream of a Genius!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9948464b143dc018f33664c43fc655581737291587_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ff5a591c9135bc92f01f2bba2eeaa8f81711245037_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3PKX/a-red-ranger-and-adventurers">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0EQP/the-eccentric-dream-of-a-genius">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yihdra has become an adventurer to learn more about Togo and his powers, but after<br>an adventuring duo earns her hatred with some rude remarks about her father, it escalates<br>into a race to see who can clear a dungeon first.</p>
+<p align="center">Vegapunk reveals the shocking history of the ancient giant robot and asks Luffy to take<br>him off Egghead. Rob Lucci and his fellow Cipher Pol agents arrive at the island<br>and ask for permission to enter the port.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Portuguese Dub) - Episode 26 - The Dawn of the Departure</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1089-Current) (English Dub) - Episode 1097 - The Will of Ohara! The Inherited Research</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dc85c15d1c8b7dca6076937fda57b3541735465934_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1750dc14e095f7e86ea231e1f3ec0f9a1710639072_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG28JG/the-dawn-of-the-departure">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ28D/the-will-of-ohara-the-inherited-research">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Reflejo is brought to the brink of death using the unleashed power of the Thorn.<br>Viole (Bam) finds himself in a difficult position. But thanks to quick thinking from Khun<br>and Rak and Endorsi’s Bongbong, they successfully escape. Their companions gather one after another and<br>all leave the arena on the Wolhaiksong floating ship as the turbulent Workshop Battle finally<br>comes to a close...</p>
+<p align="center">Shaka reveals the secret behind the foundation of the Revolutionary Army and how the relationship<br>between Vegapunk and Dragon affected it. Meanwhile, Vegapunk explains to Luffy and the others about<br>his special power and how his clones work.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tower of God Season 2 (Spanish Dub) - Episode 26 - The Dawn of the Departure</h3></th>
+<th><h3 align="center">Unnamed Memory (German Dub) - Episode 15 - Unanswered Prayer</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dc85c15d1c8b7dca6076937fda57b3541735465934_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6b3ffc9a21facdbf66aaaf9ca8e9b4701737473688_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/9/2025</td>
+<td align="center">2/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM520/the-dawn-of-the-departure">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM5G0/unanswered-prayer">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Reflejo is brought to the brink of death using the unleashed power of the Thorn.<br>Viole (Bam) finds himself in a difficult position. But thanks to quick thinking from Khun<br>and Rak and Endorsi’s Bongbong, they successfully escape. Their companions gather one after another and<br>all leave the arena on the Wolhaiksong floating ship as the turbulent Workshop Battle finally<br>comes to a close...</p>
+<p align="center">Tinasha and Prince Legis of Tuldarr are met with assassination attempts. A mysterious woman visits<br>Farsas Castle and offers to bear Oscar's child.</p>
 </td>
 </tr>
 </table>
