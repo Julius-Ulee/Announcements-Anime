@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 13, 2025, 7:27:45 PM</em></p>
+<p align="center"><em>Updated on: Feb 14, 2025, 8:05:48 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">TOUKEN RANBU KAI DOUDEN - TOUKEN RANBU KAI DOUDEN</h3></th>
+<th><h3 align="center">TRILLION GAME (English Dub) - Episode 17 - Haru Unparalleled</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/15c344e44679d39203a9bbbb39696f2e1739386941_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8b4489510ef08f95d21dbb958f05749d1738259430_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
+<td align="center">2/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2JV9W/touken-ranbu-kai-douden">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MKME/haru-unparalleled">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a defeat in Odawara, Yamanbagiri resigns from his position as Attendant. Heshikiri Hasebe is<br>chosen to be his successor.</p>
+<p align="center">Haru begins networking and making connections in order to build his media empire. Meanwhile, Rinrin<br>has some bad news to share regarding the financial situation of Trillion Game, Inc.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Honey Lemon Soda (English Dub) - Episode 4 - However Distant We May Be</h3></th>
+<th><h3 align="center">TRILLION GAME (Hindi Dub) - Episode 16 - I LOVE MONEY</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8140ddcf2d79eb79b4cb12ed0544458b1738166754_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/299e60dc41fca92b2a88b66b909d2a6b1737656175_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
+<td align="center">2/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MKE9/however-distant-we-may-be">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3M7M9/i-love-money">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Uka struggles to open up to her class about her past. A friend of Kai's<br>undermines her confidence further.</p>
+<p align="center">Gaku and Rinrin meet with Hebijima, the creator of Dragon Bank's hit game Dragon Musume,<br>to offer him a job at Trillion Game, Inc. Negotiations immediately hit a snag when<br>the topic of pay comes up.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Honey Lemon Soda (German Dub) - Episode 3 - Our Little Secret</h3></th>
+<th><h3 align="center">TRILLION GAME (Tamil Dub) - Episode 16 - I LOVE MONEY</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3754719e274976476b4982bceba5e0861737566044_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/299e60dc41fca92b2a88b66b909d2a6b1737656175_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
+<td align="center">2/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5DJK/our-little-secret">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0X0E/i-love-money">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Uka's happier than she ever dreamed. It's all new friends and new miracles until an<br>incident on a school trip.</p>
+<p align="center">Gaku and Rinrin meet with Hebijima, the creator of Dragon Bank's hit game Dragon Musume,<br>to offer him a job at Trillion Game, Inc. Negotiations immediately hit a snag when<br>the topic of pay comes up.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Honey Lemon Soda (French Dub) - Episode 3 - Our Little Secret</h3></th>
+<th><h3 align="center">TRILLION GAME (Telugu Dub) - Episode 16 - I LOVE MONEY</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3754719e274976476b4982bceba5e0861737566044_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/299e60dc41fca92b2a88b66b909d2a6b1737656175_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
+<td align="center">2/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW92Q/our-little-secret">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJEJ0/i-love-money">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Uka's happier than she ever dreamed. It's all new friends and new miracles until an<br>incident on a school trip.</p>
+<p align="center">Gaku and Rinrin meet with Hebijima, the creator of Dragon Bank's hit game Dragon Musume,<br>to offer him a job at Trillion Game, Inc. Negotiations immediately hit a snag when<br>the topic of pay comes up.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ameku M.D.: Doctor Detective (English Dub) - Episode 5 - Crimson Curse of the Sorcerer</h3></th>
+<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Portuguese Dub) - Episode 39 - Between Life and Death</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9c7507862b08a5df66722fdc2b138dcf1738166598_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a988f08d522d2e097c0271faa25b46f71737656215_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
+<td align="center">2/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNE0G/crimson-curse-of-the-sorcerer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZWZV/between-life-and-death">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takao's diagnosis seems to solve Enzo's Curse. However, due to a mysterious death by fire,<br>the investigation is right back at square one.</p>
+<p align="center">Kenshin undergoes training so that he can learn the ultimate technique. He barely manages to<br>get in a hit against Seijuro in a bout, where he then learns "Kuzuryuusen,"a powerful<br>technique that launches nine slashes at the same time. Kenshin learns to see through Seijuro's<br>swift sword movements and masters "Kuzuryuusen" by looking at it only once. However, the technique<br>was only born out of the process of passing down the ultimate technique, "Amakakeru Ryuu<br>no Hirameki" of Hiten Mitsurugi-ryu.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Spanish Dub) - Episode 4 - Takumi Party's First Battle!</h3></th>
+<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Spanish Dub) - Episode 39 - Between Life and Death</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2cc4095b2664bb23fdbe16b7f4870d211737552856_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a988f08d522d2e097c0271faa25b46f71737656215_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
+<td align="center">2/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7J03/takumi-partys-first-battle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM090M/between-life-and-death">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takumi informs Maria and Sofia that he'd like to travel, so he registers them both<br>with the Adventurer's Guild and forms an official party. After Takumi sends some of the<br>guild's troublemakers packing, he's approached by the Guild Master and advised to quickly rank up<br>his party, so the three head out together on a Quest to defeat goblins.</p>
+<p align="center">Kenshin undergoes training so that he can learn the ultimate technique. He barely manages to<br>get in a hit against Seijuro in a bout, where he then learns "Kuzuryuusen,"a powerful<br>technique that launches nine slashes at the same time. Kenshin learns to see through Seijuro's<br>swift sword movements and masters "Kuzuryuusen" by looking at it only once. However, the technique<br>was only born out of the process of passing down the ultimate technique, "Amakakeru Ryuu<br>no Hirameki" of Hiten Mitsurugi-ryu.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Portuguese Dub) - Episode 4 - Takumi Party's First Battle!</h3></th>
+<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Hindi Dub) - Episode 39 - Between Life and Death</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2cc4095b2664bb23fdbe16b7f4870d211737552856_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a988f08d522d2e097c0271faa25b46f71737656215_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
+<td align="center">2/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKW1Q/takumi-partys-first-battle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN4NG/between-life-and-death">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takumi informs Maria and Sofia that he'd like to travel, so he registers them both<br>with the Adventurer's Guild and forms an official party. After Takumi sends some of the<br>guild's troublemakers packing, he's approached by the Guild Master and advised to quickly rank up<br>his party, so the three head out together on a Quest to defeat goblins.</p>
+<p align="center">Kenshin undergoes training so that he can learn the ultimate technique. He barely manages to<br>get in a hit against Seijuro in a bout, where he then learns "Kuzuryuusen,"a powerful<br>technique that launches nine slashes at the same time. Kenshin learns to see through Seijuro's<br>swift sword movements and masters "Kuzuryuusen" by looking at it only once. However, the technique<br>was only born out of the process of passing down the ultimate technique, "Amakakeru Ryuu<br>no Hirameki" of Hiten Mitsurugi-ryu.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (German Dub) - Episode 4 - Takumi Party's First Battle!</h3></th>
+<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (English Dub) - Episode 39 - Between Life and Death</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2cc4095b2664bb23fdbe16b7f4870d211737552856_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a988f08d522d2e097c0271faa25b46f71737656215_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
+<td align="center">2/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG28KX/takumi-partys-first-battle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3G3P/between-life-and-death">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takumi informs Maria and Sofia that he'd like to travel, so he registers them both<br>with the Adventurer's Guild and forms an official party. After Takumi sends some of the<br>guild's troublemakers packing, he's approached by the Guild Master and advised to quickly rank up<br>his party, so the three head out together on a Quest to defeat goblins.</p>
+<p align="center">Kenshin undergoes training so that he can learn the ultimate technique. He barely manages to<br>get in a hit against Seijuro in a bout, where he then learns "Kuzuryuusen,"a powerful<br>technique that launches nine slashes at the same time. Kenshin learns to see through Seijuro's<br>swift sword movements and masters "Kuzuryuusen" by looking at it only once. However, the technique<br>was only born out of the process of passing down the ultimate technique, "Amakakeru Ryuu<br>no Hirameki" of Hiten Mitsurugi-ryu.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Hindi Dub) - Episode 4 - Takumi Party's First Battle!</h3></th>
+<th><h3 align="center">Link Click: Bridon Arc (Spanish Dub) - Episode 3 - Them</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2cc4095b2664bb23fdbe16b7f4870d211737552856_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c29c94e67fbc8c7c4d805abe799d37551736472443_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
+<td align="center">2/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM5PG/takumi-partys-first-battle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XZNW/them">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takumi informs Maria and Sofia that he'd like to travel, so he registers them both<br>with the Adventurer's Guild and forms an official party. After Takumi sends some of the<br>guild's troublemakers packing, he's approached by the Guild Master and advised to quickly rank up<br>his party, so the three head out together on a Quest to defeat goblins.</p>
+<p align="center">Cheng Xiaoshi and Lu Guang arrive in Bridon in search of clues to solve the<br>mystery of Cheng Xiaoshi's father. When they reach the airport, problems immediately arise for them…</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Tamil Dub) - Episode 4 - Takumi Party's First Battle!</h3></th>
+<th><h3 align="center">Link Click: Bridon Arc (Portuguese Dub) - Episode 3 - Them</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2cc4095b2664bb23fdbe16b7f4870d211737552856_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c29c94e67fbc8c7c4d805abe799d37551736472443_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
+<td align="center">2/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XP7W/takumi-partys-first-battle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE3K4/them">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takumi informs Maria and Sofia that he'd like to travel, so he registers them both<br>with the Adventurer's Guild and forms an official party. After Takumi sends some of the<br>guild's troublemakers packing, he's approached by the Guild Master and advised to quickly rank up<br>his party, so the three head out together on a Quest to defeat goblins.</p>
+<p align="center">Cheng Xiaoshi and Lu Guang arrive in Bridon in search of clues to solve the<br>mystery of Cheng Xiaoshi's father. When they reach the airport, problems immediately arise for them…</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Telugu Dub) - Episode 4 - Takumi Party's First Battle!</h3></th>
+<th><h3 align="center">Link Click: Bridon Arc (French Dub) - Episode 3 - Them</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2cc4095b2664bb23fdbe16b7f4870d211737552856_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c29c94e67fbc8c7c4d805abe799d37551736472443_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
+<td align="center">2/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE744/takumi-partys-first-battle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J5N9/them">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takumi informs Maria and Sofia that he'd like to travel, so he registers them both<br>with the Adventurer's Guild and forms an official party. After Takumi sends some of the<br>guild's troublemakers packing, he's approached by the Guild Master and advised to quickly rank up<br>his party, so the three head out together on a Quest to defeat goblins.</p>
+<p align="center">Cheng Xiaoshi and Lu Guang arrive in Bridon in search of clues to solve the<br>mystery of Cheng Xiaoshi's father. When they reach the airport, problems immediately arise for them…</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Honey Lemon Soda - Episode 6 - In the Future, Too...</h3></th>
+<th><h3 align="center">Anyway, I'm Falling in Love with You. (English Dub) - Episode 4 - Fireworks for the Future</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0ded7f01b6aea7b727a3542bdc690cd91739377420_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d443c8e6c5868e6701f55d3be67d3fef1738257823_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
+<td align="center">2/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7KDZ/in-the-future-too">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7XN3/fireworks-for-the-future">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Uka and her friends are working hard on the culture festival. She's determined to make<br>their café a success!</p>
+<p align="center">After spending the day at the aquarium, Kizuki asks Mizuho to cheer for him at<br>his swim meet.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World (Telugu Dub) - Episode 6</h3></th>
+<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- - Episode 42 - As If in Flight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/312605eb953b5f7fd141dbd80a76050f1739376775_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/00683417a59d7933b99393a59cd95a441739472654_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,255 +434,255 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
+<td align="center">2/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N47E">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MZQP/as-if-in-flight">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kenshin and Hajime realize that Shishio has another objective in mind that lies in Osaka.<br>They meet up with Sanosuke there. To stop the Great Kyoto Fire, Kenshin asks for<br>help from everyone at Aoiya via a letter while leaving Ryusaku Arato, the chief of<br>police, in charge of supervising on the ground in Kyoto. Kenshin, Hajime, and Sanosuke head<br>to Osaka Bay on a carriage after they finish their errands. Then, senior police officer,<br>Hikozaemon Omi brings along Juro Kitazawa, a young 11-year-old boy who says he wants to<br>meet with Arato.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TRILLION GAME - Episode 19 - Look At the Sky Instead of the Peak</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bb54c44dd9ffad944c41aa9f01a17a051739467904_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/13/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEX8E/look-at-the-sky-instead-of-the-peak">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Trillion Game, Inc. brainstorms ways to get players to pay for a free mobile game.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Anyway, I'm Falling in Love with You. - Episode 6 - I Don't Want to be Just Friends</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bb5f2e49d06cf4c871102ffd2a2a2af21739456596_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/13/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2P3G/i-dont-want-to-be-just-friends">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mizuho is reluctant to visit Kizuki's house for dinner while her dad is away. Meanwhile<br>Shin tells her that</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Momentary Lily - Episode 7 - Fighting Together for Shio Musubi</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a5481cbd2e4550297aa0c4e3fbb271431739459764_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/13/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0WW7/fighting-together-for-shio-musubi">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The team fights a large group of Wild Hunt threatening what appears to be Shitoron's<br>group.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">AQUARION Myth of Emotions - Episode 6 - Tell Me Your Secret</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3081100572af02440b506368f6eed3801739461232_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/13/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEJV5/tell-me-your-secret">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Hana keeps trying to attack Momohime and Sun makes mysterious comments about the beasts to<br>the other Elements.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Ave Mujica - The Die is Cast - - Episode 7 - Post nubila Phoebus.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/52e87474b3b1375e692a663b1519bc421739459715_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/13/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0WW9/post-nubila-phoebus">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Unexpected truth of CRYCHIC's breakup: Shoko's defiant call, once ignored, now rattles ex-members.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Even Given the Worthless "Appraiser" Class,  I'm Actually the Strongest - Episode 6 - VS Zoid</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/81a74711f89efef98e36040873e8a15f1739456567_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/13/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD394W/vs-zoid">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Ein doubts that any of his feats were due to his development. Meanwhile, a monster<br>attacks Yuri and Pina.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dr. STONE SCIENCE FUTURE (Tamil Dub) - Episode 6</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b6728e26639e6829ff169b7711f3617d1739455755_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/13/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3M8ME">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
 <p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World (Hindi Dub) - Episode 6</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/312605eb953b5f7fd141dbd80a76050f1739376735_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX51DJ">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World (Tamil Dub) - Episode 6</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/312605eb953b5f7fd141dbd80a76050f1739376714_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE83Q">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World (French Dub) - Episode 6</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4b624f7d3dd50a77502c475379f898de1739375966_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK0Z4">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World (German Dub) - Episode 6</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9960333a9045e3dfbb4da5d477999f4f1739375898_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK0W5">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World (Spanish Dub) - Episode 6</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0b1842071039c541aff6bd681eda24471739375786_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3M2NP">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World (Portuguese Dub) - Episode 6</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4639b253fa8e6cdb6be282ecc143186c1739375914_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ7NE">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Magic Maker: How to Make Magic in Another World - Episode 6 - Guild and Monster Suppression</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b93c90f17d0c69661901448794c537bb1739375756_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/12/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWZV3/guild-and-monster-suppression">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Left shaken by his father's words, Shion continues his research by taking it into the<br>field to hunt monsters.</p>
 </td>
 </tr>
 </table>
