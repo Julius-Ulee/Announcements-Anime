@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 23, 2025, 7:24:57 PM</em></p>
+<p align="center"><em>Updated on: Feb 24, 2025, 8:08:41 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">One Piece Log: Fish-Man Island Saga (Current) - Battle Royal! The Straw Hats vs. 100,000 Opponents</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (English Dub) - Episode 5 - Mokke of the Dead / The Melancholy of the New Number Three</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7a0bf3c97de8dbee8438cef28f94b83b1740274223_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d2158e787b3ce559c651198df642574f1739089087_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3M855/battle-royal-the-straw-hats-vs-100000-opponents">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ782K/mokke-of-the-dead-the-melancholy-of-the-new-number-three">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The showdown between the Straw Hats and Hody's massive army! Though hopelessly outnumbered, the members<br>of the Straw Hats are not the same fighters they were two years ago. Will<br>their new skills and Franky’s new weapons be enough to save Fish-Man Island?</p>
+<p align="center">A mokke escapes containment. Its bite brings disaster. Now they hunger... for candy.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You and Idol Precure ♪ - Episode 4 - The Legendary Idol?! Kaito Hibiki</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Portuguese Dub) - Episode 4 - Summer Lights</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/61bb382bf1fdcd83271f0e64a1fb62e81740271888_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dc33af51656620d959ec023c00173a4d1738457700_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3PN8/the-legendary-idol-kaito-hibiki">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3KQ7/summer-lights">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Just like it did with Cure Idol, the word is spreading about Cure Wink. Meanwhile,<br>another popular “legendary idol” Kaito Hibiki drops by Cafe Glitter.</p>
+<p align="center">Nene tries to lift Kou's spirits by inviting him to a summer festival, but Hanako<br>has other ideas.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (German Dub) - Episode 5 - More Important Than the Body</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Spanish Dub) - Episode 4 - Summer Lights</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bb300905f8017cfa58fd127770aa2c8a1738429047_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dc33af51656620d959ec023c00173a4d1738457700_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEQKW/more-important-than-the-body">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3204P/summer-lights">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After his incarnation, Rinka absorbed knowledge at an incredible speed, recognizing himself as the Demon<br>God Satan. Yuri tries to reason with Satan, who uses his power to control everything,<br>but he refuses and disappears from Section 13. The Knights of the True Cross believe<br>it is only a matter of time before Satan returns, since it is difficult to<br>maintain a possessed body without the Elixir. But Yuri strengthens her resolve.</p>
+<p align="center">Nene tries to lift Kou's spirits by inviting him to a summer festival, but Hanako<br>has other ideas.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (French Dub) - Episode 5 - More Important Than the Body</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Hindi Dub) - Episode 4 - Summer Lights</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bb300905f8017cfa58fd127770aa2c8a1738429047_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dc33af51656620d959ec023c00173a4d1738457700_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JENV/more-important-than-the-body">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N7EN/summer-lights">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After his incarnation, Rinka absorbed knowledge at an incredible speed, recognizing himself as the Demon<br>God Satan. Yuri tries to reason with Satan, who uses his power to control everything,<br>but he refuses and disappears from Section 13. The Knights of the True Cross believe<br>it is only a matter of time before Satan returns, since it is difficult to<br>maintain a possessed body without the Elixir. But Yuri strengthens her resolve.</p>
+<p align="center">Nene tries to lift Kou's spirits by inviting him to a summer festival, but Hanako<br>has other ideas.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (English Dub) - Episode 5 - More Important Than the Body</h3></th>
+<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (Hindi Dub) - Episode 4 - The Red Ranger and the Blades of Bonds</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bb300905f8017cfa58fd127770aa2c8a1738429047_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c56d8aeef4615c1d8a9521a80f7283011738500034_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3J33/more-important-than-the-body">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNWD5/the-red-ranger-and-the-blades-of-bonds">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After his incarnation, Rinka absorbed knowledge at an incredible speed, recognizing himself as the Demon<br>God Satan. Yuri tries to reason with Satan, who uses his power to control everything,<br>but he refuses and disappears from Section 13. The Knights of the True Cross believe<br>it is only a matter of time before Satan returns, since it is difficult to<br>maintain a possessed body without the Elixir. But Yuri strengthens her resolve.</p>
+<p align="center">A Mana Seed-empowered lord is oppressing his citizens, so it's up to Togo and his<br>friends to stop him.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths! (English Dub) - Episode 5 - Mission</h3></th>
+<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (English Dub) - Episode 4 - The Red Ranger and the Blades of Bonds</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4591ba3b61b109f8ccb2413dbefe4e4f1739028736_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c56d8aeef4615c1d8a9521a80f7283011738500034_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKGXE/mission">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MG3Q/the-red-ranger-and-the-blades-of-bonds">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Clover goes house-hunting, and Simon tries to bring Yuke back by offering to grant his<br>lifelong dream.</p>
+<p align="center">A Mana Seed-empowered lord is oppressing his citizens, so it's up to Togo and his<br>friends to stop him.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Korean Audio) - Episode 18 - Don’t Look Down on My Guys</h3></th>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 14 - Episode 8 - Crane</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ab321592ad21bb42b9c746e8057239a1739028697_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/32670bcfc1fabf3bb187704d82bfa6ab1740337884_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJE7W/dont-look-down-on-my-guys">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1NJK/crane">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Hunters Guild strike team is confronting the high orc shaman Kargalgan when Jinwoo crashes<br>the fight.</p>
+<p align="center">This is the story of a man who is living through hard times...</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (English Dub) - Episode 18 - Don’t Look Down on My Guys</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (English Dub) - Episode 17 - Most Athletes Are Masochists</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ab321592ad21bb42b9c746e8057239a1739028697_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1faf4aff7f9357a75d17a884064a671b1739096494_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ78NG/dont-look-down-on-my-guys">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ781G/most-athletes-are-masochists">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Hunters Guild strike team is confronting the high orc shaman Kargalgan when Jinwoo crashes<br>the fight.</p>
+<p align="center">While the girlfriends are forced to work out, Rentaro runs into a girl who punishes<br>herself for other reasons.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Korean Audio) - Episode 17 - This Is What We're Trained to Do</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (German Dub) - Episode 16 - Super Soaked Maid Party</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1a46858f76a4b9cb80d60f59e69318b01738421431_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f88df6afa318fd306448cc6e0a7eabcb1738499952_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0X5Z/this-is-what-were-trained-to-do">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ2PW/super-soaked-maid-party">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before attempting to finish the Demon's Castle, Jinwoo decides to earn some money to help<br>prepare.</p>
+<p align="center">Only one way to welcome a maid into the crew: everyone changes into maid outfits<br>and has a shootout!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Portuguese Dub) - Episode 17 - This Is What We're Trained to Do</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 43 - The Crimson Whale Meets the Monster Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1a46858f76a4b9cb80d60f59e69318b01738421431_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9f20f2508bc77d1e0003b0df8e2d3a061739089110_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XZM4/this-is-what-were-trained-to-do">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM07ZG/the-crimson-whale-meets-the-monster-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before attempting to finish the Demon's Castle, Jinwoo decides to earn some money to help<br>prepare.</p>
+<p align="center">Sunraku and his new crew set out on the high seas to confront Ctarnidd and<br>the Disciples of the Abyss.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (German Dub) - Episode 17 - This Is What We're Trained to Do</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese Dub) - Episode 42 - A Straight Flush Mixed With Jokers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1a46858f76a4b9cb80d60f59e69318b01738421431_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7d8921de3f3f179f0e52eed45e0389071738457795_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE3NW/this-is-what-were-trained-to-do">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMWMV/a-straight-flush-mixed-with-jokers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before attempting to finish the Demon's Castle, Jinwoo decides to earn some money to help<br>prepare.</p>
+<p align="center">Sunraku gets an intriguing offer from Kei, then meets up with Rust and Mold to<br>pursue the Ctarnidd quest.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (French Dub) - Episode 17 - This Is What We're Trained to Do</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (German Dub) - Episode 42 - A Straight Flush Mixed With Jokers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1a46858f76a4b9cb80d60f59e69318b01738421431_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7d8921de3f3f179f0e52eed45e0389071738457795_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J59V/this-is-what-were-trained-to-do">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XJX4/a-straight-flush-mixed-with-jokers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before attempting to finish the Demon's Castle, Jinwoo decides to earn some money to help<br>prepare.</p>
+<p align="center">Sunraku gets an intriguing offer from Kei, then meets up with Rust and Mold to<br>pursue the Ctarnidd quest.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Castilian Dub) - Episode 17 - This Is What We're Trained to Do</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (French Dub) - Episode 42 - A Straight Flush Mixed With Jokers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1a46858f76a4b9cb80d60f59e69318b01738421431_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7d8921de3f3f179f0e52eed45e0389071738457795_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VE33/this-is-what-were-trained-to-do">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEQEW/a-straight-flush-mixed-with-jokers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before attempting to finish the Demon's Castle, Jinwoo decides to earn some money to help<br>prepare.</p>
+<p align="center">Sunraku gets an intriguing offer from Kei, then meets up with Rust and Mold to<br>pursue the Ctarnidd quest.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Italian Dub) - Episode 17 - This Is What We're Trained to Do</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 42 - A Straight Flush Mixed With Jokers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1a46858f76a4b9cb80d60f59e69318b01738421431_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7d8921de3f3f179f0e52eed45e0389071738457795_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3JQ3/this-is-what-were-trained-to-do">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JEJV/a-straight-flush-mixed-with-jokers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before attempting to finish the Demon's Castle, Jinwoo decides to earn some money to help<br>prepare.</p>
+<p align="center">Sunraku gets an intriguing offer from Kei, then meets up with Rust and Mold to<br>pursue the Ctarnidd quest.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Hindi Dub) - Episode 17 - This Is What We're Trained to Do</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 42 - A Straight Flush Mixed With Jokers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1a46858f76a4b9cb80d60f59e69318b01738421431_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7d8921de3f3f179f0e52eed45e0389071738457795_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM07NG/this-is-what-were-trained-to-do">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1J17/a-straight-flush-mixed-with-jokers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before attempting to finish the Demon's Castle, Jinwoo decides to earn some money to help<br>prepare.</p>
+<p align="center">Sunraku gets an intriguing offer from Kei, then meets up with Rust and Mold to<br>pursue the Ctarnidd quest.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Tamil Dub) - Episode 17 - This Is What We're Trained to Do</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 42 - A Straight Flush Mixed With Jokers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1a46858f76a4b9cb80d60f59e69318b01738421431_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7d8921de3f3f179f0e52eed45e0389071738457795_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNWKM/this-is-what-were-trained-to-do">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VEP3/a-straight-flush-mixed-with-jokers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before attempting to finish the Demon's Castle, Jinwoo decides to earn some money to help<br>prepare.</p>
+<p align="center">Sunraku gets an intriguing offer from Kei, then meets up with Rust and Mold to<br>pursue the Ctarnidd quest.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Telugu Dub) - Episode 17 - This Is What We're Trained to Do</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Tamil Dub) - Episode 42 - A Straight Flush Mixed With Jokers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1a46858f76a4b9cb80d60f59e69318b01738421431_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7d8921de3f3f179f0e52eed45e0389071738457795_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MGV0/this-is-what-were-trained-to-do">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3JM3/a-straight-flush-mixed-with-jokers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before attempting to finish the Demon's Castle, Jinwoo decides to earn some money to help<br>prepare.</p>
+<p align="center">Sunraku gets an intriguing offer from Kei, then meets up with Rust and Mold to<br>pursue the Ctarnidd quest.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (English Dub) - Episode 17 - This Is What We're Trained to Do</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Telugu Dub) - Episode 42 - A Straight Flush Mixed With Jokers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1a46858f76a4b9cb80d60f59e69318b01738421431_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7d8921de3f3f179f0e52eed45e0389071738457795_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0ZKZ/this-is-what-were-trained-to-do">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZDGG/a-straight-flush-mixed-with-jokers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before attempting to finish the Demon's Castle, Jinwoo decides to earn some money to help<br>prepare.</p>
+<p align="center">Sunraku gets an intriguing offer from Kei, then meets up with Rust and Mold to<br>pursue the Ctarnidd quest.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Korean Audio) - Episode 16 - I Need to Stop Faking</h3></th>
+<th><h3 align="center">ZENSHU (Telugu Dub) - Episode 8</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9b05cfa6ea5183e13a8456fed19083571737811572_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f68a333f5330b0aeb294109c4e213ad71740323156_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NP0D/i-need-to-stop-faking">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWMDZ">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo realizes that he'll need to become even stronger in order to clear the Demon's<br>Castle and decides to have his hunter rank reassessed.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Korean Audio) - Episode 15 - Still a Long Way to Go</h3></th>
+<th><h3 align="center">ZENSHU (Tamil Dub) - Episode 8</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/707acde43312c043b135a8d8d12f03721737197439_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f68a333f5330b0aeb294109c4e213ad71740323136_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/22/2025</td>
+<td align="center">2/23/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3G75/still-a-long-way-to-go">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2GD0">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having completed his promise to Jinho to clear 19 dungeons, Jinwoo is stronger than he<br>was when he fought the Cerberus. In order to gather the ingredients for the Elixir<br>of Life and save his mother, he once again enters the S-Rank Demon's Castle dungeon.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
