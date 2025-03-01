@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 28, 2025, 7:27:57 PM</em></p>
+<p align="center"><em>Updated on: Mar 1, 2025, 8:12:46 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,46 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Trapezium - Trapezium</h3></th>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 2 - Episode 1 - What Are Your Top 10 Anime of All Time?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/43a3181d371243457f39e0cecdf48ca61740698679_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1d9837fba6e932f337124655322c8f391740787626_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">3/1/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N1D1/what-are-your-top-10-anime-of-all-time">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Hosts Nicholas Friedman, LeAlec Murray, and Leah President celebrate one year of The Anime Effect!<br>The three reminisce on their favorite guests and explain some of their long-running inside jokes.<br>Plus, they share some if their favorite anime shows of all time.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time (English Dub) - Episode 6 - I May Be Silver Sword's Back Attacker, but I'm Gonna Catch the Jerk Who Started That Rumor</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4e4b299e40d28f3fe7495f6d5ca055b31739548300_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE05P/trapezium">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M5PN/i-may-be-silver-swords-back-attacker-but-im-gonna-catch-the-jerk-who-started-that-rumor">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Driven by an unwavering passion for becoming an idol, Yu Azuma, embarks on a journey<br>to form an idol group.</p>
+<p align="center">Alina and Silver Sword go undercover to find the source of the rumor about relics<br>that grant Dia skills.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (English Dub) - Episode 19 - Look At the Sky Instead of the Peak</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time (German Dub) - Episode 5 - I May Be Silver Sword's Healer, but Even I Could Use Some Healing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bb54c44dd9ffad944c41aa9f01a17a051739467904_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fac27372cdef3d6f1bd00f4ea74b1d081738948274_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW5Q9/look-at-the-sky-instead-of-the-peak">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX53DM/i-may-be-silver-swords-healer-but-even-i-could-use-some-healing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Trillion Game, Inc. brainstorms ways to get players to pay for a free mobile game.</p>
+<p align="center">Even after nursing Jade and Lowe back to health, Lululee is depressed over the loss<br>of her weapon and skills.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Hindi Dub) - Episode 18 - The IT Cup</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Hindi Dub) - Episode 6 - Newlywed's First Date</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1fb6ad171da8dc7107062f7fce9c6451738858818_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c9838730b4aa2d0ddfa90024cbe858021738945500_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKP50/the-it-cup">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN185V/newlyweds-first-date">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Haru fabricates a scandal in order to form a business alliance with Sumeragi Entertainment, the<br>most powerful corporation in the industry.</p>
+<p align="center">Akane's revelation of a painful past prompts Saito to cheer her up by planning a<br>day out together.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Tamil Dub) - Episode 18 - The IT Cup</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Tamil Dub) - Episode 6 - Newlywed's First Date</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1fb6ad171da8dc7107062f7fce9c6451738858818_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c9838730b4aa2d0ddfa90024cbe858021738945500_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN7J8/the-it-cup">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V42N/newlyweds-first-date">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Haru fabricates a scandal in order to form a business alliance with Sumeragi Entertainment, the<br>most powerful corporation in the industry.</p>
+<p align="center">Akane's revelation of a painful past prompts Saito to cheer her up by planning a<br>day out together.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Telugu Dub) - Episode 18 - The IT Cup</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Telugu Dub) - Episode 6 - Newlywed's First Date</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1fb6ad171da8dc7107062f7fce9c6451738858818_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c9838730b4aa2d0ddfa90024cbe858021738945500_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M5NN/the-it-cup">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD30PD/newlyweds-first-date">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Haru fabricates a scandal in order to form a business alliance with Sumeragi Entertainment, the<br>most powerful corporation in the industry.</p>
+<p align="center">Akane's revelation of a painful past prompts Saito to cheer her up by planning a<br>day out together.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Portuguese Dub) - Episode 41 - The Other Objective</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Hindi Dub) - Episode 17 - Gomah</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dfa3183ed862b11de8884144f262e13d1738797206_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/13a2aae85b00a09c7a41dd25c70ee6a51738944445_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32XG7/the-other-objective">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJW3N/gomah">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shishio's underlings inconspicuously prepare for their battle plan when patrols arrive causing them to retreat.</p>
+<p align="center">Goku and his companions face off with Arinsu. With everything on the line, their battle<br>begins. But all of a sudden, a transformed King Gomah stands before both parties!</p>
 </td>
 </tr>
 </table>
@@ -216,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Spanish Dub) - Episode 41 - The Other Objective</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Tamil Dub) - Episode 17 - Gomah</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dfa3183ed862b11de8884144f262e13d1738797206_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/13a2aae85b00a09c7a41dd25c70ee6a51738944445_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N1WZ/the-other-objective">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ75MV/gomah">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shishio's underlings inconspicuously prepare for their battle plan when patrols arrive causing them to retreat.</p>
+<p align="center">Goku and his companions face off with Arinsu. With everything on the line, their battle<br>begins. But all of a sudden, a transformed King Gomah stands before both parties!</p>
 </td>
 </tr>
 </table>
@@ -250,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Hindi Dub) - Episode 41 - The Other Objective</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Telugu Dub) - Episode 17 - Gomah</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dfa3183ed862b11de8884144f262e13d1738797206_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/13a2aae85b00a09c7a41dd25c70ee6a51738944445_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MPNM/the-other-objective">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKPZV/gomah">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shishio's underlings inconspicuously prepare for their battle plan when patrols arrive causing them to retreat.</p>
+<p align="center">Goku and his companions face off with Arinsu. With everything on the line, their battle<br>begins. But all of a sudden, a transformed King Gomah stands before both parties!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (English Dub) - Episode 41 - The Other Objective</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (English Dub) - Episode 8 - Tamagami</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dfa3183ed862b11de8884144f262e13d1738797206_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/10c92080767edcbe212570e2a801fd501732895097_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0EP7/the-other-objective">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XQVM/tamagami">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shishio's underlings inconspicuously prepare for their battle plan when patrols arrive causing them to retreat.</p>
+<p align="center">The fight with a Tamagami begins! The Tamagamis are the undefeated guardians of the Dragon<br>Balls. Seeing Goku fight toe-to-toe with one, Panzy and the others are unable to hide<br>their surprise. As the battle heats up, what will happen?!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc (Portuguese Dub) - Episode 5 - Reunion</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (English Dub) - Episode 30 - The Crystal Pavilion, For the Third Time</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/05294c32fe26804e7519b618183c117b1737668704_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/08430bd822e4e919c1bf5214734704741739547157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD30W0/reunion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MPDG/the-crystal-pavilion-for-the-third-time">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After witnessing the academy fire, Cheng Xiaoshi understands his power thanks to Lu Guang, and<br>they try to find out who survived the disaster.</p>
+<p align="center">The woman from the clinic finds out that Maomao knows a thing or two about<br>medicine, and asks for her help.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc (Spanish Dub) - Episode 5 - Reunion</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Portuguese Dub) - Episode 29 - The Moon Fairy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/05294c32fe26804e7519b618183c117b1737668704_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b65eb9ac72c75cc25c47f1056e14f4bb1738945870_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZP1J/reunion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE0PK/the-moon-fairy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After witnessing the academy fire, Cheng Xiaoshi understands his power thanks to Lu Guang, and<br>they try to find out who survived the disaster.</p>
+<p align="center">In order to realize the seemingly impossible request from the foreign envoy, Maomao speaks to<br>the “Moon Fairy” herself.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc (French Dub) - Episode 5 - Reunion</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (German Dub) - Episode 29 - The Moon Fairy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/05294c32fe26804e7519b618183c117b1737668704_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b65eb9ac72c75cc25c47f1056e14f4bb1738945870_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M54D/reunion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J1QJ/the-moon-fairy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After witnessing the academy fire, Cheng Xiaoshi understands his power thanks to Lu Guang, and<br>they try to find out who survived the disaster.</p>
+<p align="center">In order to realize the seemingly impossible request from the foreign envoy, Maomao speaks to<br>the “Moon Fairy” herself.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc (English Dub) - Episode 2 - Prelude</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (French Dub) - Episode 29 - The Moon Fairy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/849e01fd049da5798d0475f5535a44e71735874843_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b65eb9ac72c75cc25c47f1056e14f4bb1738945870_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW5VD/prelude">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN182V/the-moon-fairy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Cheng Xiaoshi finds a photograph of the city of Bridon, apparently sent by his father.<br>At the same time, a series of scams taking place in the same locality are<br>making headlines in the news. Knowing him, he will not hesitate to go to Lu<br>Guang to uncover the mystery.</p>
+<p align="center">In order to realize the seemingly impossible request from the foreign envoy, Maomao speaks to<br>the “Moon Fairy” herself.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist (Spanish Dub) - Episode 13 - Proof</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Spanish Dub) - Episode 29 - The Moon Fairy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0e715323934cb55a27ef555879afd5be1310543206_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b65eb9ac72c75cc25c47f1056e14f4bb1738945870_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MPVM/proof">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V4DN/the-moon-fairy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Senior Exorcist First Class Shura Kirigakure stops the battle between Rin and Amaimon. Rin learns<br>that Shura was once a disciple of Shiro's - and that Shura has targeted him<br>for elimination - "the job that my mentor failed to do!"</p>
+<p align="center">In order to realize the seemingly impossible request from the foreign envoy, Maomao speaks to<br>the “Moon Fairy” herself.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist (Portuguese Dub) - Episode 13 - Proof</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Hindi Dub) - Episode 29 - The Moon Fairy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0e715323934cb55a27ef555879afd5be1310543206_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b65eb9ac72c75cc25c47f1056e14f4bb1738945870_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW340D/proof">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0PD8/the-moon-fairy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Senior Exorcist First Class Shura Kirigakure stops the battle between Rin and Amaimon. Rin learns<br>that Shura was once a disciple of Shiro's - and that Shura has targeted him<br>for elimination - "the job that my mentor failed to do!"</p>
+<p align="center">In order to realize the seemingly impossible request from the foreign envoy, Maomao speaks to<br>the “Moon Fairy” herself.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist (Spanish Dub) - Episode 12 - A Game of Tag</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Tamil Dub) - Episode 29 - The Moon Fairy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ef558aaa5357557ef32c9d3c8ffd56cc1309974374_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b65eb9ac72c75cc25c47f1056e14f4bb1738945870_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW34VD/a-game-of-tag">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX53MM/the-moon-fairy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The class investigates ghost sightings at an amusement park. Rin is partnered with Shiemi, and<br>they find the ghost of a child. He runs away, turning things into a game<br>of tag! Separated from Shiemi, Rin is confronted by Amaimon, King of Earth.</p>
+<p align="center">In order to realize the seemingly impossible request from the foreign envoy, Maomao speaks to<br>the “Moon Fairy” herself.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist (Portuguese Dub) - Episode 12 - A Game of Tag</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Telugu Dub) - Episode 29 - The Moon Fairy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ef558aaa5357557ef32c9d3c8ffd56cc1309974374_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b65eb9ac72c75cc25c47f1056e14f4bb1738945870_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX531Z/a-game-of-tag">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW539/the-moon-fairy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The class investigates ghost sightings at an amusement park. Rin is partnered with Shiemi, and<br>they find the ghost of a child. He runs away, turning things into a game<br>of tag! Separated from Shiemi, Rin is confronted by Amaimon, King of Earth.</p>
+<p align="center">In order to realize the seemingly impossible request from the foreign envoy, Maomao speaks to<br>the “Moon Fairy” herself.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist (Spanish Dub) - Episode 11 - Demon of the Deep</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time - Episode 8 - I May Be a Useless Healer, but I'm Going to Do Everything I Can</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/76cc4f34500b866dce549327a870b0481309355995_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bb20b3f02d21edadcc66bac9003895721740758654_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M5ZD/demon-of-the-deep">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NVDP/i-may-be-a-useless-healer-but-im-going-to-do-everything-i-can">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rin, Shima and Izumo have been sent on a mission, only to end up working<br>instead. They meet a boy named Yohei and learn of the "Demon of the Sea."<br>Yohei lost his father to this monster, and wants revenge. Worried, Rin and the others<br>watch over him.</p>
+<p align="center">As Alina and Jade struggle in battle against a dark god, Lululee questions her role<br>as a healer.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist (Portuguese Dub) - Episode 11 - Demon of the Deep</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 - Episode 32 - The Empress Dowager</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/76cc4f34500b866dce549327a870b0481309355995_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2dbd3d143531aa494fb0c9e7abdfcc821740757602_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,51 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
+<td align="center">2/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0PWJ/demon-of-the-deep">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3M87Q/the-empress-dowager">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rin, Shima and Izumo have been sent on a mission, only to end up working<br>instead. They meet a boy named Yohei and learn of the "Demon of the Sea."<br>Yohei lost his father to this monster, and wants revenge. Worried, Rin and the others<br>watch over him.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Blue Exorcist (Portuguese Dub) - Episode 10 - Black Cat</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/05d4fe9d857efc9b4c0e9594a0541a6c1308704703_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/27/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZP7J/black-cat">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After the excitement of being promoted to ExWire, Rin is soon disgusted with his load<br>of homework. Then, Yukio is summoned for an urgent mission! The familiar of the Knights<br>of the True Cross has gone berserk, and Yukio has to deal with the crisis.</p>
+<p align="center">Maomao's reputation for resolving conflicts reaches the empress dowager, who will ask for her help<br>to unravel a mystery that won't leave her mind.</p>
 </td>
 </tr>
 </table>
