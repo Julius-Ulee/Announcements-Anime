@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 2, 2025, 7:24:56 PM</em></p>
+<p align="center"><em>Updated on: Mar 3, 2025, 8:10:22 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">One Piece Log: Fish-Man Island Saga (Current) - Fish-Man Island Faces Destruction! Noah, the Ancient Ark</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (English Dub) - Episode 6 - Make Believe</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/83469d9cc14cd46db5b7c6742ae3d7771740878460_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2747bcb28e137d79e22f4a6294ae9f9a1739689385_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW04N2/fish-man-island-faces-destruction-noah-the-ancient-ark">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ75G4/make-believe">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the battle between the Straw Hats and the New Fish-Man Pirates continues to unfold,<br>an ancient ship called Noah is seen falling onto Fish-Man Island. The island's minutes seem<br>numbered, but Shirahoshi makes a desperate break to save the island, potentially sacrificing her own<br>life in the process.</p>
+<p align="center">Nene gets to school only to find Hanako sitting in her class. Why are her<br>friends acting like he belongs?</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You and Idol Precure ♪ - Episode 5 - We Got a Manager!</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Portuguese Dub) - Episode 5 - Mokke of the Dead / The Melancholy of the New Number Three</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fe37ee0b5389281713291aeaaf51e05a1740875974_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d2158e787b3ce559c651198df642574f1739089087_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU325JV/we-got-a-manager">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32XZ4/mokke-of-the-dead-the-melancholy-of-the-new-number-three">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A man named Tanaka appears before Uta and Nana and says he knows they're Idol<br>Precures. Meanwhile, a message arrives that says, “I want to hire the Precures.”</p>
+<p align="center">A mokke escapes containment. Its bite brings disaster. Now they hunger... for candy.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (German Dub) - Episode 6 - If It Weren't for Me</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Spanish Dub) - Episode 5 - Mokke of the Dead / The Melancholy of the New Number Three</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7cee16f3f860666e4a6f8c1188e5f6fc1739031318_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d2158e787b3ce559c651198df642574f1739089087_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J1EJ/if-it-werent-for-me">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N1Q9/mokke-of-the-dead-the-melancholy-of-the-new-number-three">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuri heads to Satan, who has holed himself up in Section 13. Satan accepts Yuri<br>and chooses to live with her. To live together, he decides to abandon Section 13,<br>informing his followers of his withdrawal. As Yuri prepares for their escape, she reunites with<br>Jenny, who is working in Section 13. Upon learning about Satan and Yuri's plan to<br>escape, Jenny plots to free the test subject children at the facility, but...</p>
+<p align="center">A mokke escapes containment. Its bite brings disaster. Now they hunger... for candy.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (French Dub) - Episode 6 - If It Weren't for Me</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Hindi Dub) - Episode 5 - Mokke of the Dead / The Melancholy of the New Number Three</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7cee16f3f860666e4a6f8c1188e5f6fc1739031318_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d2158e787b3ce559c651198df642574f1739089087_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN18JV/if-it-werent-for-me">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2508/mokke-of-the-dead-the-melancholy-of-the-new-number-three">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuri heads to Satan, who has holed himself up in Section 13. Satan accepts Yuri<br>and chooses to live with her. To live together, he decides to abandon Section 13,<br>informing his followers of his withdrawal. As Yuri prepares for their escape, she reunites with<br>Jenny, who is working in Section 13. Upon learning about Satan and Yuri's plan to<br>escape, Jenny plots to free the test subject children at the facility, but...</p>
+<p align="center">A mokke escapes containment. Its bite brings disaster. Now they hunger... for candy.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (English Dub) - Episode 6 - If It Weren't for Me</h3></th>
+<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (Hindi Dub) - Episode 5 - The Red Ranger and the Demon Queen's Children</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7cee16f3f860666e4a6f8c1188e5f6fc1739031318_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fde535887b7a854668af765815d99b701739091564_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZPD7/if-it-werent-for-me">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M552/the-red-ranger-and-the-demon-queens-children">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuri heads to Satan, who has holed himself up in Section 13. Satan accepts Yuri<br>and chooses to live with her. To live together, he decides to abandon Section 13,<br>informing his followers of his withdrawal. As Yuri prepares for their escape, she reunites with<br>Jenny, who is working in Section 13. Upon learning about Satan and Yuri's plan to<br>escape, Jenny plots to free the test subject children at the facility, but...</p>
+<p align="center">Togo and his friends are brought to the Sorcery Tower, headquarters of Yihdra's rival.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths! (English Dub) - Episode 6 - Achromatic Darkness</h3></th>
+<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (English Dub) - Episode 5 - The Red Ranger and the Demon Queen's Children</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/97158a25e8f722fa623d017875c8ac521739620412_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fde535887b7a854668af765815d99b701739091564_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM84P/achromatic-darkness">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW51W/the-red-ranger-and-the-demon-queens-children">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Clover begins its investigation of Achromatic Darkness... and already trouble is brewing.</p>
+<p align="center">Togo and his friends are brought to the Sorcery Tower, headquarters of Yihdra's rival.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Korean Audio) - Episode 19 - The 10th S-Rank Hunter</h3></th>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 14 - Episode 9 - Desire Release</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ad0478978006763a1df8cd8b2cbf4f0d1739620302_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/790dfa1923ffe52de3b020caca4783ee1740943429_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG258M/the-10th-s-rank-hunter">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V7EZ/desire-release">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo officially becomes an S-Rank hunter, allowing him to finalize his preparations for the Demon's<br>Castle.</p>
+<p align="center">This is the story of a boy who has transferred to a rural elementary school...</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (English Dub) - Episode 19 - The 10th S-Rank Hunter</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (German Dub) - Episode 17 - Most Athletes Are Masochists</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ad0478978006763a1df8cd8b2cbf4f0d1739620302_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1faf4aff7f9357a75d17a884064a671b1739096494_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG254M/the-10th-s-rank-hunter">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0PPV/most-athletes-are-masochists">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo officially becomes an S-Rank hunter, allowing him to finalize his preparations for the Demon's<br>Castle.</p>
+<p align="center">While the girlfriends are forced to work out, Rentaro runs into a girl who punishes<br>herself for other reasons.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Portuguese Dub) - Episode 18 - Don’t Look Down on My Guys</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 44 - Revive, Broken City, Your Peace At an End</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ab321592ad21bb42b9c746e8057239a1739028697_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffc505589a097c353866d5da94af12541739689403_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XQPM/dont-look-down-on-my-guys">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3004/revive-broken-city-your-peace-at-an-end">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Hunters Guild strike team is confronting the high orc shaman Kargalgan when Jinwoo crashes<br>the fight.</p>
+<p align="center">Sunraku and his new party fight on the ghost ship and unlock the next stage<br>of the Ctarnidd quest: an underwater city!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (German Dub) - Episode 18 - Don’t Look Down on My Guys</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese Dub) - Episode 43 - The Crimson Whale Meets the Monster Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ab321592ad21bb42b9c746e8057239a1739028697_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9f20f2508bc77d1e0003b0df8e2d3a061739089110_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE03K/dont-look-down-on-my-guys">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW55W/the-crimson-whale-meets-the-monster-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Hunters Guild strike team is confronting the high orc shaman Kargalgan when Jinwoo crashes<br>the fight.</p>
+<p align="center">Sunraku and his new crew set out on the high seas to confront Ctarnidd and<br>the Disciples of the Abyss.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (French Dub) - Episode 18 - Don’t Look Down on My Guys</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (German Dub) - Episode 43 - The Crimson Whale Meets the Monster Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ab321592ad21bb42b9c746e8057239a1739028697_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9f20f2508bc77d1e0003b0df8e2d3a061739089110_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J15J/dont-look-down-on-my-guys">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW344Q/the-crimson-whale-meets-the-monster-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Hunters Guild strike team is confronting the high orc shaman Kargalgan when Jinwoo crashes<br>the fight.</p>
+<p align="center">Sunraku and his new crew set out on the high seas to confront Ctarnidd and<br>the Disciples of the Abyss.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Castilian Dub) - Episode 18 - Don’t Look Down on My Guys</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (French Dub) - Episode 43 - The Crimson Whale Meets the Monster Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ab321592ad21bb42b9c746e8057239a1739028697_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9f20f2508bc77d1e0003b0df8e2d3a061739089110_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN183V/dont-look-down-on-my-guys">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32XX4/the-crimson-whale-meets-the-monster-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Hunters Guild strike team is confronting the high orc shaman Kargalgan when Jinwoo crashes<br>the fight.</p>
+<p align="center">Sunraku and his new crew set out on the high seas to confront Ctarnidd and<br>the Disciples of the Abyss.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Italian Dub) - Episode 18 - Don’t Look Down on My Guys</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 43 - The Crimson Whale Meets the Monster Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ab321592ad21bb42b9c746e8057239a1739028697_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9f20f2508bc77d1e0003b0df8e2d3a061739089110_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V4WN/dont-look-down-on-my-guys">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N119/the-crimson-whale-meets-the-monster-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Hunters Guild strike team is confronting the high orc shaman Kargalgan when Jinwoo crashes<br>the fight.</p>
+<p align="center">Sunraku and his new crew set out on the high seas to confront Ctarnidd and<br>the Disciples of the Abyss.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Hindi Dub) - Episode 18 - Don’t Look Down on My Guys</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 43 - The Crimson Whale Meets the Monster Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ab321592ad21bb42b9c746e8057239a1739028697_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9f20f2508bc77d1e0003b0df8e2d3a061739089110_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD30XD/dont-look-down-on-my-guys">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MPP2/the-crimson-whale-meets-the-monster-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Hunters Guild strike team is confronting the high orc shaman Kargalgan when Jinwoo crashes<br>the fight.</p>
+<p align="center">Sunraku and his new crew set out on the high seas to confront Ctarnidd and<br>the Disciples of the Abyss.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Tamil Dub) - Episode 18 - Don’t Look Down on My Guys</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 43 - The Crimson Whale Meets the Monster Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ab321592ad21bb42b9c746e8057239a1739028697_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9f20f2508bc77d1e0003b0df8e2d3a061739089110_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZPW7/dont-look-down-on-my-guys">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0EE4/the-crimson-whale-meets-the-monster-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Hunters Guild strike team is confronting the high orc shaman Kargalgan when Jinwoo crashes<br>the fight.</p>
+<p align="center">Sunraku and his new crew set out on the high seas to confront Ctarnidd and<br>the Disciples of the Abyss.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Telugu Dub) - Episode 18 - Don’t Look Down on My Guys</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Tamil Dub) - Episode 43 - The Crimson Whale Meets the Monster Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ab321592ad21bb42b9c746e8057239a1739028697_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9f20f2508bc77d1e0003b0df8e2d3a061739089110_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN748/dont-look-down-on-my-guys">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJWWK/the-crimson-whale-meets-the-monster-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Hunters Guild strike team is confronting the high orc shaman Kargalgan when Jinwoo crashes<br>the fight.</p>
+<p align="center">Sunraku and his new crew set out on the high seas to confront Ctarnidd and<br>the Disciples of the Abyss.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Spanish Dub) - Episode 18 - Don’t Look Down on My Guys</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Telugu Dub) - Episode 43 - The Crimson Whale Meets the Monster Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ab321592ad21bb42b9c746e8057239a1739028697_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9f20f2508bc77d1e0003b0df8e2d3a061739089110_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJWEN/dont-look-down-on-my-guys">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7554/the-crimson-whale-meets-the-monster-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Hunters Guild strike team is confronting the high orc shaman Kargalgan when Jinwoo crashes<br>the fight.</p>
+<p align="center">Sunraku and his new crew set out on the high seas to confront Ctarnidd and<br>the Disciples of the Abyss.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Spanish Dub) - Episode 17 - This Is What We're Trained to Do</h3></th>
+<th><h3 align="center">ZENSHU (Telugu Dub) - Episode 9</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1a46858f76a4b9cb80d60f59e69318b01738421431_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d36421bbe280e508148035486c4afeb21740930672_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0EX9/this-is-what-were-trained-to-do">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3WXV">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Before attempting to finish the Demon's Castle, Jinwoo decides to earn some money to help<br>prepare.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Witchy Precure!! ~MIRAI DAYS~ - Episode 8 - Kotoha and Hisui </h3></th>
+<th><h3 align="center">ZENSHU (Tamil Dub) - Episode 9</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1e6f67da720f41ba5adadd405dee8a671740857968_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d36421bbe280e508148035486c4afeb21740930629_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0G1N/kotoha-and-hisui-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMEG2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As a result of the investigation in the Magic World, Ire's backstory gradually became clearer.<br>Furthermore, Mirai and friends learned about the relationship between Kotoha and Hisui from Chikurun, who<br>came as a messenger from the Fairy Village.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying - Episode 9 - Amazing! The Iriomote Cat!</h3></th>
+<th><h3 align="center">ZENSHU (Hindi Dub) - Episode 9</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/609d3def23a4109c8d93f7cf9cab68cf1740826556_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d36421bbe280e508148035486c4afeb21740930608_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/1/2025</td>
+<td align="center">3/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8X8VJ/amazing-the-iriomote-cat">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNM1D">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kyan tells Suzu the story of the Iriomote cat and its ancient history.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
