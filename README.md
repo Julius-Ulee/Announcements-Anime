@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 7, 2025, 7:27:54 PM</em></p>
+<p align="center"><em>Updated on: Mar 8, 2025, 7:55:15 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (English Dub) - Episode 20 - The Price of Glory</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time (English Dub) - Episode 7 - I've Waited Forever for the Centennial Festival, so I'm Gonna Enjoy It, No Matter What</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/693699b77cfd1a3f22faad2cd2d80af31740075065_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/63238864837a92128ea35002907da7c31740157681_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM792/the-price-of-glory">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MG4D/ive-waited-forever-for-the-centennial-festival-so-im-gonna-enjoy-it-no-matter-what">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gaku meets his high school crush at a class reunion.</p>
+<p align="center">While Alina finally enjoys her first Centennial Festival, Lululee confronts the shadows of her past.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Hindi Dub) - Episode 19 - Look At the Sky Instead of the Peak</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time (German Dub) - Episode 6 - I May Be Silver Sword's Back Attacker, but I'm Gonna Catch the Jerk Who Started That Rumor</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bb54c44dd9ffad944c41aa9f01a17a051739467904_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4e4b299e40d28f3fe7495f6d5ca055b31739548300_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NQZW/look-at-the-sky-instead-of-the-peak">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32ZDG/i-may-be-silver-swords-back-attacker-but-im-gonna-catch-the-jerk-who-started-that-rumor">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Trillion Game, Inc. brainstorms ways to get players to pay for a free mobile game.</p>
+<p align="center">Alina and Silver Sword go undercover to find the source of the rumor about relics<br>that grant Dia skills.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Tamil Dub) - Episode 19 - Look At the Sky Instead of the Peak</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Hindi Dub) - Episode 7 - The Ring</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bb54c44dd9ffad944c41aa9f01a17a051739467904_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5e71152074c15daea036748d1c7fb0241739547109_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0JKM/look-at-the-sky-instead-of-the-peak">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM01Z0/the-ring">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Trillion Game, Inc. brainstorms ways to get players to pay for a free mobile game.</p>
+<p align="center">Saito works his first part-time job to get a gift for Akane, but things go<br>awry when it goes missing.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Telugu Dub) - Episode 19 - Look At the Sky Instead of the Peak</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Tamil Dub) - Episode 7 - The Ring</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bb54c44dd9ffad944c41aa9f01a17a051739467904_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5e71152074c15daea036748d1c7fb0241739547109_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ0QE/look-at-the-sky-instead-of-the-peak">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN9DD/the-ring">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Trillion Game, Inc. brainstorms ways to get players to pay for a free mobile game.</p>
+<p align="center">Saito works his first part-time job to get a gift for Akane, but things go<br>awry when it goes missing.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Portuguese Dub) - Episode 42 - As If in Flight</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Telugu Dub) - Episode 7 - The Ring</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/00683417a59d7933b99393a59cd95a441739472654_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5e71152074c15daea036748d1c7fb0241739547109_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK9XX/as-if-in-flight">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MW38/the-ring">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kenshin and Hajime realize that Shishio has another objective in mind that lies in Osaka.<br>They meet up with Sanosuke there. To stop the Great Kyoto Fire, Kenshin asks for<br>help from everyone at Aoiya via a letter while leaving Ryusaku Arato, the chief of<br>police, in charge of supervising on the ground in Kyoto. Kenshin, Hajime, and Sanosuke head<br>to Osaka Bay on a carriage after they finish their errands. Then, senior police officer,<br>Hikozaemon Omi brings along Juro Kitazawa, a young 11-year-old boy who says he wants to<br>meet with Arato.</p>
+<p align="center">Saito works his first part-time job to get a gift for Akane, but things go<br>awry when it goes missing.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Spanish Dub) - Episode 42 - As If in Flight</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Hindi Dub) - Episode 18 - Awakening</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/00683417a59d7933b99393a59cd95a441739472654_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/783c8d178b655bf66880d0fa9fd022871739548255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG20V2/as-if-in-flight">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM7M2/awakening">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kenshin and Hajime realize that Shishio has another objective in mind that lies in Osaka.<br>They meet up with Sanosuke there. To stop the Great Kyoto Fire, Kenshin asks for<br>help from everyone at Aoiya via a letter while leaving Ryusaku Arato, the chief of<br>police, in charge of supervising on the ground in Kyoto. Kenshin, Hajime, and Sanosuke head<br>to Osaka Bay on a carriage after they finish their errands. Then, senior police officer,<br>Hikozaemon Omi brings along Juro Kitazawa, a young 11-year-old boy who says he wants to<br>meet with Arato.</p>
+<p align="center">King Gomah enters the battlefield and an all-out battle ensues! Goku and his companions stuggle<br>against the power of the Third Eye. Just when it seems that all is lost,<br>an amazing new power is awakened within Goku!</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Hindi Dub) - Episode 42 - As If in Flight</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Tamil Dub) - Episode 18 - Awakening</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/00683417a59d7933b99393a59cd95a441739472654_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/783c8d178b655bf66880d0fa9fd022871739548255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN9KD/as-if-in-flight">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8X5XK/awakening">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kenshin and Hajime realize that Shishio has another objective in mind that lies in Osaka.<br>They meet up with Sanosuke there. To stop the Great Kyoto Fire, Kenshin asks for<br>help from everyone at Aoiya via a letter while leaving Ryusaku Arato, the chief of<br>police, in charge of supervising on the ground in Kyoto. Kenshin, Hajime, and Sanosuke head<br>to Osaka Bay on a carriage after they finish their errands. Then, senior police officer,<br>Hikozaemon Omi brings along Juro Kitazawa, a young 11-year-old boy who says he wants to<br>meet with Arato.</p>
+<p align="center">King Gomah enters the battlefield and an all-out battle ensues! Goku and his companions stuggle<br>against the power of the Third Eye. Just when it seems that all is lost,<br>an amazing new power is awakened within Goku!</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (English Dub) - Episode 42 - As If in Flight</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Telugu Dub) - Episode 18 - Awakening</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/00683417a59d7933b99393a59cd95a441739472654_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/783c8d178b655bf66880d0fa9fd022871739548255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32ZPG/as-if-in-flight">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J4JD/awakening">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kenshin and Hajime realize that Shishio has another objective in mind that lies in Osaka.<br>They meet up with Sanosuke there. To stop the Great Kyoto Fire, Kenshin asks for<br>help from everyone at Aoiya via a letter while leaving Ryusaku Arato, the chief of<br>police, in charge of supervising on the ground in Kyoto. Kenshin, Hajime, and Sanosuke head<br>to Osaka Bay on a carriage after they finish their errands. Then, senior police officer,<br>Hikozaemon Omi brings along Juro Kitazawa, a young 11-year-old boy who says he wants to<br>meet with Arato.</p>
+<p align="center">King Gomah enters the battlefield and an all-out battle ensues! Goku and his companions stuggle<br>against the power of the Third Eye. Just when it seems that all is lost,<br>an amazing new power is awakened within Goku!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc (Portuguese Dub) - Episode 6 - Puzzle</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (English Dub) - Episode 9 - Thieves</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ce82b5c7fd476ea050545f56af86bf331738287933_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5b828e9c26be6db3a8ca4121d2a522f71733501528_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW347M/puzzle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD383G/thieves">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Cheng Xiaoshi finally manages to talk to Vein, but to help him, Vein demands that<br>he and Lu Guang help him replace a fired model.</p>
+<p align="center">Rumors of what Goku did in the Third Demon World spread across the Demon Realm.<br>To avoid trouble, Goku wears a disguise at the hotel, but they can't let their<br>guard down in the Third Demon World. Thieves see through his disguise!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc (French Dub) - Episode 6 - Puzzle</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (English Dub) - Episode 31 - The Shrine of Choosing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ce82b5c7fd476ea050545f56af86bf331738287933_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/320edf06ef7e17fc5c7e3636c57c055c1740154684_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32X7Q/puzzle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK9KP/the-shrine-of-choosing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Cheng Xiaoshi finally manages to talk to Vein, but to help him, Vein demands that<br>he and Lu Guang help him replace a fired model.</p>
+<p align="center">Maomao directs her curiosity towards an old, oddly-shaped building.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc (Spanish Dub) - Episode 6 - Puzzle</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (German Dub) - Episode 30 - The Crystal Pavilion, For the Third Time</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ce82b5c7fd476ea050545f56af86bf331738287933_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/08430bd822e4e919c1bf5214734704741739547157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N103/puzzle">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0100/the-crystal-pavilion-for-the-third-time">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Cheng Xiaoshi finally manages to talk to Vein, but to help him, Vein demands that<br>he and Lu Guang help him replace a fired model.</p>
+<p align="center">The woman from the clinic finds out that Maomao knows a thing or two about<br>medicine, and asks for her help.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc (English Dub) - Episode 3 - Them</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (French Dub) - Episode 30 - The Crystal Pavilion, For the Third Time</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c29c94e67fbc8c7c4d805abe799d37551736472443_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/08430bd822e4e919c1bf5214734704741739547157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ75WW/them">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN9ND/the-crystal-pavilion-for-the-third-time">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Cheng Xiaoshi and Lu Guang arrive in Bridon in search of clues to solve the<br>mystery of Cheng Xiaoshi's father. When they reach the airport, problems immediately arise for them…</p>
+<p align="center">The woman from the clinic finds out that Maomao knows a thing or two about<br>medicine, and asks for her help.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Anyway, I'm Falling in Love with You. (English Dub) - Episode 7 - Playing Nice</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Spanish Dub) - Episode 30 - The Crystal Pavilion, For the Third Time</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e5ffe06e556a57cae17eb765de4d28441740071819_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/08430bd822e4e919c1bf5214734704741739547157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX53J3/playing-nice">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MWM8/the-crystal-pavilion-for-the-third-time">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shugo's older brother, Togo, makes a surprise return to Koigahama Highlands.</p>
+<p align="center">The woman from the clinic finds out that Maomao knows a thing or two about<br>medicine, and asks for her help.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- - Episode 45 - The Great Kyoto Fire (Part Three)</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Hindi Dub) - Episode 30 - The Crystal Pavilion, For the Third Time</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/326b81726d91c2903d0588823c19180e1741286507_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/08430bd822e4e919c1bf5214734704741739547157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3VN4/the-great-kyoto-fire-part-three">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32Z2G/the-crystal-pavilion-for-the-third-time">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The engine room of Rengoku. Hoji manages to catch the explosives and prevents the room<br>from blowing up. However, Sanosuke delivers the Mastery of Two Layers to the ship's Kingston<br>valve, flooding the perimeter. Meanwhile, Usui reveals himself to Kaoru, Yahiko, and Misao as Arato<br>faces off against Kamatari and Henya. Goichi begs for Megumi's help at her clinic to<br>heal Tokuji, his younger brother. As these passions clash with each other in all places<br>of Kyoto, a small, over-looked fire begins to flare up.</p>
+<p align="center">The woman from the clinic finds out that Maomao knows a thing or two about<br>medicine, and asks for her help.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME - Episode 22 - ALL IN</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Tamil Dub) - Episode 30 - The Crystal Pavilion, For the Third Time</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d0e69eddbd5a5906ad733a94a296715e1741285073_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/08430bd822e4e919c1bf5214734704741739547157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VN57/all-in">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NQNW/the-crystal-pavilion-for-the-third-time">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Trillion Game, Inc. takes a company trip to Las Vegas.</p>
+<p align="center">The woman from the clinic finds out that Maomao knows a thing or two about<br>medicine, and asks for her help.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Anyway, I'm Falling in Love with You. - Episode 9 - The Times I Spent With You</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Telugu Dub) - Episode 30 - The Crystal Pavilion, For the Third Time</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b1f04c12dd692d9c01d00e74419c54c01741269214_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/08430bd822e4e919c1bf5214734704741739547157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEJX5/the-times-i-spent-with-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MGMD/the-crystal-pavilion-for-the-third-time">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The woman from the clinic finds out that Maomao knows a thing or two about<br>medicine, and asks for her help.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Momentary Lily - Episode 10 - One More and a Missing Can</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time - Episode 9 - I May Be in My Third Year as a Guild Receptionist, but I'm Starting New-Employee Training</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ac7d04ecb46303228472c22ec152f1951741269009_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2c0504a1d3e3f55625ac4909ab508a0e1741368061_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKNN0/one-more-and-a-missing-can">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3M8K9/i-may-be-in-my-third-year-as-a-guild-receptionist-but-im-starting-new-employee-training">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Alina attends new-employee training in hopes of learning how she can avoid working overtime ever<br>again.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">AQUARION Myth of Emotions - Episode 9 - At the End of Reincarnation</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 - Episode 33 - The Late Emperor</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6a75d8e68d3711441882036164c429431741280522_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1d6c455c7cf4465e7439e048684268c61741366868_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VQ72/at-the-end-of-reincarnation">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW04XW/the-late-emperor">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sakko and friends find themselves trapped in a hellish landscape where they start to feel<br>unfamiliar emotions.</p>
+<p align="center">Maomao's investigation of the "curse" reveals more about the late emperor than anticipated.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ave Mujica - The Die is Cast - - Episode 10 - Odi et amo.</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class - Episode 10 - Girlfriend (Tentative)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8aadf3fd150fcae0456e6ca44798f0db1741270074_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/94e7a58d2b9d54837f870c2d6aedeb941741366709_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKNNV/odi-et-amo">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7QPV/girlfriend-tentative">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">I want to dedicate my whole life to you. Powerful words, but empty?</p>
+<p align="center">Saito and Akane become a rumor at school, so they come up with a plan<br>as diversion.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Even Given the Worthless "Appraiser" Class,  I'm Actually the Strongest - Episode 9 - Rise to Action</h3></th>
+<th><h3 align="center">FARMAGIA - Episode 9 - The Three Angels</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c2836a6e6ff2109cd8f6095664eb576d1741269597_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ac4e4f5cef5c37e002fa225d17543c841741360668_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/6/2025</td>
+<td align="center">3/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNG5E/rise-to-action">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5PMK/the-three-angels">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ein's will to protect the village is put to the test with monsters approaching and<br>the true evil revealed.</p>
+<p align="center">Nares goes to Nadeyat'sya for peace talks with L'Oreille. But is there more going on<br>than meets the eye?</p>
 </td>
 </tr>
 </table>
