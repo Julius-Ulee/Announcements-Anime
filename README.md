@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 9, 2025, 7:20:24 PM</em></p>
+<p align="center"><em>Updated on: Mar 10, 2025, 7:58:42 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 - Episode 47 - The Light Blazes Brightly, But for Just an Instant</h3></th>
+<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (Hindi Dub) - Episode 6 - The Red Ranger and the Mage's Dream</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7d0b7d6f49fa4dfff57bb8f7c830b2571741509711_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/77fafd5986873f360800d85dcb2481d61739714027_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5KVV/the-light-blazes-brightly-but-for-just-an-instant">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW1ZJ/the-red-ranger-and-the-mages-dream">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The miraculous light bursts forth in glory for a moment.</p>
+<p align="center">While Princess Teltina recovers, Red and Yihdra focus their efforts on investigating mana seeds and<br>mana metal.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 - Episode 9 - Make It Secret</h3></th>
+<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (English Dub) - Episode 6 - The Red Ranger and the Mage's Dream</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/08612b32dab16abf48c7308898de9c0f1741509691_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/77fafd5986873f360800d85dcb2481d61739714027_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VQM5/make-it-secret">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW320X/the-red-ranger-and-the-mages-dream">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nene drags Amane out of school and away from Shijima, but escaping a Wonder is<br>easier said than done.</p>
+<p align="center">While Princess Teltina recovers, Red and Yihdra focus their efforts on investigating mana seeds and<br>mana metal.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You and Idol Precure ♪ - Episode 6 - My Heart's Going Kyun-Kyun?!</h3></th>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 14 - Episode 10 - Defense Attorney</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f893c9204af4c3abd07d09aeeec6b32f1741479475_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5d5b231d895691283df7e8327082fca21741545252_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NXG7/my-hearts-going-kyun-kyun">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3DJ4/defense-attorney">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Uta and Nana get to know Kokoro Shigure, president of the Cure Idol and Cure<br>Wink Research Club. Purirun wants to become friends with Kokoro and follows her after school.</p>
+<p align="center">This is the story of a man hired to defend a certain fellow...</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (German Dub) - Episode 7 - The Night Before</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (English Dub) - Episode 19 - Karaoke Crisis</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/245264c391b1ef7a28d1398af7c87ec81739640081_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/38f56ec4bcf60d67834c66dff7685a881740314161_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J4KD/the-night-before">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN9GP/karaoke-crisis">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A newborn Rin, covered in blue flames, attacked the surrounding exorcists one after another. Rin,<br>shaken by the sight and on the verge of being overtaken by his demonic self,<br>is sent to a certain place in the present by Mephisto. Meanwhile, Yukio, who has<br>left the Knights of the True Cross, and Shima arrive at the Illuminati's aerial fortress,<br>the Dominus Liminis. Accompanied by the executive in charge, Homare Todo, Yukio meets Lucifer. Simultaneously,<br>someone from the Grigori Sedes comes to visit Shiemi.</p>
+<p align="center">The gang goes to karaoke! But how will Shizuka manage?</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (French Dub) - Episode 7 - The Night Before</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (German Dub) - Episode 18 - A Homerun Promise</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/245264c391b1ef7a28d1398af7c87ec81739640081_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ed8f7d50ff445814782fcabb0ca329be1739713953_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1W04/the-night-before">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD389J/a-homerun-promise">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A newborn Rin, covered in blue flames, attacked the surrounding exorcists one after another. Rin,<br>shaken by the sight and on the verge of being overtaken by his demonic self,<br>is sent to a certain place in the present by Mephisto. Meanwhile, Yukio, who has<br>left the Knights of the True Cross, and Shima arrive at the Illuminati's aerial fortress,<br>the Dominus Liminis. Accompanied by the executive in charge, Homare Todo, Yukio meets Lucifer. Simultaneously,<br>someone from the Grigori Sedes comes to visit Shiemi.</p>
+<p align="center">It's time for the big game. Will the Rentaro Family win and ensure the baseball<br>team's survival?</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (English Dub) - Episode 7 - The Night Before</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (English Dub) - Episode 18 - A Homerun Promise</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/245264c391b1ef7a28d1398af7c87ec81739640081_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ed8f7d50ff445814782fcabb0ca329be1739713953_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZJE9/the-night-before">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM01W1/a-homerun-promise">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A newborn Rin, covered in blue flames, attacked the surrounding exorcists one after another. Rin,<br>shaken by the sight and on the verge of being overtaken by his demonic self,<br>is sent to a certain place in the present by Mephisto. Meanwhile, Yukio, who has<br>left the Knights of the True Cross, and Shima arrive at the Illuminati's aerial fortress,<br>the Dominus Liminis. Accompanied by the executive in charge, Homare Todo, Yukio meets Lucifer. Simultaneously,<br>someone from the Grigori Sedes comes to visit Shiemi.</p>
+<p align="center">It's time for the big game. Will the Rentaro Family win and ensure the baseball<br>team's survival?</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths! (English Dub) - Episode 7 - The Pale, Immortal Ruler</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 45 - Time to Fillet a Dragon Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d73e01f27605c5030700ba30b5bf25df1740243244_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/76047dde0ed2a5ebd75431bea90cbed61740294626_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8X50K/the-pale-immortal-ruler">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1W95/time-to-fillet-a-dragon-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Continuing the investigation of Achromatic Darkness, Clover reaches a floor of the dungeon that has...<br>a sky?</p>
+<p align="center">Sunraku's plan to reunite his party ends with him fighting an overpowered dragon eel.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Korean Audio) - Episode 20 - Looking Up Was Tiring Me Out</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (German Dub) - Episode 44 - Revive, Broken City, Your Peace At an End</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/29945b927a6c4d2dc4cd23c3360e7d281740244072_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffc505589a097c353866d5da94af12541739689403_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J4XD/looking-up-was-tiring-me-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MW71/revive-broken-city-your-peace-at-an-end">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seeking the remaining ingredient for the Elixir of Life, Jinwoo continues his conquest of the<br>Demon's Castle.</p>
+<p align="center">Sunraku and his new party fight on the ghost ship and unlock the next stage<br>of the Ctarnidd quest: an underwater city!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (English Dub) - Episode 20 - Looking Up Was Tiring Me Out</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (French Dub) - Episode 44 - Revive, Broken City, Your Peace At an End</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/29945b927a6c4d2dc4cd23c3360e7d281740244072_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffc505589a097c353866d5da94af12541739689403_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW32ZV/looking-up-was-tiring-me-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5QXG/revive-broken-city-your-peace-at-an-end">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seeking the remaining ingredient for the Elixir of Life, Jinwoo continues his conquest of the<br>Demon's Castle.</p>
+<p align="center">Sunraku and his new party fight on the ghost ship and unlock the next stage<br>of the Ctarnidd quest: an underwater city!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (German Dub) - Episode 19 - The 10th S-Rank Hunter</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 44 - Revive, Broken City, Your Peace At an End</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ad0478978006763a1df8cd8b2cbf4f0d1739620302_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffc505589a097c353866d5da94af12541739689403_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7V8P1/the-10th-s-rank-hunter">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW1MJ/revive-broken-city-your-peace-at-an-end">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo officially becomes an S-Rank hunter, allowing him to finalize his preparations for the Demon's<br>Castle.</p>
+<p align="center">Sunraku and his new party fight on the ghost ship and unlock the next stage<br>of the Ctarnidd quest: an underwater city!</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (French Dub) - Episode 19 - The 10th S-Rank Hunter</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese Dub) - Episode 44 - Revive, Broken City, Your Peace At an End</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ad0478978006763a1df8cd8b2cbf4f0d1739620302_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffc505589a097c353866d5da94af12541739689403_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD38MG/the-10th-s-rank-hunter">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW32WX/revive-broken-city-your-peace-at-an-end">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo officially becomes an S-Rank hunter, allowing him to finalize his preparations for the Demon's<br>Castle.</p>
+<p align="center">Sunraku and his new party fight on the ghost ship and unlock the next stage<br>of the Ctarnidd quest: an underwater city!</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Spanish Dub) - Episode 19 - The 10th S-Rank Hunter</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 44 - Revive, Broken City, Your Peace At an End</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ad0478978006763a1df8cd8b2cbf4f0d1739620302_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffc505589a097c353866d5da94af12541739689403_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZJV9/the-10th-s-rank-hunter">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32Z31/revive-broken-city-your-peace-at-an-end">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo officially becomes an S-Rank hunter, allowing him to finalize his preparations for the Demon's<br>Castle.</p>
+<p align="center">Sunraku and his new party fight on the ghost ship and unlock the next stage<br>of the Ctarnidd quest: an underwater city!</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Castilian Dub) - Episode 19 - The 10th S-Rank Hunter</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Tamil Dub) - Episode 44 - Revive, Broken City, Your Peace At an End</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ad0478978006763a1df8cd8b2cbf4f0d1739620302_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffc505589a097c353866d5da94af12541739689403_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM01G0/the-10th-s-rank-hunter">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NQ90/revive-broken-city-your-peace-at-an-end">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo officially becomes an S-Rank hunter, allowing him to finalize his preparations for the Demon's<br>Castle.</p>
+<p align="center">Sunraku and his new party fight on the ghost ship and unlock the next stage<br>of the Ctarnidd quest: an underwater city!</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Italian Dub) - Episode 19 - The 10th S-Rank Hunter</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Telugu Dub) - Episode 44 - Revive, Broken City, Your Peace At an End</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ad0478978006763a1df8cd8b2cbf4f0d1739620302_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffc505589a097c353866d5da94af12541739689403_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN9ZD/the-10th-s-rank-hunter">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MG21/revive-broken-city-your-peace-at-an-end">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo officially becomes an S-Rank hunter, allowing him to finalize his preparations for the Demon's<br>Castle.</p>
+<p align="center">Sunraku and his new party fight on the ghost ship and unlock the next stage<br>of the Ctarnidd quest: an underwater city!</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Hindi Dub) - Episode 19 - The 10th S-Rank Hunter</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 44 - Revive, Broken City, Your Peace At an End</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ad0478978006763a1df8cd8b2cbf4f0d1739620302_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffc505589a097c353866d5da94af12541739689403_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MW88/the-10th-s-rank-hunter">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0JD0/revive-broken-city-your-peace-at-an-end">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo officially becomes an S-Rank hunter, allowing him to finalize his preparations for the Demon's<br>Castle.</p>
+<p align="center">Sunraku and his new party fight on the ghost ship and unlock the next stage<br>of the Ctarnidd quest: an underwater city!</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Tamil Dub) - Episode 19 - The 10th S-Rank Hunter</h3></th>
+<th><h3 align="center">ZENSHU (Telugu Dub) - Episode 10</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ad0478978006763a1df8cd8b2cbf4f0d1739620302_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4cbb1b894ea8a74affe50065b532f1af1741527256_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5Q2X/the-10th-s-rank-hunter">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU323MG">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo officially becomes an S-Rank hunter, allowing him to finalize his preparations for the Demon's<br>Castle.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Telugu Dub) - Episode 19 - The 10th S-Rank Hunter</h3></th>
+<th><h3 align="center">ZENSHU (Tamil Dub) - Episode 10</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ad0478978006763a1df8cd8b2cbf4f0d1739620302_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4cbb1b894ea8a74affe50065b532f1af1741527181_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW1NZ/the-10th-s-rank-hunter">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8X84K">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo officially becomes an S-Rank hunter, allowing him to finalize his preparations for the Demon's<br>Castle.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Witchy Precure!! ~MIRAI DAYS~ - Episode 9 - Goodbye Magical World!? Mirai and Riko's Final Test! </h3></th>
+<th><h3 align="center">ZENSHU (Hindi Dub) - Episode 10</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6378c2203a6f0c5291a7183d231ef06a1741457797_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4cbb1b894ea8a74affe50065b532f1af1741526835_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJK9M/goodbye-magical-world-mirai-and-rikos-final-test-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M7Q8">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Finally, the day of the last lesson has arrived. The lesson content is a magical<br>battle in which the students need to make their opponent's flowers bloom using magic. Mirai<br>and the other four students work as a team to take on Liz, but Liz<br>makes the students’ flowers bloom one after another, leaving only Mirai and Riko…</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying - Episode 10 - The True Identity of the Yaaruu?!</h3></th>
+<th><h3 align="center">ZENSHU (Italian Dub) - Episode 10</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6d74180ec869f2b327a900c8ad5313211741431464_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bb9408abffd9bd11437605499bbae4671741538230_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEVP0/the-true-identity-of-the-yaaruu">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7QZW">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Teruaki takes Higa on a test of courage and is shocked by what he finds.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- - Episode 10 - Light</h3></th>
+<th><h3 align="center">ZENSHU (Castilian Dub) - Episode 10</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d94bd223b60c64432eec0275999175201741450993_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f69ce50aa26aa29677e8895b3d2fd4d41741526812_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/8/2025</td>
+<td align="center">3/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ5PP/light">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M7DG">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shiro and Yuri defeat Satan and escape the clutches of the Knights of the True<br>Cross. However, Yuri's exhaustion catches up to her as she gives her final words to<br>Rin and Yukio and leaves this world. Adding insult to injury, Shiro, overcome with remorse<br>and losing the will to live, is attacked by a demon. Meanwhile, with Satan having<br>disappeared from Assiah, Lucifer despairs of the future research into clones for possession. Mephisto and<br>Shemihaza work to stop Lucifer's rampaging attempt to reduce everything to nothingness.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
