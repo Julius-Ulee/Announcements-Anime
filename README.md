@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 11, 2025, 7:29:42 PM</em></p>
+<p align="center"><em>Updated on: Mar 12, 2025, 8:08:47 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (Portuguese Dub) - Episode 16 - The Key to the World</h3></th>
+<th><h3 align="center">Digimon Tamers (Spanish Dub) - Episode 51 - The Power to Dream is Our Future</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e51568dd26229be891adde17ec5139b21739793876_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cf56b0b691010c28239e6450fbad228b1716225007_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/10/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0181/the-key-to-the-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MG7P/the-power-to-dream-is-our-future">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hajime and Yue attempt to harness their new power to realize their ultimate goal -<br>creating a way home.</p>
+<p align="center">Dukemon, Sakuyamon and Justimon battle the D-Reaper as SaintGalgomon activates a reprogrammed Shaggai to try<br>and defeat the D-Reaper once and for all!</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (Spanish Dub) - Episode 16 - The Key to the World</h3></th>
+<th><h3 align="center">Digimon Tamers (Portuguese Dub) - Episode 51 - The Power to Dream is Our Future</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e51568dd26229be891adde17ec5139b21739793876_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cf56b0b691010c28239e6450fbad228b1716225007_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/10/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN93P/the-key-to-the-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZKVM/the-power-to-dream-is-our-future">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hajime and Yue attempt to harness their new power to realize their ultimate goal -<br>creating a way home.</p>
+<p align="center">Dukemon, Sakuyamon and Justimon battle the D-Reaper as SaintGalgomon activates a reprogrammed Shaggai to try<br>and defeat the D-Reaper once and for all!</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Medaka Kuroiwa is Impervious to My Charms (English Dub) - Episode 8 - Halloween with Him</h3></th>
+<th><h3 align="center">Digimon Tamers (Spanish Dub) - Episode 50 - The Crimson Knight, Dukemon. Save Those That You Love!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/13d383905d44308d59429cae5bec110f1740414028_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3e6553adbbe486c84e2d6bc0c64d96fa1716215166_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/10/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD385J/halloween-with-him">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32ZVV/the-crimson-knight-dukemon-save-those-that-you-love">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Mona sets out for the Halloween party, her sights set on making Medaka's lockscreen.</p>
+<p align="center">The Red Card finally allows the children to battle inside of the D-Reaper Zone but<br>D-Reaper has calculated that humans should be purged. As Dukemon moves to save Juri, a<br>miracle occurs...</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Headhunted to Another World: From Salaryman to Big Four! (English Dub) - Episode 9 - The Sins and Punishments of an Evil Merchant.</h3></th>
+<th><h3 align="center">Digimon Tamers (Portuguese Dub) - Episode 50 - The Crimson Knight, Dukemon. Save Those That You Love!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/608c88214587b7e578e2ad077557fc0e1740407793_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3e6553adbbe486c84e2d6bc0c64d96fa1716215166_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/10/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1WP5/the-sins-and-punishments-of-an-evil-merchant">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VXNG/the-crimson-knight-dukemon-save-those-that-you-love">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Uchimura is in trouble as their plans get sabotaged by a spy. Will his next<br>move expose the evil merchant?</p>
+<p align="center">The Red Card finally allows the children to battle inside of the D-Reaper Zone but<br>D-Reaper has calculated that humans should be purged. As Dukemon moves to save Juri, a<br>miracle occurs...</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic - Episode 11 - Liam Tries Building a Magic City</h3></th>
+<th><h3 align="center">Digimon Tamers (Spanish Dub) - Episode 49 - The City's Destruction! Culumon's Wish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/26eaf0aed14e069b92e67b39de9eea6f1741617787_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/458354fc875166c3e51ff548789b86c81716214449_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/10/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1915/liam-tries-building-a-magic-city">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW103/the-citys-destruction-culumons-wish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Liam stays in his kingdom while Jamil watches him to ensure he doesn't interfere with<br>the drought, so Jamil gets an idea.</p>
+<p align="center">The D-Reaper has grown massively in size, forcing the Tamers to abandon the city. Finally,<br>at long last, the team's research has provided new tools to combat the D-Reaper head-on.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Medaka Kuroiwa is Impervious to My Charms - Episode 10 - Theme Park with Him</h3></th>
+<th><h3 align="center">Digimon Tamers (Portuguese Dub) - Episode 49 - The City's Destruction! Culumon's Wish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2f5ac28e4004c02b28938f940dcd6d211741617608_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/458354fc875166c3e51ff548789b86c81716214449_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/10/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNGKP/theme-park-with-him">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE1XG/the-citys-destruction-culumons-wish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The gang hits up a theme park for Tomo's welcome party, and she and Asahi<br>both have plans afoot!</p>
+<p align="center">The D-Reaper has grown massively in size, forcing the Tamers to abandon the city. Finally,<br>at long last, the team's research has provided new tools to combat the D-Reaper head-on.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Headhunted to Another World: From Salaryman to Big Four! - Episode 11 - A Battle Without Heroes.</h3></th>
+<th><h3 align="center">Digimon Tamers (Spanish Dub) - Episode 48 - The Power to Protect Juri. Beelzebumon's Punch!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6278467377489f7bb7ffb47f9bccfce91741616097_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8aeb4c51965b5742d9bedc731d1b94811716214396_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/10/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU323P7/a-battle-without-heroes">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MWK4/the-power-to-protect-juri-beelzebumons-punch">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With Ulmandra down, Uchimura starts to lose himself as he hastily tries to devise a<br>plan against the wyverns.</p>
+<p align="center">Beelzebumon awakens inside of the D-Reaper but is suddenly transported back outside. With everyone desperate<br>to rescue Juri, it's time to unleash everything they've got to try and save her!</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Promise of Wizard - Episode 10 - I Can Keep Walking Even If I'm All Alone</h3></th>
+<th><h3 align="center">Digimon Tamers (Portuguese Dub) - Episode 48 - The Power to Protect Juri. Beelzebumon's Punch!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7016b2f07da20e54b5101d75a3f927cf1741609682_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8aeb4c51965b5742d9bedc731d1b94811716214396_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/10/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNGKD/i-can-keep-walking-even-if-im-all-alone">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM2X7/the-power-to-protect-juri-beelzebumons-punch">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akira and the wizards head back to the Wizards' Hall after the incident with Owen<br>in the Central Country.</p>
+<p align="center">Beelzebumon awakens inside of the D-Reaper but is suddenly transported back outside. With everyone desperate<br>to rescue Juri, it's time to unleash everything they've got to try and save her!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 (English Dub) - Episode 7 - Make Sense</h3></th>
+<th><h3 align="center">Digimon Tamers (Spanish Dub) - Episode 47 - Save Dukemon! The Emergency Deployment of Grani</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2e319499a393843370d2c1d0500519671740294606_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c0326865d4b04f808a0bd0bc276579481716214385_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/9/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK93N/make-sense">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN943/save-dukemon-the-emergency-deployment-of-grani">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Faced with an impossible school life, Nene and Kou enter a mysterious tower to seek<br>the truth within.</p>
+<p align="center">Juri struggles with the concept of "destiny" as she remembers the death of her mother.<br> While Juri's father desperatly searches for her, the adults craft a plan to realize<br>the Ark for a new purpose.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 (Spanish Dub) - Episode 6 - Make Believe</h3></th>
+<th><h3 align="center">Digimon Tamers (Portuguese Dub) - Episode 47 - Save Dukemon! The Emergency Deployment of Grani</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2747bcb28e137d79e22f4a6294ae9f9a1739689385_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c0326865d4b04f808a0bd0bc276579481716214385_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/9/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NQ40/make-believe">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2J35/save-dukemon-the-emergency-deployment-of-grani">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nene gets to school only to find Hanako sitting in her class. Why are her<br>friends acting like he belongs?</p>
+<p align="center">Juri struggles with the concept of "destiny" as she remembers the death of her mother.<br> While Juri's father desperatly searches for her, the adults craft a plan to realize<br>the Ark for a new purpose.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 (Hindi Dub) - Episode 6 - Make Believe</h3></th>
+<th><h3 align="center">Digimon Tamers (Spanish Dub) - Episode 46 - The Squeaky-Clean Ultimate Warrior. Justimon Appears!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2747bcb28e137d79e22f4a6294ae9f9a1739689385_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/96d755364ab85fca3c914b79b20c21b31716214265_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/9/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MG81/make-believe">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD38XV/the-squeaky-clean-ultimate-warrior-justimon-appears">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nene gets to school only to find Hanako sitting in her class. Why are her<br>friends acting like he belongs?</p>
+<p align="center">Another Ultimate-level Digimon appears... and it's Ryo?! While the Tamers reconnect, Culumon and Beelzebumon find<br>the real Juri within the D-Reaper...</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (Hindi Dub) - Episode 6 - The Red Ranger and the Mage's Dream</h3></th>
+<th><h3 align="center">Digimon Tamers (Portuguese Dub) - Episode 46 - The Squeaky-Clean Ultimate Warrior. Justimon Appears!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/77fafd5986873f360800d85dcb2481d61739714027_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/96d755364ab85fca3c914b79b20c21b31716214265_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/9/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW1ZJ/the-red-ranger-and-the-mages-dream">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ732X/the-squeaky-clean-ultimate-warrior-justimon-appears">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Princess Teltina recovers, Red and Yihdra focus their efforts on investigating mana seeds and<br>mana metal.</p>
+<p align="center">Another Ultimate-level Digimon appears... and it's Ryo?! While the Tamers reconnect, Culumon and Beelzebumon find<br>the real Juri within the D-Reaper...</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (English Dub) - Episode 6 - The Red Ranger and the Mage's Dream</h3></th>
+<th><h3 align="center">Digimon Tamers (Spanish Dub) - Episode 45 - Fight the D-Reaper. Enter the Zone!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/77fafd5986873f360800d85dcb2481d61739714027_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/862efed027e19ec0092d03c05c7a8a271716214205_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/9/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW320X/the-red-ranger-and-the-mages-dream">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1W31/fight-the-d-reaper-enter-the-zone">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Princess Teltina recovers, Red and Yihdra focus their efforts on investigating mana seeds and<br>mana metal.</p>
+<p align="center">Using the power granted by the Four Holy Beasts, the Tamers gain the ability of<br>Matrix Evolution in the Real World.  When Dukemon is pulled into the D-Reaper's bubble,<br>Takato and Guilmon encounter... Juri?!</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Theatre of Darkness: Yamishibai 14 - Episode 10 - Defense Attorney</h3></th>
+<th><h3 align="center">Digimon Tamers (Portuguese Dub) - Episode 45 - Fight the D-Reaper. Enter the Zone!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5d5b231d895691283df7e8327082fca21741545252_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/862efed027e19ec0092d03c05c7a8a271716214205_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/9/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3DJ4/defense-attorney">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW09Q3/fight-the-d-reaper-enter-the-zone">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">This is the story of a man hired to defend a certain fellow...</p>
+<p align="center">Using the power granted by the Four Holy Beasts, the Tamers gain the ability of<br>Matrix Evolution in the Real World.  When Dukemon is pulled into the D-Reaper's bubble,<br>Takato and Guilmon encounter... Juri?!</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (English Dub) - Episode 19 - Karaoke Crisis</h3></th>
+<th><h3 align="center">Digimon Tamers (Spanish Dub) - Episode 44 - The Mystery Girl! Dobermon Delivers a Miracle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/38f56ec4bcf60d67834c66dff7685a881740314161_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7ff2ed11f006acc92b3abbfe6b0e1bed1716214163_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/9/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN9GP/karaoke-crisis">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVED7N/the-mystery-girl-dobermon-delivers-a-miracle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The gang goes to karaoke! But how will Shizuka manage?</p>
+<p align="center">When Takato tries to call Juri's family, he learns that she's gone missing, but he<br>keeps seeing her at various places around town. When the Tamers come across another girl<br>who's been searching for them, she and her Digimon bring a power to help them<br>fight the D-Reaper in the Real World!</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (German Dub) - Episode 18 - A Homerun Promise</h3></th>
+<th><h3 align="center">Digimon Tamers (Portuguese Dub) - Episode 44 - The Mystery Girl! Dobermon Delivers a Miracle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ed8f7d50ff445814782fcabb0ca329be1739713953_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7ff2ed11f006acc92b3abbfe6b0e1bed1716214163_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/9/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD389J/a-homerun-promise">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MXQN/the-mystery-girl-dobermon-delivers-a-miracle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's time for the big game. Will the Rentaro Family win and ensure the baseball<br>team's survival?</p>
+<p align="center">When Takato tries to call Juri's family, he learns that she's gone missing, but he<br>keeps seeing her at various places around town. When the Tamers come across another girl<br>who's been searching for them, she and her Digimon bring a power to help them<br>fight the D-Reaper in the Real World!</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (English Dub) - Episode 18 - A Homerun Promise</h3></th>
+<th><h3 align="center">Digimon Tamers (Spanish Dub) - Episode 43 - Connection of Hearts. The Resurrected Beelzebumon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ed8f7d50ff445814782fcabb0ca329be1739713953_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9835033ecfc44fde5975c5b15fb9d3d01716214058_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/9/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM01W1/a-homerun-promise">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM75Q/connection-of-hearts-the-resurrected-beelzebumon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's time for the big game. Will the Rentaro Family win and ensure the baseball<br>team's survival?</p>
+<p align="center">Impmon makes his way to see Ai and Mako, the children that formerly fought over<br>him. But when he sees the Tamers fighting in Nishi-Shinjuku, he realizes that he still<br>has things he can do in this fight!</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 45 - Time to Fillet a Dragon Fish</h3></th>
+<th><h3 align="center">Digimon Tamers (Portuguese Dub) - Episode 43 - Connection of Hearts. The Resurrected Beelzebumon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/76047dde0ed2a5ebd75431bea90cbed61740294626_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9835033ecfc44fde5975c5b15fb9d3d01716214058_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/9/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1W95/time-to-fillet-a-dragon-fish">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NJEK/connection-of-hearts-the-resurrected-beelzebumon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku's plan to reunite his party ends with him fighting an overpowered dragon eel.</p>
+<p align="center">Impmon makes his way to see Ai and Mako, the children that formerly fought over<br>him. But when he sees the Tamers fighting in Nishi-Shinjuku, he realizes that he still<br>has things he can do in this fight!</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (German Dub) - Episode 44 - Revive, Broken City, Your Peace At an End</h3></th>
+<th><h3 align="center">Digimon Tamers (Spanish Dub) - Episode 42 - The City Attacked by the D-Reaper. The Tamers' Determination</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffc505589a097c353866d5da94af12541739689403_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f504b4acd6875717cf42d89e56c5f8001716214027_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/9/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MW71/revive-broken-city-your-peace-at-an-end">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK9W4/the-city-attacked-by-the-d-reaper-the-tamers-determination">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku and his new party fight on the ghost ship and unlock the next stage<br>of the Ctarnidd quest: an underwater city!</p>
+<p align="center">The kids are horrified to learn that the D-Reaper has arrived in the Real World.<br>Leaving their families behind, Takato, Jian and Ruki head for the tunnel underneath the city<br>and towards the D-Reaper.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (French Dub) - Episode 44 - Revive, Broken City, Your Peace At an End</h3></th>
+<th><h3 align="center">Digimon Tamers (Portuguese Dub) - Episode 42 - The City Attacked by the D-Reaper. The Tamers' Determination</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ffc505589a097c353866d5da94af12541739689403_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f504b4acd6875717cf42d89e56c5f8001716214027_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/9/2025</td>
+<td align="center">3/11/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5QXG/revive-broken-city-your-peace-at-an-end">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWPNM/the-city-attacked-by-the-d-reaper-the-tamers-determination">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sunraku and his new party fight on the ghost ship and unlock the next stage<br>of the Ctarnidd quest: an underwater city!</p>
+<p align="center">The kids are horrified to learn that the D-Reaper has arrived in the Real World.<br>Leaving their families behind, Takato, Jian and Ruki head for the tunnel underneath the city<br>and towards the D-Reaper.</p>
 </td>
 </tr>
 </table>
