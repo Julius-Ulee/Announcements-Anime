@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 13, 2025, 8:10:11 AM</em></p>
+<p align="center"><em>Updated on: Mar 13, 2025, 7:29:34 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba ON STAGE - Demon Slayer: Kimetsu no Yaiba ON STAGE -Entertainment District Arc-</h3></th>
+<th><h3 align="center">My Tiny Senpai (Tamil Dub) - Episode 12 - A Story About the Tiny Senpai Where I Work</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/aaf122d9a54b430938fc93b58ad4ae661741805763_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/48e06475817badf367e3b16f8602d0b01696089180_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWPQ8/demon-slayer-kimetsu-no-yaiba-on-stage-entertainment-district-arc-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX59EK/a-story-about-the-tiny-senpai-where-i-work">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After overcoming the fierce battle at the Entertainment District, Tanjiro, Nezuko, Zenitsu, Inosuke, and Uzui<br>gather together to reflect and create a report of the incidents. From their encounter with<br>Uzui at the Butterfly Mansion, to their infiltration of the Entertainment District, and their battle<br>to the death against Upper Rank Demons.</p>
+<p align="center">Yamagishi has finished working on her Meowtaro game and wants Shinozaki to play it. Things<br>become stressful for Shinozaki and Shiori when some of the game's dialog hits too close<br>to home. Later on everyone tries to make plans together for Golden Week.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba ON STAGE - Demon Slayer: Kimetsu no Yaiba ON STAGE -Mugen Train Arc-</h3></th>
+<th><h3 align="center">My Tiny Senpai (Telugu Dub) - Episode 12 - A Story About the Tiny Senpai Where I Work</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d7070d4e550ceb54bd4aa87eae5b5a451741805647_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/48e06475817badf367e3b16f8602d0b01696089180_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5978/demon-slayer-kimetsu-no-yaiba-on-stage-mugen-train-arc-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3MKP/a-story-about-the-tiny-senpai-where-i-work">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tanjiro, Zenitsu, and Inosuke were at the Butterfly Mansion resting to heal the wounds they<br>beared during the intense life or death battle at the Mugen Train. One day, seeing<br>Tanjiro feeling deeply sorrowful in memory of Rengoku, Zenitsu and Inosuke try to figure out<br>a way to make him feel better but...</p>
+<p align="center">Yamagishi has finished working on her Meowtaro game and wants Shinozaki to play it. Things<br>become stressful for Shinozaki and Shiori when some of the game's dialog hits too close<br>to home. Later on everyone tries to make plans together for Golden Week.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba ON STAGE - Demon Slayer: Kimetsu no Yaiba ON STAGE</h3></th>
+<th><h3 align="center">My Tiny Senpai (Tamil Dub) - Episode 11 - Can I Give You a Big Hug?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/64ba31a92158e409f8a7b1f590fc66a11741805163_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/266f0494ea83cf5bc48a9e89b5039b971695485157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZK4D/demon-slayer-kimetsu-no-yaiba-on-stage">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MXKZ/can-i-give-you-a-big-hug">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After overcoming the fierce battle at the Entertainment District, Tanjiro, Nezuko, Zenitsu, Inosuke and Uzui<br>gather together to reflect and create a report of the incidents. From their encounter with<br>Uzui at the Butterfly Mansion, to their infiltration of the Entertainment District, and their battle<br>to the death against Upper Rank Demons.</p>
+<p align="center">With the new hire competition in full swing, Shinozaki is worried about the pressure Kurusu<br>is dealing with and asks Shiori to help cheer her up. The groups then give<br>their presentations. Who will win the Most Valuable New Hire Award?</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba -Orchestra Concert- - Demon Slayer: Kimetsu no Yaiba -Orchestra Concert- Mugen Train Arc</h3></th>
+<th><h3 align="center">My Tiny Senpai (Telugu Dub) - Episode 11 - Can I Give You a Big Hug?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/be55c8707326a0ed3caca7ddede18e4a1741803784_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/266f0494ea83cf5bc48a9e89b5039b971695485157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3KNX/demon-slayer-kimetsu-no-yaiba-orchestra-concert-mugen-train-arc">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWP4Q/can-i-give-you-a-big-hug">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">With the new hire competition in full swing, Shinozaki is worried about the pressure Kurusu<br>is dealing with and asks Shiori to help cheer her up. The groups then give<br>their presentations. Who will win the Most Valuable New Hire Award?</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba -Orchestra Concert- - Demon Slayer: Kimetsu no Yaiba -Orchestra Concert-</h3></th>
+<th><h3 align="center">My Tiny Senpai (Tamil Dub) - Episode 10 - Even If We're Just Playing, He's My Kohai...</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4ba8cfd41346925863773ca8c56dab6f1741806004_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7b4c9bbc121333c9491736843c148eb81694880940_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VX92/demon-slayer-kimetsu-no-yaiba-orchestra-concert-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNP4G/even-if-were-just-playing-hes-my-kohai">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">It's Sunpick's 40th anniversary and the new hire competition is about to kick off. The<br>prize is a vacation to Okinawa for the winner's department. Shinozaki is aiming to win,<br>but Dev Group 1's chief, Akina's old rival, has other plans.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Honey Lemon Soda (English Dub) - Episode 8 - Summon the Courage</h3></th>
+<th><h3 align="center">My Tiny Senpai (Telugu Dub) - Episode 10 - Even If We're Just Playing, He's My Kohai...</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/212e1c09dc672d6b984d4a4435bd86071740592509_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7b4c9bbc121333c9491736843c148eb81694880940_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX59DK/summon-the-courage">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MXGZ/even-if-were-just-playing-hes-my-kohai">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's summer break! Uka, Serina, and Kai all summon their courage and communicate.</p>
+<p align="center">It's Sunpick's 40th anniversary and the new hire competition is about to kick off. The<br>prize is a vacation to Okinawa for the winner's department. Shinozaki is aiming to win,<br>but Dev Group 1's chief, Akina's old rival, has other plans.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Honey Lemon Soda (German Dub) - Episode 7 - I’m Sorry I Love Him</h3></th>
+<th><h3 align="center">My Tiny Senpai (Tamil Dub) - Episode 9 - He Wants to Talk Privately…</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/894f013c07c78b0598102691a5877f411739985224_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e7b9c6495c6230b45df8b163762089811694283088_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ73J1/im-sorry-i-love-him">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2J8X/he-wants-to-talk-privately">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Uka and Serina struggle to open up about their feelings. Can they figure it out<br>over summer break?</p>
+<p align="center">Shinozaki and Shiori are asked to get some old Meowtaro merchandise from the basement storage.<br>While looking through things a couple co-workers wander in looking for some alone time and<br>Shinozaki and Shiori quickly hide.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Honey Lemon Soda (French Dub) - Episode 7 - I’m Sorry I Love Him</h3></th>
+<th><h3 align="center">My Tiny Senpai (Telugu Dub) - Episode 9 - He Wants to Talk Privately…</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/894f013c07c78b0598102691a5877f411739985224_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e7b9c6495c6230b45df8b163762089811694283088_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKEWD/im-sorry-i-love-him">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0J7M/he-wants-to-talk-privately">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Uka and Serina struggle to open up about their feelings. Can they figure it out<br>over summer break?</p>
+<p align="center">Shinozaki and Shiori are asked to get some old Meowtaro merchandise from the basement storage.<br>While looking through things a couple co-workers wander in looking for some alone time and<br>Shinozaki and Shiori quickly hide.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ameku M.D.: Doctor Detective (English Dub) - Episode 8 - The Night When the Angels Danced [Part 1]</h3></th>
+<th><h3 align="center">My Tiny Senpai (Tamil Dub) - Episode 8 - Isn’t It Time for Good Boys to Go to Sleep?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f0861734703e72da718ff7b34d0f81df1740588671_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3aadfb27a81019fdf918c4840e0c30cc1693678416_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJDXJ/the-night-when-the-angels-danced-part-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKEWQ/isnt-it-time-for-good-boys-to-go-to-sleep">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Several hospital staff report an angel in one room, and a pediatrician asks Takao for<br>help with three children.</p>
+<p align="center">The office gang decide to use some of their paid time off to go on<br>a hot springs vacation. At the inn's pool Shinozaki finds out that Shiori can't swim<br>so he wants to help teach her.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ameku M.D.: Doctor Detective (Hindi Dub) - Episode 7 - Prescribed Poison</h3></th>
+<th><h3 align="center">My Tiny Senpai (Telugu Dub) - Episode 8 - Isn’t It Time for Good Boys to Go to Sleep?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd3ee2da9b767c9a6c1aba503ff23b621739985174_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3aadfb27a81019fdf918c4840e0c30cc1693678416_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MXDE/prescribed-poison">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZKDV/isnt-it-time-for-good-boys-to-go-to-sleep">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takao gets sued for malpractice! The hospital director uses the lawsuit to push for the<br>disbandment of the Department of Investigative Pathology.</p>
+<p align="center">The office gang decide to use some of their paid time off to go on<br>a hot springs vacation. At the inn's pool Shinozaki finds out that Shiori can't swim<br>so he wants to help teach her.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (English Dub) - Episode 62 - Regulus Corneas</h3></th>
+<th><h3 align="center">My Tiny Senpai (Tamil Dub) - Episode 7 - You Sure You Don’t Want One?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/634f2ad40c42003fce6508fb53a78bfb1740581769_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4aecce0af4dcf962c64739c229317dc11693047944_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32E5M/regulus-corneas">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ73J3/you-sure-you-dont-want-one">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Emilia seeks the aid of Regulus's wives in dethroning the little king once and for<br>all.</p>
+<p align="center">Returning to work after New Year's Shiori thinks she's gotten taller and she asks Shinozaki<br>if he notices anything different about her. Later, Yutaka swipes her brother's phone and sends<br>a message to Shiori asking for a picture.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (Portuguese Dub) - Episode 61 - Liliana Masquerade</h3></th>
+<th><h3 align="center">My Tiny Senpai (Telugu Dub) - Episode 7 - You Sure You Don’t Want One?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/91ef6ee682753de8b267c1cd538a6e6d1739974148_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4aecce0af4dcf962c64739c229317dc11693047944_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3K7X/liliana-masquerade">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3KJM/you-sure-you-dont-want-one">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Liliana gives the performance of her lifetime to help Priscilla defeat the Sin Archbishop of<br>Wrath.</p>
+<p align="center">Returning to work after New Year's Shiori thinks she's gotten taller and she asks Shinozaki<br>if he notices anything different about her. Later, Yutaka swipes her brother's phone and sends<br>a message to Shiori asking for a picture.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (German Dub) - Episode 61 - Liliana Masquerade</h3></th>
+<th><h3 align="center">My Tiny Senpai (Tamil Dub) - Episode 6 - I Can’t Resist My Instincts!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/91ef6ee682753de8b267c1cd538a6e6d1739974148_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/36b021bb557550f01792d35f9a6408d01692468267_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZKND/liliana-masquerade">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJDX0/i-cant-resist-my-instincts">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Liliana gives the performance of her lifetime to help Priscilla defeat the Sin Archbishop of<br>Wrath.</p>
+<p align="center">It's the end of the year, and as Shinozaki and Shiori are filled with anticipation<br>for a new year, Chinatsu is staring down a deadline for her new dojinshi, with<br>her only help coming from an unexpected individual.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (French Dub) - Episode 61 - Liliana Masquerade</h3></th>
+<th><h3 align="center">My Tiny Senpai (Telugu Dub) - Episode 6 - I Can’t Resist My Instincts!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/91ef6ee682753de8b267c1cd538a6e6d1739974148_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/36b021bb557550f01792d35f9a6408d01692468267_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0JDP/liliana-masquerade">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKE7Q/i-cant-resist-my-instincts">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Liliana gives the performance of her lifetime to help Priscilla defeat the Sin Archbishop of<br>Wrath.</p>
+<p align="center">It's the end of the year, and as Shinozaki and Shiori are filled with anticipation<br>for a new year, Chinatsu is staring down a deadline for her new dojinshi, with<br>her only help coming from an unexpected individual.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (Spanish Dub) - Episode 61 - Liliana Masquerade</h3></th>
+<th><h3 align="center">My Tiny Senpai (Tamil Dub) - Episode 5 - Shall We Go Somewhere Before We Head Home?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/91ef6ee682753de8b267c1cd538a6e6d1739974148_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c06ea172c038aa90cec18433ff17ab401691256905_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MX9X/liliana-masquerade">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW09ME/shall-we-go-somewhere-before-we-head-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Liliana gives the performance of her lifetime to help Priscilla defeat the Sin Archbishop of<br>Wrath.</p>
+<p align="center">On their way back to the office from a client meeting, Shinozaki and Shiori are<br>approached by a reporter looking to do a story on a couple and, after some<br>discussion, the pair decide to pretend to be a couple for her video.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Portuguese Dub) - Episode 8 - Let's Choose a Party Name!</h3></th>
+<th><h3 align="center">My Tiny Senpai (Telugu Dub) - Episode 5 - Shall We Go Somewhere Before We Head Home?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3bfb09b545c36f2ae12fa5f2e6b8bfdc1739977583_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c06ea172c038aa90cec18433ff17ab401691256905_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3M5N/lets-choose-a-party-name">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ73X3/shall-we-go-somewhere-before-we-head-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After welcoming Reyva to their group, they complete the carriage to be offered to the<br>king of Barcula.</p>
+<p align="center">On their way back to the office from a client meeting, Shinozaki and Shiori are<br>approached by a reporter looking to do a story on a couple and, after some<br>discussion, the pair decide to pretend to be a couple for her video.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (German Dub) - Episode 8 - Let's Choose a Party Name!</h3></th>
+<th><h3 align="center">My Tiny Senpai (Tamil Dub) - Episode 4 - When It Comes to Him, I'm Not Sure Yet...</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3bfb09b545c36f2ae12fa5f2e6b8bfdc1739977583_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/abf9d45a835fb7b26644acc83f97666a1690653600_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32EKM/lets-choose-a-party-name">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MXK9/when-it-comes-to-him-im-not-sure-yet">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After welcoming Reyva to their group, they complete the carriage to be offered to the<br>king of Barcula.</p>
+<p align="center">Chinatsu has plans to attend a cosplay event on a day off from work and<br>doesn't want her coworkers to know. While on her way she happens to bump into<br>her manager. Later on, Katase has a piece of chocolate for Halloween that contains alcohol.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Spanish Dub) - Episode 8 - Let's Choose a Party Name!</h3></th>
+<th><h3 align="center">My Tiny Senpai (Telugu Dub) - Episode 4 - When It Comes to Him, I'm Not Sure Yet...</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3bfb09b545c36f2ae12fa5f2e6b8bfdc1739977583_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/abf9d45a835fb7b26644acc83f97666a1690653600_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NJWM/lets-choose-a-party-name">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJDE0/when-it-comes-to-him-im-not-sure-yet">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After welcoming Reyva to their group, they complete the carriage to be offered to the<br>king of Barcula.</p>
+<p align="center">Chinatsu has plans to attend a cosplay event on a day off from work and<br>doesn't want her coworkers to know. While on her way she happens to bump into<br>her manager. Later on, Katase has a piece of chocolate for Halloween that contains alcohol.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Hindi Dub) - Episode 8 - Let's Choose a Party Name!</h3></th>
+<th><h3 align="center">My Tiny Senpai (Tamil Dub) - Episode 3 - Is This How I Look to You?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3bfb09b545c36f2ae12fa5f2e6b8bfdc1739977583_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f6e075d957eefe639bad83c47d56489d1689443594_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MXNE/lets-choose-a-party-name">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NJDP/is-this-how-i-look-to-you">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After welcoming Reyva to their group, they complete the carriage to be offered to the<br>king of Barcula.</p>
+<p align="center">Shinozaki and Shiori reminisce over past experiences at work during lunch with Akina. On their<br>way back to the office they happen upon a crane game with plushies that remind<br>them of one another.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Tamil Dub) - Episode 8 - Let's Choose a Party Name!</h3></th>
+<th><h3 align="center">My Tiny Senpai (Telugu Dub) - Episode 3 - Is This How I Look to You?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3bfb09b545c36f2ae12fa5f2e6b8bfdc1739977583_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f6e075d957eefe639bad83c47d56489d1689443594_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/12/2025</td>
+<td align="center">3/13/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW093K/lets-choose-a-party-name">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW09XE/is-this-how-i-look-to-you">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After welcoming Reyva to their group, they complete the carriage to be offered to the<br>king of Barcula.</p>
+<p align="center">Shinozaki and Shiori reminisce over past experiences at work during lunch with Akina. On their<br>way back to the office they happen upon a crane game with plushies that remind<br>them of one another.</p>
 </td>
 </tr>
 </table>
