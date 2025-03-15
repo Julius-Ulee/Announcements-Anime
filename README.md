@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 14, 2025, 7:28:04 PM</em></p>
+<p align="center"><em>Updated on: Mar 15, 2025, 8:08:06 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (English Dub) - Episode 21 - The Dragon King's Palm</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time (English Dub) - Episode 8 - I May Be a Useless Healer, but I'm Going to Do Everything I Can</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6fa7901d3a70e7dd72f6ef6d1074511f1740676569_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bb20b3f02d21edadcc66bac9003895721740758654_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MXWZ/the-dragon-kings-palm">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW09NW/i-may-be-a-useless-healer-but-im-going-to-do-everything-i-can">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">President Kokuryu of Dragon Bank makes Gaku, Haru, and Kedoin an offer they have no<br>reason to refuse.</p>
+<p align="center">As Alina and Jade struggle in battle against a dark god, Lululee questions her role<br>as a healer.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Hindi Dub) - Episode 20 - The Price of Glory</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time (German Dub) - Episode 7 - I've Waited Forever for the Centennial Festival, so I'm Gonna Enjoy It, No Matter What</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/693699b77cfd1a3f22faad2cd2d80af31740075065_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/63238864837a92128ea35002907da7c31740157681_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3K8M/the-price-of-glory">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MX5Q/ive-waited-forever-for-the-centennial-festival-so-im-gonna-enjoy-it-no-matter-what">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gaku meets his high school crush at a class reunion.</p>
+<p align="center">While Alina finally enjoys her first Centennial Festival, Lululee confronts the shadows of her past.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Tamil Dub) - Episode 20 - The Price of Glory</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Hindi Dub) - Episode 8 - Senpai</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/693699b77cfd1a3f22faad2cd2d80af31740075065_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7d3e1123c27f4cf276f532b04f0cd97c1740152041_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZKJV/the-price-of-glory">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MXXE/senpai">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gaku meets his high school crush at a class reunion.</p>
+<p align="center">A mysterious girl suddenly appears before Saito and he soon finds out that she's Akane's<br>little sister.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Telugu Dub) - Episode 20 - The Price of Glory</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Tamil Dub) - Episode 8 - Senpai</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/693699b77cfd1a3f22faad2cd2d80af31740075065_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7d3e1123c27f4cf276f532b04f0cd97c1740152041_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0J1M/the-price-of-glory">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX599N/senpai">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gaku meets his high school crush at a class reunion.</p>
+<p align="center">A mysterious girl suddenly appears before Saito and he soon finds out that she's Akane's<br>little sister.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Portuguese Dub) - Episode 43 - The Great Kyoto Fire (Part One)</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Telugu Dub) - Episode 8 - Senpai</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b08cfceae0088a3d220d753a157c58d61740075954_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7d3e1123c27f4cf276f532b04f0cd97c1740152041_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKEPQ/the-great-kyoto-fire-part-one">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWPP2/senpai">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It is now midnight. Goichi and the others start moving as it is time to<br>put the Great Kyoto Fire plan into action, when they witness Shishio's other underlings being<br>chased by the police. Henya is annoyed that the fires haven't started on time. Meanwhile,<br>an order is dispatched to the Ten Swords, and they start moving upon hearing their<br>orders. Behind the scenes, Kenshin and the rest arrive at Osaka Bay only to come<br>across something.</p>
+<p align="center">A mysterious girl suddenly appears before Saito and he soon finds out that she's Akane's<br>little sister.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Spanish Dub) - Episode 43 - The Great Kyoto Fire (Part One)</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Hindi Dub) - Episode 19 - Betrayal</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b08cfceae0088a3d220d753a157c58d61740075954_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9f08d4dc0db9c32136eb80288eda55951740159371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2J5X/the-great-kyoto-fire-part-one">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVE113/betrayal">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It is now midnight. Goichi and the others start moving as it is time to<br>put the Great Kyoto Fire plan into action, when they witness Shishio's other underlings being<br>chased by the police. Henya is annoyed that the fires haven't started on time. Meanwhile,<br>an order is dispatched to the Ten Swords, and they start moving upon hearing their<br>orders. Behind the scenes, Kenshin and the rest arrive at Osaka Bay only to come<br>across something.</p>
+<p align="center">The battle continues to go poorly for Goku and his companions. After much hesitation, Glorio<br>puts Arinsu's secret plan into action! As his friends watch in awe, what will Glorio's<br>betrayal set in motion?!</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Hindi Dub) - Episode 43 - The Great Kyoto Fire (Part One)</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Tamil Dub) - Episode 19 - Betrayal</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b08cfceae0088a3d220d753a157c58d61740075954_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9f08d4dc0db9c32136eb80288eda55951740159371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM28G/the-great-kyoto-fire-part-one">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J77E/betrayal">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It is now midnight. Goichi and the others start moving as it is time to<br>put the Great Kyoto Fire plan into action, when they witness Shishio's other underlings being<br>chased by the police. Henya is annoyed that the fires haven't started on time. Meanwhile,<br>an order is dispatched to the Ten Swords, and they start moving upon hearing their<br>orders. Behind the scenes, Kenshin and the rest arrive at Osaka Bay only to come<br>across something.</p>
+<p align="center">The battle continues to go poorly for Goku and his companions. After much hesitation, Glorio<br>puts Arinsu's secret plan into action! As his friends watch in awe, what will Glorio's<br>betrayal set in motion?!</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (English Dub) - Episode 43 - The Great Kyoto Fire (Part One)</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Telugu Dub) - Episode 19 - Betrayal</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b08cfceae0088a3d220d753a157c58d61740075954_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9f08d4dc0db9c32136eb80288eda55951740159371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1KWX/the-great-kyoto-fire-part-one">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1KK8/betrayal">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It is now midnight. Goichi and the others start moving as it is time to<br>put the Great Kyoto Fire plan into action, when they witness Shishio's other underlings being<br>chased by the police. Henya is annoyed that the fires haven't started on time. Meanwhile,<br>an order is dispatched to the Ten Swords, and they start moving upon hearing their<br>orders. Behind the scenes, Kenshin and the rest arrive at Osaka Bay only to come<br>across something.</p>
+<p align="center">The battle continues to go poorly for Goku and his companions. After much hesitation, Glorio<br>puts Arinsu's secret plan into action! As his friends watch in awe, what will Glorio's<br>betrayal set in motion?!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc (English Dub) - Episode 4 - And then there were none</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (English Dub) - Episode 10 - Ocean</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a9b1f95d242ff410d0de435853baaa751737070543_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c5993c044460a69bc63176113609962b1734105843_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW09EE/and-then-there-were-none">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0JJ2/ocean">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The mysterious boss of Xia Fei comes to the boys' rescue, but after the first<br>exchange of words, Lu Guang notices that something isn't right.</p>
+<p align="center">Goku and his companions arrive at the mystic Second Demon World where a giant ocean<br>spreads as far as the eye can see! The party is amazed at the new<br>world but is immediately attacked by Gendarmerie that have been sent by Gomah!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Anyway, I'm Falling in Love with You. (English Dub) - Episode 8 - The Shape of One-Sided Love</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (English Dub) - Episode 32 - The Empress Dowager</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/326654928a2701b7f534fefde58e27b41740676551_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2dbd3d143531aa494fb0c9e7abdfcc821740757602_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NJ1P/the-shape-of-one-sided-love">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ733D/the-empress-dowager">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Mizuho goes out with Shugo and Togo and strongly contemplates her feelings for Kizuki.</p>
+<p align="center">Maomao's reputation for resolving conflicts reaches the empress dowager, who will ask for her help<br>to unravel a mystery that won't leave her mind.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- - Episode 46 - Tears</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (German Dub) - Episode 31 - The Shrine of Choosing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a8081337029ae5a13689ac3822d475b11741887467_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/320edf06ef7e17fc5c7e3636c57c055c1740154684_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32NJZ/tears">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKE9Q/the-shrine-of-choosing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In Kyoto, Kaoru quickly notices something strange with Misao, as Misao comes back to the<br>location where a fire was put out. At Megumi's clinic, Omi awakens, bringing tears of<br>relief to Juro. Meanwhile, a black tag is put on Tokuji's toe to mark that<br>he is dead. Kenshin and the others come back to Aoiya, where they learn from<br>Omasu that Okina has woken up.</p>
+<p align="center">Maomao directs her curiosity towards an old, oddly-shaped building.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME - Episode 23 - MEDIA WARS</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (French Dub) - Episode 31 - The Shrine of Choosing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7eaf39fb09bf59a6b68a44dafa075f2f1741885391_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/320edf06ef7e17fc5c7e3636c57c055c1740154684_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3V99/media-wars">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2J0X/the-shrine-of-choosing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Trillion Game, Inc. goes head-to-head against Dragon Bank in the media industry.</p>
+<p align="center">Maomao directs her curiosity towards an old, oddly-shaped building.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Anyway, I'm Falling in Love with You. - Episode 10 - Impulse</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Spanish Dub) - Episode 31 - The Shrine of Choosing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/541b7f8d88ea2d363f2fb3d60faed48b1741882233_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/320edf06ef7e17fc5c7e3636c57c055c1740154684_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J2KW/impulse">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNP91/the-shrine-of-choosing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The group goes on a camping trip! Airu tells Shin to be more selfish and<br>he follows his suggestion.</p>
+<p align="center">Maomao directs her curiosity towards an old, oddly-shaped building.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Momentary Lily - Episode 11 - Cooking Together With the Untouchable Girl</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Hindi Dub) - Episode 31 - The Shrine of Choosing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5299987d7d3aa10f199486560e50e7611741880496_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/320edf06ef7e17fc5c7e3636c57c055c1740154684_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2GGP/cooking-together-with-the-untouchable-girl">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MXWE/the-shrine-of-choosing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hinageshi hacks the facility's AI, forcing it to explain its role.</p>
+<p align="center">Maomao directs her curiosity towards an old, oddly-shaped building.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">AQUARION Myth of Emotions - Episode 10 - Inside a Totally Changed World</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Tamil Dub) - Episode 31 - The Shrine of Choosing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5620a68c98b060e65260d71bb7522cdd1741879822_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/320edf06ef7e17fc5c7e3636c57c055c1740154684_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD35DX/inside-a-totally-changed-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NJJ2/the-shrine-of-choosing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Sakko and friends learn more about their past, they ponder ways to prevent the<br>destructive union of worlds.</p>
+<p align="center">Maomao directs her curiosity towards an old, oddly-shaped building.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ave Mujica - The Die is Cast - - Episode 11 - Te ustus amem.</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Telugu Dub) - Episode 31 - The Shrine of Choosing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9a9fab6dc0acd03a0918995281c569811741877146_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/320edf06ef7e17fc5c7e3636c57c055c1740154684_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2GGM/te-ustus-amem">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MXXQ/the-shrine-of-choosing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">What we are about to show you is the story of a girl with a<br>secret.</p>
+<p align="center">Maomao directs her curiosity towards an old, oddly-shaped building.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Even Given the Worthless "Appraiser" Class,  I'm Actually the Strongest - Episode 10 - Nigun's Darkness</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time - Episode 10 - A Ghost May Show Up During Training, but Nobody Told Me About It</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d0077ff5f772898fe2c0c35f2550d19d1741874674_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f3b9f8136e05f45cb6cb09eaf3de4d281741968899_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M0DK/niguns-darkness">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW04ME/a-ghost-may-show-up-during-training-but-nobody-told-me-about-it">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ein faces Shadow, but in order to defeat him, he would have to hurt Nigun.<br>Is there no other way?</p>
+<p align="center">Jade suspects that the "man in black" who's been luring adventurers into danger is someone<br>he knows very well.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE SCIENCE FUTURE (Tamil Dub) - Episode 10</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 - Episode 34 - A Ghost Story</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/54fb5d34d946d6be98641bcc3dfdfa0f1741874489_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6e498db105721c70e584112a6c08c7111741968829_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK3JD">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJZE5/a-ghost-story">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Maomao joins some women exchanging scary stories on a hot summer night to provide chills.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE SCIENCE FUTURE (Telugu Dub) - Episode 10</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class - Episode 11 - Voice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/54fb5d34d946d6be98641bcc3dfdfa0f1741874507_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/29926083748765be73ede5a2596c693f1741965976_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5PV8">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKN8V/voice">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Saito is invited to a party hosted by Tenryu, and Akane must stay home alone<br>overnight.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE SCIENCE FUTURE (Castilian Dub) - Episode 10</h3></th>
+<th><h3 align="center">FARMAGIA - Episode 10 - Through the Darkness</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7441185a8ba9621a848e96adb6dbbce01741874418_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/04fc807ba00f8d68073c0cadc29cd87d1741961073_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/13/2025</td>
+<td align="center">3/14/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ09M">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWE3Q/through-the-darkness">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">L'Oreille attacks the heroes with her dark arts, and it dredges up paralyzing trauma from<br>Leii's past.</p>
 </td>
 </tr>
 </table>
