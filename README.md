@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 16, 2025, 7:25:53 PM</em></p>
+<p align="center"><em>Updated on: Mar 17, 2025, 8:12:06 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 - Episode 48 - Malice at 100 Meters Per Second</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (English Dub) - Episode 8 - Make It Sound Nice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/88b4dac8e657f302dccb1fc8863e85d61742108091_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/df260b1e5af128438e40550a862fd2e11740879207_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWVXN/malice-at-100-meters-per-second">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VX15/make-it-sound-nice">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rakuro should be training for his tournament match, but finds himself succumbing to the call<br>of SLF.</p>
+<p align="center">Shijima told Nene to kill Amane. Tsukasa told Nene to kill Amane. Amane took Nene<br>stargazing.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 - Episode 10 - Make a Wish</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Spanish Dub) - Episode 7 - Make Sense</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/67141c7c5291e9434c8365ca9ee51fa71742108065_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2e319499a393843370d2c1d0500519671740294606_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3545/make-a-wish">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2JME/make-sense">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When Hanako reveals the truth, Kou gets confused. Nene gets angry.</p>
+<p align="center">Faced with an impossible school life, Nene and Kou enter a mysterious tower to seek<br>the truth within.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece Log: Fish-Man Island Saga (Current) - Luffy vs. Hody! All-Out Red Hawk</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Hindi Dub) - Episode 7 - Make Sense</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/564dd85ae68f357b71ec650a0d60668a1742089396_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2e319499a393843370d2c1d0500519671740294606_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJZNG/luffy-vs-hody-all-out-red-hawk">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XE7X/make-sense">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Decken faints and Noah begins falling back toward Fish-Man Island. An evacuation order is issued,<br>and the entire island falls into chaos. Fukaboshi reveals the terrible truth about Hody and<br>the New Fish-Man Pirates while Luffy launches an all-out attack on Hody.</p>
+<p align="center">Faced with an impossible school life, Nene and Kou enter a mysterious tower to seek<br>the truth within.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (German Dub) - Episode 8 - The Blue Night</h3></th>
+<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (Hindi Dub) - Episode 7 - The Red Ranger and the Sun Forest</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b288db8acca6d1b5b5aff63f932d64381740244361_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0ef6fff6efd103d55e53e605ac20b2ff1740322504_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0J22/the-blue-night">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0912/the-red-ranger-and-the-sun-forest">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shiemi cheers up after Rin suddenly appears before her. After hearing Shiemi's voice, Rin regains<br>consciousness and heads back to the past to see the events all the way through.<br>In the past, Satan's possessed body progressively deteriorates, beginning to break down and go out<br>of control. The Blue Night begins at last. As powerful clergy around the world are<br>engulfed in blue flames one after another, the Myodha Sect in Kyoto, the Three Sages<br>in the Vatican, Shiro and the Knights in the Japan Branch struggle against the dire<br>situation.</p>
+<p align="center">Red and the group set off on a mission to investigate the elves who live<br>in a forest in the middle of a desert.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (French Dub) - Episode 8 - The Blue Night</h3></th>
+<th><h3 align="center">The Red Ranger Becomes an Adventurer in Another World (English Dub) - Episode 7 - The Red Ranger and the Sun Forest</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b288db8acca6d1b5b5aff63f932d64381740244361_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0ef6fff6efd103d55e53e605ac20b2ff1740322504_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNP51/the-blue-night">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJD9G/the-red-ranger-and-the-sun-forest">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shiemi cheers up after Rin suddenly appears before her. After hearing Shiemi's voice, Rin regains<br>consciousness and heads back to the past to see the events all the way through.<br>In the past, Satan's possessed body progressively deteriorates, beginning to break down and go out<br>of control. The Blue Night begins at last. As powerful clergy around the world are<br>engulfed in blue flames one after another, the Myodha Sect in Kyoto, the Three Sages<br>in the Vatican, Shiro and the Knights in the Japan Branch struggle against the dire<br>situation.</p>
+<p align="center">Red and the group set off on a mission to investigate the elves who live<br>in a forest in the middle of a desert.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Exorcist -The Blue Night Saga- (English Dub) - Episode 8 - The Blue Night</h3></th>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 14 - Episode 11 - Shared Inheritance</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b288db8acca6d1b5b5aff63f932d64381740244361_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7f92de82a446fdab89947dac2bd636231742155021_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWP82/the-blue-night">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZED8/shared-inheritance">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shiemi cheers up after Rin suddenly appears before her. After hearing Shiemi's voice, Rin regains<br>consciousness and heads back to the past to see the events all the way through.<br>In the past, Satan's possessed body progressively deteriorates, beginning to break down and go out<br>of control. The Blue Night begins at last. As powerful clergy around the world are<br>engulfed in blue flames one after another, the Myodha Sect in Kyoto, the Three Sages<br>in the Vatican, Shiro and the Knights in the Japan Branch struggle against the dire<br>situation.</p>
+<p align="center">This is the story of a man who's returned to his hometown, for a friend's<br>funeral...</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths! (English Dub) - Episode 8 - One Who Was Once a Friend</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (English Dub) - Episode 20 - The Beautiful and the Bold</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/28909d1620d253d00e1a1d25764e759b1740849446_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d788eb08905de6581715bcf5ad7b36ba1740924877_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3K4K/one-who-was-once-a-friend">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32EMZ/the-beautiful-and-the-bold">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yuke decides to head back into Achromatic Darkness to save Jamie, but Simon stands in<br>the way.</p>
+<p align="center">Mimimi and Nano face off in a Beauty Search contest to determine who'll be exiled<br>from the Rentaro Family.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Korean Audio) - Episode 21 - It was All Worth It</h3></th>
+<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (German Dub) - Episode 19 - Karaoke Crisis</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8be7a55bbacc671d73a2efa0531dfeba1740846195_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/38f56ec4bcf60d67834c66dff7685a881740314161_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3KZK/it-was-all-worth-it">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3MX4/karaoke-crisis">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo tries to cure his mother with the Elixir of Life while preparations for the<br>4th Jeju Island Raid begin.</p>
+<p align="center">The gang goes to karaoke! But how will Shizuka manage?</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (English Dub) - Episode 21 - It was All Worth It</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 46 - Venturing Wolves Then From the Seas to the Skyscrapers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8be7a55bbacc671d73a2efa0531dfeba1740846195_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b266361352922e080051ced9074391c01740903924_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XE9P/it-was-all-worth-it">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2JM7/venturing-wolves-then-from-the-seas-to-the-skyscrapers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo tries to cure his mother with the Elixir of Life while preparations for the<br>4th Jeju Island Raid begin.</p>
+<p align="center">Sunraku joins his teammates at the GGC where he learns more about the favor Katzo<br>needs.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (German Dub) - Episode 20 - Looking Up Was Tiring Me Out</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese Dub) - Episode 45 - Time to Fillet a Dragon Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/29945b927a6c4d2dc4cd23c3360e7d281740244072_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/76047dde0ed2a5ebd75431bea90cbed61740294626_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0JK2/looking-up-was-tiring-me-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0JQ2/time-to-fillet-a-dragon-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seeking the remaining ingredient for the Elixir of Life, Jinwoo continues his conquest of the<br>Demon's Castle.</p>
+<p align="center">Sunraku's plan to reunite his party ends with him fighting an overpowered dragon eel.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (French Dub) - Episode 20 - Looking Up Was Tiring Me Out</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (German Dub) - Episode 45 - Time to Fillet a Dragon Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/29945b927a6c4d2dc4cd23c3360e7d281740244072_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/76047dde0ed2a5ebd75431bea90cbed61740294626_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNPQ1/looking-up-was-tiring-me-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNP11/time-to-fillet-a-dragon-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seeking the remaining ingredient for the Elixir of Life, Jinwoo continues his conquest of the<br>Demon's Castle.</p>
+<p align="center">Sunraku's plan to reunite his party ends with him fighting an overpowered dragon eel.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Spanish Dub) - Episode 20 - Looking Up Was Tiring Me Out</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (French Dub) - Episode 45 - Time to Fillet a Dragon Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/29945b927a6c4d2dc4cd23c3360e7d281740244072_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/76047dde0ed2a5ebd75431bea90cbed61740294626_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MX1E/looking-up-was-tiring-me-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MXQE/time-to-fillet-a-dragon-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seeking the remaining ingredient for the Elixir of Life, Jinwoo continues his conquest of the<br>Demon's Castle.</p>
+<p align="center">Sunraku's plan to reunite his party ends with him fighting an overpowered dragon eel.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Castilian Dub) - Episode 20 - Looking Up Was Tiring Me Out</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 45 - Time to Fillet a Dragon Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/29945b927a6c4d2dc4cd23c3360e7d281740244072_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/76047dde0ed2a5ebd75431bea90cbed61740294626_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX598N/looking-up-was-tiring-me-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX59ZN/time-to-fillet-a-dragon-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seeking the remaining ingredient for the Elixir of Life, Jinwoo continues his conquest of the<br>Demon's Castle.</p>
+<p align="center">Sunraku's plan to reunite his party ends with him fighting an overpowered dragon eel.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Hindi Dub) - Episode 20 - Looking Up Was Tiring Me Out</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 45 - Time to Fillet a Dragon Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/29945b927a6c4d2dc4cd23c3360e7d281740244072_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/76047dde0ed2a5ebd75431bea90cbed61740294626_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWP72/looking-up-was-tiring-me-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWPJ2/time-to-fillet-a-dragon-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seeking the remaining ingredient for the Elixir of Life, Jinwoo continues his conquest of the<br>Demon's Castle.</p>
+<p align="center">Sunraku's plan to reunite his party ends with him fighting an overpowered dragon eel.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Tamil Dub) - Episode 20 - Looking Up Was Tiring Me Out</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 45 - Time to Fillet a Dragon Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/29945b927a6c4d2dc4cd23c3360e7d281740244072_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/76047dde0ed2a5ebd75431bea90cbed61740294626_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3MEJ/looking-up-was-tiring-me-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3MXJ/time-to-fillet-a-dragon-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seeking the remaining ingredient for the Elixir of Life, Jinwoo continues his conquest of the<br>Demon's Castle.</p>
+<p align="center">Sunraku's plan to reunite his party ends with him fighting an overpowered dragon eel.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Telugu Dub) - Episode 20 - Looking Up Was Tiring Me Out</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Tamil Dub) - Episode 45 - Time to Fillet a Dragon Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/29945b927a6c4d2dc4cd23c3360e7d281740244072_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/76047dde0ed2a5ebd75431bea90cbed61740294626_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NJ32/looking-up-was-tiring-me-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ739D/time-to-fillet-a-dragon-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seeking the remaining ingredient for the Elixir of Life, Jinwoo continues his conquest of the<br>Demon's Castle.</p>
+<p align="center">Sunraku's plan to reunite his party ends with him fighting an overpowered dragon eel.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Italian Dub) - Episode 20 - Looking Up Was Tiring Me Out</h3></th>
+<th><h3 align="center">Shangri-La Frontier Season 2 (Telugu Dub) - Episode 45 - Time to Fillet a Dragon Fish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/29945b927a6c4d2dc4cd23c3360e7d281740244072_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/76047dde0ed2a5ebd75431bea90cbed61740294626_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MX0Q/looking-up-was-tiring-me-out">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKE28/time-to-fillet-a-dragon-fish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seeking the remaining ingredient for the Elixir of Life, Jinwoo continues his conquest of the<br>Demon's Castle.</p>
+<p align="center">Sunraku's plan to reunite his party ends with him fighting an overpowered dragon eel.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Leveling Season 2 -Arise from the Shadow- (Portuguese Dub) - Episode 19 - The 10th S-Rank Hunter</h3></th>
+<th><h3 align="center">ZENSHU (Telugu Dub) - Episode 11</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ad0478978006763a1df8cd8b2cbf4f0d1739620302_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4bc8894ab42c547a64ab81dea4451e491742136846_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJDM5/the-10th-s-rank-hunter">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N95W">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jinwoo officially becomes an S-Rank hunter, allowing him to finalize his preparations for the Demon's<br>Castle.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Witchy Precure!! ~MIRAI DAYS~ - Episode 10 - Now! Non-Magic World! Where’s Riko? </h3></th>
+<th><h3 align="center">ZENSHU (Tamil Dub) - Episode 11</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/27625df3bf9933ab563810f9d602fba91742064798_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4bc8894ab42c547a64ab81dea4451e491742136861_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7P9E/now-non-magic-world-wheres-riko-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEVZ9">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The principal of the magic school tells Riko that the next Linkle Stone will appear<br>in the non-magic world and Riko follows Mirai onto the snail train. Upon arriving at<br>the station, they find the Topaz Linkle Stone. However, a crow flies away with the<br>topaz...</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying - Episode 11 - Goya? Gooyaa?</h3></th>
+<th><h3 align="center">ZENSHU (Hindi Dub) - Episode 11</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/71b7bd030eb148d4a4674b3c27473be91742054779_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4bc8894ab42c547a64ab81dea4451e491742136809_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/15/2025</td>
+<td align="center">3/16/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J8Q4/goya-gooyaa">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5XZX">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Teruaki learns the truth about goya and gooyaa.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
