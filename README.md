@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 19, 2025, 7:29:43 PM</em></p>
+<p align="center"><em>Updated on: Mar 20, 2025, 8:09:23 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">SK8 the Infinity EXTRA PART - SK8 the Infinity EXTRA PART</h3></th>
+<th><h3 align="center">Honey Lemon Soda (English Dub) - Episode 9 - Goodbye, Bumbling Self</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8ed9c4001ecf101c2d0adad1deeb54ae1742352077_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5872ef0c7ca9749e530351e850f59af71741196430_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMKX8/sk8-the-infinity-extra-part">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0KX7/goodbye-bumbling-self">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">SK8 the Infinity EXTRA PART features a slice of life four separate short stories of<br>Reki and the gang! The first centers on Reki, Langa, and Miya; the second centers<br>on Joe and Cherry; the third centers on ADAM and Tadashi; the fourth centers on<br>SHADOW.</p>
+<p align="center">Uka's father is concerned about Hachimitsu High again. Can he be convinced that it's the<br>right place for her?</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tying the Knot with an Amagami Sister (English Dub) - Episode 21 - Shirahi's Mirage ~Divergence~</h3></th>
+<th><h3 align="center">Honey Lemon Soda (German Dub) - Episode 8 - Summon the Courage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/852653252859aa7062dc2cd9b330f82a1741103775_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/212e1c09dc672d6b984d4a4435bd86071740592509_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/18/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKQD7/shirahis-mirage-divergence">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1EMZ/summon-the-courage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shirahi is heartbroken when she sees the growing relationship between Uryu and the sisters.</p>
+<p align="center">It's summer break! Uka, Serina, and Kai all summon their courage and communicate.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tying the Knot with an Amagami Sister (Portuguese Dub) - Episode 20 - Nadeshiko Hide-and-Seek ~Attraction~</h3></th>
+<th><h3 align="center">Honey Lemon Soda (French Dub) - Episode 8 - Summon the Courage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8d046e27a9f467439c933c0c09bf29571740499467_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/212e1c09dc672d6b984d4a4435bd86071740592509_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/18/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ5G3/nadeshiko-hide-and-seek-attraction">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VZKD/summon-the-courage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the culture festival comes to a close, Yuna reflects on what really drives her.</p>
+<p align="center">It's summer break! Uka, Serina, and Kai all summon their courage and communicate.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tying the Knot with an Amagami Sister (French Dub) - Episode 20 - Nadeshiko Hide-and-Seek ~Attraction~</h3></th>
+<th><h3 align="center">Ameku M.D.: Doctor Detective (English Dub) - Episode 9 - The Night When the Angels Danced [Part 2]</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8d046e27a9f467439c933c0c09bf29571740499467_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1b4f4130b2cf4a625e24a4c595d31fb11741189267_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/18/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0KZ5/nadeshiko-hide-and-seek-attraction">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMKNE/the-night-when-the-angels-danced-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the culture festival comes to a close, Yuna reflects on what really drives her.</p>
+<p align="center">Takao reveals the true identity of the "angel."</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tying the Knot with an Amagami Sister (Spanish Dub) - Episode 20 - Nadeshiko Hide-and-Seek ~Attraction~</h3></th>
+<th><h3 align="center">Ameku M.D.: Doctor Detective (Hindi Dub) - Episode 8 - The Night When the Angels Danced [Part 1]</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8d046e27a9f467439c933c0c09bf29571740499467_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f0861734703e72da718ff7b34d0f81df1740588671_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/18/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNQZK/nadeshiko-hide-and-seek-attraction">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKQ8J/the-night-when-the-angels-danced-part-1">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the culture festival comes to a close, Yuna reflects on what really drives her.</p>
+<p align="center">Several hospital staff report an angel in one room, and a pediatrician asks Takao for<br>help with three children.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tying the Knot with an Amagami Sister (Hindi Dub) - Episode 20 - Nadeshiko Hide-and-Seek ~Attraction~</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (English Dub) - Episode 63 - The Warrior's Commendation</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8d046e27a9f467439c933c0c09bf29571740499467_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ba198e1c1be891f5e98bc954f3ff1b0e1741182257_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/18/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32Q48/nadeshiko-hide-and-seek-attraction">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJNKQ/the-warriors-commendation">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the culture festival comes to a close, Yuna reflects on what really drives her.</p>
+<p align="center">Capella uses Al's admiration for Priscilla against him, and Garfiel fights the legendary "Eight-Arms" Kurgan.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tying the Knot with an Amagami Sister (Tamil Dub) - Episode 20 - Nadeshiko Hide-and-Seek ~Attraction~</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (Portuguese Dub) - Episode 62 - Regulus Corneas</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8d046e27a9f467439c933c0c09bf29571740499467_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/634f2ad40c42003fce6508fb53a78bfb1740581769_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/18/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N8EV/nadeshiko-hide-and-seek-attraction">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW7E7/regulus-corneas">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the culture festival comes to a close, Yuna reflects on what really drives her.</p>
+<p align="center">Emilia seeks the aid of Regulus's wives in dethroning the little king once and for<br>all.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tying the Knot with an Amagami Sister (Telugu Dub) - Episode 20 - Nadeshiko Hide-and-Seek ~Attraction~</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (German Dub) - Episode 62 - Regulus Corneas</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8d046e27a9f467439c933c0c09bf29571740499467_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/634f2ad40c42003fce6508fb53a78bfb1740581769_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/18/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3M5QV/nadeshiko-hide-and-seek-attraction">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW39VE/regulus-corneas">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the culture festival comes to a close, Yuna reflects on what really drives her.</p>
+<p align="center">Emilia seeks the aid of Regulus's wives in dethroning the little king once and for<br>all.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Unnamed Memory (German Dub) - Episode 20 - Half of Eternity</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (Spanish Dub) - Episode 62 - Regulus Corneas</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c02f6c6d18b8ad2b7cb8ead2aa30cdb41740483982_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/634f2ad40c42003fce6508fb53a78bfb1740581769_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/18/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3ZM2/half-of-eternity">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32QNJ/regulus-corneas">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tinasha helps Travis deal with a pesky demon. Oscar finds a baby in the palace<br>that is supposedly his child.</p>
+<p align="center">Emilia seeks the aid of Regulus's wives in dethroning the little king once and for<br>all.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tying the Knot with an Amagami Sister - Episode 23 - Shirahi's Mirage ~Ties~</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (French Dub) - Episode 62 - Regulus Corneas</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/89909ec58fc8992e34e82caab0b5085f1742311230_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/634f2ad40c42003fce6508fb53a78bfb1740581769_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/18/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ70E/shirahis-mirage-ties">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEG5J/regulus-corneas">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Uryu discovers the truth about what led him to this world.</p>
+<p align="center">Emilia seeks the aid of Regulus's wives in dethroning the little king once and for<br>all.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ - Episode 12 - The Evening Star </h3></th>
+<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Portuguese Dub) - Episode 9 - Resolve</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/614ce5c649107dcaf1827da9c4982e541742311403_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/57e7c40f07b920f29aac6d112ed2bbc91740549954_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/18/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX52J1/the-evening-star-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW39VW/resolve">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After defeating Argos and the Wicked Dragon, Lena and her companions speak with a mirage<br>of the Fairy King.</p>
+<p align="center">Takumi's group learns that he's being targeted by the Holy Empire of Sidonia and the<br>Church of Divine Light.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Unnamed Memory - Episode 23 - At Memory's End</h3></th>
+<th><h3 align="center">Possibly the Greatest Alchemist of All Time (German Dub) - Episode 9 - Resolve</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/df90679de8824a0867f6439e30c46c221742308308_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/57e7c40f07b920f29aac6d112ed2bbc91740549954_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/18/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7K22/at-memorys-end">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32QN8/resolve">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Magdalsia's aggression forces Tuldarr into war, but Oscar learns the shocking truth behind the instigator.</p>
+<p align="center">Takumi's group learns that he's being targeted by the Holy Empire of Sidonia and the<br>Church of Divine Light.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Terrified Teacher at Ghoul School! - Episode 23 - The Gashadokuro, Kuniko Utagawa</h3></th>
+<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Spanish Dub) - Episode 9 - Resolve</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/343e05c8468c152f5ee143fc0e59c25b1742308162_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/57e7c40f07b920f29aac6d112ed2bbc91740549954_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/18/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5PEN/the-gashadokuro-kuniko-utagawa">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N8VV/resolve">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Haruaki and his class continue their efforts to get Nyuudou back and Utagawa reveals a<br>secret about herself.</p>
+<p align="center">Takumi's group learns that he's being targeted by the Holy Empire of Sidonia and the<br>Church of Divine Light.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hiwou War Chronicles - Episode 26 - So Long, Ryoma! To the Town That'll Be Called Tokyo</h3></th>
+<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Hindi Dub) - Episode 9 - Resolve</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c754819d7cf3bf70db903fbfb8673e4d1742227627_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/57e7c40f07b920f29aac6d112ed2bbc91740549954_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/17/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW7G4/so-long-ryoma-to-the-town-thatll-be-called-tokyo">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3M58V/resolve">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Four years later, Hiwou is reunited with Saitani, only to witness his death with a<br>cryptic message.</p>
+<p align="center">Takumi's group learns that he's being targeted by the Holy Empire of Sidonia and the<br>Church of Divine Light.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hiwou War Chronicles - Episode 25 - Dance! It's Our Festival</h3></th>
+<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Tamil Dub) - Episode 9 - Resolve</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3b459bfe7c5dd59a5bf1ee339a9222071742227646_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/57e7c40f07b920f29aac6d112ed2bbc91740549954_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/17/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M1VP/dance-its-our-festival">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0N4P/resolve">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In prison, Hiwou reflects on his purpose, realizing clockwork is meant for festivals, not war.</p>
+<p align="center">Takumi's group learns that he's being targeted by the Holy Empire of Sidonia and the<br>Church of Divine Light.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hiwou War Chronicles - Episode 24 - Keep Burning! Father's Clockwork</h3></th>
+<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Telugu Dub) - Episode 9 - Resolve</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6c6f24734ebd157a2470b07b50e920501742227084_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/57e7c40f07b920f29aac6d112ed2bbc91740549954_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/17/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0KN4/keep-burning-fathers-clockwork">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJNZ3/resolve">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hiwou decides to destroy Kaiki to stop the war, guided by a hint from Hana<br>about using the elekiter.</p>
+<p align="center">Takumi's group learns that he's being targeted by the Holy Empire of Sidonia and the<br>Church of Divine Light.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hiwou War Chronicles - Episode 23 - Can You Hear It? Homura's Voice</h3></th>
+<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (German Dub) - Episode 26 - The Miracle Fist</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/eb07d59f3d04e617096937796e5d0a051742226917_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f804c293459539a458a24051a6f281ee1711852661_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/17/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3ZQ5/can-you-hear-it-homuras-voice">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N84V/the-miracle-fist">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hiwou uses Tengu's Sword to stop a war but refuses to use Homura for violence<br>again.</p>
+<p align="center">Overtime in the second match of the finals is underway, but a winner has yet<br>to be declared. Now five representatives from each team are to join the kickoff. First<br>up is France’s captain, Pierre. The whistle sounds. Whom will fortune smile on today?</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hiwou War Chronicles - Episode 22 - Don't Go, Hana! The Children's Battlefield</h3></th>
+<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (German Dub) - Episode 25 - A Wounded Final Defense</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/177afdf40c6091c04e45cf7f250a46b61742226666_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1e9c79ce0d5cebd2670bddd2a27cd9dd1711263514_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/17/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JPNK/dont-go-hana-the-childrens-battlefield">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32Q88/a-wounded-final-defense">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hana refuses to return to the group, siding with Arashi as they prepare for battle<br>with foreign ships.</p>
+<p align="center">It’s overtime, and Hyuga is ready to fight. He takes on Pierre, but Hyuga’s badly<br>injured leg allows his opponent to swipe the ball out from underneath him. France continues<br>to launch a brutal wave of attacks. Meanwhile, Wakashimazu is writhing in pain.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hiwou War Chronicles - Episode 21 - Winds of War! Bakan Strait</h3></th>
+<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (German Dub) - Episode 24 - Overtime in the Rain</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bec5a41f92d5a7e6042d50f7335026e71742226311_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6c51472bc4a84f7e381e7ed5a7e51e8e1710637267_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/17/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVEGK2/winds-of-war-bakan-strait">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M10M/overtime-in-the-rain">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A year later, Hana and Arashi appear in Choshu, where a war is brewing, and<br>Hana sides with Arashi.</p>
+<p align="center">Thanks to Misaki, the score is tied, initiating the first overtime of the tournament. But<br>Coach Mikami is out of substitutions, and everyone is more than fatigued. Now Japan’s worst<br>fears have become a reality. Things are not looking good…</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hiwou War Chronicles - Episode 20 - Dear Father! Time for Departure</h3></th>
+<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (German Dub) - Episode 23 - Misaki vs. Pierre</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3fdbcbcd5e5c2d63dc59d918595db4d11742225884_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b08610798a39e82f66b05cf65f756cb51710046788_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/17/2025</td>
+<td align="center">3/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMK99/dear-father-time-for-departure">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0KM5/misaki-vs-pierre">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kurogane's clockwork doll Kaiki attacks, but an explosion causes Hiwou and his father to disappear<br>into the sea.</p>
+<p align="center">Behold, France’s enigmatic Eiffel Attack! Team Japan stands at the ready, reflexes primed, but it’s<br>Pierre and Napoleon all the way. Perfect pass work epitomizes the French forces as they<br>make their way to the goal. Can Tsubasa resuscitate the team?</p>
 </td>
 </tr>
 </table>
