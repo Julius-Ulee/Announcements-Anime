@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 21, 2025, 7:28:47 PM</em></p>
+<p align="center"><em>Updated on: Mar 22, 2025, 8:08:59 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2024"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (English Dub) - Episode 22 - ALL IN</h3></th>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 2 - Episode 4 - Do YOU Remember Kimba the White Lion? </h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d0e69eddbd5a5906ad733a94a296715e1741285073_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/feeb1979cbef3941bd9f37ab2f8b22021742598113_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKQZJ/all-in">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM22Z/do-you-remember-kimba-the-white-lion-">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Trillion Game, Inc. takes a company trip to Las Vegas.</p>
+<p align="center">Comic legends Amanda Conner and Jimmy Palmiotti join us to drop the first ever Kimba<br>the White Lion reference and share how they revolutionized Harley Quinn at DC Comics.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Hindi Dub) - Episode 21 - The Dragon King's Palm</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time (English Dub) - Episode 9 - I May Be in My Third Year as a Guild Receptionist, but I'm Starting New-Employee Training</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6fa7901d3a70e7dd72f6ef6d1074511f1740676569_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2c0504a1d3e3f55625ac4909ab508a0e1741368061_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0NP5/the-dragon-kings-palm">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0NM5/i-may-be-in-my-third-year-as-a-guild-receptionist-but-im-starting-new-employee-training">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">President Kokuryu of Dragon Bank makes Gaku, Haru, and Kedoin an offer they have no<br>reason to refuse.</p>
+<p align="center">Alina attends new-employee training in hopes of learning how she can avoid working overtime ever<br>again.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Tamil Dub) - Episode 21 - The Dragon King's Palm</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time (German Dub) - Episode 8 - I May Be a Useless Healer, but I'm Going to Do Everything I Can</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6fa7901d3a70e7dd72f6ef6d1074511f1740676569_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bb20b3f02d21edadcc66bac9003895721740758654_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJN3Q/the-dragon-kings-palm">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJNEQ/i-may-be-a-useless-healer-but-im-going-to-do-everything-i-can">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">President Kokuryu of Dragon Bank makes Gaku, Haru, and Kedoin an offer they have no<br>reason to refuse.</p>
+<p align="center">As Alina and Jade struggle in battle against a dark god, Lululee questions her role<br>as a healer.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME (Telugu Dub) - Episode 21 - The Dragon King's Palm</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Hindi Dub) - Episode 9 - Little Sister's Heartache</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6fa7901d3a70e7dd72f6ef6d1074511f1740676569_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/192a132dc5725b84a8c8986eeae3f9df1740757529_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7ZM7/the-dragon-kings-palm">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX58D9/little-sisters-heartache">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">President Kokuryu of Dragon Bank makes Gaku, Haru, and Kedoin an offer they have no<br>reason to refuse.</p>
+<p align="center">Maho continues to tempt Saito, but Saito learns the truth behind her actions when she<br>falls ill.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Portuguese Dub) - Episode 44 - The Great Kyoto Fire (Part Two)</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Tamil Dub) - Episode 9 - Little Sister's Heartache</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c59b84388aecbaf8a306149560501dcc1740676711_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/192a132dc5725b84a8c8986eeae3f9df1740757529_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0K47/the-great-kyoto-fire-part-two">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW797/little-sisters-heartache">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kenshin and Aoshi engage in a battle on the deck of the ironclad Rengoku. Behind<br>the scenes, Sanosuke manages to board the ship and tries to blow up the engine<br>room with the explosives he got from Tsunan. However, Shishio's underlings Hoji, Shuzo, Toshiro prevent<br>him from going any further. Meanwhile in Kyoto, Arato faces off against Kamatari and Henya<br>alone to buy time for the police forces to evacuate.</p>
+<p align="center">Maho continues to tempt Saito, but Saito learns the truth behind her actions when she<br>falls ill.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Spanish Dub) - Episode 44 - The Great Kyoto Fire (Part Two)</h3></th>
+<th><h3 align="center">I'm Getting Married to a Girl I Hate in My Class (Telugu Dub) - Episode 9 - Little Sister's Heartache</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c59b84388aecbaf8a306149560501dcc1740676711_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/192a132dc5725b84a8c8986eeae3f9df1740757529_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNQJ7/the-great-kyoto-fire-part-two">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW398E/little-sisters-heartache">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kenshin and Aoshi engage in a battle on the deck of the ironclad Rengoku. Behind<br>the scenes, Sanosuke manages to board the ship and tries to blow up the engine<br>room with the explosives he got from Tsunan. However, Shishio's underlings Hoji, Shuzo, Toshiro prevent<br>him from going any further. Meanwhile in Kyoto, Arato faces off against Kamatari and Henya<br>alone to buy time for the police forces to evacuate.</p>
+<p align="center">Maho continues to tempt Saito, but Saito learns the truth behind her actions when she<br>falls ill.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (Hindi Dub) - Episode 44 - The Great Kyoto Fire (Part Two)</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Hindi Dub) - Episode 20 - Maximum</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c59b84388aecbaf8a306149560501dcc1740676711_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4fb9c76f8734d925bac732576cfc82ec1740758629_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW395E/the-great-kyoto-fire-part-two">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JP03/maximum">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kenshin and Aoshi engage in a battle on the deck of the ironclad Rengoku. Behind<br>the scenes, Sanosuke manages to board the ship and tries to blow up the engine<br>room with the explosives he got from Tsunan. However, Shishio's underlings Hoji, Shuzo, Toshiro prevent<br>him from going any further. Meanwhile in Kyoto, Arato faces off against Kamatari and Henya<br>alone to buy time for the police forces to evacuate.</p>
+<p align="center">Having been restored, Goku finally surpasses his limits! To defeat the mighty Giant Gomah, who<br>keeps regenerating through the power of the Third Eye, everyone puts in their maximum effort<br>in an all-out battle!</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- (English Dub) - Episode 44 - The Great Kyoto Fire (Part Two)</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Tamil Dub) - Episode 20 - Maximum</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c59b84388aecbaf8a306149560501dcc1740676711_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4fb9c76f8734d925bac732576cfc82ec1740758629_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N8W5/the-great-kyoto-fire-part-two">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1E5Z/maximum">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kenshin and Aoshi engage in a battle on the deck of the ironclad Rengoku. Behind<br>the scenes, Sanosuke manages to board the ship and tries to blow up the engine<br>room with the explosives he got from Tsunan. However, Shishio's underlings Hoji, Shuzo, Toshiro prevent<br>him from going any further. Meanwhile in Kyoto, Arato faces off against Kamatari and Henya<br>alone to buy time for the police forces to evacuate.</p>
+<p align="center">Having been restored, Goku finally surpasses his limits! To defeat the mighty Giant Gomah, who<br>keeps regenerating through the power of the Third Eye, everyone puts in their maximum effort<br>in an all-out battle!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Link Click: Bridon Arc (English Dub) - Episode 5 - Reunion</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Telugu Dub) - Episode 20 - Maximum</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/05294c32fe26804e7519b618183c117b1737668704_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4fb9c76f8734d925bac732576cfc82ec1740758629_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ54W/reunion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VZ2D/maximum">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After witnessing the academy fire, Cheng Xiaoshi understands his power thanks to Lu Guang, and<br>they try to find out who survived the disaster.</p>
+<p align="center">Having been restored, Goku finally surpasses his limits! To defeat the mighty Giant Gomah, who<br>keeps regenerating through the power of the Third Eye, everyone puts in their maximum effort<br>in an all-out battle!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Anyway, I'm Falling in Love with You. (English Dub) - Episode 9 - The Times I Spent With You</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (English Dub) - Episode 11 - Legend</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b1f04c12dd692d9c01d00e74419c54c01741269214_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f3f4fe392296c4fc23c6f5bfd731c6c81734710319_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VZ9D/the-times-i-spent-with-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNQE7/legend">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shin steps up as the student council president to ensure the Ao High Festival can<br>be held.</p>
+<p align="center">Having regrouped with Vegeta and the others, Goku and his companions arrive at a planet<br>that seems familiar. As they move to head out, a suspicious shadow approaches! It's the<br>Legendary Namek who remained alone in the Demon Realm!</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin -Kyoto Disturbance- - Episode 47 - A Beautiful Night</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (English Dub) - Episode 33 - The Late Emperor</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/91b0aa48c7adfa8c0d08d92d1740d7eb1742491418_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1d6c455c7cf4465e7439e048684268c61741366868_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NVGJ/a-beautiful-night">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKQWJ/the-late-emperor">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shishio sends a dueling challenge directed at Kenshin, Hajime, and Sanosuke. The duel is to<br>be held the next day on Mt. Hiei, northeast half way up the mountain in<br>a small shrine with a six-storied torii. At Shishio's fortress, Hoji proposes a strategy to<br>Shishio for an "absolute victory," when the Ten Swords assemble there.... And on the night<br>before the duel, Kaoru talks to Kenshin as he stares up into the night sky.</p>
+<p align="center">Maomao's investigation of the "curse" reveals more about the late emperor than anticipated.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRILLION GAME - Episode 24 - I LOVE NEWS</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (German Dub) - Episode 32 - The Empress Dowager</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/08a2657a844da2da97e3fcf285e2f8811742491332_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2dbd3d143531aa494fb0c9e7abdfcc821740757602_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZV70/i-love-news">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M19W/the-empress-dowager">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Trillion Game, Inc. proposes a partnership with Kawara TV.</p>
+<p align="center">Maomao's reputation for resolving conflicts reaches the empress dowager, who will ask for her help<br>to unravel a mystery that won't leave her mind.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Anyway, I'm Falling in Love with You. - Episode 11 - Things That Change</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (French Dub) - Episode 32 - The Empress Dowager</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6e6fd458c1a08d8e1616b5e33b68a7e41742490644_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2dbd3d143531aa494fb0c9e7abdfcc821740757602_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1P02/things-that-change">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX58M9/the-empress-dowager">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Mizuho starts becoming aware of Shin's intentions after he kissed her at the campsite.</p>
+<p align="center">Maomao's reputation for resolving conflicts reaches the empress dowager, who will ask for her help<br>to unravel a mystery that won't leave her mind.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Momentary Lily - Episode 12 - Such A Fun Full-Course Meal</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Spanish Dub) - Episode 32 - The Empress Dowager</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4b5ab8d781d915c93be3019f79ee2d2f1742486749_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2dbd3d143531aa494fb0c9e7abdfcc821740757602_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNMM8/such-a-fun-full-course-meal">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMW737/the-empress-dowager">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Balor approaches. It's up to the copies -- and Renge -- to protect the survivors.</p>
+<p align="center">Maomao's reputation for resolving conflicts reaches the empress dowager, who will ask for her help<br>to unravel a mystery that won't leave her mind.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">AQUARION Myth of Emotions - Episode 11 - With a Promise from Long Ago</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Hindi Dub) - Episode 32 - The Empress Dowager</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f3463c99236a52c63af9053ddb2d5da11742481498_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2dbd3d143531aa494fb0c9e7abdfcc821740757602_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZ0ED/with-a-promise-from-long-ago">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW39PE/the-empress-dowager">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With Momohime's fate in doubt, the Elements recall past experiences and face a potentially devastating<br>battle.</p>
+<p align="center">Maomao's reputation for resolving conflicts reaches the empress dowager, who will ask for her help<br>to unravel a mystery that won't leave her mind.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ave Mujica - The Die is Cast - - Episode 12 - Fluctuat nec mergitur.</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Tamil Dub) - Episode 32 - The Empress Dowager</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/25387af5014c935da3af8c798ace208c1742481467_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2dbd3d143531aa494fb0c9e7abdfcc821740757602_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMEEP/fluctuat-nec-mergitur">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32Q5J/the-empress-dowager">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As fate surges before her like a raging storm, all that remains in her struggling<br>hands is...</p>
+<p align="center">Maomao's reputation for resolving conflicts reaches the empress dowager, who will ask for her help<br>to unravel a mystery that won't leave her mind.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Even Given the Worthless "Appraiser" Class,  I'm Actually the Strongest - Episode 11 - The Demon Ioana</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Telugu Dub) - Episode 32 - The Empress Dowager</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/22fc7ddb43006e24f7623a1cb37c0c761742477059_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2dbd3d143531aa494fb0c9e7abdfcc821740757602_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX51G0/the-demon-ioana">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N8X5/the-empress-dowager">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On the way to meet another spirit, Ein has to face two new threats from<br>the demon realm, Hornet and Ioana.</p>
+<p align="center">Maomao's reputation for resolving conflicts reaches the empress dowager, who will ask for her help<br>to unravel a mystery that won't leave her mind.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE SCIENCE FUTURE (Tamil Dub) - Episode 11</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Portuguese Dub) - Episode 31 - The Shrine of Choosing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dd3695602c79d7995e2af1ca1a846e361742476879_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/320edf06ef7e17fc5c7e3636c57c055c1740154684_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2PNG">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNQ27/the-shrine-of-choosing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Maomao directs her curiosity towards an old, oddly-shaped building.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE SCIENCE FUTURE (Telugu Dub) - Episode 11</h3></th>
+<th><h3 align="center">I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time - Episode 11 - It May Be a Trap, but I Have to Keep Moving Forward</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dd3695602c79d7995e2af1ca1a846e361742476900_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0fb1bbe713e8a39d47045c195265f39f1742573628_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWEX8">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJZX0/it-may-be-a-trap-but-i-have-to-keep-moving-forward">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Deep beneath guild HQ, Alina and Silver Sword find the "man in black," who finally<br>reveals his identity.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE SCIENCE FUTURE (Castilian Dub) - Episode 11</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 - Episode 35 - The Hunt</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1a7acf8a8ba6400d6b210e23131debd01742476929_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/71d821fdc41ec5bd48b78355a6b197e61742573588_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/20/2025</td>
+<td align="center">3/21/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM080N">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7DXD/the-hunt">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Jinshi goes on a hunting trip, and brings Maomao along. He seems ready to share<br>his secret with her.</p>
 </td>
 </tr>
 </table>
