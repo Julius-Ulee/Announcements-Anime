@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jun 12, 2025, 7:32:49 PM</em></p>
+<p align="center"><em>Updated on: Jun 13, 2025, 8:18:38 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Our Last Crusade or the Rise of a New World Season 2 - Episode 10 - Reclaim: The World Rises</h3></th>
+<th><h3 align="center">Our Last Crusade or the Rise of a New World Season 2 (English Dub) - Episode 8 - Last Crusade: The Unforgiven One</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/52850c96660b61f10a78f96353f776831749725871_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b3eb3aafbbaf079bf223f2dbe337bc601748495293_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ79VQ/reclaim-the-world-rises">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34VPQ/last-crusade-the-unforgiven-one">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lady Alice and the queen are up to something.</p>
+<p align="center">As the battle between the Saint Disciples and purebreds continue, an atrocious astral spirit approaches…</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SK8 the Infinity (Hindi Dub) - Episode 12 - Part #12: Our Infinity!</h3></th>
+<th><h3 align="center">Our Last Crusade or the Rise of a New World Season 2 (Portuguese Dub) - Episode 7 - Last Crusade: Night of the Witch Hunt</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6dadfd3401580becf01b0b45b165adbf1643138594_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cd9dcd1dc6afdf45b92f12c9317cfb3c1747915603_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNVMMX/part-12-our-infinity">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVPKW5/last-crusade-night-of-the-witch-hunt">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The stormy battle between Reki and ADAM was won by ADAM. However, Reki was the<br>one who was enjoying the beef. Seeing him, Kikuchi realizes that Langa is the only<br>one who can give ADAM salvation, and drops out from his race against Langa. As<br>Reki and Langa head into the beef against ADAM, they make a certain promise. The<br>finals between ADAM and Langa will now begin!</p>
+<p align="center">Iska must fight Talisman, while Jhin and the others are unable to shake Grugell from<br>their tail.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Beginning After the End (English Dub) - Episode 9 - The King Teaches</h3></th>
+<th><h3 align="center">Our Last Crusade or the Rise of a New World Season 2 (Spanish Dub) - Episode 7 - Last Crusade: Night of the Witch Hunt</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/90ed6d52be997b54920c38a5838e947c1748448743_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cd9dcd1dc6afdf45b92f12c9317cfb3c1747915603_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/11/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMW5M/the-king-teaches">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1P5D/last-crusade-night-of-the-witch-hunt">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Arthur worries about Lilia who's dream of attending the magic academy seems in danger due<br>to her lack of mana.</p>
+<p align="center">Iska must fight Talisman, while Jhin and the others are unable to shake Grugell from<br>their tail.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Beginning After the End (French Dub) - Episode 8 - Reunited with the King</h3></th>
+<th><h3 align="center">WIND BREAKER Season 2 (English Dub) - Episode 22 - SHALL WE DANCE?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/597c9cd5a76bb632ba9f67dee05a1de31747843679_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/963e54e52d888a1b5ae6a3373fc8f5971748537576_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/11/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZX8M/reunited-with-the-king">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU734GE/shall-we-dance">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Arthur is back with his parents, and his new baby sister, Eleanor. Their thoughts to<br>to his future...</p>
+<p align="center">The name of the group pursuing Shizuka is GRAVEL, a group of delinquents from the<br>Sunaba District, a notorious area known for its rough reputation. They begin to rampage through<br>Keisei Street again, this time with more members, in an attempt to capture Shizuka. However,<br>the members of Roppo Ichiza, Sakura, Nirei, and Suo are ready to confront them! Roppo<br>Ichiza struggles in the fight due to the overwhelming number of GRAVEL forces despite them<br>being beaten down one after another. Meanwhile, Tsubakino, Seiryu, and Uryu wait with Shizuka at<br>the Burlesque Bar OUGI.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Beginning After the End - Episode 11 - The King's Decision</h3></th>
+<th><h3 align="center">WIND BREAKER Season 2 (Portuguese Dub) - Episode 21 - SHARED FRONTLINES</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3994486a5a04e1eeb1f34951e4ba49811749655548_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/942701d3a4c4bf2f8f35da59549c89e91747934961_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/11/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW02V7/the-kings-decision">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNVMJ8/shared-frontlines">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">An encounter with Cynthia, the head of Xyrus Academy, helps Arthur come to a decision.</p>
+<p align="center">Sakura, Nirei, and Suo, having saved the girl chased by thugs whose name is Shizuka<br>Narita, run into a suited team called Roppo Ichiza, led by someone named Kanji Nakamura.<br>The Roppo Ichiza is a strong fighting team that had many clashes with Bofurin before<br>the school was unified. However, there is no conflict between the two groups at present.<br>The group goes to Burlesque Bar Ougi, where Kanji and Shizuka work, and see Tsubakino<br>pole dance while his two lieutenants are sitting at a nearby table.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom - Episode 11 - Archdemon Asmodeus</h3></th>
+<th><h3 align="center">WIND BREAKER Season 2 (Spanish Dub) - Episode 21 - SHARED FRONTLINES</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/743924269bd7e6716e126bb4fe4bb1371749655059_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/942701d3a4c4bf2f8f35da59549c89e91747934961_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/11/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JGZ0/archdemon-asmodeus">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7PKE8/shared-frontlines">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When Archdemon Asmodeus makes a play for his ultimate goal, Philia and all of her<br>friends rally to stop him.</p>
+<p align="center">Sakura, Nirei, and Suo, having saved the girl chased by thugs whose name is Shizuka<br>Narita, run into a suited team called Roppo Ichiza, led by someone named Kanji Nakamura.<br>The Roppo Ichiza is a strong fighting team that had many clashes with Bofurin before<br>the school was unified. However, there is no conflict between the two groups at present.<br>The group goes to Burlesque Bar Ougi, where Kanji and Shizuka work, and see Tsubakino<br>pole dance while his two lieutenants are sitting at a nearby table.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE Special Episode – RYUSUI (Hindi Dub) - Ryusui</h3></th>
+<th><h3 align="center">WIND BREAKER Season 2 (French Dub) - Episode 21 - SHARED FRONTLINES</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3db5cb5828101210b5f1e39360e2eb8b1657445835_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/942701d3a4c4bf2f8f35da59549c89e91747934961_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/11/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVPK50/ryusui">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMWJK/shared-frontlines">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Sakura, Nirei, and Suo, having saved the girl chased by thugs whose name is Shizuka<br>Narita, run into a suited team called Roppo Ichiza, led by someone named Kanji Nakamura.<br>The Roppo Ichiza is a strong fighting team that had many clashes with Bofurin before<br>the school was unified. However, there is no conflict between the two groups at present.<br>The group goes to Burlesque Bar Ougi, where Kanji and Shizuka work, and see Tsubakino<br>pole dance while his two lieutenants are sitting at a nearby table.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE Special Episode – RYUSUI (Tamil Dub) - Ryusui</h3></th>
+<th><h3 align="center">WIND BREAKER Season 2 (German Dub) - Episode 21 - SHARED FRONTLINES</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3db5cb5828101210b5f1e39360e2eb8b1657445835_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/942701d3a4c4bf2f8f35da59549c89e91747934961_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/11/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1PK3/ryusui">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMXV42/shared-frontlines">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Sakura, Nirei, and Suo, having saved the girl chased by thugs whose name is Shizuka<br>Narita, run into a suited team called Roppo Ichiza, led by someone named Kanji Nakamura.<br>The Roppo Ichiza is a strong fighting team that had many clashes with Bofurin before<br>the school was unified. However, there is no conflict between the two groups at present.<br>The group goes to Burlesque Bar Ougi, where Kanji and Shizuka work, and see Tsubakino<br>pole dance while his two lieutenants are sitting at a nearby table.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE Special Episode – RYUSUI (Telugu Dub) - Ryusui</h3></th>
+<th><h3 align="center">WIND BREAKER Season 2 (Hindi Dub) - Episode 21 - SHARED FRONTLINES</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3db5cb5828101210b5f1e39360e2eb8b1657445835_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/942701d3a4c4bf2f8f35da59549c89e91747934961_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/11/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJ80Q/ryusui">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ14J/shared-frontlines">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Sakura, Nirei, and Suo, having saved the girl chased by thugs whose name is Shizuka<br>Narita, run into a suited team called Roppo Ichiza, led by someone named Kanji Nakamura.<br>The Roppo Ichiza is a strong fighting team that had many clashes with Bofurin before<br>the school was unified. However, there is no conflict between the two groups at present.<br>The group goes to Burlesque Bar Ougi, where Kanji and Shizuka work, and see Tsubakino<br>pole dance while his two lieutenants are sitting at a nearby table.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Catch Me at the Ballpark! (Hindi Dub) - Episode 8 - It's the Wind's Fault / Signs / Watch Out for Online News!</h3></th>
+<th><h3 align="center">The Brilliant Healer's New Life in the Shadows (English Dub) - Episode 9 - Faction Infiltration</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8f457c157a41ba309bc1cc7cfb6747d11747759786_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6276d915469408bcbf7239eb5d06458e1748515645_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/10/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU92K4P/its-the-winds-fault-signs-watch-out-for-online-news">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJ8G8/faction-infiltration">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">There's a windy day at the park, Ruriko attends a game on her off day,<br>and a tabloid reporter shadows Aona.</p>
+<p align="center">Zenos' gets an invite to the Goldran Laboratory, and a chance to track down Becker's<br>missing student.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Once Upon a Witch’s Death (Hindi Dub) - Episode 8 - The Family Bewitched by a Devil</h3></th>
+<th><h3 align="center">The Brilliant Healer's New Life in the Shadows (Spanish Dub) - Episode 8 - The Royal Hospital</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ef72b5d8486258e5ff18affe247c6c031747752507_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/078d2c1de8190b77721a4af2de4a78e41747917392_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/10/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVK1K/the-family-bewitched-by-a-devil">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE3NWZ/the-royal-hospital">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Meg sees a burn-like scar on a girl's neck that is only visible to her.</p>
+<p align="center">Zenos attends class at the Royal Hospital's headquarters, under the assumed identity of "Zeno."</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Once Upon a Witch’s Death (English Dub) - Episode 8 - The Family Bewitched by a Devil</h3></th>
+<th><h3 align="center">The Brilliant Healer's New Life in the Shadows (Portuguese Dub) - Episode 8 - The Royal Hospital</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ef72b5d8486258e5ff18affe247c6c031747752507_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/078d2c1de8190b77721a4af2de4a78e41747917392_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/10/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ10P/the-family-bewitched-by-a-devil">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU823JP/the-royal-hospital">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Meg sees a burn-like scar on a girl's neck that is only visible to her.</p>
+<p align="center">Zenos attends class at the Royal Hospital's headquarters, under the assumed identity of "Zeno."</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Shiunji Family Children (Portuguese Dub) - Episode 7 - Surely</h3></th>
+<th><h3 align="center">WIND BREAKER Season 2 - Episode 24 - AFTER THE STORM</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bd1fa6e8aa897f0f327bfa00fe657f7e1747749691_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0bc6b4d71970a2c1996720e09b1287bb1749748255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/10/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34V3E/surely">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7E2V/after-the-storm">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Where is Minami, and what comes of the tournament finals?</p>
+<p align="center">“All of us will work together and become one unit.” Suzuri-led GRAVEL resolves to walk<br>a different path “together” as they take the extended hand of Roppo Ichiza. Shizuka, whose<br>decision would have made everyone sad, sincerely apologizes and expresses her gratitude to Tsubakino and<br>Kanji. Just then, as they have reconciled and everyone’s feelings are in sync, a former<br>Furin student named Endo, covered in tattoos from his back to his shoulders and arms,<br>appears.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Shiunji Family Children (Spanish Dub) - Episode 7 - Surely</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Italian Dub) - Episode 26 - The Dawn of the Departure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bd1fa6e8aa897f0f327bfa00fe657f7e1747749691_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dc85c15d1c8b7dca6076937fda57b3541735465934_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/10/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7GDK/surely">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3DGKW/the-dawn-of-the-departure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Where is Minami, and what comes of the tournament finals?</p>
+<p align="center">Reflejo is brought to the brink of death using the unleashed power of the Thorn.<br>Viole (Bam) finds himself in a difficult position. But thanks to quick thinking from Khun<br>and Rak and Endorsi’s Bongbong, they successfully escape. Their companions gather one after another and<br>all leave the arena on the Wolhaiksong floating ship as the turbulent Workshop Battle finally<br>comes to a close...</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Shiunji Family Children (English Dub) - Episode 7 - Surely</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Castilian Dub) - Episode 26 - The Dawn of the Departure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bd1fa6e8aa897f0f327bfa00fe657f7e1747749691_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dc85c15d1c8b7dca6076937fda57b3541735465934_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/10/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJ80D/surely">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7349E/the-dawn-of-the-departure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Where is Minami, and what comes of the tournament finals?</p>
+<p align="center">Reflejo is brought to the brink of death using the unleashed power of the Thorn.<br>Viole (Bam) finds himself in a difficult position. But thanks to quick thinking from Khun<br>and Rak and Endorsi’s Bongbong, they successfully escape. Their companions gather one after another and<br>all leave the arena on the Wolhaiksong floating ship as the turbulent Workshop Battle finally<br>comes to a close...</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Shiunji Family Children (Hindi Dub) - Episode 7 - Surely</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Tamil Dub) - Episode 26 - The Dawn of the Departure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bd1fa6e8aa897f0f327bfa00fe657f7e1747749691_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dc85c15d1c8b7dca6076937fda57b3541735465934_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/10/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD8GG/surely">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU734PE/the-dawn-of-the-departure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Where is Minami, and what comes of the tournament finals?</p>
+<p align="center">Reflejo is brought to the brink of death using the unleashed power of the Thorn.<br>Viole (Bam) finds himself in a difficult position. But thanks to quick thinking from Khun<br>and Rak and Endorsi’s Bongbong, they successfully escape. Their companions gather one after another and<br>all leave the arena on the Wolhaiksong floating ship as the turbulent Workshop Battle finally<br>comes to a close...</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Apocalypse Hotel - Episode 10 - Clean Sheets Symbolize Pure Hearts</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Telugu Dub) - Episode 26 - The Dawn of the Departure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/feb072db9be289ccc7c792d4826767181749581808_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dc85c15d1c8b7dca6076937fda57b3541735465934_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/10/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3XK2/clean-sheets-symbolize-pure-hearts">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3DG02/the-dawn-of-the-departure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Gingarou receives an unnerving guest who requests total secrecy about his visit...</p>
+<p align="center">Reflejo is brought to the brink of death using the unleashed power of the Thorn.<br>Viole (Bam) finds himself in a difficult position. But thanks to quick thinking from Khun<br>and Rak and Endorsi’s Bongbong, they successfully escape. Their companions gather one after another and<br>all leave the arena on the Wolhaiksong floating ship as the turbulent Workshop Battle finally<br>comes to a close...</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Catch Me at the Ballpark! - Episode 11 - The Clincher! / The Clincher! (Pt. 2) / The Clincher! (Pt. 3)</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Italian Dub) - Episode 25 - Return of the King</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/734fc276416117ccff82c3ee816728a81749571152_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1739b0fa19bc7978a6351db95befada91734848673_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/10/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD34KQ/the-clincher-the-clincher-pt-2-the-clincher-pt-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ15P/return-of-the-king">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ballpark regulars and new fans come together to cheer on the MotorSuns in their playoff<br>clincher game!</p>
+<p align="center">While Reflejo, Viole (Bam), Khun, and Rak are engaged in their final showdown, FUG and<br>the Workshop attempt to pour a solution capable of melting everything into the area... Lero<br>Ro and Endorsi rush to their three companions in order to save them, but FUG<br>Rankers and Team Mad Dog stand in their way! Will Viole and the others be<br>able to escape safely?!</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Once Upon a Witch’s Death - Episode 11 - The Bell of Blessings Rings With the Sound of the Waves (Part Two)</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Castilian Dub) - Episode 25 - Return of the King</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e12d0b08b8b5b8e91a7db5d76af26f551749563509_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1739b0fa19bc7978a6351db95befada91734848673_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/10/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N3QX/the-bell-of-blessings-rings-with-the-sound-of-the-waves-part-two">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJ8ZQ/return-of-the-king">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Meg and Jack experience a breakthrough in their research, and a massive disaster threatens the<br>entire island.</p>
+<p align="center">While Reflejo, Viole (Bam), Khun, and Rak are engaged in their final showdown, FUG and<br>the Workshop attempt to pour a solution capable of melting everything into the area... Lero<br>Ro and Endorsi rush to their three companions in order to save them, but FUG<br>Rankers and Team Mad Dog stand in their way! Will Viole and the others be<br>able to escape safely?!</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Please Put Them On, Takamine-san - Episode 10 - It Rains, and Shirota Freezes Up</h3></th>
+<th><h3 align="center">Tower of God Season 2 (Tamil Dub) - Episode 25 - Return of the King</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fe927c91f61419353b6b112a00f086b31749563462_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1739b0fa19bc7978a6351db95befada91734848673_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/10/2025</td>
+<td align="center">6/12/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5GZZ/it-rains-and-shirota-freezes-up">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEG125/return-of-the-king">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The class will put on the play Cinderella. Naturally, Takamine will be Cinderella, but who<br>will be the prince?</p>
+<p align="center">While Reflejo, Viole (Bam), Khun, and Rak are engaged in their final showdown, FUG and<br>the Workshop attempt to pour a solution capable of melting everything into the area... Lero<br>Ro and Endorsi rush to their three companions in order to save them, but FUG<br>Rankers and Team Mad Dog stand in their way! Will Viole and the others be<br>able to escape safely?!</p>
 </td>
 </tr>
 </table>
