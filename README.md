@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jun 13, 2025, 7:32:59 PM</em></p>
+<p align="center"><em>Updated on: Jun 14, 2025, 8:15:31 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Tamil Dub) - Episode 12 - Life Without You Feels Super Off</h3></th>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 2 - Episode 16 - Is the FIRST Anime Adaptation Always the Best? (ft. Purity Ring) </h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d9585798fa85bfab77e77888782e1b7f1711384126_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4c5281f155970af7d96bca8039bb08711749855221_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMXV52/life-without-you-feels-super-off">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV25Z2/is-the-first-anime-adaptation-always-the-best-ft-purity-ring-">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsubasa and Minami miss the last bus home from the park and end up getting<br>a hotel room, making the overnight date that Minami had joked about a reality. However,<br>Minami sneaks out early, leaving Tsubasa confused and afraid to face her before she leaves.</p>
+<p align="center">MJ and Corin Roddick from the band Purity Ring are here to share why they<br>love Frieren: Beyond Journey's End, how anime impacts their music, manifest an anime OP or<br>ED, and to reveal why they prefer the original Fullmetal Alchemist over Fullmetal Alchemist: Brotherhood.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Telugu Dub) - Episode 12 - Life Without You Feels Super Off</h3></th>
+<th><h3 align="center">Bye Bye, Earth Season 2 (English Dub) - Episode 19 - Reason: Moonwork</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d9585798fa85bfab77e77888782e1b7f1711384126_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6f9e9dc766a01d44a56eae8ba56abed41748615369_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2512/life-without-you-feels-super-off">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVKGE/reason-moonwork">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsubasa and Minami miss the last bus home from the park and end up getting<br>a hotel room, making the overnight date that Minami had joked about a reality. However,<br>Minami sneaks out early, leaving Tsubasa confused and afraid to face her before she leaves.</p>
+<p align="center">Belle learns her past and the world's, but can it give her the answers she's<br>been seeking?</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Tamil Dub) - Episode 11 - Youth Hits Super Hard in the Feels</h3></th>
+<th><h3 align="center">Bye Bye, Earth Season 2 (Spanish Dub) - Episode 18 - Hymn: Erewhon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0636d828e73080d9ce4d09619c4c4c701710779201_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a21e80096e0d289a0a77abc7af06d7931747985439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVK3N/youth-hits-super-hard-in-the-feels">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNVMQN/hymn-erewhon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A sleep-deprived Tsubasa meets up with Minami and they head to her secret location. Later,<br>Minami suggests they should return there years from now and Tsubasa wonders what she means<br>by that. She then reveals what it is she wanted to convey.</p>
+<p align="center">Belle finds new strength within herself. Sherry's choice shakes Gaff to the core.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Telugu Dub) - Episode 11 - Youth Hits Super Hard in the Feels</h3></th>
+<th><h3 align="center">Bye Bye, Earth Season 2 (Hindi Dub) - Episode 18 - Hymn: Erewhon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0636d828e73080d9ce4d09619c4c4c701710779201_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a21e80096e0d289a0a77abc7af06d7931747985439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE3N29/youth-hits-super-hard-in-the-feels">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7PKM5/hymn-erewhon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A sleep-deprived Tsubasa meets up with Minami and they head to her secret location. Later,<br>Minami suggests they should return there years from now and Tsubasa wonders what she means<br>by that. She then reveals what it is she wanted to convey.</p>
+<p align="center">Belle finds new strength within herself. Sherry's choice shakes Gaff to the core.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Tamil Dub) - Episode 10 - Time Flies Super Fast</h3></th>
+<th><h3 align="center">Bye Bye, Earth Season 2 (Tamil Dub) - Episode 18 - Hymn: Erewhon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/67e837ecc32fcd7704a539d9d010e8001710173940_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a21e80096e0d289a0a77abc7af06d7931747985439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7345E/time-flies-super-fast">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZX24/hymn-erewhon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The new term begins. Minami catches Tsubasa on the way to class and starts teasing<br>him ruthlessly. The two are thrilled to learn they are in the same class again,<br>but Minami still seems gloomy. After school, Minami says she has something to tell Tsubasa.</p>
+<p align="center">Belle finds new strength within herself. Sherry's choice shakes Gaff to the core.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Telugu Dub) - Episode 10 - Time Flies Super Fast</h3></th>
+<th><h3 align="center">Bye Bye, Earth Season 2 (Telugu Dub) - Episode 18 - Hymn: Erewhon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/67e837ecc32fcd7704a539d9d010e8001710173940_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a21e80096e0d289a0a77abc7af06d7931747985439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +200,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGN90E/time-flies-super-fast">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD852/hymn-erewhon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The new term begins. Minami catches Tsubasa on the way to class and starts teasing<br>him ruthlessly. The two are thrilled to learn they are in the same class again,<br>but Minami still seems gloomy. After school, Minami says she has something to tell Tsubasa.</p>
+<p align="center">Belle finds new strength within herself. Sherry's choice shakes Gaff to the core.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Tamil Dub) - Episode 9 - Lake Abashiri Is Super Relaxing</h3></th>
+<th><h3 align="center">Bye Bye, Earth Season 2 (Portuguese Dub) - Episode 18 - Hymn: Erewhon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b9d9faf645ad29c2a82bda134d7a80aa1709571800_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a21e80096e0d289a0a77abc7af06d7931747985439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +234,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD871/lake-abashiri-is-super-relaxing">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7G22/hymn-erewhon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Matsuo, a class friend who made amends with Minami, takes Tsubasa smelt fishing as a<br>thank you for his consultation. Minami, who happened to be at the fishing spot, joins<br>them, and they discuss makeup. Later, Minami visits Tsubasa who's caught a cold.</p>
+<p align="center">Belle finds new strength within herself. Sherry's choice shakes Gaff to the core.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Telugu Dub) - Episode 9 - Lake Abashiri Is Super Relaxing</h3></th>
+<th><h3 align="center">Bye Bye, Earth Season 2 (German Dub) - Episode 18 - Hymn: Erewhon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b9d9faf645ad29c2a82bda134d7a80aa1709571800_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a21e80096e0d289a0a77abc7af06d7931747985439_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +268,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1PG9/lake-abashiri-is-super-relaxing">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVPKMG/hymn-erewhon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Matsuo, a class friend who made amends with Minami, takes Tsubasa smelt fishing as a<br>thank you for his consultation. Minami, who happened to be at the fishing spot, joins<br>them, and they discuss makeup. Later, Minami visits Tsubasa who's caught a cold.</p>
+<p align="center">Belle finds new strength within herself. Sherry's choice shakes Gaff to the core.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Tamil Dub) - Episode 8 - Yakiniku with Friends Is Super Delish</h3></th>
+<th><h3 align="center">Fire Force Season 3 (English Dub) - Episode 9 - Holy Sword, Resurrected</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/04719ed04ca85c5c6baa49c73c5fe51b1708969351_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4d93c831548b4694244745497658d7ff1748625948_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +302,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZXP2/yakiniku-with-friends-is-super-delish">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE3NV9/holy-sword-resurrected">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Minami and Sayuri race to the scene of Tsubasa and Reina's date. After being moved<br>to tears over the movie heroine's story, Reina tells Tsubasa about her own circumstances. Tsubasa,<br>having been reminded of his own situation, then tells her his story.</p>
+<p align="center">Arthur leads the party into unexpected territory in the search for metal to reforge Excalibur.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Telugu Dub) - Episode 8 - Yakiniku with Friends Is Super Delish</h3></th>
+<th><h3 align="center">Fire Force Season 3 (French Dub) - Episode 8 - Holy Mother of Darkness / The Knight King's Great Adventure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/04719ed04ca85c5c6baa49c73c5fe51b1708969351_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0d97b6344297daef743fda6ef8a07a891748018373_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +336,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34VG5/yakiniku-with-friends-is-super-delish">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3DGQZ/holy-mother-of-darkness-the-knight-kings-great-adventure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Minami and Sayuri race to the scene of Tsubasa and Reina's date. After being moved<br>to tears over the movie heroine's story, Reina tells Tsubasa about her own circumstances. Tsubasa,<br>having been reminded of his own situation, then tells her his story.</p>
+<p align="center">As Hibana and the others continue their investigation at St. Raffles Convent, someone unexpected appears.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Tamil Dub) - Episode 7 - Final Exams Are Super Hard</h3></th>
+<th><h3 align="center">Fire Force Season 3 (Portuguese Dub) - Episode 8 - Holy Mother of Darkness / The Knight King's Great Adventure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/604c612bd3a2c454e80ae8b4a463ae741708361579_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0d97b6344297daef743fda6ef8a07a891748018373_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +370,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEG1P5/final-exams-are-super-hard">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU92K8J/holy-mother-of-darkness-the-knight-kings-great-adventure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsubasa is ordered to score high on exams, so when the lovely Rena offers to<br>tutor him, he accepts. He soon realizes that Rena expects a reward for her help.<br>Minami spots them together and is thrilled at first, but then starts to feel very<br>uncomfortable.</p>
+<p align="center">As Hibana and the others continue their investigation at St. Raffles Convent, someone unexpected appears.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Telugu Dub) - Episode 7 - Final Exams Are Super Hard</h3></th>
+<th><h3 align="center">Fire Force Season 3 (Hindi Dub) - Episode 8 - Holy Mother of Darkness / The Knight King's Great Adventure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/604c612bd3a2c454e80ae8b4a463ae741708361579_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0d97b6344297daef743fda6ef8a07a891748018373_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +404,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMXV14/final-exams-are-super-hard">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7GN2/holy-mother-of-darkness-the-knight-kings-great-adventure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsubasa is ordered to score high on exams, so when the lovely Rena offers to<br>tutor him, he accepts. He soon realizes that Rena expects a reward for her help.<br>Minami spots them together and is thrilled at first, but then starts to feel very<br>uncomfortable.</p>
+<p align="center">As Hibana and the others continue their investigation at St. Raffles Convent, someone unexpected appears.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Tamil Dub) - Episode 6 - Natsukawa-Senpai Is Super Good-Looking</h3></th>
+<th><h3 align="center">Fire Force Season 3 (Spanish Dub) - Episode 8 - Holy Mother of Darkness / The Knight King's Great Adventure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0f32fa8a578f5408488c2aedc64632621707758010_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0d97b6344297daef743fda6ef8a07a891748018373_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +438,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMW0K/natsukawa-senpai-is-super-good-looking">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1PZ9/holy-mother-of-darkness-the-knight-kings-great-adventure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsubasa, Sayuri, and Minami have a study party. Tsubasa loses track of time and is<br>scolded when he gets home late. The next day, Tsubasa bumps into the breathtaking Rena-senpai<br>on his way to school and is soon shocked to realize that she is his<br>neighbor.</p>
+<p align="center">As Hibana and the others continue their investigation at St. Raffles Convent, someone unexpected appears.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Telugu Dub) - Episode 6 - Natsukawa-Senpai Is Super Good-Looking</h3></th>
+<th><h3 align="center">Fire Force Season 3 (Tamil Dub) - Episode 8 - Holy Mother of Darkness / The Knight King's Great Adventure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0f32fa8a578f5408488c2aedc64632621707758010_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0d97b6344297daef743fda6ef8a07a891748018373_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -472,13 +472,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU734WP/natsukawa-senpai-is-super-good-looking">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMW45/holy-mother-of-darkness-the-knight-kings-great-adventure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsubasa, Sayuri, and Minami have a study party. Tsubasa loses track of time and is<br>scolded when he gets home late. The next day, Tsubasa bumps into the breathtaking Rena-senpai<br>on his way to school and is soon shocked to realize that she is his<br>neighbor.</p>
+<p align="center">As Hibana and the others continue their investigation at St. Raffles Convent, someone unexpected appears.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Tamil Dub) - Episode 5 - Super Bitter, Super Sweet</h3></th>
+<th><h3 align="center">Fire Force Season 3 (Telugu Dub) - Episode 8 - Holy Mother of Darkness / The Knight King's Great Adventure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/122fc0b4b1c40c11d6d654e7a29e27f11707147950_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0d97b6344297daef743fda6ef8a07a891748018373_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -506,13 +506,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7PK48/super-bitter-super-sweet">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEG1X1/holy-mother-of-darkness-the-knight-kings-great-adventure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsubasa's classmates at karaoke are excited for Valentine's Day. Sayuri says she isn't interested but<br>later bumps into Minami while gazing at the Valentine's display from afar. She then decides<br>to ask Minami a question.</p>
+<p align="center">As Hibana and the others continue their investigation at St. Raffles Convent, someone unexpected appears.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Telugu Dub) - Episode 5 - Super Bitter, Super Sweet</h3></th>
+<th><h3 align="center">Fire Force Season 3 (Italian Dub) - Episode 8 - Holy Mother of Darkness / The Knight King's Great Adventure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/122fc0b4b1c40c11d6d654e7a29e27f11707147950_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0d97b6344297daef743fda6ef8a07a891748018373_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -540,13 +540,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJ898/super-bitter-super-sweet">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGN9XE/holy-mother-of-darkness-the-knight-kings-great-adventure">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsubasa's classmates at karaoke are excited for Valentine's Day. Sayuri says she isn't interested but<br>later bumps into Minami while gazing at the Valentine's display from afar. She then decides<br>to ask Minami a question.</p>
+<p align="center">As Hibana and the others continue their investigation at St. Raffles Convent, someone unexpected appears.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Tamil Dub) - Episode 4 - Nighttime Calls Are Super Ticklish</h3></th>
+<th><h3 align="center">Fire Force Season 3 (German Dub) - Episode 7 - Sleeping Truth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f9fe074bcbb64329189efb90ac035ef61706549310_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2d684987766a369903532e14171311d91747416441_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -574,13 +574,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNVM88/nighttime-calls-are-super-ticklish">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34V55/sleeping-truth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsubasa tries walking to school in a blizzard, but Minami and her flirty mother pick<br>him up. After class, Tsubasa, Minami, and Sayuri hang out at a big shopping center.<br>Later that night, Minami shocks Tsubasa with a steaming hot video call from the bath.</p>
+<p align="center">The 8th faces dire danger with no escape. Then, a familiar figure appears, calling himself—Moonlite<br>Mask?!</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Telugu Dub) - Episode 4 - Nighttime Calls Are Super Ticklish</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (English Dub) - Episode 44 - The Stronghold</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f9fe074bcbb64329189efb90ac035ef61706549310_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4855905bceedac06455b5b63a4d9b9381748623687_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -608,13 +608,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVPK05/nighttime-calls-are-super-ticklish">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE3NK9/the-stronghold">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsubasa tries walking to school in a blizzard, but Minami and her flirty mother pick<br>him up. After class, Tsubasa, Minami, and Sayuri hang out at a big shopping center.<br>Later that night, Minami shocks Tsubasa with a steaming hot video call from the bath.</p>
+<p align="center">Maomao is taken to a mountain stronghold, where many of the secrets of the Shi<br>clan are revealed to her.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Tamil Dub) - Episode 3 - Akino-san Is Super Unfriendly</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (French Dub) - Episode 43 - Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/68f150875a37a06c05587ab2dc5cd5481705931757_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8c4b27c06b3ec17a0f39dfccef8bd7e41748017056_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -642,13 +642,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8X31E/akino-san-is-super-unfriendly">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJ8E1/festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsubasa starts learning to ski on a class trip to the slopes. He's told to<br>partner with Akino Sayuri, a pretty loner that Minami is fascinated with. When he runs<br>to the bus to grab his chopsticks for lunch, he finds Akino half-naked and covered<br>in sweat.</p>
+<p align="center">The village holds a festival. Maomao attends, and Shisui introduces some of the village's history<br>to her.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Telugu Dub) - Episode 3 - Akino-san Is Super Unfriendly</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Portuguese Dub) - Episode 43 - Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/68f150875a37a06c05587ab2dc5cd5481705931757_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8c4b27c06b3ec17a0f39dfccef8bd7e41748017056_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -676,13 +676,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7GJW/akino-san-is-super-unfriendly">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU823KX/festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsubasa starts learning to ski on a class trip to the slopes. He's told to<br>partner with Akino Sayuri, a pretty loner that Minami is fascinated with. When he runs<br>to the bus to grab his chopsticks for lunch, he finds Akino half-naked and covered<br>in sweat.</p>
+<p align="center">The village holds a festival. Maomao attends, and Shisui introduces some of the village's history<br>to her.</p>
 </td>
 </tr>
 </table>
