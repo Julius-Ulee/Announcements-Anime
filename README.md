@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jun 18, 2025, 7:34:09 PM</em></p>
+<p align="center"><em>Updated on: Jun 19, 2025, 8:18:29 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Hindi Dub) - Episode 22 - BEYOND THE NEW WORLD</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (Spanish Dub) - Episode 21 - Hero</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bd3d0c79d10878995ef841ce49d153f11703159600_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5b7224bd785830ecba9041a7e0d9ab691605894457_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEG43Q/beyond-the-new-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7PDQ9/hero">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the petrification device in the Kingdom's hands, it's time to revive Tsukasa. But there's<br>just one problem: the device is out of batteries.</p>
+<p align="center">Things intensify even more in the 3rd set against Inarizaki. Karasuno has a hard time<br>dealing with Miya Atsumu's serves and Suna's quicks and then send in the pinch server,<br>Kinoshita.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Tamil Dub) - Episode 22 - BEYOND THE NEW WORLD</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (Spanish Dub) - Episode 20 - Leader</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bd3d0c79d10878995ef841ce49d153f11703159600_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fbd1640e09b39941e4b0187db2e523f71605276428_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D5P3/beyond-the-new-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNV2PM/leader">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the petrification device in the Kingdom's hands, it's time to revive Tsukasa. But there's<br>just one problem: the device is out of batteries.</p>
+<p align="center">Karasuno starts to break down Inarizaki's dominance with Kageyama's serves. And to counter that, Inarizaki<br>sends in their captain, Kita Shinsuke to get their rhythm back.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Telugu Dub) - Episode 22 - BEYOND THE NEW WORLD</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (Spanish Dub) - Episode 19 - The Ultimate Challengers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bd3d0c79d10878995ef841ce49d153f11703159600_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/32a69a6e0a4772cb54509651df6f23fc1604662562_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX3XP/beyond-the-new-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8XQ22/the-ultimate-challengers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the petrification device in the Kingdom's hands, it's time to revive Tsukasa. But there's<br>just one problem: the device is out of batteries.</p>
+<p align="center">Nekoma High School moves to the 3rd round after defeating Sarukawa High School. Meanwhile, Karasuno<br>and Inarizaki head into their second set and Miya Atsumu starts to target Nishinoya with<br>his serves.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Hindi Dub) - Episode 21 - Treasure Island</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (French Dub) - Episode 10 - The Battle of Concepts</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f6e61e2a8766afda3e76bb3bd5baf7c61702560912_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/eb143b06196277b77d6c06fbbf7da77a1481137438_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,14 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7P91M/treasure-island">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNZ9N/the-battle-of-concepts">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To the moon! That's the plan, at least. Senku and the Kingdom of Science need<br>to devise a means with which to go to the moon and deal with Why-Man.<br>The first step is allying with the people of Treasure Island and enlisting their help<br>with some new crafts.</p>
+<p align="center">The score of the final set finally enters the 20's. Shiratorizawa shows off individual strengths,<br>and Karasuno continues to be reckless. Despite their methods being different, this is a battle<br>between very similar teams.
+Who will win in the end?</p>
 </td>
 </tr>
 </table>
@@ -148,12 +149,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Tamil Dub) - Episode 21 - Treasure Island</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (Hindi Dub) - Episode 10 - The Battle of Concepts</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f6e61e2a8766afda3e76bb3bd5baf7c61702560912_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/eb143b06196277b77d6c06fbbf7da77a1481137438_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +167,14 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX3GX/treasure-island">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNV2NM/the-battle-of-concepts">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To the moon! That's the plan, at least. Senku and the Kingdom of Science need<br>to devise a means with which to go to the moon and deal with Why-Man.<br>The first step is allying with the people of Treasure Island and enlisting their help<br>with some new crafts.</p>
+<p align="center">The score of the final set finally enters the 20's. Shiratorizawa shows off individual strengths,<br>and Karasuno continues to be reckless. Despite their methods being different, this is a battle<br>between very similar teams.
+Who will win in the end?</p>
 </td>
 </tr>
 </table>
@@ -182,12 +184,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Telugu Dub) - Episode 21 - Treasure Island</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (Tamil Dub) - Episode 10 - The Battle of Concepts</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f6e61e2a8766afda3e76bb3bd5baf7c61702560912_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/eb143b06196277b77d6c06fbbf7da77a1481137438_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +202,14 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU73935/treasure-island">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNZWN/the-battle-of-concepts">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To the moon! That's the plan, at least. Senku and the Kingdom of Science need<br>to devise a means with which to go to the moon and deal with Why-Man.<br>The first step is allying with the people of Treasure Island and enlisting their help<br>with some new crafts.</p>
+<p align="center">The score of the final set finally enters the 20's. Shiratorizawa shows off individual strengths,<br>and Karasuno continues to be reckless. Despite their methods being different, this is a battle<br>between very similar teams.
+Who will win in the end?</p>
 </td>
 </tr>
 </table>
@@ -216,12 +219,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Hindi Dub) - Episode 20 - FIRST DREAM</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (Telugu Dub) - Episode 10 - The Battle of Concepts</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/346a130396617719af158641cb4af03a1701957749_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/eb143b06196277b77d6c06fbbf7da77a1481137438_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +237,14 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8XWV7/first-dream">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVP357/the-battle-of-concepts">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Senku stands victorious. He then works on reviving the others and fixing their communications device,<br>but while they are talking with Ruri they encounter a strong interference with the signal.</p>
+<p align="center">The score of the final set finally enters the 20's. Shiratorizawa shows off individual strengths,<br>and Karasuno continues to be reckless. Despite their methods being different, this is a battle<br>between very similar teams.
+Who will win in the end?</p>
 </td>
 </tr>
 </table>
@@ -250,12 +254,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Tamil Dub) - Episode 20 - FIRST DREAM</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (French Dub) - Episode 9 - The Volleyball Idiots</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/346a130396617719af158641cb4af03a1701957749_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fbaabbdbb1e2612d779de77d2396486c1480458368_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +272,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVMW5/first-dream">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJZ8K/the-volleyball-idiots">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Senku stands victorious. He then works on reviving the others and fixing their communications device,<br>but while they are talking with Ruri they encounter a strong interference with the signal.</p>
+<p align="center">Shiratorizawa gets a match point, which puts Karasuno in a very difficult position, but then<br>Tsukishima manages to come back. All of the players are at the end of their<br>ropes, but they continue to give their all to the last part of the match!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +288,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Telugu Dub) - Episode 20 - FIRST DREAM</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (Hindi Dub) - Episode 9 - The Volleyball Idiots</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/346a130396617719af158641cb4af03a1701957749_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fbaabbdbb1e2612d779de77d2396486c1480458368_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +306,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNZN4/first-dream">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW73QV/the-volleyball-idiots">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Senku stands victorious. He then works on reviving the others and fixing their communications device,<br>but while they are talking with Ruri they encounter a strong interference with the signal.</p>
+<p align="center">Shiratorizawa gets a match point, which puts Karasuno in a very difficult position, but then<br>Tsukishima manages to come back. All of the players are at the end of their<br>ropes, but they continue to give their all to the last part of the match!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +322,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Hindi Dub) - Episode 19 - LAST MAN STANDING</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (Tamil Dub) - Episode 9 - The Volleyball Idiots</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f261111a9eff09736cd3514a9990971f1701351488_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fbaabbdbb1e2612d779de77d2396486c1480458368_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +340,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82D7Q/last-man-standing">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU92X9G/the-volleyball-idiots">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Much to Ibara's shock and dismay, Senku devised a plan and managed to escape petrification.<br>Now the two enter into a head-to-head battle for control of the Medusa device.</p>
+<p align="center">Shiratorizawa gets a match point, which puts Karasuno in a very difficult position, but then<br>Tsukishima manages to come back. All of the players are at the end of their<br>ropes, but they continue to give their all to the last part of the match!</p>
 </td>
 </tr>
 </table>
@@ -352,12 +356,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Tamil Dub) - Episode 19 - LAST MAN STANDING</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (Telugu Dub) - Episode 9 - The Volleyball Idiots</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f261111a9eff09736cd3514a9990971f1701351488_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fbaabbdbb1e2612d779de77d2396486c1480458368_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +374,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU739VV/last-man-standing">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX3ZP/the-volleyball-idiots">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Much to Ibara's shock and dismay, Senku devised a plan and managed to escape petrification.<br>Now the two enter into a head-to-head battle for control of the Medusa device.</p>
+<p align="center">Shiratorizawa gets a match point, which puts Karasuno in a very difficult position, but then<br>Tsukishima manages to come back. All of the players are at the end of their<br>ropes, but they continue to give their all to the last part of the match!</p>
 </td>
 </tr>
 </table>
@@ -386,12 +390,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Telugu Dub) - Episode 19 - LAST MAN STANDING</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (French Dub) - Episode 8 - An Annoying Guy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f261111a9eff09736cd3514a9990971f1701351488_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ab6361c7fa1f7216842e4de343b5b5401480082671_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +408,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1M1M/last-man-standing">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34D8J/an-annoying-guy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Much to Ibara's shock and dismay, Senku devised a plan and managed to escape petrification.<br>Now the two enter into a head-to-head battle for control of the Medusa device.</p>
+<p align="center">Because Tsukishima's hand was injured, Karasuno's block isn't as strong, so they decide to go<br>after Shiratorizawa with forceful attacks. Meanwhile, Hinata's play finally makes Ushijima feel like he's worth<br>playing against.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +424,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Hindi Dub) - Episode 18 - Flicker of Doom</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (Hindi Dub) - Episode 8 - An Annoying Guy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/41bda5fd21d9f5d72ddbe321583e49231700707516_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ab6361c7fa1f7216842e4de343b5b5401480082671_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +442,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGN7K4/flicker-of-doom">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34DQJ/an-annoying-guy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yo and the Kingdom of Science capture the petrification device, but Ibara isn't going down<br>without a fight.</p>
+<p align="center">Because Tsukishima's hand was injured, Karasuno's block isn't as strong, so they decide to go<br>after Shiratorizawa with forceful attacks. Meanwhile, Hinata's play finally makes Ushijima feel like he's worth<br>playing against.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +458,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Tamil Dub) - Episode 18 - Flicker of Doom</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (Tamil Dub) - Episode 8 - An Annoying Guy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/41bda5fd21d9f5d72ddbe321583e49231700707516_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ab6361c7fa1f7216842e4de343b5b5401480082671_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -472,13 +476,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMDJ00/flicker-of-doom">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D539/an-annoying-guy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yo and the Kingdom of Science capture the petrification device, but Ibara isn't going down<br>without a fight.</p>
+<p align="center">Because Tsukishima's hand was injured, Karasuno's block isn't as strong, so they decide to go<br>after Shiratorizawa with forceful attacks. Meanwhile, Hinata's play finally makes Ushijima feel like he's worth<br>playing against.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +492,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Telugu Dub) - Episode 18 - Flicker of Doom</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (Telugu Dub) - Episode 8 - An Annoying Guy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/41bda5fd21d9f5d72ddbe321583e49231700707516_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ab6361c7fa1f7216842e4de343b5b5401480082671_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -506,13 +510,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW737G/flicker-of-doom">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVM1Q/an-annoying-guy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yo and the Kingdom of Science capture the petrification device, but Ibara isn't going down<br>without a fight.</p>
+<p align="center">Because Tsukishima's hand was injured, Karasuno's block isn't as strong, so they decide to go<br>after Shiratorizawa with forceful attacks. Meanwhile, Hinata's play finally makes Ushijima feel like he's worth<br>playing against.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +526,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Hindi Dub) - Episode 17 - JOKER</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (French Dub) - Episode 7 - Obsession</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b90497f93363a3e92c3fcd57cbec9c5d1700130309_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f8eb02686dc5610612287cc3eee5c9b51479333423_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -540,13 +544,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ140M/joker">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU92XVG/obsession">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Kingdom of Science members launch an attack on the islanders aboard the Perseus, but<br>Moz isn't far behind and Senku and the others are forced to retreat inside the<br>vessel. Ibara has them cornered, but Senku unleashes his Joker card.</p>
+<p align="center">The match finally reaches the final set, which will be won by whoever gets 15<br>points first. Keishin sees that Kageyama is exhausted, and switches him out with Sugawara. Sugawara<br>had always only done attacks that he knew would work for sure, but after the<br>Tokyo training camp...</p>
 </td>
 </tr>
 </table>
@@ -556,12 +560,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Tamil Dub) - Episode 17 - JOKER</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (Hindi Dub) - Episode 7 - Obsession</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b90497f93363a3e92c3fcd57cbec9c5d1700130309_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f8eb02686dc5610612287cc3eee5c9b51479333423_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -574,13 +578,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZ453/joker">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU92XEG/obsession">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Kingdom of Science members launch an attack on the islanders aboard the Perseus, but<br>Moz isn't far behind and Senku and the others are forced to retreat inside the<br>vessel. Ibara has them cornered, but Senku unleashes his Joker card.</p>
+<p align="center">The match finally reaches the final set, which will be won by whoever gets 15<br>points first. Keishin sees that Kageyama is exhausted, and switches him out with Sugawara. Sugawara<br>had always only done attacks that he knew would work for sure, but after the<br>Tokyo training camp...</p>
 </td>
 </tr>
 </table>
@@ -590,12 +594,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Telugu Dub) - Episode 17 - JOKER</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (Tamil Dub) - Episode 7 - Obsession</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b90497f93363a3e92c3fcd57cbec9c5d1700130309_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f8eb02686dc5610612287cc3eee5c9b51479333423_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -608,13 +612,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D5D3/joker">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX3MP/obsession">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Kingdom of Science members launch an attack on the islanders aboard the Perseus, but<br>Moz isn't far behind and Senku and the others are forced to retreat inside the<br>vessel. Ibara has them cornered, but Senku unleashes his Joker card.</p>
+<p align="center">The match finally reaches the final set, which will be won by whoever gets 15<br>points first. Keishin sees that Kageyama is exhausted, and switches him out with Sugawara. Sugawara<br>had always only done attacks that he knew would work for sure, but after the<br>Tokyo training camp...</p>
 </td>
 </tr>
 </table>
@@ -624,12 +628,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Hindi Dub) - Episode 16 - Total War</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (Telugu Dub) - Episode 7 - Obsession</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5d9f48c6e400a5dec2ad4e76c8a5e5381699523560_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f8eb02686dc5610612287cc3eee5c9b51479333423_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -642,13 +646,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU92WM4/total-war">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU73905/obsession">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Kingdom of Science attacks and tries to execute their plan to steal the petrification<br>device. Moz convinces Kirisame to use the device, but Ryusui's instincts tell him something is<br>off about the situation.</p>
+<p align="center">The match finally reaches the final set, which will be won by whoever gets 15<br>points first. Keishin sees that Kageyama is exhausted, and switches him out with Sugawara. Sugawara<br>had always only done attacks that he knew would work for sure, but after the<br>Tokyo training camp...</p>
 </td>
 </tr>
 </table>
@@ -658,12 +662,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dr. STONE NEW WORLD (Tamil Dub) - Episode 16 - Total War</h3></th>
+<th><h3 align="center">HAIKYU!! 3rd Season (French Dub) - Episode 6 - The Chemical Change of Encounters</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5d9f48c6e400a5dec2ad4e76c8a5e5381699523560_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e6d1275c253be313d8230821b909870d1478847091_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -676,13 +680,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEG4MQ/total-war">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D5N9/the-chemical-change-of-encounters">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Kingdom of Science attacks and tries to execute their plan to steal the petrification<br>device. Moz convinces Kirisame to use the device, but Ryusui's instincts tell him something is<br>off about the situation.</p>
+<p align="center">Shiratorizawa quickly takes a second set, so Karasuno is now out of chances. However, Hinata<br>ups his defense and the two teams battle it out even more intensely. It seems<br>that things are picking back up for Karasuno, when Kageyama...</p>
 </td>
 </tr>
 </table>
