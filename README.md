@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jun 20, 2025, 8:17:59 AM</em></p>
+<p align="center"><em>Updated on: Jun 20, 2025, 7:33:30 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Rascal Does Not Dream of a Dreaming Girl (English Dub) - Rascal Does Not Dream of a Dreaming Girl</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Hindi Dub) - Episode 13 - The Very Busy Academy Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b94d95e1a16d71d7ca4f953c918f4ee31750361522_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8f4983b2213b136aab3b9e4e78bf404e1711929689_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2P5Z/rascal-does-not-dream-of-a-dreaming-girl">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJZZ9/the-very-busy-academy-festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sakuta Azusagawa is enjoying high school when his first crush appears, and his scar begins<br>to throb…</p>
+<p align="center">The academy festival is fast approaching. Shinai, a temple priest, arranges a meeting with Makoto<br>on short notice. Shinai informs Makoto about rumors concerning the medicine being sold at the<br>shop and offers Makoto a proposal to help dispel them.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rascal Does Not Dream of a Dreaming Girl - Rascal Does Not Dream of a Dreaming Girl</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 13 - The Very Busy Academy Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9c6355e2fa6b247dd9a70d29e55942e01750361117_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8f4983b2213b136aab3b9e4e78bf404e1711929689_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82V39/rascal-does-not-dream-of-a-dreaming-girl">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQP81/the-very-busy-academy-festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sakuta Azusagawa is enjoying high school when his first crush appears, and his scar begins<br>to throb…</p>
+<p align="center">The academy festival is fast approaching. Shinai, a temple priest, arranges a meeting with Makoto<br>on short notice. Shinai informs Makoto about rumors concerning the medicine being sold at the<br>shop and offers Makoto a proposal to help dispel them.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Our Last Crusade or the Rise of a New World Season 2 (English Dub) - Episode 9 - Last Crusade: Our Last Crusade or the Night We Make Our Vow</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 13 - The Very Busy Academy Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5f806b7a4fbd384e37491fcb5a9c3ee21749119492_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8f4983b2213b136aab3b9e4e78bf404e1711929689_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU92XWX/last-crusade-our-last-crusade-or-the-night-we-make-our-vow">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVMEZ/the-very-busy-academy-festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Alice declares war on Iska in order to put an end to their easy relationship<br>as a friendly rival.</p>
+<p align="center">The academy festival is fast approaching. Shinai, a temple priest, arranges a meeting with Makoto<br>on short notice. Shinai informs Makoto about rumors concerning the medicine being sold at the<br>shop and offers Makoto a proposal to help dispel them.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Our Last Crusade or the Rise of a New World Season 2 (Spanish Dub) - Episode 8 - Last Crusade: The Unforgiven One</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Hindi Dub) - Episode 12 - Attack of the Giant Monsters</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b3eb3aafbbaf079bf223f2dbe337bc601748495293_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/220a5c86d663bf6d9b90b2167dc38e741711378080_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW73PX/last-crusade-the-unforgiven-one">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1MM5/attack-of-the-giant-monsters">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the battle between the Saint Disciples and purebreds continue, an atrocious astral spirit approaches…</p>
+<p align="center">One day near summer's end, the highland orcs are attacked by wolves and bears while<br>exploring the forest. After hearing the news, Makoto goes to the forest in an attempt<br>to make peace between them, but the bear he meets looks upon him with hostility.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Our Last Crusade or the Rise of a New World Season 2 (Portuguese Dub) - Episode 8 - Last Crusade: The Unforgiven One</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 12 - Attack of the Giant Monsters</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b3eb3aafbbaf079bf223f2dbe337bc601748495293_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/220a5c86d663bf6d9b90b2167dc38e741711378080_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVP382/last-crusade-the-unforgiven-one">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU739P7/attack-of-the-giant-monsters">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the battle between the Saint Disciples and purebreds continue, an atrocious astral spirit approaches…</p>
+<p align="center">One day near summer's end, the highland orcs are attacked by wolves and bears while<br>exploring the forest. After hearing the news, Makoto goes to the forest in an attempt<br>to make peace between them, but the bear he meets looks upon him with hostility.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER Season 2 (English Dub) - Episode 23 - SALVATION</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 12 - Attack of the Giant Monsters</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/67a4734832c02cd767285a8eb0ede6841749144122_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/220a5c86d663bf6d9b90b2167dc38e741711378080_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVM71/salvation">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNZ4J/attack-of-the-giant-monsters">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Unable to bear anyone getting hurt because of her, Shizuka attempts to run to Shuhei<br>Suzuri, the leader of GRAVEL, while ignoring the calls from Nirei and the others. However,<br>she is stopped by Tsubakino, Seiryu, and Uryu. Tsubakino asks what she wants to do,<br>to which Shizuka responds, “I want to stay with everyone!” This prompts Tsubakino to finally<br>show the seriousness of the Four Kings. Tsubakino asks what Suzuri likes and gradually, their<br>fists become part of a conversation, as the battle between Tsubakino and Suzuri continues.</p>
+<p align="center">One day near summer's end, the highland orcs are attacked by wolves and bears while<br>exploring the forest. After hearing the news, Makoto goes to the forest in an attempt<br>to make peace between them, but the bear he meets looks upon him with hostility.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER Season 2 (Portuguese Dub) - Episode 22 - SHALL WE DANCE?</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Hindi Dub) - Episode 11 - Summer of Growth and New Skills</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/963e54e52d888a1b5ae6a3373fc8f5971748537576_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1cd210488565733b7bd26c27dd35d4231710765624_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8XQ3Z/shall-we-dance">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVP332/summer-of-growth-and-new-skills">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The name of the group pursuing Shizuka is GRAVEL, a group of delinquents from the<br>Sunaba District, a notorious area known for its rough reputation. They begin to rampage through<br>Keisei Street again, this time with more members, in an attempt to capture Shizuka. However,<br>the members of Roppo Ichiza, Sakura, Nirei, and Suo are ready to confront them! Roppo<br>Ichiza struggles in the fight due to the overwhelming number of GRAVEL forces despite them<br>being beaten down one after another. Meanwhile, Tsubakino, Seiryu, and Uryu wait with Shizuka at<br>the Burlesque Bar OUGI.</p>
+<p align="center">It's summer vacation for Rotsgard Academy. Makoto spends his time doing miscellaneous work and learning<br>magic. One day it's decided he will have a mock battle against the wingkin. Makoto<br>braces himself against his powerful enemies who are undefeated.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER Season 2 (Spanish Dub) - Episode 22 - SHALL WE DANCE?</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 11 - Summer of Growth and New Skills</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/963e54e52d888a1b5ae6a3373fc8f5971748537576_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1cd210488565733b7bd26c27dd35d4231710765624_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNV2MG/shall-we-dance">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNZZJ/summer-of-growth-and-new-skills">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The name of the group pursuing Shizuka is GRAVEL, a group of delinquents from the<br>Sunaba District, a notorious area known for its rough reputation. They begin to rampage through<br>Keisei Street again, this time with more members, in an attempt to capture Shizuka. However,<br>the members of Roppo Ichiza, Sakura, Nirei, and Suo are ready to confront them! Roppo<br>Ichiza struggles in the fight due to the overwhelming number of GRAVEL forces despite them<br>being beaten down one after another. Meanwhile, Tsubakino, Seiryu, and Uryu wait with Shizuka at<br>the Burlesque Bar OUGI.</p>
+<p align="center">It's summer vacation for Rotsgard Academy. Makoto spends his time doing miscellaneous work and learning<br>magic. One day it's decided he will have a mock battle against the wingkin. Makoto<br>braces himself against his powerful enemies who are undefeated.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER Season 2 (French Dub) - Episode 22 - SHALL WE DANCE?</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 11 - Summer of Growth and New Skills</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/963e54e52d888a1b5ae6a3373fc8f5971748537576_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1cd210488565733b7bd26c27dd35d4231710765624_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZD4Z/shall-we-dance">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU92XPX/summer-of-growth-and-new-skills">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The name of the group pursuing Shizuka is GRAVEL, a group of delinquents from the<br>Sunaba District, a notorious area known for its rough reputation. They begin to rampage through<br>Keisei Street again, this time with more members, in an attempt to capture Shizuka. However,<br>the members of Roppo Ichiza, Sakura, Nirei, and Suo are ready to confront them! Roppo<br>Ichiza struggles in the fight due to the overwhelming number of GRAVEL forces despite them<br>being beaten down one after another. Meanwhile, Tsubakino, Seiryu, and Uryu wait with Shizuka at<br>the Burlesque Bar OUGI.</p>
+<p align="center">It's summer vacation for Rotsgard Academy. Makoto spends his time doing miscellaneous work and learning<br>magic. One day it's decided he will have a mock battle against the wingkin. Makoto<br>braces himself against his powerful enemies who are undefeated.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER Season 2 (German Dub) - Episode 22 - SHALL WE DANCE?</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Hindi Dub) - Episode 10 - Watch As I Improve the World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/963e54e52d888a1b5ae6a3373fc8f5971748537576_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e699c3566d6e2aa04b58654e1d3613061710156457_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD2JZ/shall-we-dance">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW733X/watch-as-i-improve-the-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The name of the group pursuing Shizuka is GRAVEL, a group of delinquents from the<br>Sunaba District, a notorious area known for its rough reputation. They begin to rampage through<br>Keisei Street again, this time with more members, in an attempt to capture Shizuka. However,<br>the members of Roppo Ichiza, Sakura, Nirei, and Suo are ready to confront them! Roppo<br>Ichiza struggles in the fight due to the overwhelming number of GRAVEL forces despite them<br>being beaten down one after another. Meanwhile, Tsubakino, Seiryu, and Uryu wait with Shizuka at<br>the Burlesque Bar OUGI.</p>
+<p align="center">Shin and company begin full-scale action to destroy the underground organization with demon general Rona's<br>help. The group discovers that the mastermind is Bright, an instructor at Rotsgard Academy. Bright's<br>willingness to make sacrifices angers Makoto.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER Season 2 (Hindi Dub) - Episode 22 - SHALL WE DANCE?</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 10 - Watch As I Improve the World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/963e54e52d888a1b5ae6a3373fc8f5971748537576_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e699c3566d6e2aa04b58654e1d3613061710156457_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1M45/shall-we-dance">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD2EZ/watch-as-i-improve-the-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The name of the group pursuing Shizuka is GRAVEL, a group of delinquents from the<br>Sunaba District, a notorious area known for its rough reputation. They begin to rampage through<br>Keisei Street again, this time with more members, in an attempt to capture Shizuka. However,<br>the members of Roppo Ichiza, Sakura, Nirei, and Suo are ready to confront them! Roppo<br>Ichiza struggles in the fight due to the overwhelming number of GRAVEL forces despite them<br>being beaten down one after another. Meanwhile, Tsubakino, Seiryu, and Uryu wait with Shizuka at<br>the Burlesque Bar OUGI.</p>
+<p align="center">Shin and company begin full-scale action to destroy the underground organization with demon general Rona's<br>help. The group discovers that the mastermind is Bright, an instructor at Rotsgard Academy. Bright's<br>willingness to make sacrifices angers Makoto.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Brilliant Healer's New Life in the Shadows (English Dub) - Episode 10 - A Request from a Noble Lady</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 10 - Watch As I Improve the World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5c4ca560e4d9edfee53a39edf969a9d81749131750_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e699c3566d6e2aa04b58654e1d3613061710156457_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW73GX/a-request-from-a-noble-lady">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1MX5/watch-as-i-improve-the-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A request for Zenos to treat Lord Fennel's daughter ends up being complicated by her<br>haughty attitude.</p>
+<p align="center">Shin and company begin full-scale action to destroy the underground organization with demon general Rona's<br>help. The group discovers that the mastermind is Bright, an instructor at Rotsgard Academy. Bright's<br>willingness to make sacrifices angers Makoto.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Brilliant Healer's New Life in the Shadows (Portuguese Dub) - Episode 9 - Faction Infiltration</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Hindi Dub) - Episode 9 - The Perverted Dragon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6276d915469408bcbf7239eb5d06458e1748515645_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d9f7d7c4aeb9f0ca73803b602f0aba91709558280_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1MP5/faction-infiltration">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD22Z/the-perverted-dragon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Zenos' gets an invite to the Goldran Laboratory, and a chance to track down Becker's<br>missing student.</p>
+<p align="center">Lime sets out to investigate hyuman experiments that are secretly being carried out in Rotsgard.<br>He ends up being captured by an underground organization along with Eva. After that, the<br>two manage to escape and meet up with Shin and the others.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Brilliant Healer's New Life in the Shadows (Spanish Dub) - Episode 9 - Faction Infiltration</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 9 - The Perverted Dragon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6276d915469408bcbf7239eb5d06458e1748515645_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d9f7d7c4aeb9f0ca73803b602f0aba91709558280_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJZ89/faction-infiltration">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZDEZ/the-perverted-dragon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Zenos' gets an invite to the Goldran Laboratory, and a chance to track down Becker's<br>missing student.</p>
+<p align="center">Lime sets out to investigate hyuman experiments that are secretly being carried out in Rotsgard.<br>He ends up being captured by an underground organization along with Eva. After that, the<br>two manage to escape and meet up with Shin and the others.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER Season 2 - Episode 25 - STRENGTH FOR ANOTHER</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 9 - The Perverted Dragon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bcfbce2261d5fa41a0edaae5a3c5289a1750353208_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9d9f7d7c4aeb9f0ca73803b602f0aba91709558280_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKVDV/strength-for-another">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQPG1/the-perverted-dragon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sakura, Nirei, and Suo are called up to the roof of Furin High School. Waiting<br>for them are the Four Kings, their next-in-commands, and Sugishita, who’s helping Umemiya. Having heard<br>about the recent events from Tsubakino, Umemiya has called everyone here to tell the story<br>of Endo, who was the mastermind behind the conflicts between KEEL and GRAVEL, and to<br>explain the origins of the Bofurin unification. As Umemiya, Hiragi, Tsubakino, Momose, and Mizuki join<br>Furin High School and become a part of the Bofurin; what shadow is born as<br>a result of this?</p>
+<p align="center">Lime sets out to investigate hyuman experiments that are secretly being carried out in Rotsgard.<br>He ends up being captured by an underground organization along with Eva. After that, the<br>two manage to escape and meet up with Shin and the others.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Brilliant Healer's New Life in the Shadows - Episode 12 - Choosing Who Lives</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Hindi Dub) - Episode 8 - The Notorious Beautiful Sisters</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f2dc9569a2c15e4a88d85887ffa6216c1750316076_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e40d6e9d13579f97f756ee7c5c3c47b01708964419_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD31VD/choosing-who-lives">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEGNNZ/the-notorious-beautiful-sisters">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Zenos learns the truth behind Becker's investigation, and faces the question: are lives equal in<br>value?</p>
+<p align="center">Makoto had a busy but fun time in the demiplane. After finishing his business, he<br>returns to Rotsgard with Shiki. Meanwhile, at Rotsgard Academy, Shifu and Yuno Rembrandt have returned<br>to school and will attend a lecture with transfer student Karen Force.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Ninja and an Assassin Under One Roof - Episode 11 - A Ninja and an Assassin's Big Dilemma</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 8 - The Notorious Beautiful Sisters</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/87f08967182a0977cf64328805e6963e1750314934_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e40d6e9d13579f97f756ee7c5c3c47b01708964419_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ91J/a-ninja-and-an-assassins-big-dilemma">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEGN2Z/the-notorious-beautiful-sisters">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Satoko's injured and Konoha takes on challenging missions due to her career and life being<br>on the line.</p>
+<p align="center">Makoto had a busy but fun time in the demiplane. After finishing his business, he<br>returns to Rotsgard with Shiki. Meanwhile, at Rotsgard Academy, Shifu and Yuno Rembrandt have returned<br>to school and will attend a lecture with transfer student Karen Force.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Our Last Crusade or the Rise of a New World Season 2 - Episode 11 - Morning Star: Snow the Sun</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 8 - The Notorious Beautiful Sisters</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/97c49d76a0baa0eb2e68bc8889ae9c0b1750314904_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e40d6e9d13579f97f756ee7c5c3c47b01708964419_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/19/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU47QN4/morning-star-snow-the-sun">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVME1/the-notorious-beautiful-sisters">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Iska begins with the plan to infiltrate Hydra's base to rescue Sisbell.</p>
+<p align="center">Makoto had a busy but fun time in the demiplane. After finishing his business, he<br>returns to Rotsgard with Shiki. Meanwhile, at Rotsgard Academy, Shifu and Yuno Rembrandt have returned<br>to school and will attend a lecture with transfer student Karen Force.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Spanish Dub) - Episode 21 - Hero</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Hindi Dub) - Episode 7 - New Member Audition</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5b7224bd785830ecba9041a7e0d9ab691605894457_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1acb81fd2e765e634e65f5249b1911641708352436_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/18/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7PDQ9/hero">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDM77Q/new-member-audition">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Things intensify even more in the 3rd set against Inarizaki. Karasuno has a hard time<br>dealing with Miya Atsumu's serves and Suna's quicks and then send in the pinch server,<br>Kinoshita.</p>
+<p align="center">Makoto returns to the demiplane to check out his new house, which has finally completed<br>construction. He arrives to find that the weather is unseasonably hot, and the source of<br>the problem might be his fault.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Spanish Dub) - Episode 20 - Leader</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 7 - New Member Audition</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fbd1640e09b39941e4b0187db2e523f71605276428_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1acb81fd2e765e634e65f5249b1911641708352436_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/18/2025</td>
+<td align="center">6/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNV2PM/leader">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDM7PQ/new-member-audition">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Karasuno starts to break down Inarizaki's dominance with Kageyama's serves. And to counter that, Inarizaki<br>sends in their captain, Kita Shinsuke to get their rhythm back.</p>
+<p align="center">Makoto returns to the demiplane to check out his new house, which has finally completed<br>construction. He arrives to find that the weather is unseasonably hot, and the source of<br>the problem might be his fault.</p>
 </td>
 </tr>
 </table>
