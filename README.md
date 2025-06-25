@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jun 25, 2025, 8:19:23 AM</em></p>
+<p align="center"><em>Updated on: Jun 25, 2025, 7:34:21 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">PSYCHO-PASS 3 FIRST INSPECTOR (English Dub) - Episode 3 - Act Three   (Rainy day, and)</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Thai Dub) - Episode 12 - Adventures Are as Countless as Varieties of Food</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9e70dac513652abc8425f93af7bcc58a1689116048_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6bb11115aca90da4435895e3e8d249251680016517_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2P4K/act-three-rainy-day-and">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW73V9/adventures-are-as-countless-as-varieties-of-food">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When Arata and Kei, the two inspectors who lead CID Unit One, clash over truth<br>and justice during an investigation, the mastermind behind the case, Koichi Azusawa, launches an assault<br>on the Public Safety Bureau Building, putting the detectives in a predicament like never seen<br>before.</p>
+<p align="center">After easily defeating the pack of dangerous yet powerful wyverns, Mukohda and his familiars receive<br>praise not only from the guild, but also from the entire town. Unfazed by the<br>attention, Mukohda goes out to look for a certain thing that he's always wanted to<br>get in ever since he got summoned to this world.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">PSYCHO-PASS 3 FIRST INSPECTOR (English Dub) - Episode 2 - Act Two   (Ziggurat Capture Part 2)</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Indonesian Dub) - Episode 12 - Adventures Are as Countless as Varieties of Food</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/18d1aece5345eb30aa52a4f0deecb6ff1689114685_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6bb11115aca90da4435895e3e8d249251680016517_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82VWM/act-two-ziggurat-capture-part-2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34DE2/adventures-are-as-countless-as-varieties-of-food">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When Arata and Kei, the two inspectors who lead CID Unit One, clash over truth<br>and justice during an investigation, the mastermind behind the case, Koichi Azusawa, launches an assault<br>on the Public Safety Bureau Building, putting the detectives in a predicament like never seen<br>before.</p>
+<p align="center">After easily defeating the pack of dangerous yet powerful wyverns, Mukohda and his familiars receive<br>praise not only from the guild, but also from the entire town. Unfazed by the<br>attention, Mukohda goes out to look for a certain thing that he's always wanted to<br>get in ever since he got summoned to this world.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">PSYCHO-PASS 3 FIRST INSPECTOR (English Dub) - Episode 1 - Act One   (Ziggurat Capture Part 1)</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Thai Dub) - Episode 11 - Doing Business for the Missus</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ed72ca2c7b60adb4026c57db540344821689111548_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/48725f402dfd5281b475ee993c409a3b1679417181_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE3ZQP/act-one-ziggurat-capture-part-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34DWG/doing-business-for-the-missus">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When Arata and Kei, the two inspectors who lead CID Unit One, clash over truth<br>and justice during an investigation, the mastermind behind the case, Koichi Azusawa, launches an assault<br>on the Public Safety Bureau Building, putting the detectives in a predicament like never seen<br>before.</p>
+<p align="center">Lambert consults Mukohda about a gift for his wife. When Mukohda suggests a certain product<br>he purchased from the online grocery, it leads to an unexpected situation. Meanwhile, a pack<br>of dangerous monsters, called wyverns, are approaching the town...?</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">PSYCHO-PASS 3 (English Dub) - Episode 8 - Cubism</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Indonesian Dub) - Episode 11 - Doing Business for the Missus</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/61ce1881d6643aed8d25dfbe0c98c6ff1689107048_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/48725f402dfd5281b475ee993c409a3b1679417181_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34DJG/cubism">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU92X09/doing-business-for-the-missus">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Unit One has begun to grasp the truth behind the incidents following each other like<br>a line of falling dominoes and team up with the SAD to continue their investigation.<br>Arata guards the governor, who is at risk of being targeted again, while Kei organizes<br>a sting using Kisaragi as bait. When he arrives at the appointed meeting place, however,<br>he finds Shizuka Homura waiting for him.</p>
+<p align="center">Lambert consults Mukohda about a gift for his wife. When Mukohda suggests a certain product<br>he purchased from the online grocery, it leads to an unexpected situation. Meanwhile, a pack<br>of dangerous monsters, called wyverns, are approaching the town...?</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">PSYCHO-PASS 3 (English Dub) - Episode 7 - Don't Take God's Name in Vain</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Thai Dub) - Episode 10 - My Two Familiars Are Too Overpowered</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e720bbfd954f061f6ee7536645d32d491689106809_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ed42f95340e2ad6f4eb4daea41d6f44d1678810960_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D5M0/dont-take-gods-name-in-vain">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU92XM1/my-two-familiars-are-too-overpowered">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Through a Mental Trace, Arata discovers that the supposedly-dead Kurisu is alive and uncovers the<br>truth behind the terrorist bombings. Shimotsuki, meanwhile, has launched a forced search of Heaven's Leap<br>and brought Unit Two to locate Kei. Torri, cornered, takes Maiko hostage and confronts Kei,<br>but Maiko takes advantage of a momentary opening to end his life.</p>
+<p align="center">Mukohda and his familiars receive a request to head towards a mine and hunt down<br>the metal lizard that inhabits it. Instead, they run into a rare mithril lizard. After<br>Mukohda defeats the lizard, with the help of Fel and Sui, Fel turns his interest<br>towards a different and tastier prey...?</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">PSYCHO-PASS 3 (English Dub) - Episode 6 - Caesar's Gold Coins</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Indonesian Dub) - Episode 10 - My Two Familiars Are Too Overpowered</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7f15562454066e9b45f135a7ad3d1dce1689106818_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ed42f95340e2ad6f4eb4daea41d6f44d1678810960_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVM4M/caesars-gold-coins">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D574/my-two-familiars-are-too-overpowered">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Arata and the others have just learned that there are three more human bombs when<br>a third suicide bombing in New Town's factory district takes Joseph Auma's life. Meanwhile, Kei<br>and Kisaragi have infiltrated Heaven's Leap in search of clues to the terrorist serial bombings.<br>They discover proof they're looking for, but find themselves exposed and taken captive.</p>
+<p align="center">Mukohda and his familiars receive a request to head towards a mine and hunt down<br>the metal lizard that inhabits it. Instead, they run into a rare mithril lizard. After<br>Mukohda defeats the lizard, with the help of Fel and Sui, Fel turns his interest<br>towards a different and tastier prey...?</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">PSYCHO-PASS 3 (English Dub) - Episode 5 - Agamemnon's Offering</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Thai Dub) - Episode 9 - Hunting Quests Are All About Meat and Money</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7b2b1a0a546352c0267d7bf2c0d3d9ef1689106386_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/12c5922f2b69790cd13182c9eb9e9eb31678209684_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU739EN/agamemnons-offering">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D510/hunting-quests-are-all-about-meat-and-money">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A Special Religious Zone is established, where immigrants can practice religion freely. Religious leaders gather<br>for a press event in Mitake New Town, the site of the Special Zone, but<br>the venue becomes the target of a terrorist attack by a suicide bomber with explosives<br>implanted in his stomach. Unit One starts investigating the anti-special-zone faction.</p>
+<p align="center">Mukohda gets summoned by the guild master after defeating an entire settlement of goblins while<br>finishing a guild request. Although Mukohda didn't want to make a big deal out of<br>it, he receives a high-ranking quest directly from the guild master...?</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">PSYCHO-PASS 3 (English Dub) - Episode 4 - Political Strife in the Colosseum</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Indonesian Dub) - Episode 9 - Hunting Quests Are All About Meat and Money</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2d52c26614a4f74df34a4b1963eee7ee1689106086_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/12c5922f2b69790cd13182c9eb9e9eb31678209684_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD2X8/political-strife-in-the-colosseum">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQP7Q/hunting-quests-are-all-about-meat-and-money">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Freelance journalist Yayoi Kunizuka joins Unit One as an investigation consultant to fill the gap<br>left by Kei's suspension. As the investigation progresses, Unit One uncovers Karina Komiya's greatest secret.<br>Guessing that Karina will be the next to be attacked, they rush to her gubernatorial<br>debate at the Giga Arena.</p>
+<p align="center">Mukohda gets summoned by the guild master after defeating an entire settlement of goblins while<br>finishing a guild request. Although Mukohda didn't want to make a big deal out of<br>it, he receives a high-ranking quest directly from the guild master...?</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">PSYCHO-PASS 3 (English Dub) - Episode 3 - Herakles and the Sirens</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Thai Dub) - Episode 8 - All of the Boss Monsters Are Tasty</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f046074b15c441cc7f2166362e38ea811689105796_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5bf707dbf96c531537bc5ef6570850491677603454_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZDV8/herakles-and-the-sirens">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQPDG/all-of-the-boss-monsters-are-tasty">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After meeting Karina Komiya face-to-face, Arata senses something unfathomable from her, but can't find a<br>clue to the case. Then Lee Aki, the secretary of her opponent, Kosuke "Heracles" Yakushiji,<br>is murdered. Unit One decides to split up to investigate both the attackers and their<br>victims, but...</p>
+<p align="center">After Mukohda rescues a traveling caravan from a band of bandits, they set out together<br>for the great city of Karelina. But when Mukohda visits the Adventurer’s Guild in the<br>city, he gets notified that his membership was revoked...?</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">PSYCHO-PASS 3 (English Dub) - Episode 2 - Teumessian Sacrifices</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Indonesian Dub) - Episode 8 - All of the Boss Monsters Are Tasty</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b8a1f8673fd04320a3d7d0ad940d9e531689105846_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5bf707dbf96c531537bc5ef6570850491677603454_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEGNQ7/teumessian-sacrifices">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX32W/all-of-the-boss-monsters-are-tasty">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Unit One chases a suspect in the staged crash, Hyper Transport Co. executive Takumi Yonehara,<br>into an abandoned zone. But when they track Yonehara down, they find he's already dead.<br>Arata and Kei ignore Chief Shimotsuki's orders and pursue the mastermind, Sasagawa, to Ariake Airport,<br>where two unfamiliar men stand in their way: Shinya Kogami and Nobuchika Ginoza of the<br>Ministry of Foreign Affairs.</p>
+<p align="center">After Mukohda rescues a traveling caravan from a band of bandits, they set out together<br>for the great city of Karelina. But when Mukohda visits the Adventurer’s Guild in the<br>city, he gets notified that his membership was revoked...?</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">PSYCHO-PASS 3 (English Dub) - Episode 1 - Laelaps' Calling</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Thai Dub) - Episode 7 - The Wolf Dances With Monsters</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3eea77667ca7416b9d011b7ef262df0a1689105725_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c95513e5ad8b9e8fd60b8d479f0286a01676984748_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,18 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDM72D/laelaps-calling">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX3K9/the-wolf-dances-with-monsters">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tokyo, 2120. A massive transport drone crashes, and Unit One's new inspectors Arata Shindo and<br>Kei Mikhail Ignatov head to investigate. Discovering that Hyper Transport Co. accountant Asahi Rick Fellows<br>is missing, Arata performs a Mental Trace to track him, but finds only his waterlogged<br>corpse. Arata and Kei suspect the crash was staged, and pursue the mastermind who tried<br>to silence Rick.</p>
+<p align="center">Mukohda and his familiars dash through the forest, after strengthening their bonds in the dungeon.
+However,<br>they soon find themselves in the territory of dangerous monsters and, just like Mukohda expected,<br>surrounded by a pack of orthros...</p>
 </td>
 </tr>
 </table>
@@ -386,12 +387,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Shiunji Family Children (Portuguese Dub) - Episode 9 - Not Yet</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Indonesian Dub) - Episode 7 - The Wolf Dances With Monsters</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d3536ca4e3c39eef6340eb83e4c277461748958113_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c95513e5ad8b9e8fd60b8d479f0286a01676984748_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +401,18 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34DZG/not-yet">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVMJW/the-wolf-dances-with-monsters">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ouka's gone AWOL, and the gang must figure out what's going on.</p>
+<p align="center">Mukohda and his familiars dash through the forest, after strengthening their bonds in the dungeon.
+However,<br>they soon find themselves in the territory of dangerous monsters and, just like Mukohda expected,<br>surrounded by a pack of orthros...</p>
 </td>
 </tr>
 </table>
@@ -420,12 +422,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Shiunji Family Children (Spanish Dub) - Episode 9 - Not Yet</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Thai Dub) - Episode 6 - Growth Happens Out of Nowhere</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d3536ca4e3c39eef6340eb83e4c277461748958113_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b276c4fceaf7dc4af328ac0a76a9ab81676375084_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +436,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7389/not-yet">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVMNM/growth-happens-out-of-nowhere">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ouka's gone AWOL, and the gang must figure out what's going on.</p>
+<p align="center">The place Fel decides to bring Mukohda to get some battle experience ends up being<br>a creepy dungeon. Even so, Mukohda gets ready for battle and increases his stats by<br>eating a meal from his original world using the “Online Grocery”. However...</p>
 </td>
 </tr>
 </table>
@@ -454,12 +456,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Shiunji Family Children (English Dub) - Episode 9 - Not Yet</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Indonesian Dub) - Episode 6 - Growth Happens Out of Nowhere</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d3536ca4e3c39eef6340eb83e4c277461748958113_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b276c4fceaf7dc4af328ac0a76a9ab81676375084_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +470,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJZVV/not-yet">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU739J2/growth-happens-out-of-nowhere">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ouka's gone AWOL, and the gang must figure out what's going on.</p>
+<p align="center">The place Fel decides to bring Mukohda to get some battle experience ends up being<br>a creepy dungeon. Even so, Mukohda gets ready for battle and increases his stats by<br>eating a meal from his original world using the “Online Grocery”. However...</p>
 </td>
 </tr>
 </table>
@@ -488,12 +490,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Shiunji Family Children (Hindi Dub) - Episode 9 - Not Yet</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Thai Dub) - Episode 5 - The Goddess of Wind Has a Sweet Tooth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d3536ca4e3c39eef6340eb83e4c277461748958113_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5ec45941418f9480469dc505921688c31675773929_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +504,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE3ZGP/not-yet">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU739JN/the-goddess-of-wind-has-a-sweet-tooth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ouka's gone AWOL, and the gang must figure out what's going on.</p>
+<p align="center">Mukohda and Fel arrive at a large lake, where they catch some fish and have<br>their usual meal. But right when they start eating inside the barrier that keeps monsters<br>at bay, a baby slime appears out of nowhere...?</p>
 </td>
 </tr>
 </table>
@@ -522,12 +524,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Apocalypse Hotel - Episode 12 - Aim to Be the Number One Hotel in the Galaxy</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Indonesian Dub) - Episode 5 - The Goddess of Wind Has a Sweet Tooth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a28cafbd95af4128accb5435912611b61750781443_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5ec45941418f9480469dc505921688c31675773929_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +538,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N578/aim-to-be-the-number-one-hotel-in-the-galaxy">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD2VV/the-goddess-of-wind-has-a-sweet-tooth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gingarou and Earth receive a visit from an old, old friend.</p>
+<p align="center">Mukohda and Fel arrive at a large lake, where they catch some fish and have<br>their usual meal. But right when they start eating inside the barrier that keeps monsters<br>at bay, a baby slime appears out of nowhere...?</p>
 </td>
 </tr>
 </table>
@@ -556,12 +558,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Shiunji Family Children - Episode 12 - Still</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Thai Dub) - Episode 4 - Cannot Start the Journey Without a Map</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7e8d25eec5c971804bc3ccc472a7fdae1750774397_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a2f7415c188ea90e2e4e21e5fc29891e1675174164_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +572,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/24/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMQWM/still">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD2V8/cannot-start-the-journey-without-a-map">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the family trip draws to a close, the siblings each come to terms with<br>their bonds in their own way.</p>
+<p align="center">Mukohda asks Fel to teach him how to use magic after witnessing his wind magic.<br>However, when things do not seem to go well, Fel decides to start a Spartan<br>training regimen for him.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +592,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">#COMPASS2.0 ANIMATION PROJECT - Episode 12 - So, the Connecting World</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Indonesian Dub) - Episode 4 - Cannot Start the Journey Without a Map</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5a016d4b394851cc30f80cc8a0b1bcb21750690767_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a2f7415c188ea90e2e4e21e5fc29891e1675174164_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +606,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/23/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWDEG/so-the-connecting-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNZKM/cannot-start-the-journey-without-a-map">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Can the heroes and their partners reconnect in time to save the world?</p>
+<p align="center">Mukohda asks Fel to teach him how to use magic after witnessing his wind magic.<br>However, when things do not seem to go well, Fel decides to start a Spartan<br>training regimen for him.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +626,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia: Vigilantes (Italian Dub) - Episode 12</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Thai Dub) - Episode 3 - My Superpower Is All About Cooking</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0a7eb7c5d86dc727c99934ae7d2617841750688194_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9f49f49b666252cdd5e8092fc48b39291674570918_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +640,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/23/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1459">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZD38/my-superpower-is-all-about-cooking">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">After registering with both the Merchant's and the Adventurer's Guilds, Mukohda immediately decides to take<br>on a beginner’s quest. However, when they deliver the monsters that Fel caught during their<br>quest to the Guild, they find out that most of these monsters are B-rank or<br>higher.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +660,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia: Vigilantes (Castilian Dub) - Episode 12</h3></th>
+<th><h3 align="center">Campfire Cooking in Another World with My Absurd Skill (Indonesian Dub) - Episode 3 - My Superpower Is All About Cooking</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/30732895986ef5520da280c8a2fb06da1750688211_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9f49f49b666252cdd5e8092fc48b39291674570918_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +674,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">6/23/2025</td>
+<td align="center">6/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW01M8">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJZ1V/my-superpower-is-all-about-cooking">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">After registering with both the Merchant's and the Adventurer's Guilds, Mukohda immediately decides to take<br>on a beginner’s quest. However, when they deliver the monsters that Fel caught during their<br>quest to the Guild, they find out that most of these monsters are B-rank or<br>higher.</p>
 </td>
 </tr>
 </table>
