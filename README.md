@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 2, 2025, 8:19:02 AM</em></p>
+<p align="center"><em>Updated on: Jul 2, 2025, 7:33:42 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Catch Me at the Ballpark! (Hindi Dub) - Episode 11 - The Clincher! / The Clincher! (Pt. 2) / The Clincher! (Pt. 3)</h3></th>
+<th><h3 align="center">Clevatess (Spanish Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/734fc276416117ccff82c3ee816728a81749571152_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/65831d2a7f0025cfd52cc710d68b6d981751453762_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX0Q5/the-clincher-the-clincher-pt-2-the-clincher-pt-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEGWDM">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ballpark regulars and new fans come together to cheer on the MotorSuns in their playoff<br>clincher game!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Catch Me at the Ballpark! (Hindi Dub) - Episode 10 - Us Back Then / Whack That Bottom! / The Double-T Duo</h3></th>
+<th><h3 align="center">Clevatess (Portugese Dub) - Episode 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/121bec2797992690d31cba60c52dfa481748960781_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/65831d2a7f0025cfd52cc710d68b6d981751453776_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU73KNK/us-back-then-whack-that-bottom-the-double-t-duo">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJ7PG">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kohinata meets a former co-worker who is now dedicated to acting.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Once Upon a Witch’s Death (English Dub) - Episode 11 - The Bell of Blessings Rings With the Sound of the Waves (Part Two)</h3></th>
+<th><h3 align="center">Clevatess - Episode 1 - The Lord of Dark Beasts</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e12d0b08b8b5b8e91a7db5d76af26f551749563509_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/22830b7a47c0be8d06cd110821c236c71751453674_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMXNW/the-bell-of-blessings-rings-with-the-sound-of-the-waves-part-two">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8X55G/the-lord-of-dark-beasts">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Meg and Jack experience a breakthrough in their research, and a massive disaster threatens the<br>entire island.</p>
+<p align="center">An expedition of heroes challenges a powerful monster that keeps mankind trapped on a single<br>continent.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Once Upon a Witch’s Death (Hindi Dub) - Episode 11 - The Bell of Blessings Rings With the Sound of the Waves (Part Two)</h3></th>
+<th><h3 align="center">Clevatess (English Dub) - Episode 1 - The Lord of Dark Beasts</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e12d0b08b8b5b8e91a7db5d76af26f551749563509_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4f33c9ac57295e55706577b565d0ecf41751453689_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZ94D/the-bell-of-blessings-rings-with-the-sound-of-the-waves-part-two">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3479N/the-lord-of-dark-beasts">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Meg and Jack experience a breakthrough in their research, and a massive disaster threatens the<br>entire island.</p>
+<p align="center">An expedition of heroes challenges a powerful monster that keeps mankind trapped on a single<br>continent.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Portuguese Dub) - Episode 20 - Maximum</h3></th>
+<th><h3 align="center">WIND BREAKER (Tamil Dub) - Episode 13 - FOR A FRIEND</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4fb9c76f8734d925bac732576cfc82ec1740758629_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7e968c402cc5387d2a75bf08cdb4cb9e1719509116_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7PW5Q/maximum">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82ZVE/for-a-friend">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having been restored, Goku finally surpasses his limits! To defeat the mighty Giant Gomah, who<br>keeps regenerating through the power of the Third Eye, everyone puts in their maximum effort<br>in an all-out battle!</p>
+<p align="center">Sakura, Nirei, and Suo finish their meeting with Umemiya, the other members of the Four<br>Kings, and other prominent leading figures and join up with Kiryu and Tsugeura on their<br>way home.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Spanish Dub) - Episode 20 - Maximum</h3></th>
+<th><h3 align="center">WIND BREAKER (Telugu Dub) - Episode 13 - FOR A FRIEND</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4fb9c76f8734d925bac732576cfc82ec1740758629_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7e968c402cc5387d2a75bf08cdb4cb9e1719509116_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVPEZ9/maximum">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7PW2G/for-a-friend">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having been restored, Goku finally surpasses his limits! To defeat the mighty Giant Gomah, who<br>keeps regenerating through the power of the Third Eye, everyone puts in their maximum effort<br>in an all-out battle!</p>
+<p align="center">Sakura, Nirei, and Suo finish their meeting with Umemiya, the other members of the Four<br>Kings, and other prominent leading figures and join up with Kiryu and Tsugeura on their<br>way home.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Portuguese Dub) - Episode 19 - Betrayal</h3></th>
+<th><h3 align="center">WIND BREAKER (Tamil Dub) - Episode 12 - THE DEPENDABLE ONE</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9f08d4dc0db9c32136eb80288eda55951740159371_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f6fe1d8479879debd584aab60216c2121718900079_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8X5M8/betrayal">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE34Z7/the-dependable-one">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The battle continues to go poorly for Goku and his companions. After much hesitation, Glorio<br>puts Arinsu's secret plan into action! As his friends watch in awe, what will Glorio's<br>betrayal set in motion?!</p>
+<p align="center">Ren Kaji, Yuto Kusumi, and Takeshi Enomoto, second-year students from the Tamon Team, start their<br>ruling on who will be Grade Captain for first-year Class 1. Suo is the first<br>to raise his hand, immediately nominating Sakura as the other classmates vote for him one<br>after the other.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Spanish Dub) - Episode 19 - Betrayal</h3></th>
+<th><h3 align="center">WIND BREAKER (Telugu Dub) - Episode 12 - THE DEPENDABLE ONE</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9f08d4dc0db9c32136eb80288eda55951740159371_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f6fe1d8479879debd584aab60216c2121718900079_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7X48/betrayal">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNV35D/the-dependable-one">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The battle continues to go poorly for Goku and his companions. After much hesitation, Glorio<br>puts Arinsu's secret plan into action! As his friends watch in awe, what will Glorio's<br>betrayal set in motion?!</p>
+<p align="center">Ren Kaji, Yuto Kusumi, and Takeshi Enomoto, second-year students from the Tamon Team, start their<br>ruling on who will be Grade Captain for first-year Class 1. Suo is the first<br>to raise his hand, immediately nominating Sakura as the other classmates vote for him one<br>after the other.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Portuguese Dub) - Episode 18 - Awakening</h3></th>
+<th><h3 align="center">WIND BREAKER (Tamil Dub) - Episode 11 - NEW CLASSMATES</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/783c8d178b655bf66880d0fa9fd022871739548255_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a2c46f8183fad88ee00ebf4482c04f5a1718298945_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82Z12/awakening">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJ7ZG/new-classmates">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">King Gomah enters the battlefield and an all-out battle ensues! Goku and his companions stuggle<br>against the power of the Third Eye. Just when it seems that all is lost,<br>an amazing new power is awakened within Goku!</p>
+<p align="center">With the fights against Shishitoren over, Class 1 enthusiastically welcomes Sakura, Nirei, and Suo's return.<br>Their classmates, brimming with interest in the details of the fights, surround them, asking questions.<br>Sakura can't hide his bashfulness.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Spanish Dub) - Episode 18 - Awakening</h3></th>
+<th><h3 align="center">WIND BREAKER (Telugu Dub) - Episode 11 - NEW CLASSMATES</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/783c8d178b655bf66880d0fa9fd022871739548255_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a2c46f8183fad88ee00ebf4482c04f5a1718298945_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34780/awakening">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8X50G/new-classmates">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">King Gomah enters the battlefield and an all-out battle ensues! Goku and his companions stuggle<br>against the power of the Third Eye. Just when it seems that all is lost,<br>an amazing new power is awakened within Goku!</p>
+<p align="center">With the fights against Shishitoren over, Class 1 enthusiastically welcomes Sakura, Nirei, and Suo's return.<br>Their classmates, brimming with interest in the details of the fights, surround them, asking questions.<br>Sakura can't hide his bashfulness.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Portuguese Dub) - Episode 17 - Gomah</h3></th>
+<th><h3 align="center">WIND BREAKER (Tamil Dub) - Episode 10 - DIALOGUE</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/13a2aae85b00a09c7a41dd25c70ee6a51738944445_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d3fbcf47697081601c7fe6ec08130b6f1717690361_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGN4WV/gomah">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVPE3X/dialogue">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goku and his companions face off with Arinsu. With everything on the line, their battle<br>begins. But all of a sudden, a transformed King Gomah stands before both parties!</p>
+<p align="center">Admitting defeat, Tomiyama tries to pass Shishitoren on to Umemiya — to which Umemiya declares,<br>"Instead of taking over your team, we'll be friends!"  Bofurin and Shishitoren are dumbfounded<br>at this turn of events but talks progress, food is brought, and a celebratory afterparty<br>starts.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Spanish Dub) - Episode 17 - Gomah</h3></th>
+<th><h3 align="center">WIND BREAKER (Telugu Dub) - Episode 10 - DIALOGUE</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/13a2aae85b00a09c7a41dd25c70ee6a51738944445_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d3fbcf47697081601c7fe6ec08130b6f1717690361_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU92PV8/gomah">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV237G/dialogue">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goku and his companions face off with Arinsu. With everything on the line, their battle<br>begins. But all of a sudden, a transformed King Gomah stands before both parties!</p>
+<p align="center">Admitting defeat, Tomiyama tries to pass Shishitoren on to Umemiya — to which Umemiya declares,<br>"Instead of taking over your team, we'll be friends!"  Bofurin and Shishitoren are dumbfounded<br>at this turn of events but talks progress, food is brought, and a celebratory afterparty<br>starts.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Portuguese Dub) - Episode 16 - Degesu</h3></th>
+<th><h3 align="center">WIND BREAKER (Tamil Dub) - Episode 9 - UMEMIYA'S STYLE</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c6edcf601768db04c47060ea717a56261738341105_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5c7e1a1d19144d1538a924531caf51821717081096_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,19 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1XQ0/degesu">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQGP0/umemiyas-style">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goku and his companions finally reach Gomah's palace. But Kadem and the mighty
-Gendarmerie Force bar<br>their way!
-Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
+<p align="center">It's now time for a one-on-one fight between Umemiya and Tomiyama.  Tomiyama believed that<br>by winning against Umemiya, he would obtain Furin High School, freedom, and a sense of<br>fun that would rival no other.</p>
 </td>
 </tr>
 </table>
@@ -456,12 +454,12 @@ Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Spanish Dub) - Episode 16 - Degesu</h3></th>
+<th><h3 align="center">WIND BREAKER (Telugu Dub) - Episode 9 - UMEMIYA'S STYLE</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c6edcf601768db04c47060ea717a56261738341105_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5c7e1a1d19144d1538a924531caf51821717081096_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -470,19 +468,17 @@ Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3DVNE/degesu">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U347KN/umemiyas-style">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Goku and his companions finally reach Gomah's palace. But Kadem and the mighty
-Gendarmerie Force bar<br>their way!
-Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
+<p align="center">It's now time for a one-on-one fight between Umemiya and Tomiyama.  Tomiyama believed that<br>by winning against Umemiya, he would obtain Furin High School, freedom, and a sense of<br>fun that would rival no other.</p>
 </td>
 </tr>
 </table>
@@ -492,12 +488,12 @@ Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Portuguese Dub) - Episode 15 - Third Eye</h3></th>
+<th><h3 align="center">WIND BREAKER (Tamil Dub) - Episode 8 - SUCCEEDING THE PAST</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3d87115019010e9262d7101fa02dc7461737733689_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25b6f0806f05b367beafc1e5dee26dcc1716482747_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -506,17 +502,17 @@ Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7XW8/third-eye">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU73K93/succeeding-the-past">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Evil Third Eye offers absolute power in the Demon Realm. King Gomah confirms its<br>location and moves to obtain it! Will the Third Eye open on Gomah's forehead?!</p>
+<p align="center">Togame can no longer hide the fact he's feeling lost. He remembers when he met<br>Tomiyama, the fun days he had with Shishitoren, how the team changed when Tomiyama became<br>the leader, and the things he's done himself.</p>
 </td>
 </tr>
 </table>
@@ -526,12 +522,12 @@ Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Spanish Dub) - Episode 15 - Third Eye</h3></th>
+<th><h3 align="center">WIND BREAKER (Telugu Dub) - Episode 8 - SUCCEEDING THE PAST</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3d87115019010e9262d7101fa02dc7461737733689_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25b6f0806f05b367beafc1e5dee26dcc1716482747_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -540,17 +536,17 @@ Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQGV2/third-eye">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3DVWN/succeeding-the-past">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Evil Third Eye offers absolute power in the Demon Realm. King Gomah confirms its<br>location and moves to obtain it! Will the Third Eye open on Gomah's forehead?!</p>
+<p align="center">Togame can no longer hide the fact he's feeling lost. He remembers when he met<br>Tomiyama, the fun days he had with Shishitoren, how the team changed when Tomiyama became<br>the leader, and the things he's done himself.</p>
 </td>
 </tr>
 </table>
@@ -560,12 +556,12 @@ Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Portuguese Dub) - Episode 14 - Taboo</h3></th>
+<th><h3 align="center">WIND BREAKER (Tamil Dub) - Episode 7 - FIGHT TO WIN</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4dc065e33bff32c1f7a95b3849452fe21737129653_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e08c7955005ba918cde1e8614e8df0c11715876341_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -574,17 +570,17 @@ Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU92P98/taboo">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD42N/fight-to-win">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To stop Goku's advancement, Gomah commits an unbelievable taboo! Goku and his companions can no<br>longer proceed. Just when it seems their adventure is over, a certain someone reveals their<br>true power!</p>
+<p align="center">It’s now time for the battle of those second-in-command: Sakura versus Togame — a fight<br>that will set things on fire!</p>
 </td>
 </tr>
 </table>
@@ -594,12 +590,12 @@ Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Spanish Dub) - Episode 14 - Taboo</h3></th>
+<th><h3 align="center">WIND BREAKER (Telugu Dub) - Episode 7 - FIGHT TO WIN</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4dc065e33bff32c1f7a95b3849452fe21737129653_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e08c7955005ba918cde1e8614e8df0c11715876341_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -608,17 +604,17 @@ Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVEP0/taboo">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQG80/fight-to-win">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To stop Goku's advancement, Gomah commits an unbelievable taboo! Goku and his companions can no<br>longer proceed. Just when it seems their adventure is over, a certain someone reveals their<br>true power!</p>
+<p align="center">It’s now time for the battle of those second-in-command: Sakura versus Togame — a fight<br>that will set things on fire!</p>
 </td>
 </tr>
 </table>
@@ -628,12 +624,12 @@ Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Portuguese Dub) - Episode 13 - Surprise</h3></th>
+<th><h3 align="center">WIND BREAKER (Tamil Dub) - Episode 6 - VOW TO FOLLOW</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4f9fd5186ea16febf5eb0a9a8117838e1736524671_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/eb880fd7d0b117b82a999977699934fe1715275322_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -642,17 +638,17 @@ Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQGW2/surprise">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGN4ZV/vow-to-follow">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Goku and his companions head to where Gomah is, engine trouble causes them to<br>land on a certain planet. The place they land happens to be a surprise-filled planet<br>where even Supreme Demon Kings are afraid to tread!</p>
+<p align="center">Tomiyama and Togame, far from worrying about their teammate who lost the battle, expel him<br>from their team. While this peculiar spectacle shakes Sakura and the rest, Suo becomes unexpectedly<br>emotional and wins against Minoru Kanuma, earning another win for Bofurin.</p>
 </td>
 </tr>
 </table>
@@ -662,12 +658,12 @@ Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Ball DAIMA (Spanish Dub) - Episode 13 - Surprise</h3></th>
+<th><h3 align="center">WIND BREAKER (Telugu Dub) - Episode 6 - VOW TO FOLLOW</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4f9fd5186ea16febf5eb0a9a8117838e1736524671_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/eb880fd7d0b117b82a999977699934fe1715275322_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -676,17 +672,17 @@ Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/1/2025</td>
+<td align="center">7/2/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD43E/surprise">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVED2/vow-to-follow">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Goku and his companions head to where Gomah is, engine trouble causes them to<br>land on a certain planet. The place they land happens to be a surprise-filled planet<br>where even Supreme Demon Kings are afraid to tread!</p>
+<p align="center">Tomiyama and Togame, far from worrying about their teammate who lost the battle, expel him<br>from their team. While this peculiar spectacle shakes Sakura and the rest, Suo becomes unexpectedly<br>emotional and wins against Minoru Kanuma, earning another win for Bofurin.</p>
 </td>
 </tr>
 </table>
