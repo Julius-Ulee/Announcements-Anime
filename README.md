@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 4, 2025, 8:18:39 AM</em></p>
+<p align="center"><em>Updated on: Jul 4, 2025, 7:33:11 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Our Last Crusade or the Rise of a New World Season 2 (English Dub) - Episode 10 - Morning Star: The World Rises</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Tamil Dub) - Episode 12 - I Shall Survive Using Potions!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/52850c96660b61f10a78f96353f776831749725871_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8f41305a7bc56339cd135418765727701703356845_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVP2KG/morning-star-the-world-rises">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE3WZ9/i-shall-survive-using-potions">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lady Alice and the queen are up to something.</p>
+<p align="center">An epidemic spreads like wildfire throughout the capital of the Kingdom of Jusral, and Kaoru<br>is the only one who can stop it... but that would mean exposing her true<br>identity yet again. Will she ever have the peaceful life she dreamed of?</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Our Last Crusade or the Rise of a New World Season 2 (Portuguese Dub) - Episode 10 - Morning Star: The World Rises</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Telugu Dub) - Episode 12 - I Shall Survive Using Potions!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/52850c96660b61f10a78f96353f776831749725871_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8f41305a7bc56339cd135418765727701703356845_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJG81/morning-star-the-world-rises">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXV0DV/i-shall-survive-using-potions">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lady Alice and the queen are up to something.</p>
+<p align="center">An epidemic spreads like wildfire throughout the capital of the Kingdom of Jusral, and Kaoru<br>is the only one who can stop it... but that would mean exposing her true<br>identity yet again. Will she ever have the peaceful life she dreamed of?</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Our Last Crusade or the Rise of a New World Season 2 (Spanish Dub) - Episode 10 - Morning Star: The World Rises</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Tamil Dub) - Episode 11 - I'll Find a Husband with a Treasure Hunt!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/52850c96660b61f10a78f96353f776831749725871_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1eda8c230e7d56e0e8e0b4549bc4c2f41702739558_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNQ9E/morning-star-the-world-rises">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1849/ill-find-a-husband-with-a-treasure-hunt">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lady Alice and the queen are up to something.</p>
+<p align="center">While delivering potions to the army, Kaoru accidentally deciphers a coded message from a crime<br>ring that the army had been pursuing. An army officer takes notice and asks Kaoru<br>to decipher another message regarding a hidden treasure.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER Season 2 (Portuguese Dub) - Episode 24 - AFTER THE STORM</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Telugu Dub) - Episode 11 - I'll Find a Husband with a Treasure Hunt!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0bc6b4d71970a2c1996720e09b1287bb1749748255_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1eda8c230e7d56e0e8e0b4549bc4c2f41702739558_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMJW5/after-the-storm">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMDWEK/ill-find-a-husband-with-a-treasure-hunt">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">“All of us will work together and become one unit.” Suzuri-led GRAVEL resolves to walk<br>a different path “together” as they take the extended hand of Roppo Ichiza. Shizuka, whose<br>decision would have made everyone sad, sincerely apologizes and expresses her gratitude to Tsubakino and<br>Kanji. Just then, as they have reconciled and everyone’s feelings are in sync, a former<br>Furin student named Endo, covered in tattoos from his back to his shoulders and arms,<br>appears.</p>
+<p align="center">While delivering potions to the army, Kaoru accidentally deciphers a coded message from a crime<br>ring that the army had been pursuing. An army officer takes notice and asks Kaoru<br>to decipher another message regarding a hidden treasure.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER Season 2 (French Dub) - Episode 24 - AFTER THE STORM</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Tamil Dub) - Episode 10 - Going Back to My Original Goal in a New Country!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0bc6b4d71970a2c1996720e09b1287bb1749748255_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/11cb34feb8c50711040da921505ab5a61702146228_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEGD11/after-the-storm">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U349N5/going-back-to-my-original-goal-in-a-new-country">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">“All of us will work together and become one unit.” Suzuri-led GRAVEL resolves to walk<br>a different path “together” as they take the extended hand of Roppo Ichiza. Shizuka, whose<br>decision would have made everyone sad, sincerely apologizes and expresses her gratitude to Tsubakino and<br>Kanji. Just then, as they have reconciled and everyone’s feelings are in sync, a former<br>Furin student named Endo, covered in tattoos from his back to his shoulders and arms,<br>appears.</p>
+<p align="center">Kaoru opens a drugstore in a new country, the Kingdom of Jusral, in a return<br>to her original goal of living an easy life in this new world with her<br>OP ability. But once again, her potions draw attention in ways she didn't expect...</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER Season 2 (Spanish Dub) - Episode 24 - AFTER THE STORM</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Telugu Dub) - Episode 10 - Going Back to My Original Goal in a New Country!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0bc6b4d71970a2c1996720e09b1287bb1749748255_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/11cb34feb8c50711040da921505ab5a61702146228_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZ7X4/after-the-storm">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ18M9/going-back-to-my-original-goal-in-a-new-country">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">“All of us will work together and become one unit.” Suzuri-led GRAVEL resolves to walk<br>a different path “together” as they take the extended hand of Roppo Ichiza. Shizuka, whose<br>decision would have made everyone sad, sincerely apologizes and expresses her gratitude to Tsubakino and<br>Kanji. Just then, as they have reconciled and everyone’s feelings are in sync, a former<br>Furin student named Endo, covered in tattoos from his back to his shoulders and arms,<br>appears.</p>
+<p align="center">Kaoru opens a drugstore in a new country, the Kingdom of Jusral, in a return<br>to her original goal of living an easy life in this new world with her<br>OP ability. But once again, her potions draw attention in ways she didn't expect...</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER Season 2 (Hindi Dub) - Episode 24 - AFTER THE STORM</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Tamil Dub) - Episode 9 - "I'm Going to Relax in a Hot Spring for a While!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0bc6b4d71970a2c1996720e09b1287bb1749748255_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5c21b5451adde394a046d3c42b3daf7f1701517725_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX4V4/after-the-storm">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D0KZ/im-going-to-relax-in-a-hot-spring-for-a-while">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">“All of us will work together and become one unit.” Suzuri-led GRAVEL resolves to walk<br>a different path “together” as they take the extended hand of Roppo Ichiza. Shizuka, whose<br>decision would have made everyone sad, sincerely apologizes and expresses her gratitude to Tsubakino and<br>Kanji. Just then, as they have reconciled and everyone’s feelings are in sync, a former<br>Furin student named Endo, covered in tattoos from his back to his shoulders and arms,<br>appears.</p>
+<p align="center">Kaoru and her companions find a hot spring in the mountains. As they're relaxing in<br>the water, three unfamiliar boys show up and invite them to their nearby village, but<br>their invitation seems to be concealing an ulterior motive...</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER Season 2 (German Dub) - Episode 24 - AFTER THE STORM</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Telugu Dub) - Episode 9 - "I'm Going to Relax in a Hot Spring for a While!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0bc6b4d71970a2c1996720e09b1287bb1749748255_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5c21b5451adde394a046d3c42b3daf7f1701517725_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQK14/after-the-storm">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVP23G/im-going-to-relax-in-a-hot-spring-for-a-while">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">“All of us will work together and become one unit.” Suzuri-led GRAVEL resolves to walk<br>a different path “together” as they take the extended hand of Roppo Ichiza. Shizuka, whose<br>decision would have made everyone sad, sincerely apologizes and expresses her gratitude to Tsubakino and<br>Kanji. Just then, as they have reconciled and everyone’s feelings are in sync, a former<br>Furin student named Endo, covered in tattoos from his back to his shoulders and arms,<br>appears.</p>
+<p align="center">Kaoru and her companions find a hot spring in the mountains. As they're relaxing in<br>the water, three unfamiliar boys show up and invite them to their nearby village, but<br>their invitation seems to be concealing an ulterior motive...</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WIND BREAKER Season 2 (English Dub) - Episode 24 - AFTER THE STORM</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Tamil Dub) - Episode 8 - I'm Seen as a Beautiful Girl and Abducted!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0bc6b4d71970a2c1996720e09b1287bb1749748255_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bec60bb8310c03ad43aa5c2e9e8321191700935088_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U349V5/after-the-storm">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX4Q4/im-seen-as-a-beautiful-girl-and-abducted">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">“All of us will work together and become one unit.” Suzuri-led GRAVEL resolves to walk<br>a different path “together” as they take the extended hand of Roppo Ichiza. Shizuka, whose<br>decision would have made everyone sad, sincerely apologizes and expresses her gratitude to Tsubakino and<br>Kanji. Just then, as they have reconciled and everyone’s feelings are in sync, a former<br>Furin student named Endo, covered in tattoos from his back to his shoulders and arms,<br>appears.</p>
+<p align="center">Four years have passed since the war with the Empire of Aligot. Emil and Belle<br>have grown up and grown cozy, while Roland and Francette are now engaged. Tired of<br>being the only bachelorette, Kaoru decides to move on in search of a husband...</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Water Magician - Episode 1 - The Slow, But Dangerous, Life </h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Telugu Dub) - Episode 8 - I'm Seen as a Beautiful Girl and Abducted!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1736b775707f46501e1c0bbaead074681751558721_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bec60bb8310c03ad43aa5c2e9e8321191700935088_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2Q23/the-slow-but-dangerous-life-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U349D5/im-seen-as-a-beautiful-girl-and-abducted">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After dying, Ryo Mihara finds himself reincarnated in a fantasy world with the ability to<br>cast water magic.</p>
+<p align="center">Four years have passed since the war with the Empire of Aligot. Emil and Belle<br>have grown up and grown cozy, while Roland and Francette are now engaged. Tired of<br>being the only bachelorette, Kaoru decides to move on in search of a husband...</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Brilliant Healer's New Life in the Shadows (Portuguese Dub) - Episode 11 - Just a Normal Healer</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Tamil Dub) - Episode 7 - The Goddess Descends to End the War!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/991279e980becefd06b99c7da99a68551749739236_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/857c3a93b4a57dad72bfffbe02bab70a1700310319_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJG31/just-a-normal-healer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXV07E/the-goddess-descends-to-end-the-war">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Zenos is invited to a dinner party by Goldran, where he hopes to discover the<br>truth.</p>
+<p align="center">Kaoru gives Francette the holy sword Exgram and declares her the goddess's guardian knight, and<br>even gives Roland and his guards holy swords as well. Their new weapons and renewed<br>vigor soon overwhelm the Imperial army as the battle nears its climax...</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Brilliant Healer's New Life in the Shadows (Spanish Dub) - Episode 11 - Just a Normal Healer</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Telugu Dub) - Episode 7 - The Goddess Descends to End the War!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/991279e980becefd06b99c7da99a68551749739236_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/857c3a93b4a57dad72bfffbe02bab70a1700310319_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNQPE/just-a-normal-healer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU927XJ/the-goddess-descends-to-end-the-war">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Zenos is invited to a dinner party by Goldran, where he hopes to discover the<br>truth.</p>
+<p align="center">Kaoru gives Francette the holy sword Exgram and declares her the goddess's guardian knight, and<br>even gives Roland and his guards holy swords as well. Their new weapons and renewed<br>vigor soon overwhelm the Imperial army as the battle nears its climax...</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Brilliant Healer's New Life in the Shadows (English Dub) - Episode 11 - Just a Normal Healer</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Tamil Dub) - Episode 6 - I'll Use My Cheat to Destroy an Army!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/991279e980becefd06b99c7da99a68551749739236_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9d2b5b5d46fdbf3fe9ce24c9b1a45d4e1699720595_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82J3X/just-a-normal-healer">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMDWJ2/ill-use-my-cheat-to-destroy-an-army">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Zenos is invited to a dinner party by Goldran, where he hopes to discover the<br>truth.</p>
+<p align="center">The militaristic Empire of Aligot is invading the Kingdom of Balmore, and Kaoru must come<br>up with a strategy to stop their advancing army.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Conan vs. The Black Organization - Episode 2 - Company President's Daughter Kidnapping Case</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Telugu Dub) - Episode 6 - I'll Use My Cheat to Destroy an Army!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5216378a574fb21b3f3ae40ef5aed4421751560262_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9d2b5b5d46fdbf3fe9ce24c9b1a45d4e1699720595_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQKV4/company-presidents-daughter-kidnapping-case">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQKP4/ill-use-my-cheat-to-destroy-an-army">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shinichi shrinks after taking a strange pill, becoming Conan Edogawa to hide and solve a<br>kidnapping.</p>
+<p align="center">The militaristic Empire of Aligot is invading the Kingdom of Balmore, and Kaoru must come<br>up with a strategy to stop their advancing army.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Conan vs. The Black Organization (English Dub) - Episode 2 - Company President's Daughter Kidnapping Case</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Tamil Dub) - Episode 5 - I'll Use the Goddess's Potions to Do Business!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5216378a574fb21b3f3ae40ef5aed4421751560262_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c5da0fbc6f3cc533bdc5e7be6a257c011699111417_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7Z42/company-presidents-daughter-kidnapping-case">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZ744/ill-use-the-goddesss-potions-to-do-business">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shinichi shrinks after taking a strange pill, becoming Conan Edogawa to hide and solve a<br>kidnapping.</p>
+<p align="center">Kaoru decides to team up with some powerful people she can trust to help her<br>share the benefits of her potions with even more people. But just as her new<br>business is underway, an unexpected visitor comes looking for her...</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Conan vs. The Black Organization - Episode 1 - The Roller Coaster Murder Case</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Telugu Dub) - Episode 5 - I'll Use the Goddess's Potions to Do Business!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2e2f288b85ca7c5b19da1451b84271bc1751560283_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c5da0fbc6f3cc533bdc5e7be6a257c011699111417_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX4E4/the-roller-coaster-murder-case">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU73G9P/ill-use-the-goddesss-potions-to-do-business">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A murder on a roller coaster leaves Shinichi Kudo to deduce the killer's ingenious method.</p>
+<p align="center">Kaoru decides to team up with some powerful people she can trust to help her<br>share the benefits of her potions with even more people. But just as her new<br>business is underway, an unexpected visitor comes looking for her...</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Conan vs. The Black Organization (English Dub) - Episode 1 - The Roller Coaster Murder Case</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Tamil Dub) - Episode 4 - I'm Going into Angel Mode to Fight Back!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2e2f288b85ca7c5b19da1451b84271bc1751560283_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/67eb8904ba9691a888605f78cf69e48f1698508588_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34985/the-roller-coaster-murder-case">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEGD41/im-going-into-angel-mode-to-fight-back">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A murder on a roller coaster leaves Shinichi Kudo to deduce the killer's ingenious method.</p>
+<p align="center">Kaoru starts a secret organization called "Eyes of the Goddess" to find and help people<br>in need, earning herself the reputation of an angel. Rumors of an angel in the<br>city quickly draw the attention of the royal family and the temple...</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KAMITSUBAKI CITY UNDER CONSTRUCTION - Episode 0 - Witchling- Part 1</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Telugu Dub) - Episode 4 - I'm Going into Angel Mode to Fight Back!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5abe0460c7a07964446ef48b44eed7071751555077_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/67eb8904ba9691a888605f78cf69e48f1698508588_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMDWN1/witchling-part-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMDW22/im-going-into-angel-mode-to-fight-back">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kafu, a victim of a disaster seven years ago, learns a unique way to fight<br>the monsters plaguing her city.</p>
+<p align="center">Kaoru starts a secret organization called "Eyes of the Goddess" to find and help people<br>in need, earning herself the reputation of an angel. Rumors of an angel in the<br>city quickly draw the attention of the royal family and the temple...</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 (Hindi Dub) - Episode 13</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Tamil Dub) - Episode 3 - I'm Gonna Go Speak My Mind at the Castle!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/52320b367a089ef8baf318dede0309a41751555814_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0ed8b919a5e1bd608b811d2c934aaf541697900822_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D08Z">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMJN5/im-gonna-go-speak-my-mind-at-the-castle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Kaoru has been summoned to a party at the castle with no explanation of why.<br>She assumes it's nothing but bad news, but it turns out Prince Fernand himself invited<br>her, and the reason is even worse than she thought...</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 (Thai Dub) - Episode 13</h3></th>
+<th><h3 align="center">I Shall Survive Using Potions!  (Telugu Dub) - Episode 3 - I'm Gonna Go Speak My Mind at the Castle!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/52320b367a089ef8baf318dede0309a41751555724_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0ed8b919a5e1bd608b811d2c934aaf541697900822_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/3/2025</td>
+<td align="center">7/4/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNQG7">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZ7D4/im-gonna-go-speak-my-mind-at-the-castle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Kaoru has been summoned to a party at the castle with no explanation of why.<br>She assumes it's nothing but bad news, but it turns out Prince Fernand himself invited<br>her, and the reason is even worse than she thought...</p>
 </td>
 </tr>
 </table>
