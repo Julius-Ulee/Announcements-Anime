@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 8, 2025, 7:34:42 PM</em></p>
+<p align="center"><em>Updated on: Jul 9, 2025, 8:20:33 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Aharen-san wa Hakarenai Season 2 (English Dub) - Episode 11 - A Cultural Festival, Huh?</h3></th>
+<th><h3 align="center">Catch Me at the Ballpark! (Hindi Dub) - Episode 12 - Transformative Game / Last Message / It's Opening Day, Okay?!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0b95f8ff34378700e66dd644e4b65ddf1750063342_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/983fa5717b0588df7670819321d841b51750173422_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/7/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZP93/a-cultural-festival-huh">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJPQK/transformative-game-last-message-its-opening-day-okay">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Aharen is in charge of the class's exhibit for the culture festival, leaving Raido to<br>ponder the future.</p>
+<p align="center">The MotorSuns and their fans bid farewell to the season with high hopes for the<br>next year.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Aharen-san wa Hakarenai Season 2 (Spanish Dub) - Episode 10 - A Musical, Huh?</h3></th>
+<th><h3 align="center">The Shiunji Family Children (English Dub) - Episode 11 - So Then</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/98b872916388616fdd076fcdb7ddc2dd1749469120_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d8bec4347fd1cd41dd9b39605925c8a01750166650_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/7/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEGPWQ/a-musical-huh">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJPEW/so-then">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ren's school project inspires a musical turn for Raido and Aharen.</p>
+<p align="center">The kids hit up their dad's summer villa in Karuizawa for a chill holiday, but<br>things heat up for Arata!</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Grand Blue Dreaming Season 2 - Episode 1 - Sister</h3></th>
+<th><h3 align="center">The Shiunji Family Children (Hindi Dub) - Episode 11 - So Then</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f1c6c639f46f295b36f643b6e28881bd1751902293_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d8bec4347fd1cd41dd9b39605925c8a01750166650_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/7/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU921P4/sister">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD7PW/so-then">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Iori receives a letter from his little sister back home. Note: This is still a<br>diving anime.</p>
+<p align="center">The kids hit up their dad's summer villa in Karuizawa for a chill holiday, but<br>things heat up for Arata!</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Summer Pockets - Episode 14 - Dawn Memories</h3></th>
+<th><h3 align="center">The Shiunji Family Children (Portuguese Dub) - Episode 11 - So Then</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2a2076a5fd0116bb6e06204cb8b2de931751891208_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d8bec4347fd1cd41dd9b39605925c8a01750166650_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/7/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGN4NZ/dawn-memories">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX5PP/so-then">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ao and Ai have a lot of catching up to do.</p>
+<p align="center">The kids hit up their dad's summer villa in Karuizawa for a chill holiday, but<br>things heat up for Arata!</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">See You Tomorrow at the Food Court - Episode 1 - WADA1234 / Nazca Lines Aliens / Psibola / Change Before You Have To</h3></th>
+<th><h3 align="center">The Shiunji Family Children (Spanish Dub) - Episode 11 - So Then</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a20164750a7d0300da21b978ed301b9a1751892187_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d8bec4347fd1cd41dd9b39605925c8a01750166650_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/7/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3DXWX/wada1234-nazca-lines-aliens-psibola-change-before-you-have-to">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ4M9/so-then">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wada and Yamamoto meet up and discuss social media, dreams, over-the-counter drugs, and handy English<br>phrases.</p>
+<p align="center">The kids hit up their dad's summer villa in Karuizawa for a chill holiday, but<br>things heat up for Arata!</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Gorilla God's Go-To Girl (English Dub) - Episode 12 - The Gorilla End Filled with Determination and Love</h3></th>
+<th><h3 align="center">Turkey! Time to Strike - Episode 1 - Knock Down the Snake Eyes!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/76d63050abca85c26d46aee31027bc141750599432_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a58c389887af45bfb7bfedfcff832d241751993911_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV207E/the-gorilla-end-filled-with-determination-and-love">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8X117/knock-down-the-snake-eyes">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Who will win in the end? A gorilla or a leopard?</p>
+<p align="center">After botching another match, bowling club captain Mai struggles to keep the club fun for<br>all of its members.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Gorilla God's Go-To Girl (Portuguese Dub) - Episode 11 - The Mightiest Blessing and a Gorilla Rush</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (French Dub) - Episode 13 - The Journey Begins!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59bf003ba120f41d3a98d27dd0b051e31749998469_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3724bc4a30d0e75575dbe9910e5e06a41711702702_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ4PK/the-mightiest-blessing-and-a-gorilla-rush">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3DXE3/the-journey-begins">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Just what is Daybreak and who is their leader, Leohart?</p>
+<p align="center">With Usato's first battle behind him, it's time to face the path ahead. He receives<br>a special diplomatic quest from the king as well as a personal request from the<br>mysterious fox girl, both of which will take him on a winding journey to new<br>lands.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Gorilla God's Go-To Girl (Telugu Dub) - Episode 11 - The Mightiest Blessing and a Gorilla Rush</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (French Dub) - Episode 12 - The True Face of the Black Knight!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59bf003ba120f41d3a98d27dd0b051e31749998469_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/612caacbc46b26cb249de42392f8d59a1711122596_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ15ME/the-mightiest-blessing-and-a-gorilla-rush">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ4MZ/the-true-face-of-the-black-knight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Just what is Daybreak and who is their leader, Leohart?</p>
+<p align="center">Now that Usato's first clash with the Demon Lord's army is over, he's going to<br>have to deal with the aftermath—including a prisoner of war.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Gorilla God's Go-To Girl (Tamil Dub) - Episode 11 - The Mightiest Blessing and a Gorilla Rush</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (French Dub) - Episode 11 - Wham! Ultimate Healing Punch!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59bf003ba120f41d3a98d27dd0b051e31749998469_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2166d054a2a92560afc899d04ab7faff1710510255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJPZ2/the-mightiest-blessing-and-a-gorilla-rush">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU735XV/wham-ultimate-healing-punch">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Just what is Daybreak and who is their leader, Leohart?</p>
+<p align="center">Usato's first battle quickly turns into a waking nightmare when he realizes his friends are<br>tangling with their fated foe, the Black Knight. Can he make it in time to<br>save them?</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Gorilla God's Go-To Girl (Hindi Dub) - Episode 11 - The Mightiest Blessing and a Gorilla Rush</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (French Dub) - Episode 10 - Unhinged?! The Black Knight Appears!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59bf003ba120f41d3a98d27dd0b051e31749998469_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1981d4367958c729fb6aba4af1ffb80e1709911179_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGN5ZK/the-mightiest-blessing-and-a-gorilla-rush">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD790/unhinged-the-black-knight-appears">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Just what is Daybreak and who is their leader, Leohart?</p>
+<p align="center">Usato, Kazuki, and Suzune finally set foot on their first battlefield. The conflict is harrowing<br>enough as it is for all of them, but reports of a terrifying foe among<br>the demon army have Usato in particular shaking in his boots...</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Gorilla God's Go-To Girl (German Dub) - Episode 11 - The Mightiest Blessing and a Gorilla Rush</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (French Dub) - Episode 9 - The End and the Beginning</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59bf003ba120f41d3a98d27dd0b051e31749998469_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e7b9befd310a337f9461dde69156e2e81709311768_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE38Z1/the-mightiest-blessing-and-a-gorilla-rush">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV20DD/the-end-and-the-beginning">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Just what is Daybreak and who is their leader, Leohart?</p>
+<p align="center">Resolve bridges Rose's tragic past into her future as she and the rest of the<br>Rescue Team make their way to the battlefield where they're fated to cross with the<br>demons.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Gorilla God's Go-To Girl (French Dub) - Episode 11 - The Mightiest Blessing and a Gorilla Rush</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (French Dub) - Episode 8 - Battalion Commander Rose</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59bf003ba120f41d3a98d27dd0b051e31749998469_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a9b52d3434a5d06f7335d4c388057f001708706570_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82QPN/the-mightiest-blessing-and-a-gorilla-rush">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82Q5Q/battalion-commander-rose">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Just what is Daybreak and who is their leader, Leohart?</p>
+<p align="center">A look back into Rose's past as a new battalion commander and her relationship with<br>her old team. Just who were they? And where did things go wrong...?</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HOTEL INHUMANS - Episode 1 - Sister Sister</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (French Dub) - Episode 7 - A Night of Decisions!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e279590efeba4b93dcd73cdbdbb67c4c1751814878_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/764b3c8d4589be38421601590215c6da1708081968_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ41K/sister-sister">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE387W/a-night-of-decisions">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A wounded man flees to Hotel Inhumans, where they cater to a certain clientele and<br>the concierges are skilled.</p>
+<p align="center">Now that Usato, Kazuki, and Suzune all know that war is upon them, they must<br>each steel themselves to face the battle ahead—because the invasion is coming, ready or not!</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) - Episode 1135 - To the Sea Where My Father is! The Future Bonney Chooses</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (French Dub) - Episode 6 - Impending Danger...!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/95796c6befdcf073f89cfce34bb645251751814847_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1793cc6d0d404646ae3d648de43504901707493214_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU73P24/to-the-sea-where-my-father-is-the-future-bonney-chooses">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ153M/impending-danger">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Bonney has been waiting for a letter from her father Kuma who promised to write<br>to her. But with no letters in sight, she turns nine and one day realizes<br>her disease is cured. She then decides to go out to sea to search for<br>her father.</p>
+<p align="center">Captain Rose receives grim news from the king: invasion is imminent. Can she rally her<br>small team before all hell breaks loose? Moreover, is Usato even ready for war?</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Uglymug, Epicfighter - Episode 1 - An Epicgod is Born</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (French Dub) - Episode 5 - Usato, Back in the Forest!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6ce757b5872ed708d38f43662454c6e11751814240_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dd3951da1bcbca1aac952db25ecb66181706868297_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX5ZK/an-epicgod-is-born">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGN504/usato-back-in-the-forest">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shigeru Yoshioka is a very ugly man who tries to reincarnate in another world, disgusted<br>with life.</p>
+<p align="center">Usato gets drafted to help Inukami on a training expedition outside the castle to get<br>some real combat experience. He's only supposed to be there in case things go wrong,<br>but things definitely go wrong!</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Gachiakuta (Portuguese Dub) - Episode 1</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (French Dub) - Episode 4 - Rescue Team Member Usato!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b6e02f8de41485c31a2c4a1142742d751751868687_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/abc49d8c6cacb8b03d6bc2be318e0b9a1706286682_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3DXNX">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJP9W/rescue-team-member-usato">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">As the demon threat looms over the kingdom, Captain Rose decides it's high time for<br>Usato to get a taste of what a healer's job is like on the battlefield.<br>She tests his resolve, both mentally and physically.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Gachiakuta (Telugu Dub) - Episode 1</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (French Dub) - Episode 3 - Brutal! The Darkness of Llinger!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b6e02f8de41485c31a2c4a1142742d751751812906_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/16a3ceea72f902a0c64bfc8142ebeccd1705668258_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGN5PK">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ15GM/brutal-the-darkness-of-llinger">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Usato is quite literally thrown into his next training assignment: surviving the wild woods known<br>as the Darkness of Llinger until he can slay its most fearsome inhabitant.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Gachiakuta (Hindi Dub) - Episode 1</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (French Dub) - Episode 2 - The Training from Hell Begins!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b6e02f8de41485c31a2c4a1142742d751751812874_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/44407d3648fe2dbe7f1561e4c48a6afe1705064336_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ15DE">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVPW08/the-training-from-hell-begins">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Following the discovery of his unique power, Usato has been recruited/abducted into the kingdom's Rescue<br>Team. And he has no idea the hellacious training he's in for!</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Gachiakuta (Tamil Dub) - Episode 1</h3></th>
+<th><h3 align="center">The Wrong Way to Use Healing Magic (French Dub) - Episode 1 - Dragged into Another World!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b6e02f8de41485c31a2c4a1142742d751751812857_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b6abd254a116d1b8fac288552d210c741704458563_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJP32">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7EJG/dragged-into-another-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Ordinary high school student Usato is mistakenly suddenly summoned to another world along with his<br>classmates and student council members Suzune and Kazuki.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Gachiakuta (Italian Dub) - Episode 1</h3></th>
+<th><h3 align="center">Mr. Osomatsu 4th season - Episode 1 - It's Starting Again</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b6e02f8de41485c31a2c4a1142742d751751812782_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/829ab809b0a9fc052eca474d501fc4711751992339_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/6/2025</td>
+<td align="center">7/8/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7E4N">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34P98/its-starting-again">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The sextuplets are back again.</p>
 </td>
 </tr>
 </table>
