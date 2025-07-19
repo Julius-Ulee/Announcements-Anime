@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 18, 2025, 7:35:09 PM</em></p>
+<p align="center"><em>Updated on: Jul 19, 2025, 8:20:23 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Dragon Raja II -The Mourner's Eyes- - Episode 3 - Birthday Cake Is the Tombstone of Youth </h3></th>
+<th><h3 align="center">Watari-kun's ****** Is about to Collapse (English Dub) - Episode 1 - The Day Peace Began to Collapse</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2c096cba69347f507a21018e76f924ce1752802747_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c4ec7b4d3e41117ab5bb22026bedea111751643257_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVPD99/birthday-cake-is-the-tombstone-of-youth-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX7V8/the-day-peace-began-to-collapse">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On Lu Mingfei's birthday, Chu Zihang came to the class reunion, claiming to be his<br>younger brother.</p>
+<p align="center">Watari Naoto and his sister Suzu try to live a normal life. His destructive childhood<br>friend Satsuki returns.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Raja II -The Mourner's Eyes- - Episode 1 - Zero</h3></th>
+<th><h3 align="center">Secrets of the Silent Witch (English Dub) - Episode 3 - Serendia Academy Student Council</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/71a5300919e904bd8b344f28420c0ee11752802689_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/51e08389f5f0b6b82be2c06750f4f8561752854957_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34XJ0/zero">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEG51D/serendia-academy-student-council">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Zero transformed into a dragon and destroyed all the fighter planes, and escaped Black Swan<br>Bay with Renata.</p>
+<p align="center">Monica is accused of being an accomplice for attacking Felix, so she looks for the<br>culprit to clear her name.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Raja II -The Mourner's Eyes- - Episode 2 - A Night of Wild Rain</h3></th>
+<th><h3 align="center">Secrets of the Silent Witch (English Dub) - Episode 2 - Taking a Step Forward</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3bc6d967335d432b0f97a2b0051e71cd1752802710_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3a2379d43883bec004fd29e6cf99fb7f1752249443_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7918/a-night-of-wild-rain">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMZWX/taking-a-step-forward">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">On a stormy night of the typhoon landfall many years ago, Tianjiao and his son<br>Zihang broke into Nibelungen.</p>
+<p align="center">Monica transfers to Serendia Academy after accepting the top-secret mission. Her mission is to secretly<br>guard the second prince Felix without him noticing.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Indonesian Dub) - Episode 12 - Kaguya Wants to Confess, Part 2 / Kaguya Wants to Confess, Part 3 / Dual Confessions, Part 1</h3></th>
+<th><h3 align="center">Secrets of the Silent Witch (English Dub) - Episode 1 - A Colleague Arrives and Acts Unreasonably</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ce890e3e25bc48c9a56ea62c9213c1cd1656086567_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f8ffe29efb0b56de8a2818597aa44b4a1751644749_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMZ3E/kaguya-wants-to-confess-part-2-kaguya-wants-to-confess-part-3-dual-confessions-part-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNVEM2/a-colleague-arrives-and-acts-unreasonably">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment the culture festival reached its finale, the jewel object made by Shirogane was<br>stolen by a phantom thief who calls himself Arsène. Kaguya and the others headed to<br>the roof where the phantom thief keeps appearing, but there was no one there. Fujiwara,<br>who transformed into a genius detective, struggles to solve the mystery behind the calling card<br>and uncover the thief's true identity. But Kaguya, left behind at the scene of the<br>crime, had begun to figure out the criminal. The problem is the location. Kaguya traced<br>the phantom thief's line of thinking and headed to where he is now...</p>
+<p align="center">Monica Everett, the Silent Witch is visited by a colleague to go undercover at Serendia<br>Academy.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Indonesian Dub) - Episode 13 - Dual Confessions, Part 2 / The Shuchiin Afterparty</h3></th>
+<th><h3 align="center">Fire Force Season 3 (German Dub) - Episode 12 - The Madness of the Distant Past</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1bea4caab86842f9ceca3e973eb1dde21656086850_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1e471b8ed579ee8a99daf9cec6e3df651750442231_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZKZN/dual-confessions-part-2-the-shuchiin-afterparty">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7314X/the-madness-of-the-distant-past">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shroud in a cape and dressed in the guise of the phantom thief Arsène, Shirogane<br>waited for Kaguya's arrival atop the clock tower roof overlooking Shuchiin. When asked why he<br>would do such a thing, Shirogane answered that there was something he wanted to show<br>Kaguya. The festival's afterparty has already begun as the sun set over this school and<br>the students could be seen encircling and enjoying the bonfire. While the emotions that could<br>not be expressed with words mingled between Shirogane and Kaguya's hearts... Shirogane carried out his<br>ultra-romantic operation!!</p>
+<p align="center">Faerie captures an unconscious Shinra. Sho appears and attacks. Shinra gets advice from a surprising<br>source.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Thai Dub) - Episode 12 - Kaguya Wants to Confess, Part 2 / Kaguya Wants to Confess, Part 3 / Dual Confessions, Part 1</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (English Dub) - Episode 48 - The Beginning</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ce890e3e25bc48c9a56ea62c9213c1cd1656086567_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/684f1e23301186ac476d81dccfcf0d9f1751641470_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +200,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ9Z0/kaguya-wants-to-confess-part-2-kaguya-wants-to-confess-part-3-dual-confessions-part-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZK8P/the-beginning">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment the culture festival reached its finale, the jewel object made by Shirogane was<br>stolen by a phantom thief who calls himself Arsène. Kaguya and the others headed to<br>the roof where the phantom thief keeps appearing, but there was no one there. Fujiwara,<br>who transformed into a genius detective, struggles to solve the mystery behind the calling card<br>and uncover the thief's true identity. But Kaguya, left behind at the scene of the<br>crime, had begun to figure out the criminal. The problem is the location. Kaguya traced<br>the phantom thief's line of thinking and headed to where he is now...</p>
+<p align="center">After the war, Jinshi's work piles up and Maomao returns to the pleasure district.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Thai Dub) - Episode 13 - Dual Confessions, Part 2 / The Shuchiin Afterparty</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Portuguese Dub) - Episode 47 - The Shi Clan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1bea4caab86842f9ceca3e973eb1dde21656086850_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e3c0ecacad4d061e52f12e9dc7a92e3f1751029483_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +234,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3DQ4N/dual-confessions-part-2-the-shuchiin-afterparty">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMDQ39/the-shi-clan">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shroud in a cape and dressed in the guise of the phantom thief Arsène, Shirogane<br>waited for Kaguya's arrival atop the clock tower roof overlooking Shuchiin. When asked why he<br>would do such a thing, Shirogane answered that there was something he wanted to show<br>Kaguya. The festival's afterparty has already begun as the sun set over this school and<br>the students could be seen encircling and enjoying the bonfire. While the emotions that could<br>not be expressed with words mingled between Shirogane and Kaguya's hearts... Shirogane carried out his<br>ultra-romantic operation!!</p>
+<p align="center">Jinshi and his forces infiltrate the stronghold, cornering the remaining Shi clan members.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Indonesian Dub) - Episode 11 - Miyuki Shirogane Wants to Make Her Confess, Part 4 / Tsubame Koyasu Wants to Say No / Miyuki Shirogane Wants to Make Her Confess, Part 5</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Spanish Dub) - Episode 47 - The Shi Clan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ac4421ed35ebc978067ca2b2a9492bd01655483332_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e3c0ecacad4d061e52f12e9dc7a92e3f1751029483_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +268,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8XPJG/miyuki-shirogane-wants-to-make-her-confess-part-4-tsubame-koyasu-wants-to-say-no-miyuki-shirogane-wants-to-make-her-confess-part-5">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU731ZX/the-shi-clan">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Invited to walk around the culture festival together by Shirogane, Kaguya is unable to hide<br>her surprise at this sudden plot twist. She lightly joked that maybe he was affected<br>by the festival's atmosphere, but Shirogane never dropped his serious expression. Compelled by such intensity,<br>Kaguya decided to walk around the school together. Everyone around them gossips that they are<br>on a date as Kaguya blushes. But while they enjoy visiting a love fortune-teller, food<br>shops and live music, Kaguya feels true happiness. From the depths of her heart, she<br>wishes that each day could continue just like this.</p>
+<p align="center">Jinshi and his forces infiltrate the stronghold, cornering the remaining Shi clan members.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Thai Dub) - Episode 11 - Miyuki Shirogane Wants to Make Her Confess, Part 4 / Tsubame Koyasu Wants to Say No / Miyuki Shirogane Wants to Make Her Confess, Part 5</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Tamil Dub) - Episode 47 - The Shi Clan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ac4421ed35ebc978067ca2b2a9492bd01655483332_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e3c0ecacad4d061e52f12e9dc7a92e3f1751029483_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +302,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX7NM/miyuki-shirogane-wants-to-make-her-confess-part-4-tsubame-koyasu-wants-to-say-no-miyuki-shirogane-wants-to-make-her-confess-part-5">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXV8P8/the-shi-clan">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Invited to walk around the culture festival together by Shirogane, Kaguya is unable to hide<br>her surprise at this sudden plot twist. She lightly joked that maybe he was affected<br>by the festival's atmosphere, but Shirogane never dropped his serious expression. Compelled by such intensity,<br>Kaguya decided to walk around the school together. Everyone around them gossips that they are<br>on a date as Kaguya blushes. But while they enjoy visiting a love fortune-teller, food<br>shops and live music, Kaguya feels true happiness. From the depths of her heart, she<br>wishes that each day could continue just like this.</p>
+<p align="center">Jinshi and his forces infiltrate the stronghold, cornering the remaining Shi clan members.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Indonesian Dub) - Episode 10 - Kozue Makihara Wants to Have Fun / Chika Fujiwara Wants to Unmask / Miyuki Shirogane's Culture Festival</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Telugu Dub) - Episode 47 - The Shi Clan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bae2941afeef6c249615ce7ffc3bc0721654875961_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e3c0ecacad4d061e52f12e9dc7a92e3f1751029483_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +336,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2GEG/kozue-makihara-wants-to-have-fun-chika-fujiwara-wants-to-unmask-miyuki-shiroganes-culture-festival">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX7E8/the-shi-clan">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ishigami, who succeeded in inviting Tsubame on a Culture Festival date, browses around campus exhibits<br>in an attempt to shorten the distance between the two. In the end, it didn't<br>go as well as hoped. But when he tried to express his everyday feelings of<br>gratitude for the upperclassman he feels indebted to, it caused an unexpected uproar. Shirogane was<br>astonished after witnessing the unexpected event. Gripped by the fear that his secretly planned "Make<br>Shinomiya Confess Plan" will be ruined, he sinks into despair after thinking too hard about<br>every detail.</p>
+<p align="center">Jinshi and his forces infiltrate the stronghold, cornering the remaining Shi clan members.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Thai Dub) - Episode 10 - Kozue Makihara Wants to Have Fun / Chika Fujiwara Wants to Unmask / Miyuki Shirogane's Culture Festival</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Hindi Dub) - Episode 47 - The Shi Clan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bae2941afeef6c249615ce7ffc3bc0721654875961_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e3c0ecacad4d061e52f12e9dc7a92e3f1751029483_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +370,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXV822/kozue-makihara-wants-to-have-fun-chika-fujiwara-wants-to-unmask-miyuki-shiroganes-culture-festival">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU928VM/the-shi-clan">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ishigami, who succeeded in inviting Tsubame on a Culture Festival date, browses around campus exhibits<br>in an attempt to shorten the distance between the two. In the end, it didn't<br>go as well as hoped. But when he tried to express his everyday feelings of<br>gratitude for the upperclassman he feels indebted to, it caused an unexpected uproar. Shirogane was<br>astonished after witnessing the unexpected event. Gripped by the fear that his secretly planned "Make<br>Shinomiya Confess Plan" will be ruined, he sinks into despair after thinking too hard about<br>every detail.</p>
+<p align="center">Jinshi and his forces infiltrate the stronghold, cornering the remaining Shi clan members.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Indonesian Dub) - Episode 9 - Spring of First Year / Kaguya's Culture Festival / Yu Ishigami's Culture Festival</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (French Dub) - Episode 47 - The Shi Clan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b81280a9f97cc6c271ffa105c652c7ea1654263906_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e3c0ecacad4d061e52f12e9dc7a92e3f1751029483_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +404,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE3KM7/spring-of-first-year-kaguyas-culture-festival-yu-ishigamis-culture-festival">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVPNKJ/the-shi-clan">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">One week after enrolling in Shuchiin Academy as a special scholarship student, Shirogane had already<br>regretted that he had come to a school he should not have. The students around<br>him were elites born into famous families. Shirogane, who is from a modest household and<br>enrolled from a school outside of Shuchiin's track, couldn't even find a friend to eat<br>with, so he quietly kills time away from the cafeteria. Just as Shirogane's miserable emotions<br>explode, an upperclassman with a student cap appears in front of him. A shining golden<br>fourragere lays across his chest as proof of student council president. And he says that<br>he's come to recruit Shirogane into the student council.</p>
+<p align="center">Jinshi and his forces infiltrate the stronghold, cornering the remaining Shi clan members.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Thai Dub) - Episode 9 - Spring of First Year / Kaguya's Culture Festival / Yu Ishigami's Culture Festival</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (German Dub) - Episode 47 - The Shi Clan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b81280a9f97cc6c271ffa105c652c7ea1654263906_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e3c0ecacad4d061e52f12e9dc7a92e3f1751029483_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +438,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2G2G/spring-of-first-year-kaguyas-culture-festival-yu-ishigamis-culture-festival">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1ZP1/the-shi-clan">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">One week after enrolling in Shuchiin Academy as a special scholarship student, Shirogane had already<br>regretted that he had come to a school he should not have. The students around<br>him were elites born into famous families. Shirogane, who is from a modest household and<br>enrolled from a school outside of Shuchiin's track, couldn't even find a friend to eat<br>with, so he quietly kills time away from the cafeteria. Just as Shirogane's miserable emotions<br>explode, an upperclassman with a student cap appears in front of him. A shining golden<br>fourragere lays across his chest as proof of student council president. And he says that<br>he's come to recruit Shirogane into the student council.</p>
+<p align="center">Jinshi and his forces infiltrate the stronghold, cornering the remaining Shi clan members.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Indonesian Dub) - Episode 8 - Kei Shirogane Wants to Show Off / About Kaguya Shinomiya, Part 2 / Kaguya Wants to Confess</h3></th>
+<th><h3 align="center">Lord of Mysteries (Hindi Dub) - Episode 1 - The Fool</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f8716497f7230bc1e9b4559651ded8c61653648782_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a30bbcef8b9b9b149d7aabd5750ffdf71751070599_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -472,13 +472,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJQKG/kei-shirogane-wants-to-show-off-about-kaguya-shinomiya-part-2-kaguya-wants-to-confess">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMZ5X/the-fool">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kaguya learns about the romantic legend that giving a heart-shaped gift at the Culture Festival<br>brings eternal love. She wonders if there is a way she can give Shirogane a<br>heart-shaped gift without getting caught. But her plans are full of errors, and she panics.<br>She becomes sick of herself as a cowardly person who can only come up with<br>negative ideas. There, Shirogane, exhausted from preparing for the Culture Festival, shows up. As Kaguya<br>sees Shirogane doing his best for everyone as the student council president, she...</p>
+<p align="center">Zhou Mingrui wakes up in the body of Klein Moretti. A strange notebook holds the<br>key to a dark power.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Thai Dub) - Episode 8 - Kei Shirogane Wants to Show Off / About Kaguya Shinomiya, Part 2 / Kaguya Wants to Confess</h3></th>
+<th><h3 align="center">Lord of Mysteries (Hindi Dub) - Episode 2 - Beyonder</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f8716497f7230bc1e9b4559651ded8c61653648782_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e4046c9d54735a0be9307564b2fcf39a1751070662_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -506,13 +506,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82K2E/kei-shirogane-wants-to-show-off-about-kaguya-shinomiya-part-2-kaguya-wants-to-confess">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEG50D/beyonder">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kaguya learns about the romantic legend that giving a heart-shaped gift at the Culture Festival<br>brings eternal love. She wonders if there is a way she can give Shirogane a<br>heart-shaped gift without getting caught. But her plans are full of errors, and she panics.<br>She becomes sick of herself as a cowardly person who can only come up with<br>negative ideas. There, Shirogane, exhausted from preparing for the Culture Festival, shows up. As Kaguya<br>sees Shirogane doing his best for everyone as the student council president, she...</p>
+<p align="center">Klein Moretti joins the Nighthawks and heads off on his first task to find an<br>abducted child.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Indonesian Dub) - Episode 7 - Miko Iino Can't Love, Part 1 / Students Wish to Discuss the Culture Festival / Miyuki Shirogane Wants to Blow It Up</h3></th>
+<th><h3 align="center">Teogonia (English Dub) - Episode 12 - Protector of Kanae</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cc014d650881215c87807fd68192ea1f1653042707_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/83d15be35b6793df31773d186861de901751029347_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -540,13 +540,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVPNJX/miko-iino-cant-love-part-1-students-wish-to-discuss-the-culture-festival-miyuki-shirogane-wants-to-blow-it-up">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2GJ5/protector-of-kanae">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While all the classes were consumed in preparation for Shuchiin Academy's Hoshin Culture Festival, Shirogane<br>and those from Class 2-B were working hard at making balloon art. As Fujiwara delicately<br>puts finishing touches on a cute balloon bear, the clumsy Shirogane keeps popping them no<br>matter how many times he tries. The sound of balloons popping echoes sadly in the<br>classroom. But Fujiwara, who has joined Shirogane's special training many times up until now, hardens<br>her heart and decides not to help this time. To overcome this without the help<br>of others, Shirogane heads to the student council room for practice. However, Kaguya is in<br>the room...</p>
+<p align="center">Kai's life is slowly drained away after being swallowed by the diabo when he hears<br>a voice...</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Thai Dub) - Episode 7 - Miko Iino Can't Love, Part 1 / Students Wish to Discuss the Culture Festival / Miyuki Shirogane Wants to Blow It Up</h3></th>
+<th><h3 align="center">Teogonia (Hindi Dub) - Episode 11 - Diabo</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cc014d650881215c87807fd68192ea1f1653042707_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/977c13527dc764d1e1b5af79e62f06c91750436198_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -574,13 +574,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGN1N5/miko-iino-cant-love-part-1-students-wish-to-discuss-the-culture-festival-miyuki-shirogane-wants-to-blow-it-up">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8XP2W/diabo">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While all the classes were consumed in preparation for Shuchiin Academy's Hoshin Culture Festival, Shirogane<br>and those from Class 2-B were working hard at making balloon art. As Fujiwara delicately<br>puts finishing touches on a cute balloon bear, the clumsy Shirogane keeps popping them no<br>matter how many times he tries. The sound of balloons popping echoes sadly in the<br>classroom. But Fujiwara, who has joined Shirogane's special training many times up until now, hardens<br>her heart and decides not to help this time. To overcome this without the help<br>of others, Shirogane heads to the student council room for practice. However, Kaguya is in<br>the room...</p>
+<p align="center">Kai and his allies confront the diabo, but it is not easily defeated.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Indonesian Dub) - Episode 6 - The Student Council Wants to Move Forward / Miyuki Shirogane Wants to Make Her Confess, Part 2 / Miyuki Shirogane Wants to Make Her Confess, Part 3</h3></th>
+<th><h3 align="center">Betrothed to My Sister's Ex - Episode 3 - A Life I Saw in a Dream, and a Dream-like Life</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/589782bf47fe58e0706103b8c7b16ad21652452702_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d9be1736c9b92b693e62e9fbe5955c8d1752857747_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -608,13 +608,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7N03/the-student-council-wants-to-move-forward-miyuki-shirogane-wants-to-make-her-confess-part-2-miyuki-shirogane-wants-to-make-her-confess-part-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8XE5P/a-life-i-saw-in-a-dream-and-a-dream-like-life">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Parent-Teacher Conferences to determine each student's future begin at Shuchiin Academy. One wishes to continue<br>in the academy's university, one is considering taking exams for a different university – both<br>will declare their future plans. Fujiwara, who is joined by her father, jokes around and<br>expresses her desire to go to a university outside of the academy. Meanwhile, Kaguya's father<br>didn't show up, but she informs them just as her parents instructed – that she<br>will continue to Shuchiin's university. While Maki, Hayasaka, and the others each discuss their dreams,<br>last but not least is Shirogane who is taking the exam. In a clear and<br>confident tone, he declares the road he must proceed. And that answer is...!</p>
+<p align="center">Marie begins her new life as Kyros' fiancée and finds herself bewildered by the differences<br>from her old life.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Thai Dub) - Episode 6 - The Student Council Wants to Move Forward / Miyuki Shirogane Wants to Make Her Confess, Part 2 / Miyuki Shirogane Wants to Make Her Confess, Part 3</h3></th>
+<th><h3 align="center">Betrothed to My Sister's Ex (Indonesian Dub) - Episode 3</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/589782bf47fe58e0706103b8c7b16ad21652452702_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d532705e4566bc617c78ae13136bbb031752859175_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -642,13 +642,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJQJG/the-student-council-wants-to-move-forward-miyuki-shirogane-wants-to-make-her-confess-part-2-miyuki-shirogane-wants-to-make-her-confess-part-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU73G5M">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Parent-Teacher Conferences to determine each student's future begin at Shuchiin Academy. One wishes to continue<br>in the academy's university, one is considering taking exams for a different university – both<br>will declare their future plans. Fujiwara, who is joined by her father, jokes around and<br>expresses her desire to go to a university outside of the academy. Meanwhile, Kaguya's father<br>didn't show up, but she informs them just as her parents instructed – that she<br>will continue to Shuchiin's university. While Maki, Hayasaka, and the others each discuss their dreams,<br>last but not least is Shirogane who is taking the exam. In a clear and<br>confident tone, he declares the road he must proceed. And that answer is...!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kaguya-sama: Love Is War -Ultra Romantic- (Indonesian Dub) - Episode 5 - Chika Fujiwara Wants to Beat a Rhythm / Ai Hayasaka Wants to Talk / Maki Shijo Wants Some Help</h3></th>
+<th><h3 align="center">Secrets of the Silent Witch - Episode 3 - Serendia Academy Student Council</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e143cdddf99225a12dad939c3e5f6e381651848270_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/51e08389f5f0b6b82be2c06750f4f8561752854957_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -676,13 +676,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU928NK/chika-fujiwara-wants-to-beat-a-rhythm-ai-hayasaka-wants-to-talk-maki-shijo-wants-some-help">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX40N/serendia-academy-student-council">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shirogane couldn't tell Ms. Herthaka that sometimes humans need to expose their weaknesses and endeavors<br>to practice rapping which should be able to convey that. But his rapping skills are<br>catastrophic. Fujiwara, who previously taught him singing and dancing, tags along for practice. But she's<br>a total amateur when it comes to rap that she's on the level where she's<br>convinced it's all simple-minded puns. So Fujiwara begins special training. With the advice from Shirogane<br>who has overflowing knowledge on rap music, she rapidly improves... But something is still missing!</p>
+<p align="center">Monica is accused of being an accomplice for attacking Felix, so she looks for the<br>culprit to clear her name.</p>
 </td>
 </tr>
 </table>
