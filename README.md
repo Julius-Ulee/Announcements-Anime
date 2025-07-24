@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 24, 2025, 8:23:46 AM</em></p>
+<p align="center"><em>Updated on: Jul 24, 2025, 7:36:22 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">New Saga (English Dub) - Episode 2 - The Hero's Conditions</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Tamil Dub) - Episode 12 - We're All Having a Party</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1bd673ce01e8e74e59ac9c71f93bf3f91752075755_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c71dc1407396fb0636ad7e98950964511695473540_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVGWE/the-heros-conditions">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D928/were-all-having-a-party">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kyle sets about making preparations for his heroic journey and the fight to come.</p>
+<p align="center">All the members of the Ryota Family have grown stronger than ever, and they decide<br>to throw a party at their new house to celebrate.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">New Saga (Spanish Dub) - Episode 1 - I'll Change My Fate</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Telugu Dub) - Episode 12 - We're All Having a Party</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7564395aaabbf84135199286f9bfab6a1751471182_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c71dc1407396fb0636ad7e98950964511695473540_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDM4Q5/ill-change-my-fate">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D9D8/were-all-having-a-party">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kyle is sent back in time after his fateful fight with the demon king and<br>swears to save the world this time.</p>
+<p align="center">All the members of the Ryota Family have grown stronger than ever, and they decide<br>to throw a party at their new house to celebrate.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">New Saga (Portuguese Dub) - Episode 1 - I'll Change My Fate</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Tamil Dub) - Episode 11 - Time for the Harvest Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7564395aaabbf84135199286f9bfab6a1751471182_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5a824e45b5c9f856ad188ab760f955e11694865961_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEGX91/ill-change-my-fate">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQE3W/time-for-the-harvest-festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kyle is sent back in time after his fateful fight with the demon king and<br>swears to save the world this time.</p>
+<p align="center">The harvest festival has begun, and the main event is the creation of strays for<br>courageous adventurers to battle. Naturally, Ryota decides to participate in hopes of winning the rare<br>item reward.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">New Saga (German Dub) - Episode 1 - I'll Change My Fate</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Telugu Dub) - Episode 11 - Time for the Harvest Festival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7564395aaabbf84135199286f9bfab6a1751471182_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5a824e45b5c9f856ad188ab760f955e11694865961_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZ2N4/ill-change-my-fate">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQEQW/time-for-the-harvest-festival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kyle is sent back in time after his fateful fight with the demon king and<br>swears to save the world this time.</p>
+<p align="center">The harvest festival has begun, and the main event is the creation of strays for<br>courageous adventurers to battle. Naturally, Ryota decides to participate in hopes of winning the rare<br>item reward.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">New Saga (Hindi Dub) - Episode 1 - I'll Change My Fate</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Tamil Dub) - Episode 10 - The Arrival of Alice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7564395aaabbf84135199286f9bfab6a1751471182_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/557129707198809ac5760484d4fb33501694266287_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD5K2/ill-change-my-fate">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX8WN/the-arrival-of-alice">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kyle is sent back in time after his fateful fight with the demon king and<br>swears to save the world this time.</p>
+<p align="center">A young adventurer named Alice is looking for a party to join, but because her<br>max level is only two, no one wants her. Only Ryota is willing to give<br>her a chance. As he's helping her raise her stats, he learns she has a<br>unique skill of her own...</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 4 (Spanish Dub) - Episode 2 - Official Welcome</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Telugu Dub) - Episode 10 - The Arrival of Alice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b7a374941d6251dbf79c416c13b59ad11752668662_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/557129707198809ac5760484d4fb33501694266287_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJQM1/official-welcome">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX8XN/the-arrival-of-alice">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Naofumi and Raph-chan stay in the castle while the rest of the party tours the<br>town.</p>
+<p align="center">A young adventurer named Alice is looking for a party to join, but because her<br>max level is only two, no one wants her. Only Ryota is willing to give<br>her a chance. As he's helping her raise her stats, he learns she has a<br>unique skill of her own...</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 4 (Portuguese Dub) - Episode 2 - Official Welcome</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Tamil Dub) - Episode 9 - We've All Been Waiting! It's Eve's Turn to Shine</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b7a374941d6251dbf79c416c13b59ad11752668662_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e8977a8b04a6f16c144e3651da89fde11693653877_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGN1EE/official-welcome">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVG5V/weve-all-been-waiting-its-eves-turn-to-shine">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Naofumi and Raph-chan stay in the castle while the rest of the party tours the<br>town.</p>
+<p align="center">Since Ryota left for Selen, Eve has been unable to find enough of the carrots<br>she loves so much. She's overjoyed when he finally returns to Secro, but Ryota thinks<br>it's time Eve started getting her own carrots.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 4 (French Dub) - Episode 1 - Siltvelt</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Telugu Dub) - Episode 9 - We've All Been Waiting! It's Eve's Turn to Shine</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1354e08a65f1a008fb4c2e8ff2b0a9741752063776_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e8977a8b04a6f16c144e3651da89fde11693653877_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU829NX/siltvelt">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVGVV/weve-all-been-waiting-its-eves-turn-to-shine">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Naofumi stops at Siltvelt on his journey to Q'ten Lo. The people there worship him<br>as a king.</p>
+<p align="center">Since Ryota left for Selen, Eve has been unable to find enough of the carrots<br>she loves so much. She's overjoyed when he finally returns to Secro, but Ryota thinks<br>it's time Eve started getting her own carrots.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 4 (Italian Dub) - Episode 1 - Siltvelt</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Tamil Dub) - Episode 8 - You Can Do It! Get 'Em, Celeste!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1354e08a65f1a008fb4c2e8ff2b0a9741752063776_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8d050aa6068e06e9dd2dc4ba0bd21b951693045324_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNVQXN/siltvelt">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU73DMM/you-can-do-it-get-em-celeste">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Naofumi stops at Siltvelt on his journey to Q'ten Lo. The people there worship him<br>as a king.</p>
+<p align="center">The dungeon master of Selen has appeared, and the dungeon is deemed off-limits until it<br>is defeated. Only a party of three adventurers with very high stats may challenge the<br>powerful dungeon master, but Ryota has a plan...</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Onmyo Kaiten Re:Birth Verse (English Dub) - Episode 2 - You Can't Build Trust with Words! This Delinquent Will Be an Onmyoji</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Telugu Dub) - Episode 8 - You Can Do It! Get 'Em, Celeste!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4e59018cee2d9d75d73b8dc6032f3d3c1752075219_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8d050aa6068e06e9dd2dc4ba0bd21b951693045324_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVPN7G/you-cant-build-trust-with-words-this-delinquent-will-be-an-onmyoji">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJ4D7/you-can-do-it-get-em-celeste">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Takeru wakes up in Denji Heian-kyo again, but nobody remembers him or believes his stories<br>about fighting oni.</p>
+<p align="center">The dungeon master of Selen has appeared, and the dungeon is deemed off-limits until it<br>is defeated. Only a party of three adventurers with very high stats may challenge the<br>powerful dungeon master, but Ryota has a plan...</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability 2nd Season (English Dub) - Episode 13 - I’ll Join the Church!</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Tamil Dub) - Episode 7 - This Dungeon Battle Is a Vortex of Schemes</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f4568857a6e0fc1dc69942aa5637b6071752075808_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e8bb9c4cf947ec95ed1ae762ba5495cc1692456007_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U345E5/ill-join-the-church">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD5NK/this-dungeon-battle-is-a-vortex-of-schemes">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lloyd's interest in divine sorcery is piqued as a means of fighting off further demonic<br>invasions.</p>
+<p align="center">A new dungeon has been discovered right between Secro and the neighboring city of Hetero.<br>The battle is on to determine which city will claim ownership of the dungeon, and<br>both sides will use any trick in the book to win.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season (English Dub) - Episode 2 - Mutual Understanding</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Telugu Dub) - Episode 7 - This Dungeon Battle Is a Vortex of Schemes</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b9c2226f103a85216501fdc5a05f76ad1752065511_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e8bb9c4cf947ec95ed1ae762ba5495cc1692456007_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMZG5/mutual-understanding">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU73D3M/this-dungeon-battle-is-a-vortex-of-schemes">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Boxxo and crew have to defend what's left of the Clearflow Lake stratum's village against<br>a horde of monsters.</p>
+<p align="center">A new dungeon has been discovered right between Secro and the neighboring city of Hetero.<br>The battle is on to determine which city will claim ownership of the dungeon, and<br>both sides will use any trick in the book to win.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season (Portuguese Dub) - Episode 1 - Hunters and Motives</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Tamil Dub) - Episode 6 - A Beautiful Girl Appears</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b34af2f69824800a89f97e05e397cc891751462190_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/49fe7f792130463a1928cb013b1e91df1691844601_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZK54/hunters-and-motives">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNXVE/a-beautiful-girl-appears">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A large group of ace hunters gather to the Dead's Lament stratum to take down<br>the Netherlord once and for all.</p>
+<p align="center">Ryota obtains a second gun, which helps him discover a powerful new use for his<br>special bullets. His exploits catch the eye of Secro's dungeon chief, who has a favor<br>to ask of him...</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season (Spanish Dub) - Episode 1 - Hunters and Motives</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Telugu Dub) - Episode 6 - A Beautiful Girl Appears</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b34af2f69824800a89f97e05e397cc891751462190_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/49fe7f792130463a1928cb013b1e91df1691844601_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMDQ02/hunters-and-motives">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD5DK/a-beautiful-girl-appears">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A large group of ace hunters gather to the Dead's Lament stratum to take down<br>the Netherlord once and for all.</p>
+<p align="center">Ryota obtains a second gun, which helps him discover a powerful new use for his<br>special bullets. His exploits catch the eye of Secro's dungeon chief, who has a favor<br>to ask of him...</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season (Hindi Dub) - Episode 1 - Hunters and Motives</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Tamil Dub) - Episode 5 - Yay! It's My Turn Now</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b34af2f69824800a89f97e05e397cc891751462190_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0c3389b562b6ae741437cf48c6f50bc11691228022_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7312P/hunters-and-motives">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJ4X1/yay-its-my-turn-now">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A large group of ace hunters gather to the Dead's Lament stratum to take down<br>the Netherlord once and for all.</p>
+<p align="center">A magic storm occurs, nullifying all magic and leaving magic-based adventurers powerless. But Ryota learns<br>of one magic user who's stuck in a dungeon, unable to fight, and volunteers to<br>help her when no one else is willing to take the risk.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season (German Dub) - Episode 1 - Hunters and Motives</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Telugu Dub) - Episode 5 - Yay! It's My Turn Now</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b34af2f69824800a89f97e05e397cc891751462190_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0c3389b562b6ae741437cf48c6f50bc11691228022_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX724/hunters-and-motives">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZ205/yay-its-my-turn-now">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A large group of ace hunters gather to the Dead's Lament stratum to take down<br>the Netherlord once and for all.</p>
+<p align="center">A magic storm occurs, nullifying all magic and leaving magic-based adventurers powerless. But Ryota learns<br>of one magic user who's stuck in a dungeon, unable to fight, and volunteers to<br>help her when no one else is willing to take the risk.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">New Saga - Episode 4 - The Perfect Start to a Heroic Tale</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Tamil Dub) - Episode 4 - Moving to a New Place! Just Relaxing at Home</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/600bba8ab4b8b36b8ae3f09981079c431753289449_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/863dd6e2559c44dec5f625e32a2f79971690631041_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD41G/the-perfect-start-to-a-heroic-tale">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1VN9/moving-to-a-new-place-just-relaxing-at-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">To save the ill-fated Princess Milena, Kyle must brave a danger the likes of which<br>he's never faced before.</p>
+<p align="center">Ryota's skill has proven so profitable that he decides it's time to move into a<br>new home with Emily. But then he learns about magic carts, which can help him<br>carry even more items out of dungeons, and sees an opportunity for even greater profits.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Onmyo Kaiten Re:Birth Verse - Episode 4 - Don't Get Used to Being Alone! Takeru's First Centennial Pandemonium!</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Telugu Dub) - Episode 4 - Moving to a New Place! Just Relaxing at Home</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/615af6ec536c127e0ff8b4135a53c4be1753288897_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/863dd6e2559c44dec5f625e32a2f79971690631041_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE34V0/dont-get-used-to-being-alone-takerus-first-centennial-pandemonium">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEGXG3/moving-to-a-new-place-just-relaxing-at-home">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seimei plans to put Takeru's explosive but unpredictable power to use in the upcoming Centennial<br>Pandemonium.</p>
+<p align="center">Ryota's skill has proven so profitable that he decides it's time to move into a<br>new home with Emily. But then he learns about magic carts, which can help him<br>carry even more items out of dungeons, and sees an opportunity for even greater profits.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dealing with Mikadono Sisters Is a Breeze - Episode 4 - A Memory the Sisters Can Share</h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Tamil Dub) - Episode 3 - Kill All the Little Black Things</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f54785629f8098391da82825e53ea8431753280920_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3c244b9dec12fcfa4d84ec81cc89b7da1690033988_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7P4G9/a-memory-the-sisters-can-share">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVPMQG/kill-all-the-little-black-things">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yu carries out his plan to have the sisters enjoy the Cherry Blossom Night Festival<br>together.</p>
+<p align="center">Ryota and Emily decide to try out the second level of the dungeon Nihonium for<br>some new drops, but Emily has a problem with the monsters they find there...</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability 2nd Season - Episode 15 - Ghoul Hunt </h3></th>
+<th><h3 align="center">My Unique Skill Makes Me OP even at Level 1 (Telugu Dub) - Episode 3 - Kill All the Little Black Things</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4183f9f5593d3d4514add591c021eec01753280202_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3c244b9dec12fcfa4d84ec81cc89b7da1690033988_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/23/2025</td>
+<td align="center">7/24/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMXP33/ghoul-hunt-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEGXZ3/kill-all-the-little-black-things">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having learned the divine sorcery he was looking for, Lloyd searches for some undead to<br>test it on.</p>
+<p align="center">Ryota and Emily decide to try out the second level of the dungeon Nihonium for<br>some new drops, but Emily has a problem with the monsters they find there...</p>
 </td>
 </tr>
 </table>
