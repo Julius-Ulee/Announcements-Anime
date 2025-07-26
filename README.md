@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jul 25, 2025, 7:35:15 PM</em></p>
+<p align="center"><em>Updated on: Jul 26, 2025, 8:21:19 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Strawberry Prince the Movie - Strawberry Prince the Movie</h3></th>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 2 - Episode 21 - Trivium's Matt Heafy REALLY Loves Miss Kobayashi's Dragon Maid </h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d5c43688b4dbb0d60e32b394731ff3611753410125_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/80abfefd01ad0c82c4b2d5807b0864761753484033_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7PMKD/strawberry-prince-the-movie">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX837/triviums-matt-heafy-really-loves-miss-kobayashis-dragon-maid-">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Matt Heafy is here today to not only talk about his love for Death Note,<br>Steins;Gate, Solo Leveling, and his other favorite anime titles, but he’s also sharing how the<br>inspirations for countless anime are the same inspirations behind his music, tattoos, and even his<br>guitar collection.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Raja II -The Mourner's Eyes- - Episode 4 - The King's Chosen Servant</h3></th>
+<th><h3 align="center">Watari-kun's ****** Is about to Collapse (English Dub) - Episode 2 - Small Lies</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0b072574c34f29c0e3fb813b6486bfe01753405596_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7bf630f7c6af0278b676ddd65d32b6be1752248073_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D9NJ/the-kings-chosen-servant">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7235/small-lies">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chu Zihang and Lu Mingfei identified the south station culprit with Nuonuo’s help and profiling<br>ability.</p>
+<p align="center">The plants in the garden are beginning to sprout. But so are the small lies<br>that everybody employs.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Water Magician (English Dub) - Episode 2 - Abel the Castaway</h3></th>
+<th><h3 align="center">Secrets of the Silent Witch (English Dub) - Episode 4 - The Perfect Formula</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2f64cbe49c47912c838651feb9ab41b51752164138_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/52690ef535e004b02fbfb74073b02f9d1753458302_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX8E7/abel-the-castaway">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU73D9W/the-perfect-formula">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ryo encounters a castaway who requests his help.</p>
+<p align="center">Louis’s familiar Ryn was at the Serendia Academy to drop off his message when they<br>detected an irregular mana by the boy’s dorm. When they went to the woods behind<br>the dorm, they found Cyril losing control of his mana and slowly spreading ice around<br>and freezing himself, too. Monica identifies the reason behind the mana rampage and finds out<br>that there’s a culprit behind it. The hidden secret of the student council gets unveiled.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 (Tamil Dub) - Episode 13 - Like, This Is the Legend of the Giant Snake</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Portuguese Dub) - Episode 48 - The Beginning</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/18e1fa11eebd18e47332034e44605a931751553922_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/684f1e23301186ac476d81dccfcf0d9f1751641470_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE3VDE/like-this-is-the-legend-of-the-giant-snake">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVPM3Q/the-beginning">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Okarun and Jiji find a hidden room where talismans are plastered everywhere, including the ceiling,<br>walls, and floor. The front door intercom suddenly rings. Expecting Momo, they open the front<br>door, only to find Naki and the Kito family members waiting for them. Meanwhile, Momo<br>is in a pinch, being attacked by the Kito family men at the onsen...</p>
+<p align="center">After the war, Jinshi's work piles up and Maomao returns to the pleasure district.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 (Telugu Dub) - Episode 13 - Like, This Is the Legend of the Giant Snake</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Spanish Dub) - Episode 48 - The Beginning</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/18e1fa11eebd18e47332034e44605a931751553922_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/684f1e23301186ac476d81dccfcf0d9f1751641470_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU829G1/like-this-is-the-legend-of-the-giant-snake">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1VM7/the-beginning">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Okarun and Jiji find a hidden room where talismans are plastered everywhere, including the ceiling,<br>walls, and floor. The front door intercom suddenly rings. Expecting Momo, they open the front<br>door, only to find Naki and the Kito family members waiting for them. Meanwhile, Momo<br>is in a pinch, being attacked by the Kito family men at the onsen...</p>
+<p align="center">After the war, Jinshi's work piles up and Maomao returns to the pleasure district.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 (Portuguese Dub) - Episode 13 - Like, This Is the Legend of the Giant Snake</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Hindi Dub) - Episode 48 - The Beginning</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/18e1fa11eebd18e47332034e44605a931751553922_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/684f1e23301186ac476d81dccfcf0d9f1751641470_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV29JJ/like-this-is-the-legend-of-the-giant-snake">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJ4ZJ/the-beginning">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Okarun and Jiji find a hidden room where talismans are plastered everywhere, including the ceiling,<br>walls, and floor. The front door intercom suddenly rings. Expecting Momo, they open the front<br>door, only to find Naki and the Kito family members waiting for them. Meanwhile, Momo<br>is in a pinch, being attacked by the Kito family men at the onsen...</p>
+<p align="center">After the war, Jinshi's work piles up and Maomao returns to the pleasure district.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 (Spanish Dub) - Episode 13 - Like, This Is the Legend of the Giant Snake</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Tamil Dub) - Episode 48 - The Beginning</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/18e1fa11eebd18e47332034e44605a931751553922_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/684f1e23301186ac476d81dccfcf0d9f1751641470_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8XG23/like-this-is-the-legend-of-the-giant-snake">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNXZ3/the-beginning">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Okarun and Jiji find a hidden room where talismans are plastered everywhere, including the ceiling,<br>walls, and floor. The front door intercom suddenly rings. Expecting Momo, they open the front<br>door, only to find Naki and the Kito family members waiting for them. Meanwhile, Momo<br>is in a pinch, being attacked by the Kito family men at the onsen...</p>
+<p align="center">After the war, Jinshi's work piles up and Maomao returns to the pleasure district.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 (Italian Dub) - Episode 13 - Like, This Is the Legend of the Giant Snake</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (Telugu Dub) - Episode 48 - The Beginning</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/18e1fa11eebd18e47332034e44605a931751553922_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/684f1e23301186ac476d81dccfcf0d9f1751641470_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUNVQPZ/like-this-is-the-legend-of-the-giant-snake">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE3VZE/the-beginning">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Okarun and Jiji find a hidden room where talismans are plastered everywhere, including the ceiling,<br>walls, and floor. The front door intercom suddenly rings. Expecting Momo, they open the front<br>door, only to find Naki and the Kito family members waiting for them. Meanwhile, Momo<br>is in a pinch, being attacked by the Kito family men at the onsen...</p>
+<p align="center">After the war, Jinshi's work piles up and Maomao returns to the pleasure district.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 (Castilian Dub) - Episode 13 - Like, This Is the Legend of the Giant Snake</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (French Dub) - Episode 48 - The Beginning</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/18e1fa11eebd18e47332034e44605a931751553922_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/684f1e23301186ac476d81dccfcf0d9f1751641470_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDM45P/like-this-is-the-legend-of-the-giant-snake">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDM47P/the-beginning">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Okarun and Jiji find a hidden room where talismans are plastered everywhere, including the ceiling,<br>walls, and floor. The front door intercom suddenly rings. Expecting Momo, they open the front<br>door, only to find Naki and the Kito family members waiting for them. Meanwhile, Momo<br>is in a pinch, being attacked by the Kito family men at the onsen...</p>
+<p align="center">After the war, Jinshi's work piles up and Maomao returns to the pleasure district.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Water Magician - Episode 4 - Eclipses & Akuma</h3></th>
+<th><h3 align="center">The Apothecary Diaries Season 2 (German Dub) - Episode 48 - The Beginning</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b5da50ca94980328d2a71dbf19f24cd11753378379_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/684f1e23301186ac476d81dccfcf0d9f1751641470_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7PEP8/eclipses-akuma">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEGXNW/the-beginning">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Ryo settles into life as an adventurer, he has an unexpected encounter with a<br>menacing foe.</p>
+<p align="center">After the war, Jinshi's work piles up and Maomao returns to the pleasure district.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">KAMITSUBAKI CITY UNDER CONSTRUCTION - Episode 3 - Fragment</h3></th>
+<th><h3 align="center">Lord of Mysteries (Portuguese Dub) - Episode 3 - The Notebook</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/828779d8b3960d9eb3ad2e72290850d11753363813_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fd6367f33ad5e77c099f3eefae0bd00f1751666273_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX4W2/fragment">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV29MJ/the-notebook">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The witchlings debate the fallout from their last mission while the RD Chief struggles to<br>understand.</p>
+<p align="center">Klein Moretti pursues the Antigonus Family's notebook and faces off against another Beyonder.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Camping for Two - Episode 3 - Beware of Gear Acquisition Traps</h3></th>
+<th><h3 align="center">Lord of Mysteries (Hindi Dub) - Episode 3 - The Notebook</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/12e1c237c02208d95f1baa7d84b998121753363786_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fd6367f33ad5e77c099f3eefae0bd00f1751666273_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34GVG/beware-of-gear-acquisition-traps">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDM4NP/the-notebook">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gen and Shizuku go shopping for camping gear together.</p>
+<p align="center">Klein Moretti pursues the Antigonus Family's notebook and faces off against another Beyonder.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 (Hindi Dub) - Episode 16</h3></th>
+<th><h3 align="center">Lord of Mysteries (Spanish Dub) - Episode 3 - The Notebook</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bda0be53c32a57b0b2f1fee88d31d1fe1753370124_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fd6367f33ad5e77c099f3eefae0bd00f1751666273_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7ZD2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD5J7/the-notebook">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Klein Moretti pursues the Antigonus Family's notebook and faces off against another Beyonder.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 (Thai Dub) - Episode 16</h3></th>
+<th><h3 align="center">Lord of Mysteries  (English Dub) - Episode 1 - The Fool</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bda0be53c32a57b0b2f1fee88d31d1fe1753369877_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a30bbcef8b9b9b149d7aabd5750ffdf71751070599_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2QV3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVPM8Q/the-fool">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Zhou Mingrui wakes up in the body of Klein Moretti. A strange notebook holds the<br>key to a dark power.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 (Indonesian Dub) - Episode 16</h3></th>
+<th><h3 align="center">Lord of Mysteries  (English Dub) - Episode 2 - Beyonder</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bda0be53c32a57b0b2f1fee88d31d1fe1753369985_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e4046c9d54735a0be9307564b2fcf39a1751070662_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3492Q">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1V47/beyonder">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Klein Moretti joins the Nighthawks and heads off on his first task to find an<br>abducted child.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 (French Dub) - Episode 16</h3></th>
+<th><h3 align="center">Lord of Mysteries (Portuguese Dub) - Episode 1 - The Fool</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1c01016e79141385bd9a2946f91f268d1753369930_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a30bbcef8b9b9b149d7aabd5750ffdf71751070599_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNQM3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE3VJE/the-fool">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Zhou Mingrui wakes up in the body of Klein Moretti. A strange notebook holds the<br>key to a dark power.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 (German Dub) - Episode 16</h3></th>
+<th><h3 align="center">Lord of Mysteries (Portuguese Dub) - Episode 2 - Beyonder</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1c01016e79141385bd9a2946f91f268d1753369905_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e4046c9d54735a0be9307564b2fcf39a1751070662_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNQM1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU829D1/beyonder">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Klein Moretti joins the Nighthawks and heads off on his first task to find an<br>abducted child.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 - Episode 16 - That's, Like, Way Deadly</h3></th>
+<th><h3 align="center">Lord of Mysteries (Spanish Dub) - Episode 1 - The Fool</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0c09a38b4014fe2a51ab56f29a29dcc51753369763_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a30bbcef8b9b9b149d7aabd5750ffdf71751070599_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVP245/thats-like-way-deadly">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEGX4W/the-fool">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Momo succeeds in bringing the Mongolian Death Worm to the surface. However, it may have<br>had some influence on the land, as the nearby volcano suddenly erupts. To stop the<br>approaching magma, Momo fights the fire by picking up the Mongolian Death Worm with her<br>psychic powers and using it like a fire hose. However, the Kito family gets in<br>the way of Momo. Jiji, possessed by the Evil Eye, also shows up, creating a<br>major crisis.</p>
+<p align="center">Zhou Mingrui wakes up in the body of Klein Moretti. A strange notebook holds the<br>key to a dark power.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DAN DA DAN Season 2 (English Dub) - Episode 16</h3></th>
+<th><h3 align="center">Lord of Mysteries (Spanish Dub) - Episode 2 - Beyonder</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1019b991d48e976ec3a95f55e8e5abcd1753369785_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e4046c9d54735a0be9307564b2fcf39a1751070662_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU73G8E">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZ247/beyonder">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Klein Moretti joins the Nighthawks and heads off on his first task to find an<br>abducted child.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Detektiv Conan 484-495 - Episode 492</h3></th>
+<th><h3 align="center">Lord of Mysteries (French Dub) - Episode 1 - The Fool</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/47b89bad89e736722fe74ca09856b87e1753370897_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a30bbcef8b9b9b149d7aabd5750ffdf71751070599_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">7/24/2025</td>
+<td align="center">7/25/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW72D5">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D9KJ/the-fool">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Zhou Mingrui wakes up in the body of Klein Moretti. A strange notebook holds the<br>key to a dark power.</p>
 </td>
 </tr>
 </table>
