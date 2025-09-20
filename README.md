@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 20, 2025, 8:08:03 AM</em></p>
+<p align="center"><em>Updated on: Sep 20, 2025, 7:28:24 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 2 - Episode 29 - We Met the Voices of Gojo and Marin from My Dress-Up Darling!</h3></th>
+<th><h3 align="center">Case Closed (Detective Conan) - Episode 1176 - The Hero of Ishinomaki</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c3f75025b22e8aa8d81c558648e933a41758297229_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5dc12f844eb4a981812a11dfe397f2981758312374_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N347/we-met-the-voices-of-gojo-and-marin-from-my-dress-up-darling">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEG3MD/the-hero-of-ishinomaki">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hina Suguta and Shoya Ishige, who play Kitagawa Marin and Gojo Wakana in My Dress-Up<br>Darling, are on the show sharing about creating cosplay and romance in My Dress-Up Darling<br>season 2!</p>
+<p align="center">The Detective Boys go to Miyagi Prefecture to film an episode of Kamen Yaiba.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Watari-kun's ****** Is about to Collapse (English Dub) - Episode 10 - A Relationship I Don't Want to Mess Up</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 20 - Does She Still Like Robots?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/64362e82227f862b1f5c652775381c4a1757025640_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d4cbc0448410efb6c79d8c2db37042991500818915_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4QVW/a-relationship-i-dont-want-to-mess-up">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2Q29/does-she-still-like-robots">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ishihara leaves in the morning, leaving much to be discussed. But Naoto is in the<br>movies and misses 23 calls.</p>
+<p align="center">With five billion lives at stake, Akiho declares that she WILL defeat Kou Kimijima! The<br>question is... how?</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Secrets of the Silent Witch (English Dub) - Episode 11 - My Friend</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 21 - GUNVARREL, Forward!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b0e0fef9aee87de17afbf5a6a87eaf3c1758213364_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0350b26da9f1acd41c296a0f087ddde51500821164_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2WXP/my-friend">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDND1/gunvarrel-forward">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The chess meet between Serendia Academy, Minerva's Mage Training Institution, and the University begins.</p>
+<p align="center">Working through the night, the Robot Research Club members and the throngs of volunteers finish<br>modifying GunBuild-1 before the Black Hole Bomb can be launched. The club members also devise<br>a number of strategies for the upcoming final battle.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Lord of Mysteries (Spanish Dub) - Episode 11 - Mastermind</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 22 - Now It's Time for OUR Game</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dea0de422d2a0c3f0954d888395746a61756434668_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6d01b4694efd9aaebf6a277e4eef86ba1500820433_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQK7Z/mastermind">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3G3E/now-its-time-for-our-game">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Following Klein's suspicions, the Nighthawk investigates what Sharon Khoy is hiding.</p>
+<p align="center">Kaito and Misaki face off in a final showdown with only minutes left until the<br>BHB rocket is launched.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Lord of Mysteries  (English Dub) - Episode 10 - Clue</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 11 - The Flag Has Been Cleared</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/99edb7ad645fea690706bbd9af15fa6f1755884583_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/759b3a7fc188125b9a879c07bb95c5c71500814797_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80N24/clue">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7878P/the-flag-has-been-cleared">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Dunn and Klein attend the scene of a possibly supernatural murder of a congressman.</p>
+<p align="center">Kaito and Frau team up to locate Kimijima Report No. 3, but it won't be<br>any easier than last time. Meanwhile, the final, unaired episode of GUNVARREL is leaked online...</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Lord of Mysteries (French Dub) - Episode 10 - Clue</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 12 - Until You Like SOMETHING About Them</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/99edb7ad645fea690706bbd9af15fa6f1755884583_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/18a7f1b672aa4173c869ff63a7a52abc1500814659_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGNGG/clue">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2X2E/until-you-like-something-about-them">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Dunn and Klein attend the scene of a possibly supernatural murder of a congressman.</p>
+<p align="center">The Robot Research Club is shocked to hear that not only has Doc been rushed<br>to the hospital, but he's also considering closing his shop. Junna tries to encourage him<br>to keep the shop open, but her fear of robots makes it difficult.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Lord of Mysteries (German Dub) - Episode 10 - Clue</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 13 - What a Screwed-Up World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/99edb7ad645fea690706bbd9af15fa6f1755884583_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f2f890ead62dca4e383061eb17e5b2281500816249_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9EZED/clue">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNMN4/what-a-screwed-up-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Dunn and Klein attend the scene of a possibly supernatural murder of a congressman.</p>
+<p align="center">Experiments with the magnetic monopole get underway, and more information from the Kimijima Reports comes<br>to light. Details about an impending solar storm are revealed... along with a warning of<br>a robot uprising.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Lord of Mysteries (Portuguese Dub) - Episode 11 - Mastermind</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 14 - Let's Stay Like This for a Bit...</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dea0de422d2a0c3f0954d888395746a61756434668_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1011c2ec2072eb3134f76646edd630231500816239_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX9XV/mastermind">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZWZ4/lets-stay-like-this-for-a-bit">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Following Klein's suspicions, the Nighthawk investigates what Sharon Khoy is hiding.</p>
+<p align="center">After a solar storm knocks out power all over Tokyo, robots throughout the city run<br>berserk and attack! Now it's up to Kaito to shut down the robots and save<br>the entire Tokyo metropolitan area somehow...</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Lord of Mysteries (Hindi Dub) - Episode 11 - Mastermind</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 15 - I'll Let You Dream</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/dea0de422d2a0c3f0954d888395746a61756434668_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/456a90f72a18df234d9c66ec5d8a2b281500816344_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVQD3/mastermind">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3434Z/ill-let-you-dream">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Following Klein's suspicions, the Nighthawk investigates what Sharon Khoy is hiding.</p>
+<p align="center">Airi finds her existence threatened when major maintenance is scheduled for the IRUO. server. While<br>Airi clings to the hope of a snowy miracle, Kaito learns more about her past.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Betrothed to My Sister's Ex - Episode 12 - It's Time to Settle This</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 16 - I Love Giant Robots</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2ef77df2014aab8215d0959649faa7e11758233890_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/925eafd6ee568e1a282fce9c1758a3c41500817308_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX44N/its-time-to-settle-this">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E9EJ/i-love-giant-robots">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Marie is determined to settle things. But even with everyone's help, how will she confront<br>her parents?</p>
+<p align="center">The Robot Research Club's newest giant robot, GunBuild-2, is finally complete! Meanwhile, both Exoskeleton Co.<br>and Mizuka catch wind of Kaito's activities surrounding Kou Kimijima.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Betrothed to My Sister's Ex (Indonesian Dub) - Episode 12</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 17 - The Robot Research Club is Hereby Disbanded!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2ef77df2014aab8215d0959649faa7e11758262683_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/01ee24f68f83bdc6aba71e643fb146441500818788_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ185J">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q3Q5/the-robot-research-club-is-hereby-disbanded">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">After the accident with GunBuild-2, the school's vice principal shuts down the Robot Research Club<br>for good and orders that all of the club's robots be dismantled.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Secrets of the Silent Witch - Episode 11 - My Friend</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 18 - The Real GUNVARREL is Standing Right There</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b0e0fef9aee87de17afbf5a6a87eaf3c1758233755_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6b9683b068c41037ef57168516bf857a1500817836_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJG77/my-friend">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQWQ2/the-real-gunvarrel-is-standing-right-there">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The chess meet between Serendia Academy, Minerva's Mage Training Institution, and the University begins.</p>
+<p align="center">At last, the big robot expo in Tokyo gets underway! The diminished Robot Research Club<br>finally gets to show off its robot, and Akiho finally gets the chance to see<br>her sister again.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Watari-kun's ****** Is about to Collapse - Episode 12 - Being Independent</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 19 - I Never Should've Had a Dream</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4d822af56829bfb9d6ead7a19a236ccb1758233547_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/86ef0d75c1476ae3411d9b4afb79deb61500828682_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7PEE0/being-independent">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4V4G/i-never-shouldve-had-a-dream">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yukari's mom wants Naoto and Yukari to break up. But Naoto decides that he doesn't<br>want to give anything up.</p>
+<p align="center">Chaos erupts at the Robot Expo as Misaki starts destroying robots left and right. Meanwhile,<br>slowly, but surely, Kaito begins to learn the truth behind everything.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TOUGEN ANKI (Spanish Dub) - Episode 11 - Thank You!</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 2 - Because of Dreams, Hopes, and Passion</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/eaacc9e1d0efa019e222c322196503d51758228166_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/523b1e2059107b72366160ef1ee38edd1500807849_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX11W/thank-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8080X/because-of-dreams-hopes-and-passion">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Back at the academy, the students have to divide up to share rooms.</p>
+<p align="center">The Robot Research Club is going to be shut down unless it can win the<br>upcoming ROBO-ONE tournament. Akiho and Kaito have to somehow find a hobby robot and master<br>its controls in only two weeks.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TOUGEN ANKI (Portuguese Dub) - Episode 11 - Thank You!</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 3 - Tanegashi Accel Impaaaact!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/eaacc9e1d0efa019e222c322196503d51758228166_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ff01fcb7454cfd9dacdd8e74a0b92bbe1500808168_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8X444/thank-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXVX2/tanegashi-accel-impaaaact">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Back at the academy, the students have to divide up to share rooms.</p>
+<p align="center">At last, the Robot Research Club enters the ROBO-ONE tournament! The revolutionary KILL-BALLAD control scheme<br>makes Kaito a force to be reckoned with, but will it be enough to win<br>the tournament and save the club?</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TOUGEN ANKI - Episode 11 - Thank You!</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 4 - Let's Build a Giant Robot of Justice Together</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/eaacc9e1d0efa019e222c322196503d51758228166_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eb0e4c641068f56219aa9e717b438a241500809372_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZ17V/thank-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K8KK/lets-build-a-giant-robot-of-justice-together">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Back at the academy, the students have to divide up to share rooms.</p>
+<p align="center">Subaru seeks Kaito's help for the upcoming ROBO-ONE World Championship in Las Vegas. Meanwhile, Akiho<br>struggles to keep the club funded while Kaito reflects on a life-changing incident.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TOUGEN ANKI (English Dub) - Episode 11 - Thank You!</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 5 - May I Call You</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/eaacc9e1d0efa019e222c322196503d51758228166_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7200e36289a6c941e334ce44a6b5ddfd1500809193_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGN058/thank-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0N0N/may-i-call-you">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Back at the academy, the students have to divide up to share rooms.</p>
+<p align="center">Kaito and Junna set out to investigate the strange "ghost" that Kaito caught a glimpse<br>of... but only succeed in discovering more mysteries.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Raja II -The Mourner's Eyes- - Episode 12 - Dragon Emperor of Earth and Mountain</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 6 - It'd Be Sad to Have a Dream End</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0ac6eed0e645cfa4961cfed6f3197d221758233068_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3f3d6716d2b7d260bfffb359c12f25ad1500809869_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/19/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQQ1W/dragon-emperor-of-earth-and-mountain">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N7N5/itd-be-sad-to-have-a-dream-end">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Under the influence of Zero Time, Chu Zihang resolves the crisis by unleashing his Blood<br>Rage.</p>
+<p align="center">Subaru and Kaito start practicing for the upcoming ROBO-ONE world tournament in Las Vegas. During<br>his off-time, Kaito stumbles upon a mysterious room inside the abandoned folk museum.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Water Magician (English Dub) - Episode 9 - The Inferno Magician</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 7 - Thank You Berry Much</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6da871af79860173cd1790151d79a0d01756998760_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/328618d060ea1edb12db643fd9a40adf1500811077_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/18/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGNZG/the-inferno-magician">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVDV5/thank-you-berry-much">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As Princess Fiona and her brother come under attack, the Inferno Magician rushes to their<br>rescue.</p>
+<p align="center">While Kaito and friends encounter more mysterious phenomena, another solar storm suddenly hits the Earth.<br>Meanwhile, Akiho gets the GunBuild-1 project funded and rolling full-steam ahead!</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Camping for Two (Spanish Dub) - Episode 8 - Katsu! Use Gear Properly</h3></th>
+<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 8 - I'm Nae Tennoji! Nice to Meet You!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/661486535e2940f4d36c9a7cd0f8518c1756350624_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/317ebe6a216f5728806220dedb767bde1500811071_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/18/2025</td>
+<td align="center">9/20/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80NN1/katsu-use-gear-properly">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVEV1/im-nae-tennoji-nice-to-meet-you">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gen is appalled by the state of Shizuku's backpack and teaches her how to pack<br>properly.</p>
+<p align="center">Akiho is elated when a grown-up Nae Tennoji offers to help the Robot Research Club<br>build a giant robot. Meanwhile, Kaito is caught in a typhoon while searching for the<br>elusive Kimijima Report No. 2.</p>
 </td>
 </tr>
 </table>
