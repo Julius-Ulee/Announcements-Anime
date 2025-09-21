@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 20, 2025, 7:28:24 PM</em></p>
+<p align="center"><em>Updated on: Sep 21, 2025, 8:16:54 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Case Closed (Detective Conan) - Episode 1176 - The Hero of Ishinomaki</h3></th>
+<th><h3 align="center">With You and the Rain (English Dub) - Episode 10 - A River That Cannot Be Crossed</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5dc12f844eb4a981812a11dfe397f2981758312374_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/196c76c48e40c93af97602cfede7de1d1757115177_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEG3MD/the-hero-of-ishinomaki">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJMNQ/a-river-that-cannot-be-crossed">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Detective Boys go to Miyagi Prefecture to film an episode of Kamen Yaiba.</p>
+<p align="center">Fuji reaches out to Ren for support as she struggles with writer's block.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 20 - Does She Still Like Robots?</h3></th>
+<th><h3 align="center">Anne Shirley (Spanish Dub) - Episode 20 - My World Has Tumbled Into Pieces</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d4cbc0448410efb6c79d8c2db37042991500818915_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/76de8aab737ba27b225459281a8ee58e1756486933_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2Q29/does-she-still-like-robots">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX2M2/my-world-has-tumbled-into-pieces">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With five billion lives at stake, Akiho declares that she WILL defeat Kou Kimijima! The<br>question is... how?</p>
+<p align="center">Relationships are adjusted, Gilbert speaks, and spring and Anne return to Green Gables.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 21 - GUNVARREL, Forward!</h3></th>
+<th><h3 align="center">Anne Shirley (Portuguese Dub) - Episode 20 - My World Has Tumbled Into Pieces</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0350b26da9f1acd41c296a0f087ddde51500821164_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/76de8aab737ba27b225459281a8ee58e1756486933_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDND1/gunvarrel-forward">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW75DW/my-world-has-tumbled-into-pieces">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Working through the night, the Robot Research Club members and the throngs of volunteers finish<br>modifying GunBuild-1 before the Black Hole Bomb can be launched. The club members also devise<br>a number of strategies for the upcoming final battle.</p>
+<p align="center">Relationships are adjusted, Gilbert speaks, and spring and Anne return to Green Gables.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 22 - Now It's Time for OUR Game</h3></th>
+<th><h3 align="center">Anne Shirley (English Dub) - Episode 21 - Has the Real Prince Come at Last...?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6d01b4694efd9aaebf6a277e4eef86ba1500820433_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/10049f930727e82c51aee837a71a4b121757112946_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3G3E/now-its-time-for-our-game">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE310Z/has-the-real-prince-come-at-last">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kaito and Misaki face off in a final showdown with only minutes left until the<br>BHB rocket is launched.</p>
+<p align="center">Enter Jonas, enter Prince Charming, enter Christine.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 11 - The Flag Has Been Cleared</h3></th>
+<th><h3 align="center">Rascal Does Not Dream of Santa Claus (English Dub) - Episode 9 - I Need You</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/759b3a7fc188125b9a879c07bb95c5c71500814797_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/64530361e8b99ad384fbf8df89e6dd3c1756564097_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,15 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7878P/the-flag-has-been-cleared">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU920ZP/i-need-you">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kaito and Frau team up to locate Kimijima Report No. 3, but it won't be<br>any easier than last time. Meanwhile, the final, unaired episode of GUNVARREL is leaked online...</p>
+<p align="center">Sakuta dreams that on Christmas Eve, when he is meant to have a sleepover date<br>with Mai, he instead goes on a date with a student named Sara Himeji from<br>the cram school where he works. The Sara in question has the same dream as<br>Sakuta and goes on to confess that she has her own Puberty Syndrome. However, she<br>says that she does not want her Puberty Syndrome to be fixed. Sara developed Puberty<br>Syndrome after a heartbreak, and the symptoms of her syndrome ease her anxiety by making<br>her popular with guys, which she has been enjoying.
+
+Sakuta warns her that this is a<br>dangerous move. To which she retorts to provoke him, “What should I do so that<br>I can love people. Like you do, Mr. Sakuta?”</p>
 </td>
 </tr>
 </table>
@@ -182,12 +184,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 12 - Until You Like SOMETHING About Them</h3></th>
+<th><h3 align="center">Rascal Does Not Dream of Santa Claus (French Dub) - Episode 8 - Secrets and Promises</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/18a7f1b672aa4173c869ff63a7a52abc1500814659_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a398b5bbdb298850e03e8e0ee565a2201755919434_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +202,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2X2E/until-you-like-something-about-them">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNEVX/secrets-and-promises">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Robot Research Club is shocked to hear that not only has Doc been rushed<br>to the hospital, but he's also considering closing his shop. Junna tries to encourage him<br>to keep the shop open, but her fear of robots makes it difficult.</p>
+<p align="center">Sakuta from the other possible realm sends a message through Ikumi that reads, “Find Touko<br>Kirishima, Mai-san is in danger.” After seeing this message, he tries contacting the Miniskirt Santa,<br>who claimed to be Touko Kirishima. A few days later, he receives a call from<br>her saying that she can meet on December 2nd… which also happens to be Mai’s<br>birthday.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +218,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 13 - What a Screwed-Up World</h3></th>
+<th><h3 align="center">My Dress-Up Darling Season 2 (Italian Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f2f890ead62dca4e383061eb17e5b2281500816249_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +236,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNMN4/what-a-screwed-up-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX2XQ/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Experiments with the magnetic monopole get underway, and more information from the Kimijima Reports comes<br>to light. Details about an impending solar storm are revealed... along with a warning of<br>a robot uprising.</p>
+<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +252,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 14 - Let's Stay Like This for a Bit...</h3></th>
+<th><h3 align="center">My Dress-Up Darling Season 2 (Hindi Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1011c2ec2072eb3134f76646edd630231500816239_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +270,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZWZ4/lets-stay-like-this-for-a-bit">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2N24/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a solar storm knocks out power all over Tokyo, robots throughout the city run<br>berserk and attack! Now it's up to Kaito to shut down the robots and save<br>the entire Tokyo metropolitan area somehow...</p>
+<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +286,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 15 - I'll Let You Dream</h3></th>
+<th><h3 align="center">My Dress-Up Darling Season 2 (Tamil Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/456a90f72a18df234d9c66ec5d8a2b281500816344_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +304,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3434Z/ill-let-you-dream">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD0ZG/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Airi finds her existence threatened when major maintenance is scheduled for the IRUO. server. While<br>Airi clings to the hope of a snowy miracle, Kaito learns more about her past.</p>
+<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +320,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 16 - I Love Giant Robots</h3></th>
+<th><h3 align="center">My Dress-Up Darling Season 2 (Telugu Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/925eafd6ee568e1a282fce9c1758a3c41500817308_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +338,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E9EJ/i-love-giant-robots">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34EQ9/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Robot Research Club's newest giant robot, GunBuild-2, is finally complete! Meanwhile, both Exoskeleton Co.<br>and Mizuka catch wind of Kaito's activities surrounding Kou Kimijima.</p>
+<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +354,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 17 - The Robot Research Club is Hereby Disbanded!</h3></th>
+<th><h3 align="center">My Dress-Up Darling Season 2 (English Dub) - Episode 22 - So We're Gonna Do It All Right Now?!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/01ee24f68f83bdc6aba71e643fb146441500818788_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d137b72d0cde9e70f4130e698d2b9b291757114362_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +372,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q3Q5/the-robot-research-club-is-hereby-disbanded">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82M0W/so-were-gonna-do-it-all-right-now">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After the accident with GunBuild-2, the school's vice principal shuts down the Robot Research Club<br>for good and orders that all of the club's robots be dismantled.</p>
+<p align="center">Marin has a slight misunderstanding and Wakana has his first playthrough of "Coffin."</p>
 </td>
 </tr>
 </table>
@@ -386,12 +388,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 18 - The Real GUNVARREL is Standing Right There</h3></th>
+<th><h3 align="center">My Dress-Up Darling Season 2 (Spanish Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6b9683b068c41037ef57168516bf857a1500817836_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +406,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQWQ2/the-real-gunvarrel-is-standing-right-there">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMG3M/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">At last, the big robot expo in Tokyo gets underway! The diminished Robot Research Club<br>finally gets to show off its robot, and Akiho finally gets the chance to see<br>her sister again.</p>
+<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +422,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 19 - I Never Should've Had a Dream</h3></th>
+<th><h3 align="center">My Dress-Up Darling Season 2 (Portugese Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/86ef0d75c1476ae3411d9b4afb79deb61500828682_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +440,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4V4G/i-never-shouldve-had-a-dream">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ73P/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chaos erupts at the Robot Expo as Misaki starts destroying robots left and right. Meanwhile,<br>slowly, but surely, Kaito begins to learn the truth behind everything.</p>
+<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +456,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 2 - Because of Dreams, Hopes, and Passion</h3></th>
+<th><h3 align="center">My Dress-Up Darling Season 2 (French Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/523b1e2059107b72366160ef1ee38edd1500807849_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -472,13 +474,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8080X/because-of-dreams-hopes-and-passion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJMKQ/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Robot Research Club is going to be shut down unless it can win the<br>upcoming ROBO-ONE tournament. Akiho and Kaito have to somehow find a hobby robot and master<br>its controls in only two weeks.</p>
+<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +490,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 3 - Tanegashi Accel Impaaaact!</h3></th>
+<th><h3 align="center">My Dress-Up Darling Season 2 (German Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ff01fcb7454cfd9dacdd8e74a0b92bbe1500808168_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -506,13 +508,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXVX2/tanegashi-accel-impaaaact">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7PJPV/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">At last, the Robot Research Club enters the ROBO-ONE tournament! The revolutionary KILL-BALLAD control scheme<br>makes Kaito a force to be reckoned with, but will it be enough to win<br>the tournament and save the club?</p>
+<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +524,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 4 - Let's Build a Giant Robot of Justice Together</h3></th>
+<th><h3 align="center">With You and the Rain - Episode 12 - I Can Hear the Sound of the Rain</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eb0e4c641068f56219aa9e717b438a241500809372_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e7dda3d73713ead24e63c995d8b572b81758343691_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -540,13 +542,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K8KK/lets-build-a-giant-robot-of-justice-together">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX4J7/i-can-hear-the-sound-of-the-rain">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Subaru seeks Kaito's help for the upcoming ROBO-ONE World Championship in Las Vegas. Meanwhile, Akiho<br>struggles to keep the club funded while Kaito reflects on a life-changing incident.</p>
+<p align="center">Fuji thinks of reasons she loves the rain.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +558,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 5 - May I Call You</h3></th>
+<th><h3 align="center">Private Tutor to the Duke's Daughter - Episode 12 - The Girls' Battle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7200e36289a6c941e334ce44a6b5ddfd1500809193_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/499435005aeb0bb8c6e717a39bf82f5e1758342718_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -574,13 +576,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0N0N/may-i-call-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEG2JP/the-girls-battle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kaito and Junna set out to investigate the strange "ghost" that Kaito caught a glimpse<br>of... but only succeed in discovering more mysteries.</p>
+<p align="center">With Allen's help, Stella challenges her best friend and her sister to reclaim her self-confidence.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +592,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 6 - It'd Be Sad to Have a Dream End</h3></th>
+<th><h3 align="center">My Dress-Up Darling Season 2 - Episode 24 - Dear My Dress-Up Darling</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3f3d6716d2b7d260bfffb359c12f25ad1500809869_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/20e9145d7d16afa3b60e0305f47fd4081758343523_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -608,13 +610,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N7N5/itd-be-sad-to-have-a-dream-end">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX477/dear-my-dress-up-darling">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Subaru and Kaito start practicing for the upcoming ROBO-ONE world tournament in Las Vegas. During<br>his off-time, Kaito stumbles upon a mysterious room inside the abandoned folk museum.</p>
+<p align="center">Marin, Wakana, and the others finally have their "Coffin" group cosplay session.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +626,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 7 - Thank You Berry Much</h3></th>
+<th><h3 align="center">Rascal Does Not Dream of Santa Claus - Episode 12 - Reindeer's Work</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/328618d060ea1edb12db643fd9a40adf1500811077_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cb708fce3c092a0196ceb66fd600dc301758319874_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -642,13 +644,15 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVDV5/thank-you-berry-much">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMJ4P/reindeers-work">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Kaito and friends encounter more mysterious phenomena, another solar storm suddenly hits the Earth.<br>Meanwhile, Akiho gets the GunBuild-1 project funded and rolling full-steam ahead!</p>
+<p align="center">Mai responds to the media, asserting that she is not the real identity of Touko<br>Kirishima on Coming of Age Day. Nevertheless, the impact of the #DREAMING tag on the<br>public discourse was immense, rendering her unable to dispel the rumors completely. By having Mai<br>herself publicly state that she is not Touko Kirishima, Sakuta has fulfilled his promise with<br>the Miniskirt Santa, and the two of them go out on a date.
+
+During the date,<br>as they shop in Motomachi, but there is not a single person who is able<br>to perceive the Miniskirt Santa. In an attempt to find out more about her, Sakuta<br>ends up hearing an unexpected name. The person she dated back in high school was…</p>
 </td>
 </tr>
 </table>
@@ -658,12 +662,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Robotics;Notes (Tamil Dub) - Episode 8 - I'm Nae Tennoji! Nice to Meet You!</h3></th>
+<th><h3 align="center">Scooped Up by an S-Rank Adventurer! - Episode 12 - Lloyd is Aware He Lacks Power</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/317ebe6a216f5728806220dedb767bde1500811071_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5a3973e3cd7038893e04505ab7910b4f1758317322_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -676,13 +680,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVEV1/im-nae-tennoji-nice-to-meet-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJGQJ/lloyd-is-aware-he-lacks-power">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akiho is elated when a grown-up Nae Tennoji offers to help the Robot Research Club<br>build a giant robot. Meanwhile, Kaito is caught in a typhoon while searching for the<br>elusive Kimijima Report No. 2.</p>
+<p align="center">The party escapes the crashing blimp and fights to unmerge the chimera. Yet using ancient<br>magic is taboo.</p>
 </td>
 </tr>
 </table>
