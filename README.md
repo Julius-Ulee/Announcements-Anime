@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 21, 2025, 7:28:23 PM</em></p>
+<p align="center"><em>Updated on: Sep 22, 2025, 8:16:15 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Puniru is a Kawaii Slime Season 2 - Episode 24 - That's What the World Calls Love</h3></th>
+<th><h3 align="center">Cultural Exchange with a Game Centre Girl (English Dub) - Episode 9 - Summer Holidays!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/84d8df221b34c4c555e1fc9ccdef659f1758415012_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1abe69f17bfe3134f8b0615a5d1e2af81757195200_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZPNG/thats-what-the-world-calls-love">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJMZ8/summer-holidays">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Puniru turns into a perfect human girl, but Kotaro doesn't seem as happy to hear<br>the news as everyone else.</p>
+<p align="center">As Lily and friends enjoy their summer vacation, new and unique guests start to appear<br>at Renji's game center.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 - Episode 24 - Wishes</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Spanish Dub) - Episode 21 - The Curse</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/eccaa264da044e13310b822a911fcf751758414850_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7b3d9f9237375a86a6652e3231777dc71756598051_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U349E7/wishes">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU920W2/the-curse">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nene and Kou scramble to save Hanako from Teru's wrath while the Boundary collapses around<br>them.</p>
+<p align="center">While Teru hunts for clues at a local shrine, Nene scrambles to escape an eerily<br>familiar cave.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WITCH WATCH (Thai Dub) - Episode 24</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Portuguese Dub) - Episode 21 - The Curse</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/106f468743ee2156da18d5309d85d2ff1758414057_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7b3d9f9237375a86a6652e3231777dc71756598051_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,7 +98,517 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW7EQQ">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE31JZ/the-curse">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">While Teru hunts for clues at a local shrine, Nene scrambles to escape an eerily<br>familiar cave.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Hindi Dub) - Episode 21 - The Curse</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7b3d9f9237375a86a6652e3231777dc71756598051_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEGM45/the-curse">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">While Teru hunts for clues at a local shrine, Nene scrambles to escape an eerily<br>familiar cave.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (English Dub) - Episode 22 - Tsukasa and Amane</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1726630bcaccc5dfc1f6b000c16db1401757193000_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D752/tsukasa-and-amane">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kou believes they can make everything right by rescuing four-year-old Tsukasa from the Red House.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dekin no Mogura: The Earthbound Mole (English Dub) - Episode 9 - The Great Mother's Love</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b26146f3fd73cd42c6c2f07cf69b95fa1756598539_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZ5X2/the-great-mothers-love">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mogura and his companions uncover the underbelly of Yaeko's island.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 15 - Episode 11 -  Mourning Scent</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ab4b5a2ddf0892643074ee6d482d5de91758476463_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX57P/-mourning-scent">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">This is the story of a man whose friend spent the night at his house...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Nyaight of the Living Cat (German Dub) - Episode 9 - Commeowndo</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/431bb3647727877339927d67e94213101756598818_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2NJ3/commeowndo">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The citadel's residents welcome the cat from the mall, giving him a name, a special<br>translator device, and...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Nyaight of the Living Cat (French Dub) - Episode 9 - Commeowndo</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/431bb3647727877339927d67e94213101756598818_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW754W/commeowndo">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The citadel's residents welcome the cat from the mall, giving him a name, a special<br>translator device, and...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Nyaight of the Living Cat (English Dub) - Episode 10 - Norwegian d'Arc</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/12c7c38d9b1b814835c6ff71bb4a1b591757195006_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD031/norwegian-darc">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After their shelter is overrun by cats, Tsutsumi and her new friends find their way<br>to Wendelstein.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Nyaight of the Living Cat (Spanish Dub) - Episode 10 - Norwegian d'Arc</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/12c7c38d9b1b814835c6ff71bb4a1b591757195006_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34EVQ/norwegian-darc">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After their shelter is overrun by cats, Tsutsumi and her new friends find their way<br>to Wendelstein.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Nyaight of the Living Cat (Portugese Dub) - Episode 10 - Norwegian d'Arc</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/12c7c38d9b1b814835c6ff71bb4a1b591757195006_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82M3P/norwegian-darc">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After their shelter is overrun by cats, Tsutsumi and her new friends find their way<br>to Wendelstein.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">HOTEL INHUMANS - Episode 12 - Another Sky 3</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/75867425c300d8407296652361ec23551758469100_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV20ME/another-sky-3">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Chetana finds out that Danica has been forced into a contract. Meanwhile, Danica and Palan<br>prepare for a kill.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">One Piece: Egghead Island (1123-Current) - Episode 1144 - The Worst Nightmare - The Five Elders Come Together</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/24d072727dfa552f4133f17fa6a78c1a1758470358_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQKEN/the-worst-nightmare-the-five-elders-come-together">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Just like when St. Saturn emerged on Egghead, black lightning strikes and pentagrams appear again.<br>The Pacifistas are rendered immobile by an unknown shadow. Meanwhile, as the time for the<br>Straw Hats to evacuate the island is drawing near, the fight between Zoro and Lucci<br>intensifies.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Gachiakuta (Thai Dub) - Episode 8 - Moving Forward</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/af309d65f6da57b817ea01471209894f1756599203_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDN87/moving-forward">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Rudo deals with the emotional aftermath of the Jabber fight and gets a new lead<br>about returning to the Sphere.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Gachiakuta (Thai Dub) - Episode 9 - The City of Graffiti</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b069a42ddf5a58ea6494c18c849deea31757195318_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3G9Q/the-city-of-graffiti">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">To get a "spell" for their next mission, the Cleaners head to Canvas Town, where<br>they make a tragic discovery.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Gachiakuta (Thai Dub) - Episode 10 - Penta: The Desert No Man's Land</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/14390060b4035aa027ace83e0e49a85d1757805991_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEXEN8/penta-the-desert-no-mans-land">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With their gear-up complete, the crew heads into the No Man's Land, Penta, to get<br>clues about the Sphere.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Gachiakuta (Thai Dub) - Episode 11</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e7caf3572b3684a59f24bfb56b290f631758423199_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">9/21/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80835">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -114,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WITCH WATCH - Episode 24 - Moi's Denim Devotion / Date with the Guide</h3></th>
+<th><h3 align="center">Gachiakuta (Thai Dub) - Episode 1 - The Sphere</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/106f468743ee2156da18d5309d85d2ff1758413971_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c4822635558f3f1b40888cf6eda1bddd1751812316_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,14 +642,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVEK0/mois-denim-devotion-date-with-the-guide">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZW1W/the-sphere">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">“I will finally! Do! The laundry tomorrow!” Morihito declared. It’s been one year since he’s<br>been lovingly wearing his
-denim jeans, and will now perform a second wash. Morihito has a<br>personality that gets very dedicated to his hobbies, so having heard very long lectures on<br>the topic, Nico and Kanshi try to stay out of it. However, Miharu has never<br>seen Morihito so fired up, and dares to ask him, “Please tell me more about<br>denim.”</p>
+<p align="center">Bullied outcast Rudo finds respite in repurposing trash, until a terrible tragedy changes his life<br>forever.</p>
 </td>
 </tr>
 </table>
@@ -149,12 +658,12 @@ denim jeans, and will now perform a second wash. Morihito has a<br>personality t
 
 <table align="center">
 <tr>
-<th><h3 align="center">WITCH WATCH (English Dub) - Episode 22 - The Incredible Shrinking Adventure / The Hamazaki Fall Bread Festival / Lucky Birthday</h3></th>
+<th><h3 align="center">Gachiakuta (Thai Dub) - Episode 2 - The Inhabited</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/481eb16b1031f3cd744151cda7eee4191758414545_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/23072e02885aa117583353e64332e3831752410648_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -167,525 +676,13 @@ denim jeans, and will now perform a second wash. Morihito has a<br>personality t
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ1V3K/the-incredible-shrinking-adventure-the-hamazaki-fall-bread-festival-lucky-birthday">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU343G8/the-inhabited">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nico, Kara, and Morihito are having a donut devouring party in Nico’s room. When something<br>bad happens or whenever you get tired, then you need to eat donuts! Nico thinks<br>that every girl should experience the ever-wonderful candy land world, so she casts a spell<br>to shrink their sizes so they can roll around in donuts!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">WITCH WATCH (German Dub) - Episode 21 - Keiko's Carefree Style / Secret Urges / Jekyll Visits the Otogi House</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5735956f6c2b95059687fce05805f60f1755921075_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/21/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9EZWN/keikos-carefree-style-secret-urges-jekyll-visits-the-otogi-house">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Keigo was troubled because the viewers on his channel weren’t increasing. He talks to his<br>roommates Nico, Morihito, Kanshi, and Miharu about it, but he just gets a blunt, “Because<br>it’s not interesting!” In order to liven it up, she asks if she could appear<br>in his channel, but Morihito says no. That’s when Nico comes up with a great<br>idea.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">You and Idol Precure ♪ - Episode 33 - Dosukoi! An Idol Debut?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c945854a1ddf64c585ef8c701b3c9b101758419272_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/21/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU73D29/dosukoi-an-idol-debut">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Uta and the others receive a fan letter from a sumo wrestler they’ve met before,<br>Kurikyuta. But when they reunite, Kurikyuta says he’s going to quit sumo and join Idol<br>Precure.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">With You and the Rain (English Dub) - Episode 10 - A River That Cannot Be Crossed</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/196c76c48e40c93af97602cfede7de1d1757115177_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJMNQ/a-river-that-cannot-be-crossed">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Fuji reaches out to Ren for support as she struggles with writer's block.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Anne Shirley (Spanish Dub) - Episode 20 - My World Has Tumbled Into Pieces</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/76de8aab737ba27b225459281a8ee58e1756486933_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX2M2/my-world-has-tumbled-into-pieces">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Relationships are adjusted, Gilbert speaks, and spring and Anne return to Green Gables.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Anne Shirley (Portuguese Dub) - Episode 20 - My World Has Tumbled Into Pieces</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/76de8aab737ba27b225459281a8ee58e1756486933_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW75DW/my-world-has-tumbled-into-pieces">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Relationships are adjusted, Gilbert speaks, and spring and Anne return to Green Gables.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Anne Shirley (English Dub) - Episode 21 - Has the Real Prince Come at Last...?</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/10049f930727e82c51aee837a71a4b121757112946_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE310Z/has-the-real-prince-come-at-last">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Enter Jonas, enter Prince Charming, enter Christine.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rascal Does Not Dream of Santa Claus (English Dub) - Episode 9 - I Need You</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/64530361e8b99ad384fbf8df89e6dd3c1756564097_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU920ZP/i-need-you">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sakuta dreams that on Christmas Eve, when he is meant to have a sleepover date<br>with Mai, he instead goes on a date with a student named Sara Himeji from<br>the cram school where he works. The Sara in question has the same dream as<br>Sakuta and goes on to confess that she has her own Puberty Syndrome. However, she<br>says that she does not want her Puberty Syndrome to be fixed. Sara developed Puberty<br>Syndrome after a heartbreak, and the symptoms of her syndrome ease her anxiety by making<br>her popular with guys, which she has been enjoying.
-
-Sakuta warns her that this is a<br>dangerous move. To which she retorts to provoke him, “What should I do so that<br>I can love people. Like you do, Mr. Sakuta?”</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rascal Does Not Dream of Santa Claus (French Dub) - Episode 8 - Secrets and Promises</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a398b5bbdb298850e03e8e0ee565a2201755919434_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNEVX/secrets-and-promises">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sakuta from the other possible realm sends a message through Ikumi that reads, “Find Touko<br>Kirishima, Mai-san is in danger.” After seeing this message, he tries contacting the Miniskirt Santa,<br>who claimed to be Touko Kirishima. A few days later, he receives a call from<br>her saying that she can meet on December 2nd… which also happens to be Mai’s<br>birthday.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Italian Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX2XQ/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Hindi Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2N24/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Tamil Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD0ZG/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Telugu Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34EQ9/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (English Dub) - Episode 22 - So We're Gonna Do It All Right Now?!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d137b72d0cde9e70f4130e698d2b9b291757114362_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82M0W/so-were-gonna-do-it-all-right-now">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Marin has a slight misunderstanding and Wakana has his first playthrough of "Coffin."</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Spanish Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMG3M/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Portugese Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">9/20/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ73P/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
+<p align="center">Cast into the Pit, Rudo is saved by the mysterious Enjin who may not have<br>his best interests at heart.</p>
 </td>
 </tr>
 </table>
