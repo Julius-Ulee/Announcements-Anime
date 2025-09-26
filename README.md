@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 25, 2025, 7:33:09 PM</em></p>
+<p align="center"><em>Updated on: Sep 26, 2025, 8:10:46 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Telugu Dub) - Episode 8 - The Fourth Friend</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 78 - Episode 78</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f3704efaa89b8a07fc8b760520bbc0241665449110_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6d3dd8ff3e3dc35be6d069ad1bee35a51758739035_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZWM5/the-fourth-friend">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVD28/episode-78">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The three girls visit a new board game café that opened up near their school.<br>There, they meet Emilia, another board game fanatic around the same age as them, who<br>moved to Kyoto recently from Germany.</p>
+<p align="center">Elux the Necromancer Saint makes Long Haochen take his succession trial.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Telugu Dub) - Episode 9 - Daruma-Doll Fell Down</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 70 - Episode 70</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fdd9ec96d80ef1871f2126f5302c07ab1665449182_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8d8e549754036ef4adf1abd8a76374971758739227_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU343E5/daruma-doll-fell-down">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDN23/episode-70">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Emilia's dream is to become a game designer. She wants to discuss this with Midori,<br>who shares the same dream, but Midori is afraid that she would be simply inferior<br>to Emilia.</p>
+<p align="center">Chen Zidian tells Haochen that the only way to end the war against the Demon<br>Clan is to destroy the Demon God Pillars.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Telugu Dub) - Episode 10 - Happy Holy Night</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 71 - Episode 71</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/523fe620a7d0c939e2513413bdd0cdc91665449358_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cdf3bc706f0a2848faf28e1fbcba52fc1758737335_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E9JD/happy-holy-night">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3GM9/episode-71">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Aya's father Kenji comes home to Japan, just in time for Christmas. However, he seems<br>to be more excited about his work than seeing his daughters.</p>
+<p align="center">News of the victory at Exorcism Pass reaches Odin, with Long Haochen's name being celebrated.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Telugu Dub) - Episode 11 - A Game By Everyone</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 72 - Episode 72</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/921d06f00f648230c8954bfe55cb6d051665449410_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2f1fc94ac0336ccbe67655ccdc2020951758740861_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q3X7/a-game-by-everyone">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEXEQJ/episode-72">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">George, the famous American professional game designer, invites Midori to submit his game to his<br>company's game design competition. Midori, with the help of her friends, feels ready to take<br>on the challenge.</p>
+<p align="center">The Demon Hunt Squad No.1 becomes a General-level squad and takes on a new mission<br>to earn more merit points.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Telugu Dub) - Episode 12 - The Place We All Love</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 73 - Episode 73</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/75607b1f06248bf174596581ba328f751665449543_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/30318867267c9c9c39b75cbd8400f7411758737444_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -166,13 +166,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQW9Z/the-place-we-all-love">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU808WV/episode-73">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Midori and Emilia discuss their ambitions and lay out detailed plans to achieve them. Aya<br>is full of dreams and aspirations. Miki, however, just wants everything to stay the same.</p>
+<p align="center">To enter demon territory for their mission, Demon Hunt Squads get themselves recruited as guards<br>for Yue Ye's merchant group but their caravan is attacked midway by starving demon raiders.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Tamil Dub) - Episode 11 - A Game By Everyone</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 74 - Episode 74</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/921d06f00f648230c8954bfe55cb6d051665449410_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25ee41a5b8fa107f460b0b23f174e3eb1758737568_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +200,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXVDW/a-game-by-everyone">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXVW7/episode-74">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">George, the famous American professional game designer, invites Midori to submit his game to his<br>company's game design competition. Midori, with the help of her friends, feels ready to take<br>on the challenge.</p>
+<p align="center">Demon Hunt Squads stall the raiding demons long enough for Yue Ye to cast the<br>forbidden spell.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Tamil Dub) - Episode 12 - The Place We All Love</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 75 - Episode 75</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/75607b1f06248bf174596581ba328f751665449543_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9f06c5b6198d4d4bb0933659a3fdb2d71758737660_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +234,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K84V/the-place-we-all-love">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K8Z5/episode-75">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Midori and Emilia discuss their ambitions and lay out detailed plans to achieve them. Aya<br>is full of dreams and aspirations. Miki, however, just wants everything to stay the same.</p>
+<p align="center">After everyone reaches safety with the help of McDull, Long Haochen threatens Yue Ye to<br>conceal the identity and activity of Demon Hunt Squads in demon territory.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Telugu Dub) - Episode 1 - A New World</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 76 - Episode 76</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9f28483ffce3a8a35814a0eef81290a71665448693_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/451f1da8034bd73cc0a2f4a21d14a4bd1758737797_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +268,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVDK3/a-new-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0N4J/episode-76">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Miki, a high school student born and raised in Kyoto, knows very little about how<br>to have fun. Her classmate Aya seeks to change this, with the reluctant help of<br>another classmate, Midori.</p>
+<p align="center">The Demon Hunt Squads disguise themselves as Moon Demon Clan as they continue to search<br>for the Wailing Cavern.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Telugu Dub) - Episode 2 - This is a Cockroach!</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 77 - Episode 77</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd2a70d32036e7620bf56c314b37874b1665448810_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/70d102efe03cdcca3d7b5faa0a6c191f1758738940_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +302,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVEKG/this-is-a-cockroach">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N7G4/episode-77">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After their encounter, the three girls, Miki, Aya and Midori, have become fast friends. Excited<br>to step into the new world of board games, Miki and Aya implore Midori to<br>intoduce them to more games.</p>
+<p align="center">Long Haochen enters the Wailing Cavern alone to find out its secret.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Telugu Dub) - Episode 3 - Not Alone</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 62 - Episode 62</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/18e99babe730faa8885773d222bcc1071665448820_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5076be2a174071f8ab47af91ebcec1021758736322_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +336,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGMJG/not-alone">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNMJK/episode-62">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Miki, Aya and Midori gather at Aya's house to play board games. They are joined<br>by Hana, Aya's sister, and Maki, Hana's friend. Miki feels like she has met Maki<br>before somewhere, but can't quite remember.</p>
+<p align="center">Sheng Cai'er shares the story of her past with Long Haochen.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Telugu Dub) - Episode 4 - Midori's Dream</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 63 - Episode 63</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cc4d4b80bab5529d073256ea643ba64e1665448848_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/146283f05bacabf70873d24c9d15280e1758736405_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +370,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZMPM/midoris-dream">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZWN7/episode-63">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Student council vice-chair Ren wants to bring Midori into the student council, but Midori declines,<br>saying she has other priorities. Ren follows Midori to her workplace after school to find<br>out what it is Midori is so passionate about.</p>
+<p align="center">Long Haochen’s plan to intercept the demon’s food transport convoy successfully ends the demon’s autumn<br>offensive.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Telugu Dub) - Episode 5 - A Message for You</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 64 - Episode 64</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/da799a808dbb2687288e9d59596b17181665448835_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d264bca3a6167858424d68cc07ac63e71758736480_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -404,13 +404,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU787X0/a-message-for-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU343MP/episode-64">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Summer break has started, so Miki, Aya and Midori decide to go on a trip<br>together. They visit Miki's aunt's inn in Kanazawa, and discover a classic Japanese game, GOITA.</p>
+<p align="center">Lord Xiazhe lets the Light Element Fairy choose her master.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Telugu Dub) - Episode 6 - A Fledgling Designer is Born!</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 65 - Episode 65</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1b1743da703862ac44d78e0cf99ae3d71665448931_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/890d322c4aef1a75bae2cd0916312a531758736562_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -438,13 +438,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2X9P/a-fledgling-designer-is-born">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E95N/episode-65">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Midori meets George, a famous game designer from the USA. He gives her some harsh<br>advice on the game she is making, which Miki interprets as a challenge.</p>
+<p align="center">After losing the Light Element Fairy to Long Haochen for the second time, Li Yuanli<br>captures her by chance and unknowingly opens up a portal that leads to demon invasion.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Telugu Dub) - Episode 7 - Opening Up</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 66 - Episode 66</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/738903ffa2aa7b0f6175e0893e0495741665448988_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/05614292898c2faa685ff4a5236854981758736714_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -472,13 +472,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNMPV/opening-up">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q3J4/episode-66">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maki finds Miki without anything to do, so they decide to hang out for the<br>day. Meanwhile, as the school festival gets closer, students plan various events to spice up<br>the festival.</p>
+<p align="center">Following Lord Xiazhe’s order, everyone in Exorcist Mountain Pass puts their life on the line<br>to get Long Haochen to the command division.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Tamil Dub) - Episode 2 - This is a Cockroach!</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 67 - Episode 67</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd2a70d32036e7620bf56c314b37874b1665448810_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/abfc498448a32f7e8f109420712d03521758736790_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -506,13 +506,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E9QD/this-is-a-cockroach">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQW1Q/episode-67">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After their encounter, the three girls, Miki, Aya and Midori, have become fast friends. Excited<br>to step into the new world of board games, Miki and Aya implore Midori to<br>intoduce them to more games.</p>
+<p align="center">Before three Demon Gods seal the fate of Exorcist Mountain Pass, Long Haochen delivers the<br>key that can save it.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Tamil Dub) - Episode 3 - Not Alone</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 68 - Episode 68</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/18e99babe730faa8885773d222bcc1071665448820_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0af3fe6e769ae08cc8f511ff13b7b2c61758736873_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -540,13 +540,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q3G7/not-alone">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4V9V/episode-68">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Miki, Aya and Midori gather at Aya's house to play board games. They are joined<br>by Hana, Aya's sister, and Maki, Hana's friend. Miki feels like she has met Maki<br>before somewhere, but can't quite remember.</p>
+<p align="center">The humans kill three Demon Gods and save Exorcism Mountain Pass.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Tamil Dub) - Episode 4 - Midori's Dream</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 69 - Episode 69</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cc4d4b80bab5529d073256ea643ba64e1665448848_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5b08818d7c509f5e37d39d99acc90d861758737152_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -574,13 +574,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQWJZ/midoris-dream">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2Q9K/episode-69">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Student council vice-chair Ren wants to bring Midori into the student council, but Midori declines,<br>saying she has other priorities. Ren follows Midori to her workplace after school to find<br>out what it is Midori is so passionate about.</p>
+<p align="center">The Demon Emperor appears in Exorcism Mountain Pass and demands the humans to hand over<br>a three-headed magical beast.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Tamil Dub) - Episode 5 - A Message for You</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 53 - Episode 53</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/da799a808dbb2687288e9d59596b17181665448835_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c95eb41a73dcc5e3cdef41ca1af3a9f31758732015_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -608,13 +608,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4V0W/a-message-for-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q3Z7/episode-53">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Summer break has started, so Miki, Aya and Midori decide to go on a trip<br>together. They visit Miki's aunt's inn in Kanazawa, and discover a classic Japanese game, GOITA.</p>
+<p align="center">Demon Hunt Squad No. 1 enjoys their first visit to Demon Hunt Tower and says<br>goodbye to friends and family before embarking on the Exorcist Mountain Pass mission.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Tamil Dub) - Episode 6 - A Fledgling Designer is Born!</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 54 - Episode 54</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1b1743da703862ac44d78e0cf99ae3d71665448931_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6a8b1e8ee936b01bbd13be80be692a9c1758731859_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -642,13 +642,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2QGG/a-fledgling-designer-is-born">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQW8Z/episode-54">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Midori meets George, a famous game designer from the USA. He gives her some harsh<br>advice on the game she is making, which Miki interprets as a challenge.</p>
+<p align="center">Demon Hunt Squad No. 1 ruins Gao Yingjie’s plan by resolving the sudden midflight crisis<br>and has to be forcefully kicked out of the airship instead.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">After School Dice Club (Tamil Dub) - Episode 7 - Opening Up</h3></th>
+<th><h3 align="center">Throne of Seal - Episode 55 - Episode 55</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/738903ffa2aa7b0f6175e0893e0495741665448988_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/49086771d3360174985bff5486a81a0c1758731722_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -676,13 +676,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDN9E/opening-up">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4VGW/episode-55">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Maki finds Miki without anything to do, so they decide to hang out for the<br>day. Meanwhile, as the school festival gets closer, students plan various events to spice up<br>the festival.</p>
+<p align="center">After the members successfully regroup, Demon Hunt Squad No. 1 surprises everyone with their individual<br>and team ability to defeat a level-6 demon.</p>
 </td>
 </tr>
 </table>
