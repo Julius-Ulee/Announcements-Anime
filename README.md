@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 28, 2025, 7:28:15 PM</em></p>
+<p align="center"><em>Updated on: Sep 29, 2025, 8:12:46 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">You and Idol Precure ♪ - Episode 34 - Detective Hamorin! Solve the Mystery Menu!</h3></th>
+<th><h3 align="center">Cultural Exchange with a Game Centre Girl (English Dub) - Episode 10 - OKF Tournament</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/76e672541bf92f3413f99605c548250a1759021360_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d7e0b8f1f3298b6f67c4d8e84cc889791757807153_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXKDE/detective-hamorin-solve-the-mystery-menu">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNEZ7/okf-tournament">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hamori finds an old Cafe Glitter menu, from when it first opened. She decides to<br>investigate as Detective Hamorin when she spots a menu item that is crossed out.</p>
+<p align="center">The game center holds an Otokogi Koala Fighters knockout tournament that attracts a wide variety<br>of players.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">With You and the Rain (English Dub) - Episode 11 - New Things, Old Things</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Spanish Dub) - Episode 22 - Tsukasa and Amane</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ae62ba3ba4f7f2d4395aeedc461bf0421757734370_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1726630bcaccc5dfc1f6b000c16db1401757193000_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNEGX/new-things-old-things">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34ENQ/tsukasa-and-amane">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fuji gets Mimi and Ren to help out with her spring cleaning.</p>
+<p align="center">Kou believes they can make everything right by rescuing four-year-old Tsukasa from the Red House.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Anne Shirley (Spanish Dub) - Episode 21 - Has the Real Prince Come at Last...?</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Portuguese Dub) - Episode 22 - Tsukasa and Amane</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/10049f930727e82c51aee837a71a4b121757112946_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1726630bcaccc5dfc1f6b000c16db1401757193000_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ70J/has-the-real-prince-come-at-last">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82MDP/tsukasa-and-amane">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Enter Jonas, enter Prince Charming, enter Christine.</p>
+<p align="center">Kou believes they can make everything right by rescuing four-year-old Tsukasa from the Red House.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Anne Shirley (Portuguese Dub) - Episode 21 - Has the Real Prince Come at Last...?</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Hindi Dub) - Episode 22 - Tsukasa and Amane</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/10049f930727e82c51aee837a71a4b121757112946_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1726630bcaccc5dfc1f6b000c16db1401757193000_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVP755/has-the-real-prince-come-at-last">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZ542/tsukasa-and-amane">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Enter Jonas, enter Prince Charming, enter Christine.</p>
+<p align="center">Kou believes they can make everything right by rescuing four-year-old Tsukasa from the Red House.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Anne Shirley (English Dub) - Episode 22 - How Horrible it is That People Have to Grow Up, and Marry, and Change!</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (English Dub) - Episode 23 - One-way Train to the Far Shore</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0bf11a8ea3fbd29d009bd336a019360a1757697240_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dbc9badafb0e6813c6da020b54cf89a71757806645_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82M1P/how-horrible-it-is-that-people-have-to-grow-up-and-marry-and-change">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU920X2/one-way-train-to-the-far-shore">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After mutual confidences, Anne spends a June evening at Green Gables and attends Diana's wedding.</p>
+<p align="center">While Nene and friends prepare to enter the Boundary, their friends on the other side<br>run into trouble.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rascal Does Not Dream of Santa Claus (English Dub) - Episode 10 - Holy Night</h3></th>
+<th><h3 align="center">Dekin no Mogura: The Earthbound Mole (English Dub) - Episode 10 - True Worth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1632fa306112e8df81c5747f9a918a7b1757114183_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f569225d7570ca4c09eda5e40f1ac5ac1757193303_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34E19/holy-night">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD081/true-worth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sakuta sees a familiar Miniskirt Santa on a beauty pageant website that his friend was<br>looking at.</p>
+<p align="center">Yaeko's friend Mori describes the psychological abuse he suffered at the hands of the island's<br>"royal family."</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rascal Does Not Dream of Santa Claus (French Dub) - Episode 9 - I Need You</h3></th>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 15 - Episode 12 - Summer Grievings</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/64530361e8b99ad384fbf8df89e6dd3c1756564097_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/126e14c6ae0273173c3049390b69818c1758996940_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,19 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE319G/i-need-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ499/summer-grievings">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sakuta dreams that on Christmas Eve, when he is meant to have a sleepover date<br>with Mai, he instead goes on a date with a student named Sara Himeji from<br>the cram school where he works. The Sara in question has the same dream as<br>Sakuta and goes on to confess that she has her own Puberty Syndrome. However, she<br>says that she does not want her Puberty Syndrome to be fixed. Sara developed Puberty<br>Syndrome after a heartbreak, and the symptoms of her syndrome ease her anxiety by making<br>her popular with guys, which she has been enjoying.
-
-Sakuta warns her that this is a<br>dangerous move. To which she retorts to provoke him, “What should I do so that<br>I can love people. Like you do, Mr. Sakuta?”</p>
+<p align="center">This is the story of a man who has received a postcard delivered to his<br>home...</p>
 </td>
 </tr>
 </table>
@@ -252,12 +250,12 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Castilian Dub) - Episode 18 - I'll Make It Happen, No Matter What with These Two Hands</h3></th>
+<th><h3 align="center">Nyaight of the Living Cat (Portugese Dub) - Episode 11 - Transformeows</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2472f8d186d11cbcc8a1fa6ba985245f1754750047_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eabdf22b108339d5a7f1753d432aba561757807049_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -266,17 +264,17 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7327Z/ill-make-it-happen-no-matter-what-with-these-two-hands">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2N53/transformeows">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wakana finishes up Marin's suit for her Rei-sama cosplay and the day of the beauty<br>pageant finally arrives.</p>
+<p align="center">Wendelstein faces its biggest crisis yet as an army of cats mounted on animals of<br>all types closes in.</p>
 </td>
 </tr>
 </table>
@@ -286,12 +284,12 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Castilian Dub) - Episode 19 - Capture Those Delicious Memories!</h3></th>
+<th><h3 align="center">Nyaight of the Living Cat (French Dub) - Episode 10 - Norwegian d'Arc</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b7df8c584db4d1621bb89af6de8d49bc1755371361_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/12c7c38d9b1b814835c6ff71bb4a1b591757195006_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -300,17 +298,17 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVJXK/capture-those-delicious-memories">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVP7Z5/norwegian-darc">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Marin discovers the terrifying truth that she's gained weight and her cosplay no longer fits<br>her.</p>
+<p align="center">After their shelter is overrun by cats, Tsutsumi and her new friends find their way<br>to Wendelstein.</p>
 </td>
 </tr>
 </table>
@@ -320,12 +318,12 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Castilian Dub) - Episode 20 - The Only Way I Can Think of to Express That Gratitude Is with Money</h3></th>
+<th><h3 align="center">Nyaight of the Living Cat (German Dub) - Episode 10 - Norwegian d'Arc</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/99411c0be8df057de912126193e879d61755919488_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/12c7c38d9b1b814835c6ff71bb4a1b591757195006_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -334,17 +332,17 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX2MQ/the-only-way-i-can-think-of-to-express-that-gratitude-is-with-money">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8X92E/norwegian-darc">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Marin and Wakana go to a cosplay event. Marin meets up with Amane and Suzuka<br>and Wakana meets up with Akira.</p>
+<p align="center">After their shelter is overrun by cats, Tsutsumi and her new friends find their way<br>to Wendelstein.</p>
 </td>
 </tr>
 </table>
@@ -354,12 +352,12 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Castilian Dub) - Episode 21 - Because I Don't Intend to Sleep Tonight</h3></th>
+<th><h3 align="center">Nyaight of the Living Cat (English Dub) - Episode 11 - Transformeows</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4edca6d2f1c25024b8f5b2a835fb4eb71756564371_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eabdf22b108339d5a7f1753d432aba561757807049_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -368,17 +366,17 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ7WP/because-i-dont-intend-to-sleep-tonight">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU732ZE/transformeows">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Marin tries to convince Juju to join their "Coffin" cosplay group.</p>
+<p align="center">Wendelstein faces its biggest crisis yet as an army of cats mounted on animals of<br>all types closes in.</p>
 </td>
 </tr>
 </table>
@@ -388,12 +386,12 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Spanish Dub) - Episode 22 - So We're Gonna Do It All Right Now?!</h3></th>
+<th><h3 align="center">Nyaight of the Living Cat (Spanish Dub) - Episode 11 - Transformeows</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d137b72d0cde9e70f4130e698d2b9b291757114362_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eabdf22b108339d5a7f1753d432aba561757807049_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -402,17 +400,17 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEGMZV/so-were-gonna-do-it-all-right-now">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW75GW/transformeows">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Marin has a slight misunderstanding and Wakana has his first playthrough of "Coffin."</p>
+<p align="center">Wendelstein faces its biggest crisis yet as an army of cats mounted on animals of<br>all types closes in.</p>
 </td>
 </tr>
 </table>
@@ -422,12 +420,12 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Portugese Dub) - Episode 22 - So We're Gonna Do It All Right Now?!</h3></th>
+<th><h3 align="center">HOTEL INHUMANS - Episode 13 - Another Sky 4</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d137b72d0cde9e70f4130e698d2b9b291757114362_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e7d1ac5bfc5b49013d3b87aac9b8fba81758996862_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -436,17 +434,17 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3D72W/so-were-gonna-do-it-all-right-now">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8X1WX/another-sky-4">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Marin has a slight misunderstanding and Wakana has his first playthrough of "Coffin."</p>
+<p align="center">Ikuro and Sara's rescue mission is not without consequences. Later, they return to their duties<br>at the hotel.</p>
 </td>
 </tr>
 </table>
@@ -456,12 +454,12 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (French Dub) - Episode 22 - So We're Gonna Do It All Right Now?!</h3></th>
+<th><h3 align="center">One Piece: Egghead Island (1123-Current) - Episode 1145 - Friends Fight Together! Luffy and the Warriors of Elbaph</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d137b72d0cde9e70f4130e698d2b9b291757114362_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f23eb03fa91b1f82160c85c43f5683641759074782_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -470,17 +468,19 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNE2X/so-were-gonna-do-it-all-right-now">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4QWM/friends-fight-together-luffy-and-the-warriors-of-elbaph">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Marin has a slight misunderstanding and Wakana has his first playthrough of "Coffin."</p>
+<p align="center">Dorry and Brogy finally reunite with Luffy. However, they are still facing St. Saturn and<br>St.
+Warcury in their alternate forms. Dorry blows a horn to alert his people to prepare<br>to escape, but
+St. Warcury unleashes a deafening roar.</p>
 </td>
 </tr>
 </table>
@@ -490,12 +490,12 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (German Dub) - Episode 22 - So We're Gonna Do It All Right Now?!</h3></th>
+<th><h3 align="center">Gachiakuta (Thai Dub) - Episode 12</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d137b72d0cde9e70f4130e698d2b9b291757114362_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f171907c7c3e0d7446ed3f29e460949a1758998946_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -504,17 +504,17 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDMGMM/so-were-gonna-do-it-all-right-now">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXV51">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Marin has a slight misunderstanding and Wakana has his first playthrough of "Coffin."</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -524,12 +524,12 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Italian Dub) - Episode 22 - So We're Gonna Do It All Right Now?!</h3></th>
+<th><h3 align="center">Gachiakuta (Russian Dub) - Episode 10 - Penta: The Desert No Man's Land</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d137b72d0cde9e70f4130e698d2b9b291757114362_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/14390060b4035aa027ace83e0e49a85d1757805991_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -538,17 +538,17 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ7QP/so-were-gonna-do-it-all-right-now">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVJ1N/penta-the-desert-no-mans-land">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Marin has a slight misunderstanding and Wakana has his first playthrough of "Coffin."</p>
+<p align="center">With their gear-up complete, the crew heads into the No Man's Land, Penta, to get<br>clues about the Sphere.</p>
 </td>
 </tr>
 </table>
@@ -558,12 +558,12 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Hindi Dub) - Episode 22 - So We're Gonna Do It All Right Now?!</h3></th>
+<th><h3 align="center">Gachiakuta (Telugu Dub) - Episode 12</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d137b72d0cde9e70f4130e698d2b9b291757114362_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f171907c7c3e0d7446ed3f29e460949a1757966944_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -572,17 +572,17 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8X9X9/so-were-gonna-do-it-all-right-now">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNXKK">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Marin has a slight misunderstanding and Wakana has his first playthrough of "Coffin."</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -592,12 +592,12 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Tamil Dub) - Episode 22 - So We're Gonna Do It All Right Now?!</h3></th>
+<th><h3 align="center">Gachiakuta (Hindi Dub) - Episode 12</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d137b72d0cde9e70f4130e698d2b9b291757114362_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f171907c7c3e0d7446ed3f29e460949a1758121161_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -606,17 +606,17 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7328Z/so-were-gonna-do-it-all-right-now">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNXMK">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Marin has a slight misunderstanding and Wakana has his first playthrough of "Coffin."</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -626,12 +626,12 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (Telugu Dub) - Episode 22 - So We're Gonna Do It All Right Now?!</h3></th>
+<th><h3 align="center">Gachiakuta (Tamil Dub) - Episode 12</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d137b72d0cde9e70f4130e698d2b9b291757114362_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f171907c7c3e0d7446ed3f29e460949a1757966585_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -640,17 +640,17 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW75QE/so-were-gonna-do-it-all-right-now">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU73DJ9">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Marin has a slight misunderstanding and Wakana has his first playthrough of "Coffin."</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -660,12 +660,12 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (English Dub) - Episode 23 - I Didn't Think Anything Good Would Ever Happen to Me</h3></th>
+<th><h3 align="center">Gachiakuta (Italian Dub) - Episode 12</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8e7fd8e25f19262aa17dd8c9ae5af8781757734465_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f171907c7c3e0d7446ed3f29e460949a1758138369_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -674,17 +674,17 @@ Sakuta warns her that this is a<br>dangerous move. To which she retorts to provo
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/27/2025</td>
+<td align="center">9/28/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2NX4/i-didnt-think-anything-good-would-ever-happen-to-me">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX8JK">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Everyone is getting ready for the upcoming Coffin group cosplay but they also have a<br>surprise for Juju.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
