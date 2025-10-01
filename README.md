@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Sep 30, 2025, 7:33:14 PM</em></p>
+<p align="center"><em>Updated on: Oct 1, 2025, 8:19:09 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Summer Pockets - Episode 26 - Pockets Stuffed Full</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 21 - Episode 21</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/047c0b4e40d32a5603c2d6dbfbb6819d1758997564_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/516c9ebef2e61bf308ac2000d75547531759004849_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/29/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVEVJ/pockets-stuffed-full">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7809V/episode-21">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Umi's story comes to an end.</p>
+<p align="center">Wang Lin makes enemies with the elders from Fighting Evil Sect, and amidst the crisis,<br>he finally achieves a breakthrough in his cultivation level.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Cultural Exchange with a Game Centre Girl (English Dub) - Episode 10 - OKF Tournament</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 22 - Episode 22</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d7e0b8f1f3298b6f67c4d8e84cc889791757807153_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f3799a39db4ffd2b3efc7a1784cfd42d1759004476_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UGNEZ7/okf-tournament">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX21M5/episode-22">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The game center holds an Otokogi Koala Fighters knockout tournament that attracts a wide variety<br>of players.</p>
+<p align="center">The Thousands Demons Hundred-Day Execution Order has drawn countless cultivators in the Sea of Devils<br>to come and hunt down Wang Lin.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 (Spanish Dub) - Episode 22 - Tsukasa and Amane</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 23 - Episode 23</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1726630bcaccc5dfc1f6b000c16db1401757193000_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dd40ea676042b9c22e5215984f8c0d9d1759004417_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U34ENQ/tsukasa-and-amane">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNZ3X/episode-23">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kou believes they can make everything right by rescuing four-year-old Tsukasa from the Red House.</p>
+<p align="center">Wang Lin decides that Fighting Evil Sect can help him gain footing in Sea of<br>Devils, thus tries to break the sect's top formation.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 (Portuguese Dub) - Episode 22 - Tsukasa and Amane</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 24 - Episode 24</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1726630bcaccc5dfc1f6b000c16db1401757193000_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c731e11d0858e480d882c4ec72803dcf1759004378_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU82MDP/tsukasa-and-amane">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ0PZ/episode-24">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kou believes they can make everything right by rescuing four-year-old Tsukasa from the Red House.</p>
+<p align="center">Wang Lin bids Li Muwan farewell after four years and assumes the position of Fighting<br>Evil Sect Leader.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 (Hindi Dub) - Episode 22 - Tsukasa and Amane</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 13 - Episode 13</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1726630bcaccc5dfc1f6b000c16db1401757193000_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/95721dd1720198aa85872b1695f3fb1c1759006429_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMZ542/tsukasa-and-amane">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX8MD/episode-13">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kou believes they can make everything right by rescuing four-year-old Tsukasa from the Red House.</p>
+<p align="center">Wang Lin discovers a new cultivation technique during a battle, further enhancing his power.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Toilet-bound Hanako-kun 2 (English Dub) - Episode 23 - One-way Train to the Far Shore</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 14 - Episode 14</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dbc9badafb0e6813c6da020b54cf89a71757806645_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b078f5790b71321ce73ab0abe97f3adf1759004313_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU920X2/one-way-train-to-the-far-shore">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KMW7/episode-14">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Nene and friends prepare to enter the Boundary, their friends on the other side<br>run into trouble.</p>
+<p align="center">Wang Lin returns in Ma Liang's body and successfully refines a Devil.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dekin no Mogura: The Earthbound Mole (English Dub) - Episode 10 - True Worth</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 15 - Episode 15</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f569225d7570ca4c09eda5e40f1ac5ac1757193303_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fb8bbcc1baad571701b667b27b80e45e1759006286_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD081/true-worth">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN09ZE/episode-15">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yaeko's friend Mori describes the psychological abuse he suffered at the hands of the island's<br>"royal family."</p>
+<p align="center">Wang Lin encounters the Fire Beasts and unexpectedly discovers their King after he was captured.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Theatre of Darkness: Yamishibai 15 - Episode 12 - Summer Grievings</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 16 - Episode 16</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/126e14c6ae0273173c3049390b69818c1758996940_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a4ab7d0c2f6eac3875491f92f1e278de1759006246_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQ499/summer-grievings">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N59M/episode-16">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">This is the story of a man who has received a postcard delivered to his<br>home...</p>
+<p align="center">Fire Beasts wreak havoc after their King was devoured, and the sects form an alliance<br>to migrate.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Nyaight of the Living Cat (Portugese Dub) - Episode 11 - Transformeows</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 17 - Episode 17</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eabdf22b108339d5a7f1753d432aba561757807049_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d8dd9255125b29326a5f9f0e6e8f1f441759006197_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2N53/transformeows">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV9N1/episode-17">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wendelstein faces its biggest crisis yet as an army of cats mounted on animals of<br>all types closes in.</p>
+<p align="center">War breaks out between two nations, while Wang Lin is still trying to get his<br>hands on the map and the Distant Heaven Pill.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Nyaight of the Living Cat (French Dub) - Episode 10 - Norwegian d'Arc</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 18 - Episode 18</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/12c7c38d9b1b814835c6ff71bb4a1b591757195006_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/385233103ffbe438227d88f67319f0421759006134_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVP7Z5/norwegian-darc">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV74Q/episode-18">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After their shelter is overrun by cats, Tsutsumi and her new friends find their way<br>to Wendelstein.</p>
+<p align="center">Wang Lin ends up entering the Sea of Devils after the Kingdom Sealing Formation has<br>been broken.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Nyaight of the Living Cat (German Dub) - Episode 10 - Norwegian d'Arc</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 19 - Episode 19</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/12c7c38d9b1b814835c6ff71bb4a1b591757195006_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6d834cb2e101829c77d636106fd0b1691759004900_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8X92E/norwegian-darc">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGW43/episode-19">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After their shelter is overrun by cats, Tsutsumi and her new friends find their way<br>to Wendelstein.</p>
+<p align="center">Wang Lin and Li Muwan settle down in the Sea of Devil, as the latter<br>refines pills for him.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Nyaight of the Living Cat (English Dub) - Episode 11 - Transformeows</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 20 - Episode 20</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eabdf22b108339d5a7f1753d432aba561757807049_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e62549fa97c8eab90dc269bc020373371759004877_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU732ZE/transformeows">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZGJ0/episode-20">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wendelstein faces its biggest crisis yet as an army of cats mounted on animals of<br>all types closes in.</p>
+<p align="center">Wang Lin hits bottleneck with his cultivation.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Nyaight of the Living Cat (Spanish Dub) - Episode 11 - Transformeows</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 5 - Episode 5</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eabdf22b108339d5a7f1753d432aba561757807049_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/75e95deaebd08ee4aefcaae8547bd30f1759006875_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW75GW/transformeows">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q2N8/episode-5">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wendelstein faces its biggest crisis yet as an army of cats mounted on animals of<br>all types closes in.</p>
+<p align="center">Wang Lin kills Bai Han and enters Teng Family City with Zhang Hu.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HOTEL INHUMANS - Episode 13 - Another Sky 4</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 6 - Episode 6</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e7d1ac5bfc5b49013d3b87aac9b8fba81758996862_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/442eb3520dee3104638c9b1ed6e54efd1759006460_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8X1WX/another-sky-4">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQDPG/episode-6">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ikuro and Sara's rescue mission is not without consequences. Later, they return to their duties<br>at the hotel.</p>
+<p align="center">Teng Li kills Zhang Hu and lays a deadly ambush for Wang Lin.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) - Episode 1145 - Friends Fight Together! Luffy and the Warriors of Elbaph</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 7 - Episode 7</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f23eb03fa91b1f82160c85c43f5683641759074782_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8e7d0c0c5656c70af3971cf4c98b3c9d1759006747_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,19 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4QWM/friends-fight-together-luffy-and-the-warriors-of-elbaph">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4588/episode-7">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Dorry and Brogy finally reunite with Luffy. However, they are still facing St. Saturn and<br>St.
-Warcury in their alternate forms. Dorry blows a horn to alert his people to prepare<br>to escape, but
-St. Warcury unleashes a deafening roar.</p>
+<p align="center">Wang Lin destroys Teng Li's soul with Foundation Seizing Technique, despite Teng Hua Yuan's threat<br>to hunt him down and seek revenge.</p>
 </td>
 </tr>
 </table>
@@ -524,12 +522,12 @@ St. Warcury unleashes a deafening roar.</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Gachiakuta (Russian Dub) - Episode 10 - Penta: The Desert No Man's Land</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 8 - Episode 8</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/14390060b4035aa027ace83e0e49a85d1757805991_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c47bbfb6520bc46198ef42cacb2957311759006720_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -538,17 +536,17 @@ St. Warcury unleashes a deafening roar.</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UXVJ1N/penta-the-desert-no-mans-land">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2K4M/episode-8">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With their gear-up complete, the crew heads into the No Man's Land, Penta, to get<br>clues about the Sphere.</p>
+<p align="center">Seeking to advance his cultivation in the Underworld Ascension Method, Wang Lin searches for a<br>land rich in extreme Yin energy.</p>
 </td>
 </tr>
 </table>
@@ -558,12 +556,12 @@ St. Warcury unleashes a deafening roar.</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Gachiakuta (Spanish Dub) - Episode 12 - Something Like a Curse</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 9 - Episode 9</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f171907c7c3e0d7446ed3f29e460949a1758998536_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fef5b78a7debc3175020a4908ce768711759006400_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -572,17 +570,17 @@ St. Warcury unleashes a deafening roar.</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX87K/something-like-a-curse">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND05W/episode-9">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tamsy and Zanka fight to save their captive allies. In the aftermath, Rudo has an<br>unexpected reaction.</p>
+<p align="center">Wang Lin joins the Corpse Sect, only to uncover its dark secrets lurking beneath the<br>surface.</p>
 </td>
 </tr>
 </table>
@@ -592,12 +590,12 @@ St. Warcury unleashes a deafening roar.</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Gachiakuta (Portuguese Dub) - Episode 12 - Something Like a Curse</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 10 - Episode 10</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f171907c7c3e0d7446ed3f29e460949a1758998536_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/48a7973650ab66ecc3886ff650ce11741759006648_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -606,17 +604,17 @@ St. Warcury unleashes a deafening roar.</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8299V/something-like-a-curse">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3W74/episode-10">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tamsy and Zanka fight to save their captive allies. In the aftermath, Rudo has an<br>unexpected reaction.</p>
+<p align="center">Enraged by Teng Hua Yuan's massacre of his family, Wang Lin breaks through his cultivation<br>limits and ascends to the Extreme Realm.</p>
 </td>
 </tr>
 </table>
@@ -626,12 +624,12 @@ St. Warcury unleashes a deafening roar.</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Gachiakuta (French Dub) - Episode 12 - Something Like a Curse</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 11 - Episode 11</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f171907c7c3e0d7446ed3f29e460949a1758998536_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/200b47ab2646c5e283d41ebc6f5f3cc41759006605_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -640,17 +638,17 @@ St. Warcury unleashes a deafening roar.</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMX88K/something-like-a-curse">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX0JW/episode-11">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tamsy and Zanka fight to save their captive allies. In the aftermath, Rudo has an<br>unexpected reaction.</p>
+<p align="center">Wang Lin challenges Teng Huayuan to a battle but vanishes into the space rift in<br>the end.</p>
 </td>
 </tr>
 </table>
@@ -660,12 +658,12 @@ St. Warcury unleashes a deafening roar.</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Gachiakuta (German Dub) - Episode 12 - Something Like a Curse</h3></th>
+<th><h3 align="center">Renegade Immortal - Episode 12 - Episode 12</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f171907c7c3e0d7446ed3f29e460949a1758998536_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1a00dde1b7df4fb93b2409917baabf151759006548_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -674,17 +672,17 @@ St. Warcury unleashes a deafening roar.</p>
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/28/2025</td>
+<td align="center">9/30/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8294V/something-like-a-curse">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU801DQ/episode-12">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tamsy and Zanka fight to save their captive allies. In the aftermath, Rudo has an<br>unexpected reaction.</p>
+<p align="center">Wang Lin showcases his extraordinary combat prowess in the face of mightier foes.</p>
 </td>
 </tr>
 </table>
