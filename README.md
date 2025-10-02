@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Oct 1, 2025, 7:34:14 PM</em></p>
+<p align="center"><em>Updated on: Oct 2, 2025, 8:09:27 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 21 - Episode 21</h3></th>
+<th><h3 align="center">New Saga (Hindi Dub) - Episode 11 - Secret Red-Hot Strategy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/516c9ebef2e61bf308ac2000d75547531759004849_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5ef0834f6ba3fe1819e0ae305f3f21b01757479903_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7809V/episode-21">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV7P2/secret-red-hot-strategy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wang Lin makes enemies with the elders from Fighting Evil Sect, and amidst the crisis,<br>he finally achieves a breakthrough in his cultivation level.</p>
+<p align="center">Kyle and his companions acquire surprising new information about demons.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 22 - Episode 22</h3></th>
+<th><h3 align="center">New Saga (English Dub) - Episode 12 - The Heroic Tale Continues</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f3799a39db4ffd2b3efc7a1784cfd42d1759004476_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/be409b8696112b4cda745c4c922039541758062149_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX21M5/episode-22">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KM12/the-heroic-tale-continues">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Thousands Demons Hundred-Day Execution Order has drawn countless cultivators in the Sea of Devils<br>to come and hunt down Wang Lin.</p>
+<p align="center">Kyle's party concludes their business in Karan, but ominous clouds can be seen on the<br>horizon.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 23 - Episode 23</h3></th>
+<th><h3 align="center">New Saga (Spanish Dub) - Episode 11 - Secret Red-Hot Strategy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/dd40ea676042b9c22e5215984f8c0d9d1759004417_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5ef0834f6ba3fe1819e0ae305f3f21b01757479903_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNZ3X/episode-23">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN098M/secret-red-hot-strategy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wang Lin decides that Fighting Evil Sect can help him gain footing in Sea of<br>Devils, thus tries to break the sect's top formation.</p>
+<p align="center">Kyle and his companions acquire surprising new information about demons.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 24 - Episode 24</h3></th>
+<th><h3 align="center">New Saga (Portuguese Dub) - Episode 11 - Secret Red-Hot Strategy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c731e11d0858e480d882c4ec72803dcf1759004378_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5ef0834f6ba3fe1819e0ae305f3f21b01757479903_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ0PZ/episode-24">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N549/secret-red-hot-strategy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wang Lin bids Li Muwan farewell after four years and assumes the position of Fighting<br>Evil Sect Leader.</p>
+<p align="center">Kyle and his companions acquire surprising new information about demons.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 13 - Episode 13</h3></th>
+<th><h3 align="center">New Saga (German Dub) - Episode 11 - Secret Red-Hot Strategy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/95721dd1720198aa85872b1695f3fb1c1759006429_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5ef0834f6ba3fe1819e0ae305f3f21b01757479903_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX8MD/episode-13">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV907/secret-red-hot-strategy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wang Lin discovers a new cultivation technique during a battle, further enhancing his power.</p>
+<p align="center">Kyle and his companions acquire surprising new information about demons.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 14 - Episode 14</h3></th>
+<th><h3 align="center">Onmyo Kaiten Re:Birth Verse (English Dub) - Episode 12 - Don't Give Up on the Future! I'll Seize the Possibility I've Long Desired</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b078f5790b71321ce73ab0abe97f3adf1759004313_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/38629d596595650f3fa061fff0c3cdb21758071032_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KMW7/episode-14">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX808/dont-give-up-on-the-future-ill-seize-the-possibility-ive-long-desired">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wang Lin returns in Ma Liang's body and successfully refines a Devil.</p>
+<p align="center">Seimei deduces the true nature of Takeru's powers, and how they are the key for<br>unlocking the future.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 15 - Episode 15</h3></th>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability 2nd Season (French Dub) - Episode 22 - Black Dragon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fb8bbcc1baad571701b667b27b80e45e1759006286_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9a3357fa2a64da6dd705a74556eb21001757479301_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN09ZE/episode-15">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3W5N/black-dragon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wang Lin encounters the Fire Beasts and unexpectedly discovers their King after he was captured.</p>
+<p align="center">Lloyd's friends are exhausted, but there's still the giant, infernal, dragon chimera to deal with.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 16 - Episode 16</h3></th>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability 2nd Season (German Dub) - Episode 22 - Black Dragon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a4ab7d0c2f6eac3875491f92f1e278de1759006246_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9a3357fa2a64da6dd705a74556eb21001757479301_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N59M/episode-16">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX08X/black-dragon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fire Beasts wreak havoc after their King was devoured, and the sects form an alliance<br>to migrate.</p>
+<p align="center">Lloyd's friends are exhausted, but there's still the giant, infernal, dragon chimera to deal with.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 17 - Episode 17</h3></th>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability 2nd Season (English Dub) - Episode 23 - The Battle Above the Clouds</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d8dd9255125b29326a5f9f0e6e8f1f441759006197_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/68dcf69c937b7d3dd4c616e2957f7ecd1758061376_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV9N1/episode-17">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU801Q8/the-battle-above-the-clouds">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">War breaks out between two nations, while Wang Lin is still trying to get his<br>hands on the map and the Distant Heaven Pill.</p>
+<p align="center">Lloyd and Guitane's clash, with the fate of Saloum in the balance, enters it's final<br>stage.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 18 - Episode 18</h3></th>
+<th><h3 align="center">Dealing with Mikadono Sisters Is a Breeze (German Dub) - Episode 10 - The Shadow of a Genius</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/385233103ffbe438227d88f67319f0421759006134_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2edea175e3e805727ee7e695cb7e53ec1756912024_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV74Q/episode-18">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2K5N/the-shadow-of-a-genius">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wang Lin ends up entering the Sea of Devils after the Kingdom Sealing Formation has<br>been broken.</p>
+<p align="center">Yu delivers Miwa's forgotten lunch during her shogi game. Touched, she asks him to have<br>lunch with her.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 19 - Episode 19</h3></th>
+<th><h3 align="center">Dealing with Mikadono Sisters Is a Breeze (English Dub) - Episode 11 - I Already Knew It</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6d834cb2e101829c77d636106fd0b1691759004900_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/932c39eb61317d8ddee9ce15a3c7818d1757479467_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGW43/episode-19">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND0PK/i-already-knew-it">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wang Lin and Li Muwan settle down in the Sea of Devil, as the latter<br>refines pills for him.</p>
+<p align="center">Kazuki and Niko try to console Miwa, but she gets angry and runs out of<br>the house. Yu goes to look for her.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 20 - Episode 20</h3></th>
+<th><h3 align="center">Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season (English Dub) - Episode 12 - Blizzard in the Desert</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e62549fa97c8eab90dc269bc020373371759004877_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2f5208a03ca021c9db598d042f0719681758061184_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZGJ0/episode-20">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQDZV/blizzard-in-the-desert">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wang Lin hits bottleneck with his cultivation.</p>
+<p align="center">While Hevee sorts out his unfinished business with Tashtay, some unexpected foes arrive to complicate<br>matters.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 5 - Episode 5</h3></th>
+<th><h3 align="center">Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season (Spanish Dub) - Episode 11 - Into the Scorching Desert</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/75e95deaebd08ee4aefcaae8547bd30f1759006875_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d047d58bc74e80ffdcd434f21ab4af8b1757478907_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q2N8/episode-5">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNZ4P/into-the-scorching-desert">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wang Lin kills Bai Han and enters Teng Family City with Zhang Hu.</p>
+<p align="center">When Hevee departs for the Scorching Sand stratum to deal with a personal matter, the<br>other heroes follow him.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 6 - Episode 6</h3></th>
+<th><h3 align="center">Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season (Portuguese Dub) - Episode 11 - Into the Scorching Desert</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/442eb3520dee3104638c9b1ed6e54efd1759006460_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d047d58bc74e80ffdcd434f21ab4af8b1757478907_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQDPG/episode-6">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34809/into-the-scorching-desert">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Teng Li kills Zhang Hu and lays a deadly ambush for Wang Lin.</p>
+<p align="center">When Hevee departs for the Scorching Sand stratum to deal with a personal matter, the<br>other heroes follow him.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 7 - Episode 7</h3></th>
+<th><h3 align="center">Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season (German Dub) - Episode 11 - Into the Scorching Desert</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8e7d0c0c5656c70af3971cf4c98b3c9d1759006747_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d047d58bc74e80ffdcd434f21ab4af8b1757478907_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4588/episode-7">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E47G/into-the-scorching-desert">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wang Lin destroys Teng Li's soul with Foundation Seizing Technique, despite Teng Hua Yuan's threat<br>to hunt him down and seek revenge.</p>
+<p align="center">When Hevee departs for the Scorching Sand stratum to deal with a personal matter, the<br>other heroes follow him.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 8 - Episode 8</h3></th>
+<th><h3 align="center">Reborn as a Vending Machine, I Now Wander the Dungeon 2nd Season (Hindi Dub) - Episode 11 - Into the Scorching Desert</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c47bbfb6520bc46198ef42cacb2957311759006720_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d047d58bc74e80ffdcd434f21ab4af8b1757478907_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2K4M/episode-8">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q29J/into-the-scorching-desert">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seeking to advance his cultivation in the Underworld Ascension Method, Wang Lin searches for a<br>land rich in extreme Yin energy.</p>
+<p align="center">When Hevee departs for the Scorching Sand stratum to deal with a personal matter, the<br>other heroes follow him.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 9 - Episode 9</h3></th>
+<th><h3 align="center">I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Hindi Dub) - Episode 10 - Clover's Back in Action!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fef5b78a7debc3175020a4908ce768711759006400_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c519899180eff8880d9842d3498030421742658684_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND05W/episode-9">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV999/clovers-back-in-action">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wang Lin joins the Corpse Sect, only to uncover its dark secrets lurking beneath the<br>surface.</p>
+<p align="center">Clover travels to a newly discovered dungeon to undertake their first quest since returning to<br>adventuring.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 10 - Episode 10</h3></th>
+<th><h3 align="center">I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Hindi Dub) - Episode 11 - The Capital Distorted by the Twilight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/48a7973650ab66ecc3886ff650ce11741759006648_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/72db14e9b100af7b8bd4d09c498bf4ce1743261297_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3W74/episode-10">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV770/the-capital-distorted-by-the-twilight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Enraged by Teng Hua Yuan's massacre of his family, Wang Lin breaks through his cultivation<br>limits and ascends to the Extreme Realm.</p>
+<p align="center">Clover takes their first dive into the new dungeon near Duna, and everything they encounter<br>feels off somehow.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 11 - Episode 11</h3></th>
+<th><h3 align="center">I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Hindi Dub) - Episode 12 - The Golden Priestess</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/200b47ab2646c5e283d41ebc6f5f3cc41759006605_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/238272cd5a48f40e497eb3e86a484f751743856684_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX0JW/episode-11">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGWWX/the-golden-priestess">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wang Lin challenges Teng Huayuan to a battle but vanishes into the space rift in<br>the end.</p>
+<p align="center">As scholars assess Clover's findings from the new dungeon, the unconscious girl they found inside<br>wakes up.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Renegade Immortal - Episode 12 - Episode 12</h3></th>
+<th><h3 align="center">I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths! (Hindi Dub) - Episode 1 - Clover Is Born</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1a00dde1b7df4fb93b2409917baabf151759006548_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/93df27b11f6aed5d7bed0ce7ae6617c91736589597_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">9/30/2025</td>
+<td align="center">10/1/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU801DQ/episode-12">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2KQE/clover-is-born">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wang Lin showcases his extraordinary combat prowess in the face of mightier foes.</p>
+<p align="center">Yuke, a red mage, quits his A-rank party, Thunder Pike, because he feels they don't<br>appreciate the support he provides. While seeking a new party, he encounters one of his<br>former students, Marina, who invites him to join her new D-rank party.</p>
 </td>
 </tr>
 </table>
