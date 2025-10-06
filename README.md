@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Oct 5, 2025, 7:27:55 PM</em></p>
+<p align="center"><em>Updated on: Oct 6, 2025, 8:11:33 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">WITCH WATCH (German Dub) - Episode 23 - Our First Offline Meetup / Fave Artist File: Creative Surge / Fave Artist File: Crazy Event Arc</h3></th>
+<th><h3 align="center">Cultural Exchange with a Game Centre Girl (English Dub) - Episode 11 - Homecoming</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ef7e51e423ffecb9be9005d5d89a07aa1757805105_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f3d0a14e50360d02cba8d00648926b6e1758416423_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQKPQ/our-first-offline-meetup-fave-artist-file-creative-surge-fave-artist-file-crazy-event-arc">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMD022/homecoming">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ms. Makuwa and Kuku are hard at work for their “Uron Mirage” dojinshi. Ms. Makuwa<br>is in charge of writing and boarding out the story, but is struggling to complete<br>it to the way she likes. In the meantime, Kuku will practice her art since<br>she has time until the event. Kuku also reveals to Ms. Makuwa that she became<br>friends with someone online who replies to her on Chitter. They were going to have<br>an offline meetup the next day. Sick with worry, Ms. Makuwa decides to secretly follow<br>her to the meetup.</p>
+<p align="center">Lily, Karin, and Hotaru join Renji and Aoi on a trip to visit their grandma's<br>home up north in rural Tohoku.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WITCH WATCH (French Dub) - Episode 23 - Our First Offline Meetup / Fave Artist File: Creative Surge / Fave Artist File: Crazy Event Arc</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (English Dub) - Episode 24 - Wishes</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ef7e51e423ffecb9be9005d5d89a07aa1757805105_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/eccaa264da044e13310b822a911fcf751758414850_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -64,13 +64,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX9JJ/our-first-offline-meetup-fave-artist-file-creative-surge-fave-artist-file-crazy-event-arc">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND3K0/wishes">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ms. Makuwa and Kuku are hard at work for their “Uron Mirage” dojinshi. Ms. Makuwa<br>is in charge of writing and boarding out the story, but is struggling to complete<br>it to the way she likes. In the meantime, Kuku will practice her art since<br>she has time until the event. Kuku also reveals to Ms. Makuwa that she became<br>friends with someone online who replies to her on Chitter. They were going to have<br>an offline meetup the next day. Sick with worry, Ms. Makuwa decides to secretly follow<br>her to the meetup.</p>
+<p align="center">Nene and Kou scramble to save Hanako from Teru's wrath while the Boundary collapses around<br>them.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">WITCH WATCH (English Dub) - Episode 23 - Our First Offline Meetup / Fave Artist File: Creative Surge / Fave Artist File: Crazy Event Arc</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Hindi Dub) - Episode 23 - One-way Train to the Far Shore</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ef7e51e423ffecb9be9005d5d89a07aa1757805105_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dbc9badafb0e6813c6da020b54cf89a71757806645_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -98,13 +98,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNJ4E3/our-first-offline-meetup-fave-artist-file-creative-surge-fave-artist-file-crazy-event-arc">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ407/one-way-train-to-the-far-shore">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ms. Makuwa and Kuku are hard at work for their “Uron Mirage” dojinshi. Ms. Makuwa<br>is in charge of writing and boarding out the story, but is struggling to complete<br>it to the way she likes. In the meantime, Kuku will practice her art since<br>she has time until the event. Kuku also reveals to Ms. Makuwa that she became<br>friends with someone online who replies to her on Chitter. They were going to have<br>an offline meetup the next day. Sick with worry, Ms. Makuwa decides to secretly follow<br>her to the meetup.</p>
+<p align="center">While Nene and friends prepare to enter the Boundary, their friends on the other side<br>run into trouble.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">You and Idol Precure ♪ - Episode 35 - A Surprise Amusement Park Date?!</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Portuguese Dub) - Episode 23 - One-way Train to the Far Shore</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cba053d60d0ad35115cf3bcedc006e671759626564_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dbc9badafb0e6813c6da020b54cf89a71757806645_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -132,13 +132,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV09J/a-surprise-amusement-park-date">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4ZJ4/one-way-train-to-the-far-shore">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kaito gets a pair of tickets to the amusement park from Old Man Ren and<br>invites Uta to join him. On the day, Uta waits to meet Kaito and feels<br>nervous as they enter the park together.</p>
+<p align="center">While Nene and friends prepare to enter the Boundary, their friends on the other side<br>run into trouble.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">With You and the Rain (English Dub) - Episode 12 - I Can Hear the Sound of the Rain</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Spanish Dub) - Episode 23 - One-way Train to the Far Shore</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e7dda3d73713ead24e63c995d8b572b81758343691_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dbc9badafb0e6813c6da020b54cf89a71757806645_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
+<td align="center">10/5/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV5Q0/i-can-hear-the-sound-of-the-rain">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2D7Q/one-way-train-to-the-far-shore">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fuji thinks of reasons she loves the rain.</p>
+<p align="center">While Nene and friends prepare to enter the Boundary, their friends on the other side<br>run into trouble.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Anne Shirley (English Dub) - Episode 23 - I Have Learned to Look Upon Each Little Hindrance as a Jest and Each Great One as the Foreshadowing of Victory</h3></th>
+<th><h3 align="center">Dekin no Mogura: The Earthbound Mole (English Dub) - Episode 11 - The Merfolk and the Bakeneko</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/182f51fc8fd82c39766b20b8162ac1031758312476_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e45909f841fd0d67b7f39978114d89cf1757805855_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
+<td align="center">10/5/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K2N0/i-have-learned-to-look-upon-each-little-hindrance-as-a-jest-and-each-great-one-as-the-foreshadowing-of-victory">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q8MM/the-merfolk-and-the-bakeneko">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Anne and her friends receive the Gardners' call and become full-fledged B.A.s.</p>
+<p align="center">Mogura and his companions uncover the truth about the Samejima family, the island's legend, and<br>the merfolk.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Anne Shirley (Portuguese Dub) - Episode 22 - How Horrible it is That People Have to Grow Up, and Marry, and Change!</h3></th>
+<th><h3 align="center">Theatre of Darkness: Yamishibai 15 - Episode 13 - Memories</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0bf11a8ea3fbd29d009bd336a019360a1757697240_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/67a8ef37c6dca217094c9bb5071b91221759684775_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
+<td align="center">10/5/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0PX3/how-horrible-it-is-that-people-have-to-grow-up-and-marry-and-change">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU3DXQ9/memories">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After mutual confidences, Anne spends a June evening at Green Gables and attends Diana's wedding.</p>
+<p align="center">This is the story of a man who is visiting his hometown for the first<br>time in a while, with his wife...</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Anne Shirley (Spanish Dub) - Episode 22 - How Horrible it is That People Have to Grow Up, and Marry, and Change!</h3></th>
+<th><h3 align="center">Nyaight of the Living Cat (Spanish Dub) - Episode 12 - Meow Am Legend</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0bf11a8ea3fbd29d009bd336a019360a1757697240_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/47c9e944868fddb8d6987b0cf20c43081758416299_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
+<td align="center">10/5/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NQ3E/how-horrible-it-is-that-people-have-to-grow-up-and-marry-and-change">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9EVNZ/meow-am-legend">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After mutual confidences, Anne spends a June evening at Green Gables and attends Diana's wedding.</p>
+<p align="center">Can Grandma's last resort save Wendelstein from certain doom at the hands (or paws) of<br>the cat army?</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Secrets of the Silent Witch (English Dub) - Episode 13 - A Book's Worth</h3></th>
+<th><h3 align="center">Nyaight of the Living Cat (German Dub) - Episode 11 - Transformeows</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/518720ad8b82778a83c334515683097a1759608187_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eabdf22b108339d5a7f1753d432aba561757807049_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
+<td align="center">10/5/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZJW5/a-books-worth">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNEGD/transformeows">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The ancient magic tool the Starweaving Mira that is used at the “Magical Offering” during<br>the Bell-Ringing Festival in Corlapton is stolen. The Starweaving Mira is an ancient magic tool<br>that absorbs and liberates the mana of the land. It is a cursed item that<br>is said to have its own mind and will kill the owner if it’s a<br>male. The “Magical Offering” cannot take place without the Starweaving Mira. Monica doesn’t want the<br>Bell-Ringing Festival that sends off the dead to be canceled, so she goes in search<br>of the ancient magic tool. Thus beginning Monica the Silent Witch’s pursuit!</p>
+<p align="center">Wendelstein faces its biggest crisis yet as an army of cats mounted on animals of<br>all types closes in.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (Italian Dub) - Episode 1</h3></th>
+<th><h3 align="center">Nyaight of the Living Cat (French Dub) - Episode 11 - Transformeows</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9d3fac47cb5103baf7390a9a6f29f8741759350907_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/eabdf22b108339d5a7f1753d432aba561757807049_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,11 +332,113 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
+<td align="center">10/5/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8017D">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZVJD/transformeows">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Wendelstein faces its biggest crisis yet as an army of cats mounted on animals of<br>all types closes in.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Nyaight of the Living Cat (Portugese Dub) - Episode 12 - Meow Am Legend</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/47c9e944868fddb8d6987b0cf20c43081758416299_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/5/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34NP7/meow-am-legend">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Can Grandma's last resort save Wendelstein from certain doom at the hands (or paws) of<br>the cat army?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">One-Punch Man Season 3 - Episode 0 - Broadcast Commemorative Episode: a Serious Look Back at the Anime One-Punch Man Season 2</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e1516ad2d70886ed4e538d8388cb551e1759617094_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/5/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78ZVD/broadcast-commemorative-episode-a-serious-look-back-at-the-anime-one-punch-man-season-2">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">We review what's happened so far before the third season begins.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Gachiakuta (Thai Dub) - Episode 13</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fe6bbf3546a71bf4dc6cbcb0f8f95e631759613647_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/5/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K83P">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -352,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (Castilian Dub) - Episode 1</h3></th>
+<th><h3 align="center">Gachiakuta (Telugu Dub) - Episode 13</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/921d98c4354b83fb09ca01d1b9b9bb931759349767_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d5a4500960e8d587b1e606663f9098501759614438_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,11 +468,11 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
+<td align="center">10/5/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX84P">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUE3VP1">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -386,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (French Dub) - Episode 1</h3></th>
+<th><h3 align="center">Gachiakuta (Russian Dub) - Episode 11 - Amo's Hospitality</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9d3fac47cb5103baf7390a9a6f29f8741759350728_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e7caf3572b3684a59f24bfb56b290f631758416536_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,11 +502,45 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
+<td align="center">10/5/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KMV0">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ3KQ/amos-hospitality">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A mysterious woman living in the No Man's Land challenges the crew from an unexpected<br>angle.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Gachiakuta (Spanish Dub) - Episode 13</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8eecd2d10ef16080f690bdd27af255a91759611865_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/5/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQE97">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -420,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (German Dub) - Episode 1</h3></th>
+<th><h3 align="center">Gachiakuta (Portuguese Dub) - Episode 13</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9d3fac47cb5103baf7390a9a6f29f8741759349542_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8eecd2d10ef16080f690bdd27af255a91759611955_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,11 +570,11 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
+<td align="center">10/5/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN09G3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV2997">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -454,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (Portuguese Dub) - Episode 1</h3></th>
+<th><h3 align="center">Gachiakuta (French Dub) - Episode 13</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9d3fac47cb5103baf7390a9a6f29f8741759351388_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8eecd2d10ef16080f690bdd27af255a91759611938_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,11 +604,11 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
+<td align="center">10/5/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N51E">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQEE7">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -488,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (Spanish Dub) - Episode 1</h3></th>
+<th><h3 align="center">Gachiakuta (German Dub) - Episode 13</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/921d98c4354b83fb09ca01d1b9b9bb931759349648_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8eecd2d10ef16080f690bdd27af255a91759611921_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,11 +638,11 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
+<td align="center">10/5/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV9E0">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UV29Z7">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -522,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (English Dub) - Episode 1 - Peaceful World</h3></th>
+<th><h3 align="center">Gachiakuta (Italian Dub) - Episode 13</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9d3fac47cb5103baf7390a9a6f29f8741759350384_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8898bba72638034f287e58ee47300f2a1759614453_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,158 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
+<td align="center">10/5/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV73J/peaceful-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWQEN7">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fushi awakens in a world where peace reigns. What new and old encounters await him?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rascal Does Not Dream of Santa Claus (French Dub) - Episode 10 - Holy Night</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1632fa306112e8df81c5747f9a918a7b1757114183_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXJKP/holy-night">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sakuta sees a familiar Miniskirt Santa on a beauty pageant website that his friend Takumi<br>Fukuyama was looking at. However, he notices that her name isn’t listed as Touko Kirishima,<br>but rather as Nene Iwamizawa. 
-As he continues his search for Touko Kirishima, he receives<br>an offer of help from Sara, which he accepts. One of the symptoms of her<br>Puberty Syndrome includes knowing what a person she has collided with is thinking, and that’s<br>how she figured out that Sakuta was looking for Touko Kirishima. Sara suggests reading the<br>Miniskirt Santa’s mind at the venue where she’ll perform her new song live on Christmas<br>Eve.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rascal Does Not Dream of Santa Claus (English Dub) - Episode 11 - The World Dreams</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bce129c0997ddb033b1c13628d8397e91757719646_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80GND/the-world-dreams">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sakuta has a dream that Mai reveals herself as the true identity of Touko Kirishima<br>at a music festival held on April 1st. At the same time, several major social<br>media platforms were being flooded with posts containing the hashtag #DREAMING, leading to platform crashes<br>and access errors.
-
-As the hashtag #DREAMING causes chaos among the public, Tomoe Koga tells Sakuta<br>that she had a dream that Mai got into an accident, rendering her unconscious <br>during an event where she was collaborating with the police for a public safety awareness.
-
-Sakuta<br>remembers the message he received from himself in the other possible world, stating that Mai<br>is in danger. As he is riddled with worry, the Miniskirt Santa appears before him<br>once again.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Kingdom Season 6 - Episode 1 - Qin's Stumbling Block</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/44a06b6ad8020299313af746a9bd5f0d1759539262_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEXD9N/qins-stumbling-block">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Li Mu visits Zheng with a proposal--and a warning. The Fei Xin Force holds grueling<br>tryouts for new recruits.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Dress-Up Darling Season 2 (English Dub) - Episode 24 - Dear My Dress-Up Darling</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/20e9145d7d16afa3b60e0305f47fd4081758343523_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/4/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3PVP/dear-my-dress-up-darling">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Marin, Wakana, and the others finally have their "Coffin" group cosplay session.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
