@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Oct 24, 2025, 7:34:51 PM</em></p>
+<p align="center"><em>Updated on: Oct 25, 2025, 8:11:24 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,244 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 2 - Episode 34 - Olympic Champion Noah Lyles KNOWS There’s An Anime For Everyone</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/da7d5d63c72193753223593d950085c71761258893_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/24/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXM54/olympic-champion-noah-lyles-knows-theres-an-anime-for-everyone">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Olympic and World champion track and field star Noah Lyles joins us to reveal why<br>he loves repping his love for anime, his potential future cosplay plans, and to show<br>off his clothing collab with Crunchyroll and Adidas. PLUS, Noah plays “Anime This Or That.”</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Watari-kun's ****** Is about to Collapse (English Dub) - Episode 15 - What It Means to Love Someone</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/331cc24c7abf84d535a9fad5ddc1142b1759952892_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/24/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4850/what-it-means-to-love-someone">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Satsuki's emotions are a mess. Trying to get rid of the bad feelings, she tells<br>Naoto she loves him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Watari-kun's ****** Is about to Collapse - Episode 17 - Answers for Satsuki and Ishihara-san</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5ec98864420fbb590c148608dea81f8c1761258660_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/24/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80D8W/answers-for-satsuki-and-ishihara-san">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After a long time of soul searching, Naoto finally has an answer for both girls.<br>Who is he going to pick?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TOUGEN ANKI (English Dub) - Episode 15 - Found You</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3718c31fe331d6fdde5c640f4e7895991761255426_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/24/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV43VQ/found-you">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Shinya is looking for the academy students to carry out the plan he has in<br>mind.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TOUGEN ANKI (Spanish Dub) - Episode 15 - Found You</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3718c31fe331d6fdde5c640f4e7895991761255426_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/24/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV7DP/found-you">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Shinya is looking for the academy students to carry out the plan he has in<br>mind.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TOUGEN ANKI (Portuguese Dub) - Episode 15 - Found You</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3718c31fe331d6fdde5c640f4e7895991761255426_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/24/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QD3W/found-you">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Shinya is looking for the academy students to carry out the plan he has in<br>mind.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TOUGEN ANKI - Episode 15 - Found You</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3718c31fe331d6fdde5c640f4e7895991761255426_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/24/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGDG7/found-you">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Shinya is looking for the academy students to carry out the plan he has in<br>mind.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Dragon Raja II -The Mourner's Eyes- - Episode 17 - The Person Behind the Scenes</h3></th>
 </tr>
@@ -445,244 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">The Misfit Class finally gets to go to Walter Park on their vacation. Kalego, Balam,<br>and Opera go as their bodyguards and chaperones while Ameri thinks Iruma is asking her<br>on a date and also joins in. They split up into three teams and see<br>which team can have the most fun at the amusement park!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Welcome to Demon School! Iruma-kun Season 2 (German Dub) - Episode 14 - Everyone's Playmates</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e202bea75a8861aeaf23624a77a6fc201626521144_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/23/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2M17/everyones-playmates">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Walter Park is filled with so many fun things! All of the students do their<br>best to have the most fun so that their team can win their competition. Clara<br>and Opera's team has fun trying on cute clothes, and Jazz and Kalego's team tries<br>their hand at shooting games. Each team happens to meet members of the Walter Park<br>staff and continue to have fun. Iruma and Balam's team is joined by Ronove but<br>Iruma ends up having too much fun and getting lost and ends up going down<br>a shady looking alley!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Welcome to Demon School! Iruma-kun Season 2 (German Dub) - Episode 15 - Magical Beasts Attack</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8fb4d8efb43b4f33820eb432c8e664f11627119233_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/23/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDZJJ/magical-beasts-attack">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Walter Park staff that Iruma and his friends had encountered were actually the terrorist<br>group, the Six Fingers, who planned to destroy the park. The Six Fingers set three<br>giant magical beasts loose on the park. The whole park is filled with fear and<br>chaos. Jazz and the others on the Kalego team faces off with one of the<br>beasts for some hands-on training. Meanwhile, Kiriwo's plan to escape from the prison below the<br>park seems to be going smoothly.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Welcome to Demon School! Iruma-kun Season 2 (German Dub) - Episode 16 - The Name of This Feeling</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bda5762a7cfeea3038ca58d391a2dc561627720591_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/23/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3ZN3/the-name-of-this-feeling">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Three giant magical beasts appear in Walter Park. Iruma, Asmodeus, and the others band together<br>to face off with these creatures that ruined their fun day! Opera and Ameri fight<br>against the giant rat while Jazz and his group are having some trouble dealing with<br>the giant bull. He as well as other members in his group such as Lead<br>and Camui don't have abilities suited for fighting, but Jazz comes up with a plan<br>to turn things around!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Welcome to Demon School! Iruma-kun Season 2 (German Dub) - Episode 17 - The Ultimate Halberd</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/301aedd83760d1f85f5f5f1516974be51628325488_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/23/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEXZ3E/the-ultimate-halberd">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Balam team is trying to get to safety after saving some kids who weren't<br>able to escape on their own in time. But then Asmodeus and Sabnock decide to<br>fight the carmine dragon without telling anyone else. The two end up competing each other<br>and fight the beast with their familiars. While they're fighting, Asmodeus ends up putting himself<br>in great danger. What will come of the fight against Asmodeus, Sabnock, and the carmine<br>dragon?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Welcome to Demon School! Iruma-kun Season 2 (German Dub) - Episode 18 - My Desire</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f7c33256c55b9baf4655fbc06d64d6c21628931082_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/23/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80V21/my-desire">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The 3 giant magical beasts combine to form an even bigger magical beast. Ronove uses<br>his Charisma in order to draw the beasts attack into a different direction, but... As<br>soon as the magical beast lets out its attack, Iruma and Ali-san step right in<br>front of it! Everyone is panicked at Iruma's rather reckless move. How will this battle<br>end? Meanwhile, Kiriwo manages to escape from prison and it becomes clear as to which<br>demon assisted him.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Welcome to Demon School! Iruma-kun Season 2 (German Dub) - Episode 1 - The Secret Behind the Ring</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/03ae7e64d3452d48233abde68e3398311618650334_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/23/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV73P/the-secret-behind-the-ring">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Due to very bizarre circumstances, the human boy, Suzuki Iruma, ends up in the netherworld.<br>He is keeping the fact that he is human a secret and attends the Demon<br>School Babyls. Because he is human, he cannot use magic so he had been using<br>the Gluttonous Feeder Ring to get by in school. But then one day, the ring<br>started to speak! Why, though? Iruma then meets the incarnation of the ring who calls<br>themselves Alicred, AKA Ali-san.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Welcome to Demon School! Iruma-kun Season 2 (German Dub) - Episode 2 - Ameri's Decision</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/442f971100a75f660eb2c78e86e0200f1619254670_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/23/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVNZW/ameris-decision">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Magical Apparatus Battler is put on hiatus due to Kiriwo's absence. Ameri agrees to<br>let them reinstate the Battler, but first, the three members must experience other Battlers. Asmodeus<br>is sent to the New Magic Battler, Clara to the Game Battler, and Iruma joins<br>the student council. Iruma now has to face the grueling training and schedule of the<br>student council. Meanwhile, something sinister is after Ameri...</p>
 </td>
 </tr>
 </table>
