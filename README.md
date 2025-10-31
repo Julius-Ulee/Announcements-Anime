@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Oct 31, 2025, 8:14:53 AM</em></p>
+<p align="center"><em>Updated on: Oct 31, 2025, 7:33:35 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Love Live! Nijigasaki High School Idol Club The Movie – Finale – - Episode 1 - Love Live! Nijigasaki High School Idol Club The Movie – Finale – Chapter 1</h3></th>
+<th><h3 align="center">Dragon Raja II -The Mourner's Eyes- - Episode 18 - The Labyrinth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/26fa7132f97d74b447e93cd3759e5df11761718819_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9bc8ab2d6e64bd9a925b26631d4b72521761838093_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3QGV/love-live-nijigasaki-high-school-idol-club-the-movie-finale-chapter-1">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34K4M/the-labyrinth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ayumu, Kasumi, Shizuku, Kanata, Emma, and Lanzhu enter the School Idol GPX in Okinawa.</p>
+<p align="center">Lu Mingfei is attacked by the Wind Devil Queen and encounters the missing Execution Bureau<br>specialists.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Camping for Two (Portuguese Dub) - Episode 14 - Dreaming While Camping Out Alone</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 17 - Mutation Hazard</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9d850a3fe95a5282894317102891bc661759942185_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c60eaa59a9464cf03aab5bd4391db2ed1714394494_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/30/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0ZV2/dreaming-while-camping-out-alone">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQK9G/mutation-hazard">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gen meets a bicycle camper while enjoying some time outdoors.</p>
+<p align="center">Ilumgand was transformed into a monster. Jin and Abelia launch an attack to stop him.<br>However, their attacks have no effect, and they lose their fighting spirit and energy in<br>the face of an enemy stronger than ever.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Camping for Two (Spanish Dub) - Episode 14 - Dreaming While Camping Out Alone</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 18 - Fall of the Academy City</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9d850a3fe95a5282894317102891bc661759942185_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b60afd55589f631bf5133eb4e25ea5e81714995597_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/30/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV484J/dreaming-while-camping-out-alone">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4QD8/fall-of-the-academy-city">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gen meets a bicycle camper while enjoying some time outdoors.</p>
+<p align="center">Rotsgard's turmoil continues. Numerous mutants have appeared in the city and Jin and his friends<br>attempt to subjugate them. Meanwhile, Mio, who has been ordered by Makoto to protect the<br>shelter, detects a strange smell from Makoto during her mission.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Camping for Two - Episode 17 - You Don't Mind If I Take Him, Right?</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 19 - The Unruly Merchant</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7dee2619aa8634a51a49a35ceca3ec521761674923_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c752e074624fa4be0ab9390380fce3371715600642_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/30/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QNME/you-dont-mind-if-i-take-him-right">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2N3M/the-unruly-merchant">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While checking out a new campfire stand at a camping supply store, Gen runs into<br>Yui.</p>
+<p align="center">The mutant turmoil shows no signs of ending. At the evacuation center, people who've transformed<br>into new mutants have appeared, anxiety and fatigue have reached their peak. To change the<br>situation, Misumi's group joins the mutant subjugation force.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kakuriyo -Bed & Breakfast for Spirits- 2 (Thai Dub) - Episode 2 - I'll Make New Hot-Spring Buns.</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 20 - The Utterly Hateable Good-For-Nothing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/32b5700cb67822ca6b3f05466be219eb1759875668_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a9572fa1ad841f8c0801e9f0693c61be1716205854_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU789VW/ill-make-new-hot-spring-buns">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDXEW/the-utterly-hateable-good-for-nothing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Aoi develops her new hot-spring buns with help from everyone at Tenjin-ya.</p>
+<p align="center">Using the mutant disturbance as a decoy the demon army advances on the Kingdom of<br>Limia and the Empire of Gritonia. The hyuman army tries to intercept them, but are<br>quickly outnumbered and overpowered. The two great powers are on the verge of collapse.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kakuriyo -Bed & Breakfast for Spirits- 2 (Indonesian Dub) - Episode 2 - I'll Make New Hot-Spring Buns.</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 21 - The Heroes Fight Bravely</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/32b5700cb67822ca6b3f05466be219eb1759875668_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b9c6cb2974940e17b9c9d81d510de8c01716809603_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEXZME/ill-make-new-hot-spring-buns">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3VJ4/the-heroes-fight-bravely">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Aoi develops her new hot-spring buns with help from everyone at Tenjin-ya.</p>
+<p align="center">Tomoe, Mio, and the residents of the demiplane are ordered by Makoto to take back<br>Kaleneon, and enter enemy territory. Meanwhile, in the Gritonia Empire, Tomoki and his friends head<br>to the battlefield, where they encounter Sofia standing in their way.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kakuriyo -Bed & Breakfast for Spirits- 2 (English Dub) - Episode 3 - The Curtain Rises on New Turmoil.</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 22 - Fight On, Hero!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dd193a5033f9ec854ccc27848a7a60b51760484856_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/00f5d561ce155200fff9cdda3493be9b1717422503_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND53Q/the-curtain-rises-on-new-turmoil">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX92W/fight-on-hero">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tenjin-ya’s fall festival is a big success, and Aoi and the master innkeeper discuss their<br>relationship.</p>
+<p align="center">Makoto is shaken by the revelation that the hero he meets on the battlefield is<br>his high school senior, Hibiki Otonashi. Unable to dwell on it, Makoto enters a battle<br>with Io to whom he suggests the demons retreat, in order to avoid a pointless<br>battle.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Dragon Raja II -The Mourner's Eyes- (Japanese Audio) - Episode 4 - Servant of the King</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 23 - Rival Revenge Match</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0b072574c34f29c0e3fb813b6486bfe01753405596_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3443eb4d510e6ea9b163c2cdf232b1d41718005443_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N9KV/servant-of-the-king">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80NEQ/rival-revenge-match">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chu Zihang and Lu Mingfei identified the south station culprit with Nono's help and profiling<br>ability.</p>
+<p align="center">Sofia suddenly barges into the battle between Makoto and Io. Having longed for a rematch<br>with Makoto, Sofia launches a fierce attack on her nemesis as soon as she steps<br>onto the battlefield. Despite being outnumbered, Makoto appears unfazed.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 2 (French Dub) - Episode 43 - The Day Betelgeuse Laughed</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 24 - Sorcerer vs. Draconid</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/14ace619df1d4cddc7a6332eced79be91612337560_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d9282afba4167a87ea11f1eece5ffebe1718633528_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND724/the-day-betelgeuse-laughed">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXK1D/sorcerer-vs-draconid">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Despite a few inconveniences, like being unable to go outside when she wanted, young Emilia<br>lived a happy life in a settlement of elves with Fortuna, whom she lovingly called<br>"Mother." However, their peace was threatened by the arrival of the Sin Archbishop of the<br>Witch's Cult representing Greed, Regulus Corneas. In the present, Shima appears before Subaru and the<br>others as they wait outside the graveyard for Emilia to complete the trial, and she<br>tells them of the events leading up to the birth of the Sanctuary.</p>
+<p align="center">Outside Limia's royal castle, a fierce battle between Shiki and Mitsurugi unfolds. Meanwhile, inside the<br>castle, the battle between Makoto and Sofia continues. Sofia, at a loss, unleashes her secret<br>weapon.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 2 (French Dub) - Episode 44 - The Permafrost of Elior Forest</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 25 - Party Beneath the Moonlight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a58e17e8bb74c7a6b3512fbee60e36a11612931500_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bc48978a2b4d8cc7388a0b8359cbef8c1719241328_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG34MD/the-permafrost-of-elior-forest">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KN77/party-beneath-the-moonlight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Pandora, the Witch of Vanity, stands before Geuse and Fortuna. They both face her with<br>all the strength they have. Meanwhile, young Emilia runs toward the place where the seal<br>is, believing that everyone will be saved if she gives Pandora what she wants. But<br>when she arrives, Pandora is already there, insisting that she hand over the key to<br>opening the seal.</p>
+<p align="center">After the battle in Limia, Makoto returns to the demiplane where he is welcomed by<br>Tomoe, Mio and the residents of the demiplane. After a short celebration Makoto returns to<br>Rotsgard to wipe out the remaining mutants, ending the days-long turmoil.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 2 (French Dub) - Episode 45 - The Beginning of the Sanctuary and the Beginning of the End</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 20 - The Utterly Hateable Good-For-Nothing</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/beb467d0396f5ff2662ecb5c82b3312f1613546469_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a9572fa1ad841f8c0801e9f0693c61be1716205854_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX4QQ/the-beginning-of-the-sanctuary-and-the-beginning-of-the-end">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3V0K/the-utterly-hateable-good-for-nothing">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When Roswaal happily tells the story of how his romance with Echidna began 400 years<br>ago, Beatrice rebukes him for casually calling it a "romance." Ryuzu interrupts to comment that<br>Echidna saved her, as well. The one thing these three very different people share is<br>their gratitude toward Echidna. But their days spent in both amicable and argumentative conversation about<br>Echidna are brought to an end by one man's arrival.</p>
+<p align="center">Using the mutant disturbance as a decoy the demon army advances on the Kingdom of<br>Limia and the Empire of Gritonia. The hyuman army tries to intercept them, but are<br>quickly outnumbered and overpowered. The two great powers are on the verge of collapse.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 2 (French Dub) - Episode 46 - Reunion of Roars</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 21 - The Heroes Fight Bravely</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/de04555c272106e832ec00253c0b238c1614167696_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b9c6cb2974940e17b9c9d81d510de8c01716809603_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80ZW7/reunion-of-roars">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZK90/the-heroes-fight-bravely">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Subaru tries to prevent the attack on the mansion by talking to Roswaal, but Roswaal<br>refuses to let go of the wish he has clung to for 400 long years.<br>Subaru takes Garfiel and Otto along as he hitches up the carriage to Patrasche and<br>heads for the mansion as quickly as he can. Meanwhile, now that Emilia has completed<br>the first trial, Ram asks her for a favor. Touched by the strength of Ram's<br>feelings, Emilia reaches out to help her.</p>
+<p align="center">Tomoe, Mio, and the residents of the demiplane are ordered by Makoto to take back<br>Kaleneon, and enter enemy territory. Meanwhile, in the Gritonia Empire, Tomoki and his friends head<br>to the battlefield, where they encounter Sofia standing in their way.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 2 (French Dub) - Episode 47 - Happiness Reflected on the Water's Surface</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 22 - Fight On, Hero!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8119a3a0e27cd5a45810d1f04f176ce81614764444_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/00f5d561ce155200fff9cdda3493be9b1717422503_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX3WN/happiness-reflected-on-the-waters-surface">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78VXV/fight-on-hero">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Frederica is gradually backed into a corner by Elsa's attacks. Then Garfiel rushes to the<br>scene with a silver shield on each arm. The siblings' reunion after so many years<br>is cut short when Elsa's knife violently clashes against Garfiel's shield. Meanwhile, Subaru heads to<br>the forbidden library where Beatrice is. She's surprised when he enters the library and tells<br>her that, after she spent 400 years there under a contract that might as well<br>have been a curse, he's going to get her out.</p>
+<p align="center">Makoto is shaken by the revelation that the hero he meets on the battlefield is<br>his high school senior, Hibiki Otonashi. Unable to dwell on it, Makoto enters a battle<br>with Io to whom he suggests the demons retreat, in order to avoid a pointless<br>battle.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 2 (French Dub) - Episode 48 - Love Me Down to My Blood and Guts</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 23 - Rival Revenge Match</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a8cb4a831b6fdcb1f8ea5914ae8132501615364942_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3443eb4d510e6ea9b163c2cdf232b1d41718005443_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K5VN/love-me-down-to-my-blood-and-guts">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2W95/rival-revenge-match">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After witnessing an unrealized present, Emilia completes the second trial and begins the third and<br>final one. Ram and Puck are fighting their hardest to stop Roswaal. Each of them<br>is doing it all for the sake of realizing their own goals. The battle between<br>Garfiel and Elsa at Roswaal's mansion is also growing more and more intense. As Subaru<br>is being chased by a guiltylowe, he declares that it's time to make use of<br>his unparalleled knowledge of the modern world and lures it into a closet...</p>
+<p align="center">Sofia suddenly barges into the battle between Makoto and Io. Having longed for a rematch<br>with Makoto, Sofia launches a fierce attack on her nemesis as soon as she steps<br>onto the battlefield. Despite being outnumbered, Makoto appears unfazed.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 2 (French Dub) - Episode 49 - Choose Me</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 24 - Sorcerer vs. Draconid</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/39701e0b51f76d1c86da38f36c0b6f751615972895_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d9282afba4167a87ea11f1eece5ffebe1718633528_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN03G1/choose-me">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNGPX/sorcerer-vs-draconid">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After completing the final trial, Emilia emerges from the graveyard into a blizzard heavy enough<br>to block her vision. The people of the Sanctuary and the villagers of Arlam huddle<br>together behind a giant wall of ice, created to shield them from the bitter cold<br>by none other than the great spirit who was once contracted to Emilia. When Emilia<br>touches the ice wall, something flows into her from within it. With a nod of<br>acknowledgement to the voice she hears, she finally takes action.</p>
+<p align="center">Outside Limia's royal castle, a fierce battle between Shiki and Mitsurugi unfolds. Meanwhile, inside the<br>castle, the battle between Makoto and Sofia continues. Sofia, at a loss, unleashes her secret<br>weapon.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 2 (French Dub) - Episode 50 - Offbeat Steps Under the Moonlight</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 25 - Party Beneath the Moonlight</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bc827861323cc321babb22e359df15ae1616574662_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bc48978a2b4d8cc7388a0b8359cbef8c1719241328_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NW1P/offbeat-steps-under-the-moonlight">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZJMZ/party-beneath-the-moonlight">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The magic Roswaal is using to control the weather generates enough mana to attract the<br>Great Rabbit, which draws closer to the Sanctuary in a massive horde. Emilia takes Roswaal<br>and Ram to shelter in the graveyard with everyone else, but the Great Rabbit horde<br>has already grown enough to engulf their surroundings. Just when all hope seems lost, Subaru<br>and Beatrice appear before Emilia. So begins Subaru and Beatrice's first battle against the Great<br>Rabbit, one of the Three Great Mabeasts.</p>
+<p align="center">After the battle in Limia, Makoto returns to the demiplane where he is welcomed by<br>Tomoe, Mio and the residents of the demiplane. After a short celebration Makoto returns to<br>Rotsgard to wipe out the remaining mutants, ending the days-long turmoil.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 2 (French Dub) - Episode 39 - STRAIGHT BET</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 14 - I'm Not a Fan of High Society</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0a2f810b082d873f763144000645abf71609932173_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/138cce7ff5bd5a6efd265ab3a92afb5b1712579064_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q7JP/straight-bet">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34PE3/im-not-a-fan-of-high-society">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tragedy strikes the Sanctuary, and Elsa takes aim at both Roswaal's mansion and the village<br>of Arlam. After being told that all these threats are cruel traps, Subaru can't help<br>but give in to despair. While he's stuck questioning himself and unable to come up<br>with a way out of the dilemma closing in on him, Otto shows up and<br>punches him. Thanks to the many feelings packed in Otto's fist, Subaru finds his hope<br>again.</p>
+<p align="center">Makoto attends a luncheon on the second day of the festival and is approached by<br>Sairitsu, an official with the Laurel Commonwealth. She suspects Makoto may be from another world<br>because of the foreign characters on the Kuzunoha Trading Company's sign.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 2 (French Dub) - Episode 40 - Otto Suwen / A Reason to Believe</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 15 - A Fierce Tournament</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/07a5a53bc1258dbc33cecace337cee2f1610530289_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b050a627d0963ba17a1965fe96d845341713190822_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQX1J/otto-suwen-a-reason-to-believe">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9EZJ4/a-fierce-tournament">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Having been born with the "soul of language" divine protection that allows him to converse<br>with non-human creatures, Otto Suwen's life has truly had its ups and downs. After being<br>run out of his hometown because of his ability, he found his independence as a<br>merchant, was attacked by the Witch's Cult, met Subaru... and now, his life is literally<br>on the line in a deadly game of tag. To fulfill his part of the<br>plan, Otto must evade Garfiel's vicious attacks in a desperate effort to buy time.</p>
+<p align="center">Students take on the individual competition in the school festival's highlight event, the combat tournament.<br>Due to a nobleman plot, they are forced to face off against their peers. Jin<br>advances to the finals and faces off against Ilumgand Hopleys.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 2 (French Dub) - Episode 41 - Nobody Can Lift a Quain Stone Alone</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 16 - A Certain Student's Secret</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/450b773ad2d03306794412df903b00831611137281_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fe98193952eb7b77822e06b12416f2701713787899_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4E9D/nobody-can-lift-a-quain-stone-alone">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q1X8/a-certain-students-secret">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The missing Emilia was in the graveyard all along, her lost memories beginning to return<br>due to Puck's disappearance. Confused and losing heart over the realization that she's forgotten such<br>important memories, she tries her hardest to convey her feelings to Subaru. When the two<br>of them leave the graveyard, they're awaited by Garfiel, who's been battered and beaten by<br>Otto and Ram. He tries to prevent the Sanctuary's liberation by closing off the graveyard<br>himself, but Subaru won't let him have his way without a fight.</p>
+<p align="center">Due to the incident with Zara, Makoto decides to join the demons, and after witnessing<br>the fighting tournament, he decides to leave Rotsgard. The next day, Jin and his friends<br>advance to the finals of the team competition and face a team led by Ilumgand.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 2 (French Dub) - Episode 42 - A Journey Through Memories</h3></th>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Hindi Dub) - Episode 23 - Rival Revenge Match</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9079acbd3a549ed03a3cda5c9f4ccbc41611725659_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3443eb4d510e6ea9b163c2cdf232b1d41718005443_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">10/29/2025</td>
+<td align="center">10/31/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2X9Z/a-journey-through-memories">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNG10/rival-revenge-match">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As she attempts the first trial, Emilia finds herself in Elior Forest, where she lived<br>when she was younger. Echidna snidely remarks on her audacity to set foot here after<br>so thoroughly disgracing herself before, but Emilia responds with a bold smile and tells her<br>she won't cave to the malice of a fellow witch. As they proceed deeper into<br>the forest, they come upon a massive tree towering over its surroundings. At its base<br>is a small, barred door, which Emilia identifies as the Princess Room where she was<br>often sent to play as a child.</p>
+<p align="center">Sofia suddenly barges into the battle between Makoto and Io. Having longed for a rematch<br>with Makoto, Sofia launches a fierce attack on her nemesis as soon as she steps<br>onto the battlefield. Despite being outnumbered, Makoto appears unfazed.</p>
 </td>
 </tr>
 </table>
