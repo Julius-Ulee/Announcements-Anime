@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Oct 31, 2025, 7:33:35 PM</em></p>
+<p align="center"><em>Updated on: Nov 1, 2025, 8:18:57 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,244 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 2 - Episode 35 - Spooky Anime for the Fall 2025 Season Plus a SPECIAL Yu Yu Hakusho Guest!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/764f56a4396065ee30f80af82117b72f1761876890_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/31/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KW39/spooky-anime-for-the-fall-2025-season-plus-a-special-yu-yu-hakusho-guest">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Yu Yu Hakusho’s Justin Cook joins us to open some Union Arena packs and talk<br>about what it was like to work on the iconic anime. Plus, the hosts share<br>the Fall 2025 shows they’re the most excited about.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Watari-kun's ****** Is about to Collapse (English Dub) - Episode 16 - A Contract for Sex</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/487f09f251901003e65f73409608bb2b1760635787_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/31/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ24K3/a-contract-for-sex">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Ishihara-san broke up with Naoto?! And now Satsuki is offering to have sex with Naoto?!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Watari-kun's ****** Is about to Collapse - Episode 18 - What They're Searching For</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f27934f45773066551a8d29c493385cd1761836738_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/31/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXMV4/what-theyre-searching-for">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Naoto goes back to his old home to get the laptop, but can't find it.<br>Instead he meets a woman named Rika.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TOUGEN ANKI (English Dub) - Episode 16 - Not So Bad</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8dd3f1d812d0d284ac819f69779505341761754872_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/31/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2MQ7/not-so-bad">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A kidnapping, a hostage, and a secret plan intertwine in an attempt to find Shiki's<br>whereabouts.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TOUGEN ANKI (Spanish Dub) - Episode 16 - Not So Bad</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8dd3f1d812d0d284ac819f69779505341761754872_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/31/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVNEW/not-so-bad">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A kidnapping, a hostage, and a secret plan intertwine in an attempt to find Shiki's<br>whereabouts.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TOUGEN ANKI (Portuguese Dub) - Episode 16 - Not So Bad</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8dd3f1d812d0d284ac819f69779505341761754872_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/31/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ3W5/not-so-bad">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A kidnapping, a hostage, and a secret plan intertwine in an attempt to find Shiki's<br>whereabouts.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TOUGEN ANKI - Episode 16 - Not So Bad</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8dd3f1d812d0d284ac819f69779505341761754872_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">10/31/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ2Z7/not-so-bad">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">A kidnapping, a hostage, and a secret plan intertwine in an attempt to find Shiki's<br>whereabouts.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Dragon Raja II -The Mourner's Eyes- - Episode 18 - The Labyrinth</h3></th>
 </tr>
@@ -445,244 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Makoto is shaken by the revelation that the hero he meets on the battlefield is<br>his high school senior, Hibiki Otonashi. Unable to dwell on it, Makoto enters a battle<br>with Io to whom he suggests the demons retreat, in order to avoid a pointless<br>battle.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 23 - Rival Revenge Match</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3443eb4d510e6ea9b163c2cdf232b1d41718005443_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/31/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2W95/rival-revenge-match">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sofia suddenly barges into the battle between Makoto and Io. Having longed for a rematch<br>with Makoto, Sofia launches a fierce attack on her nemesis as soon as she steps<br>onto the battlefield. Despite being outnumbered, Makoto appears unfazed.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 24 - Sorcerer vs. Draconid</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d9282afba4167a87ea11f1eece5ffebe1718633528_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/31/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNGPX/sorcerer-vs-draconid">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Outside Limia's royal castle, a fierce battle between Shiki and Mitsurugi unfolds. Meanwhile, inside the<br>castle, the battle between Makoto and Sofia continues. Sofia, at a loss, unleashes her secret<br>weapon.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Tamil Dub) - Episode 25 - Party Beneath the Moonlight</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bc48978a2b4d8cc7388a0b8359cbef8c1719241328_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/31/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZJMZ/party-beneath-the-moonlight">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After the battle in Limia, Makoto returns to the demiplane where he is welcomed by<br>Tomoe, Mio and the residents of the demiplane. After a short celebration Makoto returns to<br>Rotsgard to wipe out the remaining mutants, ending the days-long turmoil.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 14 - I'm Not a Fan of High Society</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/138cce7ff5bd5a6efd265ab3a92afb5b1712579064_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/31/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34PE3/im-not-a-fan-of-high-society">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Makoto attends a luncheon on the second day of the festival and is approached by<br>Sairitsu, an official with the Laurel Commonwealth. She suspects Makoto may be from another world<br>because of the foreign characters on the Kuzunoha Trading Company's sign.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 15 - A Fierce Tournament</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b050a627d0963ba17a1965fe96d845341713190822_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/31/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9EZJ4/a-fierce-tournament">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Students take on the individual competition in the school festival's highlight event, the combat tournament.<br>Due to a nobleman plot, they are forced to face off against their peers. Jin<br>advances to the finals and faces off against Ilumgand Hopleys.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Telugu Dub) - Episode 16 - A Certain Student's Secret</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fe98193952eb7b77822e06b12416f2701713787899_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/31/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q1X8/a-certain-students-secret">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Due to the incident with Zara, Makoto decides to join the demons, and after witnessing<br>the fighting tournament, he decides to leave Rotsgard. The next day, Jin and his friends<br>advance to the finals of the team competition and face a team led by Ilumgand.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Hindi Dub) - Episode 23 - Rival Revenge Match</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3443eb4d510e6ea9b163c2cdf232b1d41718005443_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">10/31/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNG10/rival-revenge-match">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sofia suddenly barges into the battle between Makoto and Io. Having longed for a rematch<br>with Makoto, Sofia launches a fierce attack on her nemesis as soon as she steps<br>onto the battlefield. Despite being outnumbered, Makoto appears unfazed.</p>
 </td>
 </tr>
 </table>
