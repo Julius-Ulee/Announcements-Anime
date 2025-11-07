@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 7, 2025, 8:15:40 AM</em></p>
+<p align="center"><em>Updated on: Nov 7, 2025, 7:32:55 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Solo Camping for Two (Portuguese Dub) - Episode 15 - Camping Like Ships Passing in the Night</h3></th>
+<th><h3 align="center">Rivals of the Great Detective (English Dub) - Episode 8 - The Diplomat Murder Case (Part 2)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1481f0ee5949586fd2b843c1d693ab341760569252_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3013e0876fafb2206e0f770ce85d49231762485486_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/6/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N9P2/camping-like-ships-passing-in-the-night">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN08EZ/the-diplomat-murder-case-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akihito and Gen reconnect and reaffirm their friendship over their shared interest in camping.</p>
+<p align="center">Shinichi unravels a complex murder, exposing a killer's cunning trick and a shocking family secret.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Camping for Two (Spanish Dub) - Episode 15 - Camping Like Ships Passing in the Night</h3></th>
+<th><h3 align="center">Rivals of the Great Detective (English Dub) - Episode 9 - The Holmes Freak Murder Case (Part 1)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1481f0ee5949586fd2b843c1d693ab341760569252_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bd50933101880fe94cdd019b984d67761762485845_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/6/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2421/camping-like-ships-passing-in-the-night">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N4ZD/the-holmes-freak-murder-case-part-1">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akihito and Gen reconnect and reaffirm their friendship over their shared interest in camping.</p>
+<p align="center">Trapped in a lodge, Sherlock Holmes fans face a mysterious death, with one suspected as<br>the killer.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Solo Camping for Two - Episode 18 - Solo Camping For Three</h3></th>
+<th><h3 align="center">Rivals of the Great Detective (English Dub) - Episode 10 - The Holmes Freak Murder Case (Part 2)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dfdd1955e1723b27616be2070687411f1762371265_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4b119fb54b8508167fc247b93da5ba161762485682_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/6/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQP7K/solo-camping-for-three">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV0ZP/the-holmes-freak-murder-case-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yui returns from her bike ride to an awkward and strained atmosphere at the campsite.</p>
+<p align="center">Conan uses wit and cunning to unmask the Holmes-obsessed killer in a thrilling deduction showdown.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Telugu Dub) - Episode 9 - Everyone's Night</h3></th>
+<th><h3 align="center">Rivals of the Great Detective (English Dub) - Episode 11 - Conan vs. Kid the Phantom Thief</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ce506892c5cd562fb3df7ffe596542b01583516777_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c62d7ddb6a0230c83c64cb47e19e08dd1762487045_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQZNK/everyones-night">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVP5W/conan-vs-kid-the-phantom-thief">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The new year has come and the members Karasuno High School Volleyball team were nervous.<br>The long-awaited battle on the orange court, the Spring Tournament, was finally here!</p>
+<p align="center">Conan deciphers the Kaitou Kid's coded letter, but the Kid outsmarts everyone, sparking a thrilling<br>chase.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Telugu Dub) - Episode 10 - Battle Lines</h3></th>
+<th><h3 align="center">Rivals of the Great Detective (English Dub) - Episode 4 - The Case of the Threatening Monthly Presents</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/adcb79ec021aceb19588f3ca6cefdddd1584120248_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2a44a0a7045558988d63d7466384dc3f1762484708_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV42NJ/battle-lines">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX8KE/the-case-of-the-threatening-monthly-presents">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Spring Tournament had finally begun. But as soon as the first match was about<br>to begin, Hinata realizes his shoes are gone. The team panics at the unexpected incident,<br>but their manager, Shimizu...</p>
+<p align="center">Mysterious monthly gifts turn sinister as Conan unravels a deadly plan targeting a surgeon's son.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Telugu Dub) - Episode 11 - A Chance to Connect</h3></th>
+<th><h3 align="center">Rivals of the Great Detective (English Dub) - Episode 5 - The Blackmailed Pro Soccer Player Case</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ff5f7336b29c7c501138613901b2c7021584721296_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6a8edece1835df1fd332a35fb05f60161762484169_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ28Z1/a-chance-to-connect">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80QK1/the-blackmailed-pro-soccer-player-case">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the first match at the Spring Tournament, Karasuno faces off against Tsubakihara Academy. At<br>first, Kageyama isn’t able to get used to the new venue, but once he got<br>the hang of things, he and Hinata do their quick attack and the crowd is<br>in awe. Karasuno takes the lead in the match, but Tsubakihara has a rather unique<br>secret weapon.</p>
+<p align="center">A soccer player faces a dilemma when his brother is kidnapped, forcing him to throw<br>the game.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Telugu Dub) - Episode 12 - Vivid</h3></th>
+<th><h3 align="center">Rivals of the Great Detective (English Dub) - Episode 6 - The Conan Edogawa Abduction Case</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d596486d900ee8aa70c8e8ac08066de31585301310_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5732335b08fb4be172c5ed03cf28d3e41762484586_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDGQD/vivid">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX0GJ/the-conan-edogawa-abduction-case">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Karasuno manages to make it to the second round after their victory against Tsubakihara Academy.<br>Meanwhile, Hinata runs into Hoshiumi Korai, one of the players from Kamomedai High School who<br>went to the All Japan youth camp that Kageyama went to. Hinata witnesses the plays<br>of Hoshiumi, who’s considered the next Little Giant, and...</p>
+<p align="center">Conan uncovers a trap set by his parents to protect him, but refuses to abandon<br>his detective work.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Telugu Dub) - Episode 13 - The Second Day</h3></th>
+<th><h3 align="center">Rivals of the Great Detective (English Dub) - Episode 7 - The Diplomat Murder Case (Part 1)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6de20b02eae283b0f324eef6e96503f61585935185_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a1b23cfb309812b11889eee7707e342f1762485498_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3Q1G/the-second-day">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K1P3/the-diplomat-murder-case-part-1">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The second day of the Spring Tournament. Karasuno faces the team that placed second at<br>the Inter-High and one of the favorites to win the Spring Tournament, Inarizaki High School.<br>The team also has the best twins in high school volleyball, the Miya twins. Karasuno’s<br>battle against one of the best is about to begin!</p>
+<p align="center">A diplomat is found dead in a locked room, and detectives rush to solve the<br>impossible crime.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Telugu Dub) - Episode 1 - Introductions</h3></th>
+<th><h3 align="center">Rivals of the Great Detective - Episode 10 - The Holmes Freak Murder Case (Part 2)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7ef410c2fcac15bcd97d4a88dcf536d71578683468_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4b119fb54b8508167fc247b93da5ba161762487157_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZWP9/introductions">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQE95/the-holmes-freak-murder-case-part-2">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the Karasuno High School Volleyball Team is trying to get ready for nationals, they<br>receive word that Kageyama has been invited to the All-Japan Youth Training Camp. On top<br>of that, Tsukishima had been invited to the Miyagi Prefecture Rookie Select Training Camp. Despite<br>not being invited to the Miyagi Prefecture Rookie Select Training Camp, Hinata decides to show<br>up anyway?!</p>
+<p align="center">Conan uses wit and cunning to unmask the Holmes-obsessed killer in a thrilling deduction showdown.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Telugu Dub) - Episode 2 - Lost</h3></th>
+<th><h3 align="center">Rivals of the Great Detective - Episode 11 - Conan vs. Kid the Phantom Thief</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/01fcc0a06b8c24c2a86711a005c5fa491579273338_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c62d7ddb6a0230c83c64cb47e19e08dd1762487061_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78GXX/lost">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4WNQ/conan-vs-kid-the-phantom-thief">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Just one more month until the Spring Tournament. Hinata crashed the Miyagi Prefecture Rookie Select<br>Training Camp and got to stay as one of their ball boys. While the boys<br>are doing a practice match, the third-year players from Shiratorizawa show up.</p>
+<p align="center">Conan deciphers the Kaitou Kid's coded letter, but the Kid outsmarts everyone, sparking a thrilling<br>chase.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Telugu Dub) - Episode 3 - Perspective</h3></th>
+<th><h3 align="center">Rivals of the Great Detective (English Dub) - Episode 1 - A Murder Behind the Locked Doors of an Idol's Apartment</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/150700d2b6a7ce693d837aea08682fa61579867576_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e2ba3a3ead7b626d0d359afb9da746431762485611_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2098/perspective">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ25Z7/a-murder-behind-the-locked-doors-of-an-idols-apartment">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Hinata, Kageyama, and Tsukishima are gone, the Karasuno High School Volleyball Team do practice<br>matches with Tokonami High School. Meanwhile, as the other boys are doing a practice match<br>with the Shiratorizawa third-years, Hinata watches them play and begins to realize that all he’d<br>ever concentrated on is chasing after the ball...</p>
+<p align="center">Another teen detective seeks Shinichi, while Kogoro’s hired to check a client’s son’s mysterious girlfriend.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Telugu Dub) - Episode 4 - Take It Easy</h3></th>
+<th><h3 align="center">Rivals of the Great Detective (English Dub) - Episode 2 - The Case of the Coded City Map</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fa218f45a79eb699a33db634cf99de391580509091_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3633576c05d78851029b83f28f7c62421762486208_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN4P8/take-it-easy">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDPQJ/the-case-of-the-coded-city-map">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Miyagi Prefecture Rookie Select Training Camp is reaching its final days. Hyakuzawa from Kakuzawa<br>Academy has very little experience playing volleyball and is having a hard time keeping up<br>in practice. Then Hinata tells him something. Meanwhile, Kageyama is at the All-Japan Youth Training<br>Camp playing with various other amazing players from all across Japan and...</p>
+<p align="center">Conan and friends follow a mysterious map, leading to a thrilling treasure hunt and an<br>unexpected face-off.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Telugu Dub) - Episode 5 - Hunger</h3></th>
+<th><h3 align="center">Rivals of the Great Detective (English Dub) - Episode 3 - The Case of the Bullet Train Explosion</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/afbfd905b41682aecf14e32b3b9619c11581085829_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/011a511384b4ffe7dab598da70d033f41762485368_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZKMN/hunger">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3513/the-case-of-the-bullet-train-explosion">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The training camp does another practice match with the 3rd year OB players from Shiratorizawa.<br>Meanwhile, Kageyama and the others at the All-Japan youth camp were doing a practice match<br>with everyone playing different positions. Both training camps were about to come to an end...</p>
+<p align="center">Conan rushes to find a bomb on a bullet train, but can he convince others<br>before it's too late?</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Telugu Dub) - Episode 6 - Enhancements</h3></th>
+<th><h3 align="center">Rivals of the Great Detective - Episode 1 - A Murder Behind the Locked Doors of an Idol's Apartment</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/07aa52ff2f9a2cf7d42f04d4344c57c01581702429_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e2ba3a3ead7b626d0d359afb9da746431762489227_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU340EM/enhancements">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGPJ7/a-murder-behind-the-locked-doors-of-an-idols-apartment">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hinata, Kageyama, and Tsukishima all come back from their training camps, and Karasuno had lined<br>up a training match against Date Tech, the school with the strongest blockers in the<br>prefecture. But after coming back from the training camp, Kageyama seems to be acting a<br>bit strange...</p>
+<p align="center">A celebrity's apartment becomes a locked-room mystery as Conan unravels a tragic secret behind a<br>murder.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Telugu Dub) - Episode 7 - Return</h3></th>
+<th><h3 align="center">Rivals of the Great Detective - Episode 2 - The Case of the Coded City Map</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/555af30c2bff1171edf5ba812bc5f2a01582288410_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3633576c05d78851029b83f28f7c62421762489040_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E7JM/return">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ7P7/the-case-of-the-coded-city-map">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Karasuno holds their practice match against Date Tech. Karasuno has a hard time dealing with<br>the best blockers in the prefecture. Kageyama gets frustrated and ends up yelling at the<br>spikers who aren’t able to get hits in. Seeing that, Hinata...</p>
+<p align="center">Conan and friends follow a mysterious map, leading to a thrilling treasure hunt and an<br>unexpected face-off.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Telugu Dub) - Episode 8 - Challenger</h3></th>
+<th><h3 align="center">Rivals of the Great Detective - Episode 3 - The Case of the Bullet Train Explosion</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0df1a88972950b47673f8b3a694181741582914908_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/011a511384b4ffe7dab598da70d033f41762489150_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q9XE/challenger">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU785XW/the-case-of-the-bullet-train-explosion">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The practice match against Date Tech before the Spring Tournament is about to come to<br>an end. Each member of Karasuno tries to better themselves personally. Will they be able<br>to acquire a new weapon and evolve as a team?</p>
+<p align="center">Conan rushes to find a bomb on a bullet train, but can he convince others<br>before it's too late?</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Tamil Dub) - Episode 5 - Hunger</h3></th>
+<th><h3 align="center">Rivals of the Great Detective - Episode 4 - The Case of the Threatening Monthly Presents</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/afbfd905b41682aecf14e32b3b9619c11581085829_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2a44a0a7045558988d63d7466384dc3f1762487264_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEXW20/hunger">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2399/the-case-of-the-threatening-monthly-presents">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The training camp does another practice match with the 3rd year OB players from Shiratorizawa.<br>Meanwhile, Kageyama and the others at the All-Japan youth camp were doing a practice match<br>with everyone playing different positions. Both training camps were about to come to an end...</p>
+<p align="center">Mysterious monthly gifts turn sinister as Conan unravels a deadly plan targeting a surgeon's son.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Tamil Dub) - Episode 6 - Enhancements</h3></th>
+<th><h3 align="center">Rivals of the Great Detective - Episode 5 - The Blackmailed Pro Soccer Player Case</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/07aa52ff2f9a2cf7d42f04d4344c57c01581702429_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6a8edece1835df1fd332a35fb05f60161762488964_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80JEG/enhancements">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN5P7/the-blackmailed-pro-soccer-player-case">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hinata, Kageyama, and Tsukishima all come back from their training camps, and Karasuno had lined<br>up a training match against Date Tech, the school with the strongest blockers in the<br>prefecture. But after coming back from the training camp, Kageyama seems to be acting a<br>bit strange...</p>
+<p align="center">A soccer player faces a dilemma when his brother is kidnapped, forcing him to throw<br>the game.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Tamil Dub) - Episode 7 - Return</h3></th>
+<th><h3 align="center">Rivals of the Great Detective - Episode 6 - The Conan Edogawa Abduction Case</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/555af30c2bff1171edf5ba812bc5f2a01582288410_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5732335b08fb4be172c5ed03cf28d3e41762489339_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXQ15/return">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ4ME/the-conan-edogawa-abduction-case">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Karasuno holds their practice match against Date Tech. Karasuno has a hard time dealing with<br>the best blockers in the prefecture. Kageyama gets frustrated and ends up yelling at the<br>spikers who aren’t able to get hits in. Seeing that, Hinata...</p>
+<p align="center">Conan uncovers a trap set by his parents to protect him, but refuses to abandon<br>his detective work.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (Tamil Dub) - Episode 8 - Challenger</h3></th>
+<th><h3 align="center">Rivals of the Great Detective - Episode 7 - The Diplomat Murder Case (Part 1)</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/0df1a88972950b47673f8b3a694181741582914908_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a1b23cfb309812b11889eee7707e342f1762487375_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/5/2025</td>
+<td align="center">11/7/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KE7W/challenger">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34XEJ/the-diplomat-murder-case-part-1">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The practice match against Date Tech before the Spring Tournament is about to come to<br>an end. Each member of Karasuno tries to better themselves personally. Will they be able<br>to acquire a new weapon and evolve as a team?</p>
+<p align="center">A diplomat is found dead in a locked room, and detectives rush to solve the<br>impossible crime.</p>
 </td>
 </tr>
 </table>
