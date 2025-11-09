@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 9, 2025, 8:19:15 AM</em></p>
+<p align="center"><em>Updated on: Nov 9, 2025, 7:29:32 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -11,6 +11,40 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">You and Idol Precure ♪ - Episode 39 - Founder: Mawaru Sunda</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3479e0dc19e1d3262974d85fc7198e7b1762649420_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">11/9/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80D9X/founder-mawaru-sunda">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Kokoro spots the captain of the school Dance Club, Sunda, practicing furiously. When Kokoro, Uta,<br>and the others hear that he wants to win the Dancing Star Cup, they help<br>him practice.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Tales of Wedding Rings Season 2 (Spanish Dub) - Episode 3 - Episode 3</h3></th>
 </tr>
@@ -153,7 +187,7 @@
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2fedf337df9ef3222269b25b962ecb3e1761329281_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a387f8b5729dc89a2bc6280db1d8bf8a1762537327_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -182,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (Spanish Dub) - Episode 6</h3></th>
+<th><h3 align="center">To Your Eternity Season 3 (Spanish Dub) - Episode 6 - Proof of Peace</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2fedf337df9ef3222269b25b962ecb3e1762299244_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a387f8b5729dc89a2bc6280db1d8bf8a1762537327_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -200,13 +234,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX57Q">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX57Q/proof-of-peace">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Fushi struggles to maintain the peace between Tonari and Mizuha.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (Portuguese Dub) - Episode 6</h3></th>
+<th><h3 align="center">To Your Eternity Season 3 (Portuguese Dub) - Episode 6 - Proof of Peace</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2fedf337df9ef3222269b25b962ecb3e1762373185_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a387f8b5729dc89a2bc6280db1d8bf8a1762537327_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -234,13 +268,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0M3W">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0M3W/proof-of-peace">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Fushi struggles to maintain the peace between Tonari and Mizuha.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (French Dub) - Episode 6</h3></th>
+<th><h3 align="center">To Your Eternity Season 3 (French Dub) - Episode 6 - Proof of Peace</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2fedf337df9ef3222269b25b962ecb3e1762336804_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a387f8b5729dc89a2bc6280db1d8bf8a1762537327_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -268,13 +302,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV1P4">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV1P4/proof-of-peace">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Fushi struggles to maintain the peace between Tonari and Mizuha.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (German Dub) - Episode 6</h3></th>
+<th><h3 align="center">To Your Eternity Season 3 (German Dub) - Episode 6 - Proof of Peace</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2fedf337df9ef3222269b25b962ecb3e1762173847_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a387f8b5729dc89a2bc6280db1d8bf8a1762537327_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -302,13 +336,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NK8Q">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NK8Q/proof-of-peace">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Fushi struggles to maintain the peace between Tonari and Mizuha.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (Italian Dub) - Episode 6</h3></th>
+<th><h3 align="center">To Your Eternity Season 3 (Italian Dub) - Episode 6 - Proof of Peace</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2fedf337df9ef3222269b25b962ecb3e1762353545_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a387f8b5729dc89a2bc6280db1d8bf8a1762537327_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -336,13 +370,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K378">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K378/proof-of-peace">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Fushi struggles to maintain the peace between Tonari and Mizuha.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (Castilian Dub) - Episode 6</h3></th>
+<th><h3 align="center">To Your Eternity Season 3 (Castilian Dub) - Episode 6 - Proof of Peace</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/2fedf337df9ef3222269b25b962ecb3e1762353485_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a387f8b5729dc89a2bc6280db1d8bf8a1762537327_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -370,13 +404,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU803K2">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU803K2/proof-of-peace">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">Fushi struggles to maintain the peace between Tonari and Mizuha.</p>
 </td>
 </tr>
 </table>
@@ -649,40 +683,6 @@
 <tr>
 <td colspan="2">
 <p align="center">WISE agents protect an opera singer and Henderson gives Anya tips on becoming an Imperial<br>Scholar.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (Spanish Dub) - Episode 160 - Toshinori Yagi: Rising/Origin</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/22fbca4b49967f607acf6a2c967e5ed71759519225_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80J7W/toshinori-yagi-risingorigin">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The fierce battle continues between Armored All Might and All For One. Can All Might<br>possibly win?</p>
 </td>
 </tr>
 </table>
