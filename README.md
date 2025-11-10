@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 9, 2025, 7:29:32 PM</em></p>
+<p align="center"><em>Updated on: Nov 10, 2025, 8:18:58 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">You and Idol Precure ♪ - Episode 39 - Founder: Mawaru Sunda</h3></th>
+<th><h3 align="center">Gachiakuta (Indonesian Dub) - Episode 6 - One Good Strike!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3479e0dc19e1d3262974d85fc7198e7b1762649420_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3dcded027450b2b1448f13701e35d7f61755443623_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -30,13 +30,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80D9X/founder-mawaru-sunda">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGP95/one-good-strike">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kokoro spots the captain of the school Dance Club, Sunda, practicing furiously. When Kokoro, Uta,<br>and the others hear that he wants to win the Dancing Star Cup, they help<br>him practice.</p>
+<p align="center">With the job having gone terribly wrong, Rudo finds himself face to face with a<br>merciless Raider named Jabber.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings Season 2 (Spanish Dub) - Episode 3 - Episode 3</h3></th>
+<th><h3 align="center">Gachiakuta (Indonesian Dub) - Episode 7 - A Score to Settle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b0117b038adc8de162dce48f33cb0fd51760715841_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/23b0df11100fb97461786957a5e3eaee1755921855_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4KPP/episode-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ7WK/a-score-to-settle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Each Princess gets a few minutes alone in a bedroom with Satou to deepen their<br>bonds.</p>
+<p align="center">Jabber employs a new strategy to get through Rudo's defenses, and another ally joins the<br>fray.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings Season 2 (German Dub) - Episode 3 - Episode 3</h3></th>
+<th><h3 align="center">Gachiakuta (Indonesian Dub) - Episode 8 - Moving Forward</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b0117b038adc8de162dce48f33cb0fd51760715841_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/af309d65f6da57b817ea01471209894f1756599203_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ8DP/episode-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU785GM/moving-forward">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Each Princess gets a few minutes alone in a bedroom with Satou to deepen their<br>bonds.</p>
+<p align="center">Rudo deals with the emotional aftermath of the Jabber fight and gets a new lead<br>about returning to the Sphere.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings Season 2 (Portuguese Dub) - Episode 3 - Episode 3</h3></th>
+<th><h3 align="center">Gachiakuta (Indonesian Dub) - Episode 9 - The City of Graffiti</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b0117b038adc8de162dce48f33cb0fd51760715841_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b069a42ddf5a58ea6494c18c849deea31757195318_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ8Z3/episode-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX230V/the-city-of-graffiti">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Each Princess gets a few minutes alone in a bedroom with Satou to deepen their<br>bonds.</p>
+<p align="center">To get a "spell" for their next mission, the Cleaners head to Canvas Town, where<br>they make a tragic discovery.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tales of Wedding Rings Season 2 (English Dub) - Episode 4 - Episode 4</h3></th>
+<th><h3 align="center">Gachiakuta (Indonesian Dub) - Episode 10 - Penta: The Desert No Man's Land</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b60a96646c9b1ae11a6718b7d32a64481761318719_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/14390060b4035aa027ace83e0e49a85d1757805991_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80307/episode-4">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN54N/penta-the-desert-no-mans-land">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Everyone has adapted too well to living in the Library, but when a monster attacks,<br>Granart awakens her magic.</p>
+<p align="center">With their gear-up complete, the crew heads into the No Man's Land, Penta, to get<br>clues about the Sphere.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (English Dub) - Episode 6 - Proof of Peace</h3></th>
+<th><h3 align="center">Gachiakuta (Indonesian Dub) - Episode 11 - Amo's Hospitality</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a387f8b5729dc89a2bc6280db1d8bf8a1762537327_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e7caf3572b3684a59f24bfb56b290f631758416536_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0M2W/proof-of-peace">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ4KW/amos-hospitality">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fushi struggles to maintain the peace between Tonari and Mizuha.</p>
+<p align="center">A mysterious woman living in the No Man's Land challenges the crew from an unexpected<br>angle.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (Spanish Dub) - Episode 6 - Proof of Peace</h3></th>
+<th><h3 align="center">Gachiakuta (Indonesian Dub) - Episode 12 - Something Like a Curse</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a387f8b5729dc89a2bc6280db1d8bf8a1762537327_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f171907c7c3e0d7446ed3f29e460949a1758998536_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX57Q/proof-of-peace">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34X08/something-like-a-curse">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fushi struggles to maintain the peace between Tonari and Mizuha.</p>
+<p align="center">Tamsy and Zanka fight to save their captive allies. In the aftermath, Rudo has an<br>unexpected reaction.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (Portuguese Dub) - Episode 6 - Proof of Peace</h3></th>
+<th><h3 align="center">Gachiakuta (Indonesian Dub) - Episode 13 - An Empty Gaze</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a387f8b5729dc89a2bc6280db1d8bf8a1762537327_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8eecd2d10ef16080f690bdd27af255a91759614559_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0M3W/proof-of-peace">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E17V/an-empty-gaze">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fushi struggles to maintain the peace between Tonari and Mizuha.</p>
+<p align="center">Amo tells the story of how she came to the tower and of the "angels"<br>who came to visit her.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (French Dub) - Episode 6 - Proof of Peace</h3></th>
+<th><h3 align="center">Gachiakuta (Telugu Dub) - Episode 15 - Clash!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a387f8b5729dc89a2bc6280db1d8bf8a1762537327_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/191ac1c95631aebbb9eb0d339c53a7841760811194_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV1P4/proof-of-peace">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND8MG/clash">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fushi struggles to maintain the peace between Tonari and Mizuha.</p>
+<p align="center">Taken by the Raiders to an unknown setting, the Cleaners fight for their lives, and<br>Zodyl makes Rudo an offer.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (German Dub) - Episode 6 - Proof of Peace</h3></th>
+<th><h3 align="center">Gachiakuta (English Dub) - Episode 16 - Gifted and Not</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a387f8b5729dc89a2bc6280db1d8bf8a1762537327_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f54dcdfd6d9c806dc9e1ee3299115f101761420963_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NK8Q/proof-of-peace">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG37VG/gifted-and-not">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fushi struggles to maintain the peace between Tonari and Mizuha.</p>
+<p align="center">Bundus interrogates the Santas while Zanka struggles to keep pace with a powered-up Jabber.</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (Italian Dub) - Episode 6 - Proof of Peace</h3></th>
+<th><h3 align="center">Gachiakuta (Thai Dub) - Episode 15 - Clash!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a387f8b5729dc89a2bc6280db1d8bf8a1762537327_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/191ac1c95631aebbb9eb0d339c53a7841760811194_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K378/proof-of-peace">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV49D/clash">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fushi struggles to maintain the peace between Tonari and Mizuha.</p>
+<p align="center">Taken by the Raiders to an unknown setting, the Cleaners fight for their lives, and<br>Zodyl makes Rudo an offer.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">To Your Eternity Season 3 (Castilian Dub) - Episode 6 - Proof of Peace</h3></th>
+<th><h3 align="center">Gachiakuta (Indonesian Dub) - Episode 1 - The Sphere</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a387f8b5729dc89a2bc6280db1d8bf8a1762537327_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c4822635558f3f1b40888cf6eda1bddd1751812316_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU803K2/proof-of-peace">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K15P/the-sphere">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fushi struggles to maintain the peace between Tonari and Mizuha.</p>
+<p align="center">Bullied outcast Rudo finds respite in repurposing trash, until a terrible tragedy changes his life<br>forever.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 38+) (Spanish Dub) - Episode 40 - ■■■■'s Memories II</h3></th>
+<th><h3 align="center">Gachiakuta (Indonesian Dub) - Episode 2 - The Inhabited</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7502d92dfa97412d0ec1ca306000fb181760716036_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/23072e02885aa117583353e64332e3831752410648_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX728/s-memories-ii">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN083Q/the-inhabited">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Loid recalls what happened in the past that led him to where he is today.</p>
+<p align="center">Cast into the Pit, Rudo is saved by the mysterious Enjin who may not have<br>his best interests at heart.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 38+) (Portuguese Dub) - Episode 40 - ■■■■'s Memories II</h3></th>
+<th><h3 align="center">Gachiakuta (Indonesian Dub) - Episode 3 - The Ground</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7502d92dfa97412d0ec1ca306000fb181760716036_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7ea21486321fe1ddccd9349c6da1a43d1753622653_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QK4J/s-memories-ii">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N4W0/the-ground">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Loid recalls what happened in the past that led him to where he is today.</p>
+<p align="center">Enjin teaches Rudo about life on the Ground, but an encounter with a churlish stranger<br>may cut his time short.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 38+) (French Dub) - Episode 40 - ■■■■'s Memories II</h3></th>
+<th><h3 align="center">Gachiakuta (Indonesian Dub) - Episode 4 - Cleaner HQ</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7502d92dfa97412d0ec1ca306000fb181760716036_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6e45b1e6242bb021d907b07667e098541754224879_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV2V2/s-memories-ii">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV0X2/cleaner-hq">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Loid recalls what happened in the past that led him to where he is today.</p>
+<p align="center">After being introduced to Cleaner HQ, Rudo follows Riyo on a job to learn the<br>business.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 38+) (German Dub) - Episode 40 - ■■■■'s Memories II</h3></th>
+<th><h3 align="center">Gachiakuta (Indonesian Dub) - Episode 5 - Raiders</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7502d92dfa97412d0ec1ca306000fb181760716036_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e07e47f90f74d7da79170d21d24ab2dc1754831798_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDWNK/s-memories-ii">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVPW3/raiders">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Loid recalls what happened in the past that led him to where he is today.</p>
+<p align="center">The Cleaners go on a job to save another Sphereite who survived the fall. Rudo<br>tags along to learn more.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 38+) (Italian Dub) - Episode 40 - ■■■■'s Memories II</h3></th>
+<th><h3 align="center">Gachiakuta (Indonesian Dub) - Episode 15 - Clash!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7502d92dfa97412d0ec1ca306000fb181760716036_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/191ac1c95631aebbb9eb0d339c53a7841760811194_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN9MP/s-memories-ii">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN037W/clash">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Loid recalls what happened in the past that led him to where he is today.</p>
+<p align="center">Taken by the Raiders to an unknown setting, the Cleaners fight for their lives, and<br>Zodyl makes Rudo an offer.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 38+) (Arabic Dub) - Episode 40 - ■■■■'s Memories II</h3></th>
+<th><h3 align="center">Gachiakuta (Hindi Dub) - Episode 15 - Clash!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7502d92dfa97412d0ec1ca306000fb181760716036_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/191ac1c95631aebbb9eb0d339c53a7841760811194_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K0M2/s-memories-ii">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2P0X/clash">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Loid recalls what happened in the past that led him to where he is today.</p>
+<p align="center">Taken by the Raiders to an unknown setting, the Cleaners fight for their lives, and<br>Zodyl makes Rudo an offer.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 38+) (Castilian Dub) - Episode 40 - ■■■■'s Memories II</h3></th>
+<th><h3 align="center">Gachiakuta (Tamil Dub) - Episode 15 - Clash!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7502d92dfa97412d0ec1ca306000fb181760716036_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/191ac1c95631aebbb9eb0d339c53a7841760811194_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDW3K/s-memories-ii">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ80N/clash">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Loid recalls what happened in the past that led him to where he is today.</p>
+<p align="center">Taken by the Raiders to an unknown setting, the Cleaners fight for their lives, and<br>Zodyl makes Rudo an offer.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 38+) (English Dub) - Episode 41 - Behind the Scandal | The Path to an Imperial Scholar</h3></th>
+<th><h3 align="center">Gachiakuta (Russian Dub) - Episode 15 - Clash!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2fbaadf5d8b578abcda0bb22de7d8fae1761318894_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/191ac1c95631aebbb9eb0d339c53a7841760811194_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/8/2025</td>
+<td align="center">11/9/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVNZ5/behind-the-scandal-the-path-to-an-imperial-scholar">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND8QM/clash">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">WISE agents protect an opera singer and Henderson gives Anya tips on becoming an Imperial<br>Scholar.</p>
+<p align="center">Taken by the Raiders to an unknown setting, the Cleaners fight for their lives, and<br>Zodyl makes Rudo an offer.</p>
 </td>
 </tr>
 </table>
