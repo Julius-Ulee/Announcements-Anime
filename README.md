@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Nov 26, 2025, 7:35:53 PM</em></p>
+<p align="center"><em>Updated on: Nov 27, 2025, 8:15:39 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) (English Dub) - Episode 1138 - Thank You, Dad - Bonney and Kuma's Warm Embrace</h3></th>
+<th><h3 align="center">HAIKYU!! LAND VS. AIR (English Dub) - Episode 2 - The Path of the Ball</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f72cd12439b6b1a1edf5afd50c575ce41754233363_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/810009cb329fd42ffc4e5f74ef5f5e201578679741_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/25/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU805E8/thank-you-dad-bonney-and-kumas-warm-embrace">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N897/the-path-of-the-ball">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kuma, battered and without free will, approaches Bonney. Overcome with emotion, she tells him she<br>saw all his memories and learned everything that he did for her. Watching the scene,<br>Vegapunk wonders what compelled Kuma to come to Egghead.</p>
+<p align="center">Nekoma battles to secure a Tokyo tournament spot, overcoming setbacks and injuries to prove their<br>worth.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) (English Dub) - Episode 1139 - Destroy Egghead - The Buster Call is Invoked</h3></th>
+<th><h3 align="center">HAIKYU!! LAND VS. AIR (English Dub) - Episode 1 - LAND VS. AIR</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d335e3d917310b4df4d51b04a11ffe681754838697_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b518ec288a8dee08be4b38d2e93965c91578679437_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/25/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXD18/destroy-egghead-the-buster-call-is-invoked">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0WZ0/land-vs-air">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As an order comes down to evacuate the island in preparation for bombardment, Navy soldiers<br>rush to their ships. Meanwhile, Vegapunk pleads with Saturn to halt the attack, arguing how<br>vital the island is for the future of humanity, but Saturn refuses to listen.</p>
+<p align="center">Tensions rise as Fukurodani and Nekoma clash, each team adapting to the other's relentless strategies.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) (English Dub) - Episode 1140 - An Admired Hero - The Warrior of Liberation Who Saves Bonney</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 18 - Trap</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5fd0aec1468ee37524601a3a6fe11ca41755452760_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6e17341ede72fa468cc1c14f20bc01881604077423_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/25/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K472/an-admired-hero-the-warrior-of-liberation-who-saves-bonney">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K1WK/trap">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vegapunk reveals the secret he alone has been keeping regarding the Pacifistas. Meanwhile, Bonney, her<br>back against the wall, hears a familiar rhythm. It’s the rhythm that her father taught<br>her along with the legend of the hero he admired.</p>
+<p align="center">Nekoma and Sarukawa Tech both show no signs of slowing down. They realize that Sarukawa<br>is trying to wear down Kenma’s stamina, so Kenma comes up with a plan...</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) (English Dub) - Episode 1141 - Reliable Reinforcements! Dorry and Brogy Arrive!</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 19 - The Ultimate Challengers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/520c7f7cee851175edc50ef8455f6fbd1761693472_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/32a69a6e0a4772cb54509651df6f23fc1604662562_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/25/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0WKM/reliable-reinforcements-dorry-and-brogy-arrive">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN08ZN/the-ultimate-challengers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Giant Pirate Crew led by Dorry and Brogy arrive at Egghead, which deeply moves<br>Usopp and the others. Zoro keeps fighting Rob Lucci and the Pacifistas continues to torment<br>the Navy while Luffy shows Bonney how to throw a real punch.</p>
+<p align="center">Nekoma High School moves to the 3rd round after defeating Sarukawa High School. Meanwhile, Karasuno<br>and Inarizaki head into their second set and Miya Atsumu starts to target Nishinoya with<br>his serves.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) (English Dub) - Episode 1142 - Come in, World - Vegapunk's Message</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 20 - Leader</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/be281eefb1e8d9d035162af583f50e621757260539_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fbd1640e09b39941e4b0187db2e523f71605276428_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/25/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N8X9/come-in-world-vegapunks-message">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N495/leader">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Caribou begs Augur and Devon to let him meet Blackbeard. An order is given to<br>the Navy vice admirals to kill Jewelry Bonney at all costs in order to take<br>back control over the Pacifistas. Sanji flees with the injured Vegapunk while Luffy holds St.<br>Saturn back.</p>
+<p align="center">Karasuno starts to break down Inarizaki's dominance with Kageyama's serves. And to counter that, Inarizaki<br>sends in their captain, Kita Shinsuke to get their rhythm back.</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) (English Dub) - Episode 1143 - Vegapunk's Secret Plan - A Tense Worldwide Broadcast</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 21 - Hero</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/26881121e4a857977178fe53f70695a71757864361_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5b7224bd785830ecba9041a7e0d9ab691605894457_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/25/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV8K7/vegapunks-secret-plan-a-tense-worldwide-broadcast">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV0N5/hero">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Suddenly, Vegapunk’s broadcast begins and the whole world is taken by surprise. As everyone rushes<br>to set up Video Transponder Snails and screens to watch it, the Five Elders grow<br>concerned and discuss countermeasures.</p>
+<p align="center">Things intensify even more in the 3rd set against Inarizaki. Karasuno has a hard time<br>dealing with Miya Atsumu's serves and Suna's quicks and then send in the pinch server,<br>Kinoshita.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) (English Dub) - Dr. Chopper's Adventure Checkup -Good Friends at a Crossroad-</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 22 - Pitons</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/05d13d78100816767dfb0d27435f75811750604126_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/826ab0da1b87b6fe3b1ef1407cc4ca1a1606500017_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/25/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV40D7/dr-choppers-adventure-checkup-good-friends-at-a-crossroad-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVP41/pitons">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chopper and Carrot review the history of Kizaru, Sentomaru, and Vegapunk. They talk about how<br>good friends the three of them once were, how they came to be at odds<br>due to their individual circumstances, and the fierce fight they got into at Egghead.</p>
+<p align="center">Inarizaki starts to turn things around with Miya Atsumu's serves. Suddenly, there is a play<br>that changes the flow of the game.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) (English Dub) - Dr. Chopper's Adventure Checkup -The Proud Dream of the Giants-</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 23 - The Birth of the Serene King</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/27dd3778ab0a4ca32728f7eea94cd3791756654985_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4c9d556064c7dc72c49e9aa740a2f3c51607100099_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/25/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2GZN/dr-choppers-adventure-checkup-the-proud-dream-of-the-giants-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGP44/the-birth-of-the-serene-king">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Chopper and Carrot review the Giants. They introduce all the Giants the Straw Hats have<br>met on their journey so far, starting from Dorry and Brogy of the Giant Pirate<br>Crew who they came across very early on in their journey.</p>
+<p align="center">The third set is reaching its end. Karasuno is able to take back the flow<br>of the game with Hinata's receive and even though they show great offense and defense,<br>Inarizaki gets a match point. With the game so down to the wire, the setter<br>Kageyama decides to do a certain play...</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) (English Dub) - Episode 1134 - Cruel Fate - Kuma's Decision as a Father</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 24 - Monsters' Ball</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/771df1de43d270e4375257cdd7ec3bf61751209135_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/53216cc1de05e859860dfd7c86b72ca11607703491_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/25/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2G3N/cruel-fate-kumas-decision-as-a-father">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ7J2/monsters-ball">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Taking advantage of Kuma’s love for his daughter Bonney, the World Government imposes three harsh<br>conditions on him in exchange for her treatment. Kuma agrees to them and Bonney’s treatment<br>starts at Laboratory 8 in tandem with the clone development with which Kuma agrees to<br>cooperate.</p>
+<p align="center">The game is now in a deuce with both teams are pushed to their limits<br>to try to get that one final point. This match against Inarizaki brings out everything<br>that both teams have to the very end!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) (English Dub) - Episode 1135 - To the Sea Where My Father is! The Future Bonney Chooses</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 25 - The Promised Land</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/95796c6befdcf073f89cfce34bb645251751814847_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c2af0972c638745163edc5cbef42fecb1608300628_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/25/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UND9EK/to-the-sea-where-my-father-is-the-future-bonney-chooses">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU785NP/the-promised-land">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Bonney has been waiting for a letter from her father Kuma who promised to write<br>to her. But with no letters in sight, she turns nine and one day realizes<br>her disease is cured. She then decides to go out to sea to search for<br>her father.</p>
+<p align="center">Karasuno manages to move onto the third round after defeating Inarizaki where they'll be facing<br>off with Nekoma High School. Karasuno and Nekoma will finally be able to have the<br>Battle of the Garbage Dump they'd been waiting for!!</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) (English Dub) - Episode 1136 - Kuma's Life</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 9 - Everyone's Night</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5b2c4c3222d4077e0f0c7e13274f16f41752418768_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ce506892c5cd562fb3df7ffe596542b01583516777_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/25/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG30JN/kumas-life">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QPV5/everyones-night">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Bonney sails out to sea in search of her father and rises to prominence. At<br>the same time, Luffy makes his name by defeating the Arlong Pirates and declaring war<br>against the World Government. Watching his actions, Kuma begins to hold a certain belief.</p>
+<p align="center">The new year has come and the members Karasuno High School Volleyball team were nervous.<br>The long-awaited battle on the orange court, the Spring Tournament, was finally here!</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) (English Dub) - Episode 1137 - I'm Sorry, Dad - Bonney's Tears and Kuma's Fist</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 10 - Battle Lines</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dc6b2c4a38ea067edf217ad6c3348e911753628926_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/adcb79ec021aceb19588f3ca6cefdddd1584120248_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/25/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX72X/im-sorry-dad-bonneys-tears-and-kumas-fist">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQEG2/battle-lines">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The present day on Egghead, Bonney is caught in St. Saturn’s grasp, knowing he is<br>responsible for her father’s transformation into a cyborg. However, Saturn reveals an even more shocking<br>truth that throws Bonney into despair.</p>
+<p align="center">The Spring Tournament had finally begun. But as soon as the first match was about<br>to begin, Hinata realizes his shoes are gone. The team panics at the unexpected incident,<br>but their manager, Shimizu...</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) - Dr. Chopper's Adventure Checkup -The Last Records That a Genius Left Behind</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 11 - A Chance to Connect</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b038930078bcc39402e031d2561278f31763913169_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ff5f7336b29c7c501138613901b2c7021584721296_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/23/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNQDN/dr-choppers-adventure-checkup-the-last-records-that-a-genius-left-behind">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4WKG/a-chance-to-connect">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Carrot gets caught up in a devious game and is forced to review Vegapunk’s broadcast<br>which had sent shock waves throughout the world. Various allies from Luffy's past appear to<br>help her understand the final message Vegapunk left behind.</p>
+<p align="center">In the first match at the Spring Tournament, Karasuno faces off against Tsubakihara Academy. At<br>first, Kageyama isn’t able to get used to the new venue, but once he got<br>the hang of things, he and Hinata do their quick attack and the crowd is<br>in awe. Karasuno takes the lead in the match, but Tsubakihara has a rather unique<br>secret weapon.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (English Dub) - Episode 165 - Wrench It Open, Izuku Midoriya!!</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 12 - Vivid</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0c0bfcf6b29012dbeb8b55d0dd58b7fa1762535242_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d596486d900ee8aa70c8e8ac08066de31585301310_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/22/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX279E/wrench-it-open-izuku-midoriya">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ25P9/vivid">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Izuku attempts to forcefully transfer One For All to Shigaraki, as this might prove to<br>be the key to victory.</p>
+<p align="center">Karasuno manages to make it to the second round after their victory against Tsubakihara Academy.<br>Meanwhile, Hinata runs into Hoshiumi Korai, one of the players from Kamomedai High School who<br>went to the All Japan youth camp that Kageyama went to. Hinata witnesses the plays<br>of Hoshiumi, who’s considered the next Little Giant, and...</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (Spanish Dub) - Episode 162 - The Final Boss!!</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 13 - The Second Day</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9ec8cfb857b4b67fb0f4aef2c80e49aa1760673707_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6de20b02eae283b0f324eef6e96503f61585935185_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/22/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KEV9/the-final-boss">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDP81/the-second-day">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Bakugo is back on his feet! Can he rescue All Might from All For One,<br>and defeat the villain in battle?</p>
+<p align="center">The second day of the Spring Tournament. Karasuno faces the team that placed second at<br>the Inter-High and one of the favorites to win the Spring Tournament, Inarizaki High School.<br>The team also has the best twins in high school volleyball, the Miya twins. Karasuno’s<br>battle against one of the best is about to begin!</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (Portuguese Dub) - Episode 164 - History's Greatest Villain</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 14 - Rhythm</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8f89a4d01492030bb393c2bd4c5f38d81761837359_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ddda59e306e0a6c52b29fd02012bb4241601625490_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/22/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ3DZ/historys-greatest-villain">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG359E/rhythm">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The balance of power shifts between Izuku and Shigaraki when the latter steals a Quirk<br>from One For All.</p>
+<p align="center">The match with Inarizaki High at the Spring Tournament finally begins. Karasuno is overpowered by<br>the supreme Miya Twins and the Inarizaki cheer section taking over the venue. It was<br>then that a certain someone arrived in the stands...</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (French Dub) - Episode 164 - History's Greatest Villain</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 15 - Found</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8f89a4d01492030bb393c2bd4c5f38d81761837359_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/27025dab26616f42b5b38c91472842db1602226065_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/22/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVN0G/historys-greatest-villain">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX8J9/found">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The balance of power shifts between Izuku and Shigaraki when the latter steals a Quirk<br>from One For All.</p>
+<p align="center">Karasuno is able to regain their rhythm with Saeko’s help, but the Miya Twins weirdo<br>quick gives Inarizaki the lead. How will Karasuno deal with this unexpected turn of events?</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (German Dub) - Episode 164 - History's Greatest Villain</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 16 - Broken Heart</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8f89a4d01492030bb393c2bd4c5f38d81761837359_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/baa3d7cf03d451c844e6f82de5541e671602838311_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/22/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2DW5/historys-greatest-villain">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80QDX/broken-heart">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The balance of power shifts between Izuku and Shigaraki when the latter steals a Quirk<br>from One For All.</p>
+<p align="center">Because of Yamaguchi’s service ace at the end of the first set, Karasuno is able<br>to get set point first. However, Inarizaki then starts targeting Tanaka, who seems a bit<br>off his game. How will Tanaka deal with this pressure?</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (Italian Dub) - Episode 164 - History's Greatest Villain</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 17 - Cats vs. Monkeys</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/8f89a4d01492030bb393c2bd4c5f38d81761837359_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7202298b925e0ecfe4e2d39b6dc0bb4e1603454223_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/22/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX59W/historys-greatest-villain">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX0M2/cats-vs-monkeys">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The balance of power shifts between Izuku and Shigaraki when the latter steals a Quirk<br>from One For All.</p>
+<p align="center">In their match against Inarizaki, Karasuno manages to take the first set. Meanwhile on another<br>court, Nekoma High School was going up against Ishikawa’s team, Sarukawa Tech. They’re both known<br>for their defense. Who will come out the victor?</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kingdom Season 6 - Episode 8 - The Battle Begins</h3></th>
+<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 1 - Introductions</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9b9e0b2e85b0c55887242de67dfee5511763752240_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/7ef410c2fcac15bcd97d4a88dcf536d71578683468_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/22/2025</td>
+<td align="center">11/26/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QNDQ/the-battle-begins">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGPX4/introductions">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Li Mu's army faces off against Wang Jian's army; Meng Tian plays a major role<br>in kicking off the hostilities.</p>
+<p align="center">As the Karasuno High School Volleyball Team is trying to get ready for nationals, they<br>receive word that Kageyama has been invited to the All-Japan Youth Training Camp. On top<br>of that, Tsukishima had been invited to the Miyagi Prefecture Rookie Select Training Camp. Despite<br>not being invited to the Miyagi Prefecture Rookie Select Training Camp, Hinata decides to show<br>up anyway?!</p>
 </td>
 </tr>
 </table>
