@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Dec 2, 2025, 7:36:32 PM</em></p>
+<p align="center"><em>Updated on: Feb 4, 2026, 12:49:30 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) - Episode 1151 - Her and Her Father's Dream! Bonney's Free Future</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 11 - Legend</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4b32d84669644a1745a432afd0dd6d211764515050_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f3f4fe392296c4fc23c6f5bfd731c6c81734710319_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/30/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXMZ1/her-and-her-fathers-dream-bonneys-free-future">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZQ4X/legend">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Luffy finally hops on the Elbaph ship along with Dorry and Brogy, but the Five<br>Elders catch up to them and begin their assault. Aboard the burning ship, Bonney hears<br>a familiar sound and then finds a new strength in her memories of her father.</p>
+<p align="center">Having regrouped with Vegeta and the others, Goku and his companions arrive at a planet<br>that seems familiar. As they move to head out, a suspicious shadow approaches! It's the<br>Legendary Namek who remained alone in the Demon Realm!</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (English Dub) - Episode 166 - From Aizawa</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 12 - True Strength</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c817b9f4d1160b22a4e7fc0ceedc3f9d1763079559_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9b70eec9c296d5f79724880cb6ebf8511735315325_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/29/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNQP4/from-aizawa">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU781KJ/true-strength">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Izuku dives deep into Shigaraki's mind, in search of the villain's origin: the tragic Tenko<br>Shimura.</p>
+<p align="center">Vegeta’s battle with the Tamagami is evenly matched, but forced underwater where he's not used<br>to fighting, he finds himself struggling! Vegeta is cornered and sinks to the ocean floor.<br>But then he finally unleashes his true strength!</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (Spanish Dub) - Episode 163 - Quirk: Explosion!!</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 13 - Surprise</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d66efe2867e7ed122baa43ff143090111761318613_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4f9fd5186ea16febf5eb0a9a8117838e1736524671_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/29/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0J7X/quirk-explosion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX28EJ/surprise">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The fierce battle with Bakugo reminds All For One of his and his brother Yoichi's<br>origins.</p>
+<p align="center">As Goku and his companions head to where Gomah is, engine trouble causes them to<br>land on a certain planet. The place they land happens to be a surprise-filled planet<br>where even Supreme Demon Kings are afraid to tread!</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (Portuguese Dub) - Episode 165 - Wrench It Open, Izuku Midoriya!!</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 14 - Taboo</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0c0bfcf6b29012dbeb8b55d0dd58b7fa1762535242_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4dc065e33bff32c1f7a95b3849452fe21737129653_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/29/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV435W/wrench-it-open-izuku-midoriya">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN74G/taboo">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Izuku attempts to forcefully transfer One For All to Shigaraki, as this might prove to<br>be the key to victory.</p>
+<p align="center">To stop Goku's advancement, Gomah commits an unbelievable taboo! Goku and his companions can no<br>longer proceed. Just when it seems their adventure is over, a certain someone reveals their<br>true power!</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (French Dub) - Episode 165 - Wrench It Open, Izuku Midoriya!!</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 15 - Third Eye</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0c0bfcf6b29012dbeb8b55d0dd58b7fa1762535242_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3d87115019010e9262d7101fa02dc7461737733689_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/29/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGD8G/wrench-it-open-izuku-midoriya">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ9K3/third-eye">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Izuku attempts to forcefully transfer One For All to Shigaraki, as this might prove to<br>be the key to victory.</p>
+<p align="center">The Evil Third Eye offers absolute power in the Demon Realm. King Gomah confirms its<br>location and moves to obtain it! Will the Third Eye open on Gomah's forehead?!</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (German Dub) - Episode 165 - Wrench It Open, Izuku Midoriya!!</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 16 - Degesu</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0c0bfcf6b29012dbeb8b55d0dd58b7fa1762535242_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c6edcf601768db04c47060ea717a56261738341105_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,19 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/29/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN9GX/wrench-it-open-izuku-midoriya">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34Q0D/degesu">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Izuku attempts to forcefully transfer One For All to Shigaraki, as this might prove to<br>be the key to victory.</p>
+<p align="center">Goku and his companions finally reach Gomah's palace. But Kadem and the mighty
+Gendarmerie Force bar<br>their way!
+Meanwhile, in the palace, Degesu takes action for his own ambitions!</p>
 </td>
 </tr>
 </table>
@@ -216,12 +218,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (Italian Dub) - Episode 165 - Wrench It Open, Izuku Midoriya!!</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 17 - Gomah</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0c0bfcf6b29012dbeb8b55d0dd58b7fa1762535242_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/13a2aae85b00a09c7a41dd25c70ee6a51738944445_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +232,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/29/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80PNQ/wrench-it-open-izuku-midoriya">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E87E/gomah">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Izuku attempts to forcefully transfer One For All to Shigaraki, as this might prove to<br>be the key to victory.</p>
+<p align="center">Goku and his companions face off with Arinsu. With everything on the line, their battle<br>begins. But all of a sudden, a transformed King Gomah stands before both parties!</p>
 </td>
 </tr>
 </table>
@@ -250,12 +252,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kingdom Season 6 - Episode 9 - The Weight of Resolve</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 18 - Awakening</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7712613f2dd7c99aa754f66641d9655e1764365515_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/783c8d178b655bf66880d0fa9fd022871739548255_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +266,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/29/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQP3W/the-weight-of-resolve">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q593/awakening">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">As the battle heats up, Wang Ben grows frustrated with the role his father has<br>assigned to the Yu Feng Force.</p>
+<p align="center">King Gomah enters the battlefield and an all-out battle ensues! Goku and his companions stuggle<br>against the power of the Third Eye. Just when it seems that all is lost,<br>an amazing new power is awakened within Goku!</p>
 </td>
 </tr>
 </table>
@@ -284,12 +286,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Detective Conan - Episode 1183 - The Interrogation Room 3</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 19 - Betrayal</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/620ba3174a1c99b1dbfcb32cb1a6cb951764174344_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9f08d4dc0db9c32136eb80288eda55951740159371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +300,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/29/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ732/the-interrogation-room-3">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQNZD/betrayal">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A rising young actress admits to murdering her director but later recants her confession.</p>
+<p align="center">The battle continues to go poorly for Goku and his companions. After much hesitation, Glorio<br>puts Arinsu's secret plan into action! As his friends watch in awe, what will Glorio's<br>betrayal set in motion?!</p>
 </td>
 </tr>
 </table>
@@ -318,12 +320,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON - Episode 168 - Epilogue, The Hellish Todoroki Family: Final</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 20 - Maximum</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fcaa7b6afb86275018a7779eb1c617a11764174253_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4fb9c76f8734d925bac732576cfc82ec1740758629_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +334,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/29/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXMD2/epilogue-the-hellish-todoroki-family-final">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4N2Z/maximum">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the long conflict over at last, the time has come to rebuild. Both on<br>a societal and personal level.</p>
+<p align="center">Having been restored, Goku finally surpasses his limits! To defeat the mighty Giant Gomah, who<br>keeps regenerating through the power of the Third Eye, everyone puts in their maximum effort<br>in an all-out battle!</p>
 </td>
 </tr>
 </table>
@@ -352,12 +354,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! LAND VS. AIR (English Dub) - Episode 2 - The Path of the Ball</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 1 - Conspiracy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/810009cb329fd42ffc4e5f74ef5f5e201578679741_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c750799082deb6a87ded21b117684ca61728663842_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +368,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/26/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N897/the-path-of-the-ball">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN703/conspiracy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nekoma battles to secure a Tokyo tournament spot, overcoming setbacks and injuries to prove their<br>worth.</p>
+<p align="center">A giant castle in a mysterious world. Two shady Majin, Gomah and Degesu, watch a<br>monitor. The monitor shows Goku and the others having a fierce battle against Majin Buu.<br>Gomah and Degesu head to Earth to execute a certain conspiracy.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +388,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! LAND VS. AIR (English Dub) - Episode 1 - LAND VS. AIR</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 2 - Glorio</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/b518ec288a8dee08be4b38d2e93965c91578679437_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5c008ad722a08ff67a03da61c763e0ce1729266820_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +402,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/26/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0WZ0/land-vs-air">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ9G8/glorio">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tensions rise as Fukurodani and Nekoma clash, each team adapting to the other's relentless strategies.</p>
+<p align="center">Goku and his friends have been turned small due to Gomah's scheme. They begin preparing<br>to go to the demon world. Goku collects his Nyoibo and looks forward to a<br>new adventure. Then the mysterious young Majin Glorio appears!</p>
 </td>
 </tr>
 </table>
@@ -420,12 +422,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 18 - Trap</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 3 - Daima</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6e17341ede72fa468cc1c14f20bc01881604077423_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd3e5a3d0b1576a58bbaa263fc58dc1e1729871904_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +436,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/26/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K1WK/trap">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34QVV/daima">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nekoma and Sarukawa Tech both show no signs of slowing down. They realize that Sarukawa<br>is trying to wear down Kenma’s stamina, so Kenma comes up with a plan...</p>
+<p align="center">Goku, Supreme Kai, and Glorio head out to the "Demon Realm" first. Their plane travels<br>through space and a mysterious dimension. They arrive at the entrance to the Demon Realm,<br>the "Third Demon World"!</p>
 </td>
 </tr>
 </table>
@@ -454,12 +456,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 19 - The Ultimate Challengers</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 4 - Chatty</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/32a69a6e0a4772cb54509651df6f23fc1604662562_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e93df1712febd0ea52d1e0b41b46dd801730476637_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +470,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/26/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN08ZN/the-ultimate-challengers">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E8P7/chatty">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nekoma High School moves to the 3rd round after defeating Sarukawa High School. Meanwhile, Karasuno<br>and Inarizaki head into their second set and Miya Atsumu starts to target Nishinoya with<br>his serves.</p>
+<p align="center">Forced to make their way through the Third Demon World on foot, Goku and his<br>companions stop by a lone drive-in on the way. There they encounter some strange souvenirs<br>and a rather chatty and quirky Majin woman and her husband!</p>
 </td>
 </tr>
 </table>
@@ -488,12 +490,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 20 - Leader</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 5 - Panzy</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fbd1640e09b39941e4b0187db2e523f71605276428_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e8cea564d06dfb3068b59ee81bfa2e4f1731081176_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +504,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/26/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N495/leader">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q57P/panzy">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Karasuno starts to break down Inarizaki's dominance with Kageyama's serves. And to counter that, Inarizaki<br>sends in their captain, Kita Shinsuke to get their rhythm back.</p>
+<p align="center">The masked Majin who appeared before Goku and his companions is a young girl named<br>Panzy! While Glorio gives her the cold shoulder, Panzy insists on acting as their guide.<br>The group reaches a suspicious castle!</p>
 </td>
 </tr>
 </table>
@@ -522,12 +524,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 21 - Hero</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 6 - Lightning</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/5b7224bd785830ecba9041a7e0d9ab691605894457_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d4f3b7d1dde8e6dc661f87e3622ebb6f1731686660_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +538,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/26/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV0N5/hero">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQNXJ/lightning">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Things intensify even more in the 3rd set against Inarizaki. Karasuno has a hard time<br>dealing with Miya Atsumu's serves and Suna's quicks and then send in the pinch server,<br>Kinoshita.</p>
+<p align="center">After encountering the Gendarmerie, the wardens of the Demon Realm, the four are forced to<br>camp in a cave where they encounter further trouble! The enigmatic Glorio unleashes lightning magic<br>against Goku to resolve the situation!</p>
 </td>
 </tr>
 </table>
@@ -556,12 +558,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 22 - Pitons</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 7 - Collar</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/826ab0da1b87b6fe3b1ef1407cc4ca1a1606500017_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/31e33e4b6d3d2c585ef478d40ac1001e1732292905_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +572,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/26/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVP41/pitons">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4NED/collar">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Inarizaki starts to turn things around with Miya Atsumu's serves. Suddenly, there is a play<br>that changes the flow of the game.</p>
+<p align="center">Goku and his companions continue their journey. But the Gendarmerie appear and bar their way<br>again, perhaps due to them knowing the location of the Magic Collar around Panzy's neck.<br>Can the bond with her friends save Panzy from peril?!</p>
 </td>
 </tr>
 </table>
@@ -590,12 +592,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 23 - The Birth of the Serene King</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 8 - Tamagami</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4c9d556064c7dc72c49e9aa740a2f3c51607100099_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/10c92080767edcbe212570e2a801fd501732895097_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +606,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/26/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGP44/the-birth-of-the-serene-king">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2ZXZ/tamagami">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The third set is reaching its end. Karasuno is able to take back the flow<br>of the game with Hinata's receive and even though they show great offense and defense,<br>Inarizaki gets a match point. With the game so down to the wire, the setter<br>Kageyama decides to do a certain play...</p>
+<p align="center">The fight with a Tamagami begins! The Tamagamis are the undefeated guardians of the Dragon<br>Balls. Seeing Goku fight toe-to-toe with one, Panzy and the others are unable to hide<br>their surprise. As the battle heats up, what will happen?!</p>
 </td>
 </tr>
 </table>
@@ -624,12 +626,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 24 - Monsters' Ball</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 9 - Thieves</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/53216cc1de05e859860dfd7c86b72ca11607703491_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5b828e9c26be6db3a8ca4121d2a522f71733501528_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +640,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/26/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ7J2/monsters-ball">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDQ74/thieves">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The game is now in a deuce with both teams are pushed to their limits<br>to try to get that one final point. This match against Inarizaki brings out everything<br>that both teams have to the very end!</p>
+<p align="center">Rumors of what Goku did in the Third Demon World spread across the Demon Realm.<br>To avoid trouble, Goku wears a disguise at the hotel, but they can't let their<br>guard down in the Third Demon World. Thieves see through his disguise!</p>
 </td>
 </tr>
 </table>
@@ -658,12 +660,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">HAIKYU!! TO THE TOP (English Dub) - Episode 25 - The Promised Land</h3></th>
+<th><h3 align="center">Dragon Ball DAIMA (Thai Dub) - Episode 10 - Ocean</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c2af0972c638745163edc5cbef42fecb1608300628_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c5993c044460a69bc63176113609962b1734105843_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +674,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">11/26/2025</td>
+<td align="center">2/3/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU785NP/the-promised-land">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG314D/ocean">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Karasuno manages to move onto the third round after defeating Inarizaki where they'll be facing<br>off with Nekoma High School. Karasuno and Nekoma will finally be able to have the<br>Battle of the Garbage Dump they'd been waiting for!!</p>
+<p align="center">Goku and his companions arrive at the mystic Second Demon World where a giant ocean<br>spreads as far as the eye can see! The party is amazed at the new<br>world but is immediately attacked by Gendarmerie that have been sent by Gomah!</p>
 </td>
 </tr>
 </table>
