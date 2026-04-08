@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Apr 7, 2026, 8:00:58 PM</em></p>
+<p align="center"><em>Updated on: Apr 8, 2026, 8:29:22 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <a href="https://github.com/Julius-Ulee/Announcements-Anime/graphs/contributors"><img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"></a> 
@@ -12,12 +12,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <a href="https://github.com/Julius-Ulee/Announcements-Anime"><img align="center" src="https://img.shields.io/maintenance/yes/2025"></a></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/pages.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Golden Kamuy Final Season (English Dub) - Episode 61 - Bushido</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 16 - Sumire</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9639a5051a5dcb5afd8cc277c4d742131773944526_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/efd81aeb76b178223c63015e6cc098841753601696_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -26,17 +26,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/6/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ9VM/bushido">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78Q4W/sumire">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Tsurumi's forces make their way inside Goryoukaku, and Asirpa must decide to stay or flee.</p>
+<p align="center">Nene and Hanako find themselves in an unfamiliar place. A strange girl rescues them from<br>masked villagers.</p>
 </td>
 </tr>
 </table>
@@ -46,12 +46,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Golden Kamuy Final Season (Russian Dub) - Episode 60 - The Battle of Goryoukaku</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 17 - Aoi and Akane</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2fb595c863efb594644834ddf61d66f51773329437_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8ee88928c3fbf88078b55e77c075819e1754206685_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -60,17 +60,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/6/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDQJP/the-battle-of-goryoukaku">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX2ZK9/aoi-and-akane">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lt. Tsurumi's assault on Goryoukaku begins in full force.</p>
+<p align="center">While Nene and Hanako get their bearings, Aoi and Akane grapple with more personal problems.</p>
 </td>
 </tr>
 </table>
@@ -80,12 +80,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Golden Kamuy Final Season (German Dub) - Episode 58 - Starting Gun of Resolve</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 18 - Severance</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a636737ac6d073854b26c860a061ea721772220489_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/126ea3c7991c4c4c23736ed37b00ee311754805806_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -94,17 +94,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/6/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2ZV0/starting-gun-of-resolve">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNJV7/severance">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The location of the gold is finally revealed.</p>
+<p align="center">Hanako grants Nene's wish, and she's not happy about how. Now she faces a world<br>without apparitions.</p>
 </td>
 </tr>
 </table>
@@ -114,12 +114,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Theatre of Darkness: Yamishibai 16 - Episode 13 - Conclusion</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 19 - Encounters</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a50a0c25943306e522606d85051eb4071774970631_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/7637041bd5ebe921773f0d83407175231755443010_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -128,17 +128,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/5/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4D91/conclusion">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZN1E/encounters">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">This is the story of a boy who is looking forward to the conclusion of<br>an anime...</p>
+<p align="center">Nene and Kou retrace Mitsuba's footsteps, looking for a way back to the Boundary.</p>
 </td>
 </tr>
 </table>
@@ -148,12 +148,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ace of the Diamond act II Second Season - Episode 1 - Up Ahead</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 20 - The Red House</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d0ce2252933337c06772853ef34909fd1775146638_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3514fdb85c3f8d33173aca9159e3d6541755921194_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -162,17 +162,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/5/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KD0V/up-ahead">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34JGJ/the-red-house">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seido takes on Norikane High as Sawamura struggles to live up to the weight of<br>the team's ace number.</p>
+<p align="center">Nene and Kou may have found the clue they're looking for in a cursed house.<br>But can they leave with it alive?</p>
 </td>
 </tr>
 </table>
@@ -182,12 +182,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Portuguese Dub) - Episode 22 - Martyr</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 21 - The Curse</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1d55c5b4f63c36feb8593ca126c21911772924798_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7b3d9f9237375a86a6652e3231777dc71756598051_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -196,17 +196,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQN3J/martyr">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9EGK5/the-curse">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash and Knives, and their respective allies, face off in a final showdown at the<br>crash site where it all started.</p>
+<p align="center">While Teru hunts for clues at a local shrine, Nene scrambles to escape an eerily<br>familiar cave.</p>
 </td>
 </tr>
 </table>
@@ -216,12 +216,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Hindi Dub) - Episode 22 - Martyr</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 22 - Tsukasa and Amane</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1d55c5b4f63c36feb8593ca126c21911772924798_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1726630bcaccc5dfc1f6b000c16db1401757193000_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -230,17 +230,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV52E/martyr">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QZVW/tsukasa-and-amane">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash and Knives, and their respective allies, face off in a final showdown at the<br>crash site where it all started.</p>
+<p align="center">Kou believes they can make everything right by rescuing four-year-old Tsukasa from the Red House.</p>
 </td>
 </tr>
 </table>
@@ -250,12 +250,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Tamil Dub) - Episode 22 - Martyr</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 23 - One-way Train to the Far Shore</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1d55c5b4f63c36feb8593ca126c21911772924798_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/dbc9badafb0e6813c6da020b54cf89a71757806645_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -264,17 +264,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2ZJZ/martyr">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ8G5/one-way-train-to-the-far-shore">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash and Knives, and their respective allies, face off in a final showdown at the<br>crash site where it all started.</p>
+<p align="center">While Nene and friends prepare to enter the Boundary, their friends on the other side<br>run into trouble.</p>
 </td>
 </tr>
 </table>
@@ -284,12 +284,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Telugu Dub) - Episode 22 - Martyr</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 24 - Wishes</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1d55c5b4f63c36feb8593ca126c21911772924798_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/eccaa264da044e13310b822a911fcf751758414850_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -298,17 +298,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZQ43/martyr">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4G8Q/wishes">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash and Knives, and their respective allies, face off in a final showdown at the<br>crash site where it all started.</p>
+<p align="center">Nene and Kou scramble to save Hanako from Teru's wrath while the Boundary collapses around<br>them.</p>
 </td>
 </tr>
 </table>
@@ -318,12 +318,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Russian Dub) - Episode 22 - Martyr</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 6 - Make Believe</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1d55c5b4f63c36feb8593ca126c21911772924798_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2747bcb28e137d79e22f4a6294ae9f9a1739689385_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -332,17 +332,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E8W7/martyr">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEXGNE/make-believe">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash and Knives, and their respective allies, face off in a final showdown at the<br>crash site where it all started.</p>
+<p align="center">Nene gets to school only to find Hanako sitting in her class. Why are her<br>friends acting like he belongs?</p>
 </td>
 </tr>
 </table>
@@ -352,12 +352,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (Spanish Dub) - Episode 22 - Martyr</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 7 - Make Sense</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1d55c5b4f63c36feb8593ca126c21911772924798_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2e319499a393843370d2c1d0500519671740294606_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -366,17 +366,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NZDP/martyr">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80431/make-sense">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash and Knives, and their respective allies, face off in a final showdown at the<br>crash site where it all started.</p>
+<p align="center">Faced with an impossible school life, Nene and Kou enter a mysterious tower to seek<br>the truth within.</p>
 </td>
 </tr>
 </table>
@@ -386,12 +386,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (English Dub) - Episode 23 - I Miss You.</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 8 - Make It Sound Nice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/51aa56b937e3cbc2a66a85fbb159e4181773850510_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/df260b1e5af128438e40550a862fd2e11740879207_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -400,17 +400,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGKZ0/i-miss-you">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXZ5J/make-it-sound-nice">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Knives arrives and captures Vash. His final plan is set in motion - as well<br>as Vash's final resistance.</p>
+<p align="center">Shijima told Nene to kill Amane. Tsukasa told Nene to kill Amane. Amane took Nene<br>stargazing.</p>
 </td>
 </tr>
 </table>
@@ -420,12 +420,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (French Dub) - Episode 22 - Martyr</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 9 - Make It Secret</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1d55c5b4f63c36feb8593ca126c21911772924798_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/08612b32dab16abf48c7308898de9c0f1741509691_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -434,17 +434,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ918/martyr">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KD33/make-it-secret">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash and Knives, and their respective allies, face off in a final showdown at the<br>crash site where it all started.</p>
+<p align="center">Nene drags Amane out of school and away from Shijima, but escaping a Wonder is<br>easier said than done.</p>
 </td>
 </tr>
 </table>
@@ -454,12 +454,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (German Dub) - Episode 22 - Martyr</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 10 - Make a Wish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c1d55c5b4f63c36feb8593ca126c21911772924798_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/67141c7c5291e9434c8365ca9ee51fa71742108065_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -468,17 +468,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KPWN/martyr">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0DMZ/make-a-wish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vash and Knives, and their respective allies, face off in a final showdown at the<br>crash site where it all started.</p>
+<p align="center">When Hanako reveals the truth, Kou gets confused. Nene gets angry.</p>
 </td>
 </tr>
 </table>
@@ -488,12 +488,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Detective Conan - Episode 1196 - The Spiral Mansion Mystery (Part Two)</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 11 - Make It about You</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f9caac65b79f915930957ab9c39534841773944749_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bc85f9db400d278e24acb6aa0c7aa7151742711019_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -502,17 +502,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/4/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q5V1/the-spiral-mansion-mystery-part-two">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N0KD/make-it-about-you">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A vanishing culprit, a secret room, and a second murder. Conan closes in on the<br>center of the mystery.</p>
+<p align="center">Like Nene, the living Shijima is facing her own mortality, but she confronts her future—and<br>her other self.</p>
 </td>
 </tr>
 </table>
@@ -522,12 +522,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 2 - Episode 54 - These Anime Awards 2026 Nominations are INSANE + The Biggest News from Anime Japan 2026!</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 12 - Picture Perfect</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a04ee365da5541d5d0a881201ae3b8501775172646_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3fe0a49e456b0acd138ddfdd2d8865de1743321793_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -536,17 +536,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/3/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZN85/these-anime-awards-2026-nominations-are-insane-the-biggest-news-from-anime-japan-2026">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV1WP/picture-perfect">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">This week we’re catching up on all the exciting updates from Anime Japan 2026, like<br>Sentenced to be a Hero AND You and I Are Polar Opposites both getting second<br>seasons, and a new ONE PIECE Heroines trailer and MORE! Plus, we are REACTING to<br>the insanely awesome list of Anime Awards 2026 nominations!</p>
+<p align="center">Nene sets out to leave the painting for good, but Hanako has other ideas.</p>
 </td>
 </tr>
 </table>
@@ -556,12 +556,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">MF GHOST Season 3 (English Dub) - Episode 35 - The Strongest Train</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 13 - Final Exams and a School Sleepover</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/68afc3e106c0368d5687b83bc570b52c1773162414_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/031e628ad73e6b611077ced75cffb0361751790013_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -570,17 +570,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/2/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGJ50/the-strongest-train">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV81W/final-exams-and-a-school-sleepover">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">An early mishap in the race leaves Kanata, Beckenbauer, and Sawatari scrambling to make up<br>for last time.</p>
+<p align="center">Nene's life may be coming to an end, but school has her more worried than<br>death.</p>
 </td>
 </tr>
 </table>
@@ -590,12 +590,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">MF GHOST Season 3 (Portuguese Dub) - Episode 35 - The Strongest Train</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 14 - The Near Shore and the Far Shore</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/68afc3e106c0368d5687b83bc570b52c1773162414_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/885ce7fd9fa943063e18c3a50c89c6181752392371_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -604,17 +604,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">4/2/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQN0M/the-strongest-train">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGQX7/the-near-shore-and-the-far-shore">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">An early mishap in the race leaves Kanata, Beckenbauer, and Sawatari scrambling to make up<br>for last time.</p>
+<p align="center">“Visit the ancient retainer that exorcises evil.” Nico’s mother, Ibuki, has delivered a new prophecy.</p>
 </td>
 </tr>
 </table>
@@ -624,12 +624,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Golden Kamuy Final Season - Episode 62 - Wilk's Daughter</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 15 - The Reaper's Sacrifice</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e6c1f42976ec579299503149c684fc821774838882_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f6e94e14679069d593a3413f7e20297c1752997850_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -638,17 +638,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/30/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NXGK/wilks-daughter">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZ187/the-reapers-sacrifice">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Sugimoto and Asirpa flee Goryoukaku and board a nearby train.</p>
+<p align="center">Nene and friends find Aoi, but she doesn't seem quite her usual self.</p>
 </td>
 </tr>
 </table>
@@ -658,12 +658,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Golden Kamuy Final Season (English Dub) - Episode 60 - The Battle of Goryoukaku</h3></th>
+<th><h3 align="center">Toilet-bound Hanako-kun 2 (Thai Dub) - Episode 1 - Hanako-kun of the Bathroom</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2fb595c863efb594644834ddf61d66f51773329437_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fd71d99fad4e6bed88018a13d12d336b1736666909_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -672,17 +672,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">3/30/2026</td>
+<td align="center">4/7/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QXWD/the-battle-of-goryoukaku">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ845/hanako-kun-of-the-bathroom">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lt. Tsurumi's assault on Goryoukaku begins in full force.</p>
+<p align="center">Sudden, rapid aging wreaks havoc in Nene's and Kou's school lives. Hanako identifies the culprit<br>as a fellow Wonder: the three Clock Keepers, rumored to control time at Kamome Academy.<br>The trio set out to punish the offending apparition, but they'll have to find them<br>first.</p>
 </td>
 </tr>
 </table>
